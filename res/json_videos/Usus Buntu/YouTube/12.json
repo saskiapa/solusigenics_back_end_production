@@ -1,0 +1,1508 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "DfAmU9bxOKknNfRN9DknsdwiWZE",
+    "prevPageToken": "CPQDEAE",
+    "regionCode": "ID",
+    "pageInfo": {
+        "totalResults": 76146,
+        "resultsPerPage": 44
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_UpRtd8oFQckTGWI_MLpulDWro8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xkTTdGqAHVM"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-10T07:45:56Z",
+                "channelId": "UC1ay-usmnLBT1-T74dfl9Yw",
+                "title": "Q&amp;A D4: Prinsip Aksi&amp;Nasib Obat dalam Tubuh: Fase Biofarmasetika, Farmakokinetik, dan Farmakodinamik",
+                "description": "Untuk menghasilkan EFEK TERAPI, obat harus mencapai TEMPAT AKSINYA dalam KADAR yang cukup. Kadar obat yang cukup ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xkTTdGqAHVM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xkTTdGqAHVM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xkTTdGqAHVM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PharmEdu Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-10T07:45:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Xs0PWbOWkvDYC7_8Zy-vb-iROPE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ay9uw3ikWEc"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-14T12:00:01Z",
+                "channelId": "UCIEePp9hjiKO1h-sJjdOVnw",
+                "title": "Batu Empedu | Bincang Sehati",
+                "description": "Batu Empedu adalah endapan cairan yang mengeras di dalam kandung empedu. Batu empedu memiliki ukuran dan jumlah yang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ay9uw3ikWEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ay9uw3ikWEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ay9uw3ikWEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DAAI Family",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-14T12:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "F_ygDj7HVvX0ycVcuHDw4U0_gH4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KwWd-Kt0yXI"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-09T11:37:26Z",
+                "channelId": "UC6ptLLIp04WNEGoWjuLoA9w",
+                "title": "Ustad Danu terbaru | Munculnya Imam  Mahdi ?",
+                "description": "ustad danu terbaru tadi pagi ustad danu pengobatan ustad danu menurut indigo ustad danu penyakit ustad danu meninggal ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KwWd-Kt0yXI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KwWd-Kt0yXI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KwWd-Kt0yXI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ceramah",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-09T11:37:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0mQeWoc_2MUcs22Mbo0LvXjG43s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UaIWWm7yjvE"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-10T07:14:22Z",
+                "channelId": "UCkz70nAcMWjluBljiZaC_fA",
+                "title": "Sambal dan Makanan Pedas, Ini Manfaat Serta Bahayanya | Fakta atau Mitos",
+                "description": "Hidup Sehat tvOne - Sambal dan Makanan Pedas, Ini Manfaat Serta Bahayanya | Fakta atau Mitos Banyak orang yang sangat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UaIWWm7yjvE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UaIWWm7yjvE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UaIWWm7yjvE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hidup Sehat tvOne",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-10T07:14:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PHfRF71Rd3iqtWwn04EehBw47e4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0n205jkljpM"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-13T07:50:39Z",
+                "channelId": "UC40HS_1GT4roYMR9g8Zb9CQ",
+                "title": "NYERI PERUT KANAN BAWAH????                 USUS BUNTU ?? ATAU INFEKSI SALURAN KEMIH????",
+                "description": "infeksi saluran kemih dan usus buntu gejalanya hampirlah sama,untuk membedakan nya,silahkn tonton videonya.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0n205jkljpM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0n205jkljpM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0n205jkljpM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Krisnawati Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-13T07:50:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bPmJ1S9YML5MgdGw2moKZLxjrVM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JpOmFQsFNL4"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-09T15:54:53Z",
+                "channelId": "UCzSFAEUHabFpu2NjHJCZ1hQ",
+                "title": "TUGAS KELOMPOK EKONOMI KESEHATAN KELAS B",
+                "description": "VIDEO INI MERUPAKAN TUGAS DARI MATA KULIAH EKONOMI KESEHATAN KELAS B, ADAPUN ANGGOTA KELOMPOK KAMI ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JpOmFQsFNL4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JpOmFQsFNL4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JpOmFQsFNL4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sutarni tamrin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-09T15:54:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8oN3fH4xV73soS7pO1CN_VcvxyY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CeQfyzNHX74"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-15T15:17:51Z",
+                "channelId": "UCC-Sk1ZXj1UW6PTUHhytDdw",
+                "title": "🔴 Live Herbalife  ‼️ Obrolan Misteri Herbal",
+                "description": "Tag: - Siaran langsung herbal - live streaming - Herbal Live - kesehatan - obat mujarab - Ramuan Herbal - Ramuan Alami ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CeQfyzNHX74/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CeQfyzNHX74/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CeQfyzNHX74/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ALAM SEKITAR KITA HERBAL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-15T15:17:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_KljIFQm7lQv0uPLajrsaD8z-BQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "83UD4RzJYzI"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-13T14:31:34Z",
+                "channelId": "UCR5NwQvc_FCRoYNIJMEQv9g",
+                "title": "Ibadah Raya GBI Mekarsari Depok Minggu, 13 Maret 2022",
+                "description": "Ibadah Raya Live Streaming GBI Mekarsari Depok, dilayani oleh Pdt. Okky Arfianto. Ibadah dilaksanakan secara online live ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/83UD4RzJYzI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/83UD4RzJYzI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/83UD4RzJYzI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GBI Mekarsari Depok",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-13T14:31:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SpHGXUQdLeao2N-fQNqxgCrMcIg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5ONapVx-Guw"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-08T11:37:07Z",
+                "channelId": "UCsZDV_Bpzdt4t7aPTMOtFKA",
+                "title": "LIVESTREAM RUANG DOA HA FAMILY 1 Maret",
+                "description": "RUANG DOA DAN KESEMBUHAN ILAHI Bawalah orang-orang sakit, berbeban berat alias STRES, ketergantungan obat, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5ONapVx-Guw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5ONapVx-Guw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5ONapVx-Guw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Harvest Academy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-08T11:37:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LwBsAyroklIbNvDc_h3eDkdrhoY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aYxVIvDh8cg"
+            },
+            "snippet": {
+                "publishedAt": "2019-09-23T05:48:25Z",
+                "channelId": "UCYqOeAXJm8yV9sJ8Ud3cR7A",
+                "title": "Hoax Atau Bukan: Air Garam Bisa Redam Rasa Panas Usai Makan Durian! - Fokus",
+                "description": "Rasa panas usai mengonsumsi durian katanya bisa dicegah dengan meminum air garam langsung dari cangkangnya. Benarkah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aYxVIvDh8cg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aYxVIvDh8cg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aYxVIvDh8cg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Indosiar Visual Mandiri",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-09-23T05:48:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i_tTnVimCjmHu2_j3eStAboyqq8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XoxyIMqFGPw"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-15T08:52:04Z",
+                "channelId": "UC90XM0T8_HCqpAFGjEeRFvg",
+                "title": "0821.1222.1471 (Bpk Alid) Testimoni Membuat Anak Lebih Fokus Belajar - Brainking Plus",
+                "description": "OFFICE☎️021 2147 3832 KLIK WA Pak Alid https://wa.me/+628123018900 Admin 0812 9333 7100 / 08211 222 1471 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XoxyIMqFGPw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XoxyIMqFGPw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XoxyIMqFGPw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BRAINKING PLUS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-15T08:52:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T9_xuw90kmKGotMRfxqeQ5znCEo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jp_tH7zz-6o"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-12T05:30:06Z",
+                "channelId": "UCwydnLGz8me2fMjfrAvKvlA",
+                "title": "Агрогороскоп с 14 по 18 марта 2022 года",
+                "description": "Агрогороскоп с 14 по 18 марта 2022 года ************************* Впереди Полнолуние - 18 марта 2022 года. Что нужно ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jp_tH7zz-6o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jp_tH7zz-6o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jp_tH7zz-6o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Раиса Горяченко",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-12T05:30:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0QEHuFZ7QdQIwbH61qXalbTTNkY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hA0PLAj3_NI"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-10T13:10:51Z",
+                "channelId": "UCbtksm4SfqGxvGTj-vsmZBg",
+                "title": "Tuntas Membersihkan Usus Besar, Tempat Sarang Penyakit Menimbun ( Part 2 ) -Bersama Ayurveda AV",
+                "description": "SUARA MUSLIM RADIO NETWORK 93.8 FM Suara Muslim Surabaya 89.9 FM Suara Muslim Lumajang 88.7 FM Suara Muslim ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hA0PLAj3_NI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hA0PLAj3_NI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hA0PLAj3_NI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "suaramuslimtv",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-10T13:10:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hOBT3LlJ00tAhSlqZmgs1ecXDl0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-ihB-LrwKnk"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-13T14:26:03Z",
+                "channelId": "UCv8lW7IFErnoTdo2OYKID_Q",
+                "title": "IBADAH STREAMING MINGGU 13 MARET 2022 JEMAAT GMII ELSHADDAY PEKANBARU",
+                "description": "IBADAH STREAMING MINGGU 13 MARET 2022 JEMAAT GMII ELSHADDAY PEKANBARU.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-ihB-LrwKnk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-ihB-LrwKnk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-ihB-LrwKnk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GMII ELSHADDAY PEKANBARU",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-13T14:26:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mF8zRiK4oAhrs1RQVmAvDBJC4Qw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W3et1dgZu6Y"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-13T01:52:52Z",
+                "channelId": "UCr-oW_n4SS1K9SgrTGQwzCg",
+                "title": "SUDAH KAYA RAYA - NEW UPDATE WARNET SIMULATOR 1.9.3",
+                "description": "SUDAH KAYA RAYA - NEW UPDATE WARNET SIMULATOR 1.9.3 ============================================= ID ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W3et1dgZu6Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W3et1dgZu6Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W3et1dgZu6Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Miksen Handika",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-13T01:52:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "D7h3vxuiLCdqLRINdNmpvZKbJj0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uPN-HSueLo8"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-15T08:00:13Z",
+                "channelId": "UCxiYw3xjBegL1I3EV1xNO4A",
+                "title": "Amalan Untuk Menjadi Waliyullah - Buya Arrazy Hasyim",
+                "description": "Amalan Untuk Menjadi Waliyullah - Buya Arrazy Hasyim #BuyaArrazy #ArrazyHasyim #SantriYoutube ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uPN-HSueLo8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uPN-HSueLo8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uPN-HSueLo8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Santri YouTube",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-15T08:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DlPC36VirtwLYPqVSxAdnrzZ5zA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "egY7pTZsxuU"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-15T02:04:19Z",
+                "channelId": "UCCL0EM52Q70_MVbNNSAqdlA",
+                "title": "Perkuliahan KMB 2 (ANATOMI FISIOLOGI SISTEM ENDOKRIN)",
+                "description": "Perkuliahan KMB 2 (ANATOMI FISIOLOGI SISTEM ENDOKRIN) 2022, -~-~~-~~~-~~-~- Please watch: \"PEMBAHASAN SOAL DAN ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/egY7pTZsxuU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/egY7pTZsxuU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/egY7pTZsxuU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NURSING Chanel (RUANG UKOM)",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-15T02:04:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BSAa2_RNqyfTRTBdXMoJ_gIK6sA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EeksST95zeU"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-13T22:42:26Z",
+                "channelId": "UCshfDi91cuWz1cN6pSPtBbw",
+                "title": "&quot;HIDUP INI TIDAK TERGANTUNG NASIB&quot; - Doa Pagi - 14 Maret 2022",
+                "description": "Shalom, Selamat datang di Doa Pagi \"Membangunkan Fajar\". Mari nikmati bersama hadirat Tuhan dan alami perjumpaan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EeksST95zeU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EeksST95zeU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EeksST95zeU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Happy Family Center Church",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-13T22:42:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "V43mNF2xONL0o1lVDD6vioG1kgk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ztSWLFZ8lFQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-14T15:45:05Z",
+                "channelId": "UCpeL1FhBU_rFbD_HHQKuUeA",
+                "title": "Patofisiologi D3TLM UAM 2022 Sesi 1",
+                "description": "Dokumen dari Dr. Arif RN., dr., M.Imun.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ztSWLFZ8lFQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ztSWLFZ8lFQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ztSWLFZ8lFQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Arif Rahman Nurdianto",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-14T15:45:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OU1XRz8xx1ILlpAv2vmavFYeBLQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bLc0lQg6Mp4"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-13T07:00:12Z",
+                "channelId": "UCZWk_k207M--sLScrLdM3JQ",
+                "title": "KONG KISUT ATLET SERBA BISA, WOWO BISA APA?!",
+                "description": "sule #kisut Jangan lupa subscribe, like, share & comment S-PRO! Langganan S-Pro: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bLc0lQg6Mp4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bLc0lQg6Mp4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bLc0lQg6Mp4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SULE PRODUCTIONS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-13T07:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "98JX1hpUlNxxsNF439AGW7mJrww",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Cji7yGQnyt0"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-12T12:00:18Z",
+                "channelId": "UCuNxgSayTS8sHSwg99jVQ2Q",
+                "title": "219 - RUMAH TANGGA IBU MARYATI DARI TANJUNG PRIOK TIDAK HARMONIS GARA-GARA KUDA LUMPING.",
+                "description": "Channel youtube \"MATA LANGIT\" adalah channel misteri yang menampilkan Panglima Langit sebagai Praktisi Spiritual dan Artis ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Cji7yGQnyt0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Cji7yGQnyt0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Cji7yGQnyt0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mata Langit",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-12T12:00:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XQ0sjBFFnq_Bw4t3Zn8RPg47GgM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Wb9p6uM57I8"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-09T20:15:27Z",
+                "channelId": "UCPylBHVa5om4YkNtRrZVIGA",
+                "title": "LIVE 👾 |",
+                "description": "Halo selamat datang ! This Streaming Sponsored by: SLOTTER88 Ayo dapatkan Bonus untuk New Member di website Slotter88 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wb9p6uM57I8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wb9p6uM57I8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wb9p6uM57I8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Blackkk",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-09T20:15:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wCtCrFleeljl7rzQ2t1A8YTthno",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GZ5hqFOQQSs"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-28T00:04:09Z",
+                "channelId": "UCKQzsGFlpCWRTYeQaH0OWyg",
+                "title": "jahit lengan wanita yang benar pas",
+                "description": "riffandiriffandi#jahitlenganwanita yangbenarpas.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GZ5hqFOQQSs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GZ5hqFOQQSs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GZ5hqFOQQSs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Riffandi Riffandi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-28T00:04:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xY7nB9D5IBdjp1GPzdpdELl5rQA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_xP4bEQGSQA"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-10T15:30:07Z",
+                "channelId": "UCCfUS9dQBDSD0DA-Jc_XJFg",
+                "title": "The Story of a Nurse, Hidden Illness, and Finding Medical Medium",
+                "description": "After the birth of Amber's first child, her hidden illness set in. She was a nurse working in the hospital experiencing numbness, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_xP4bEQGSQA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_xP4bEQGSQA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_xP4bEQGSQA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "That Root Life",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-10T15:30:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2q-JBN1RVflX6YwzIo3SGS70h8c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0c1pfju1ruM"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-12T16:12:20Z",
+                "channelId": "UCPYvt2yYUVMItnKppl9qqhw",
+                "title": "HOW TO, MASSAGE THERAPY // URUT TRADISIONAL 4 KALI TERAPI ALHAMDULILLAH VARIKOKEL SEMBUH TESTIMONI",
+                "description": "Assalamu allaikum wr wb. Tradisional massage Tulungagung JAWATIMUR INDONESIA, * PIJAT TRADISIONAL BERIJIN (STPT) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0c1pfju1ruM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0c1pfju1ruM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0c1pfju1ruM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Teja Arum Melati Wangi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-12T16:12:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_X4hOus5zNbO_7JZeWe7WtY1rv0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1199pIx4HHc"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-13T12:00:11Z",
+                "channelId": "UCJPpwJn1GacAT1spHfH08hw",
+                "title": "IBADAH MINGGU ANUGERAH 2 | 19.00 WIB",
+                "description": "Persembahan dan Perpuluhan bank victoria (566) 0981021029 An Jesus Christ Church. Doa dan Konseling +628111439317",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1199pIx4HHc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1199pIx4HHc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1199pIx4HHc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pastor Verona Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-13T12:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4TLHLjMcLmx829_r5nAIhGpqzyk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eMFpREdAA0k"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-12T10:37:42Z",
+                "channelId": "UCHIBDu9oDxEaC3v31FbvzAA",
+                "title": "LIVE Kajian Shubuh | Ust. Ismail Yahya, Lc - Akhlaqul Karimah",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eMFpREdAA0k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eMFpREdAA0k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eMFpREdAA0k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Masjid Namirah Balikpapan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-12T10:37:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YV2cL6RaX0htskvWBE3UojRnge0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WkCa85rKkqM"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-11T15:24:22Z",
+                "channelId": "UCzCPcD08UPxhqj3TFmGXxnA",
+                "title": "Hud | Tadabbur Mukjizat Al-Qur&#39;an (Mukjizat Nama-Nama Surat Dalam Al-Qur&#39;an",
+                "description": "Support channel ini dengan Subscribe Like dan Share ke sahabat sahabat sekalian Like, Comment, Subscribe dan Share terus ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WkCa85rKkqM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WkCa85rKkqM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WkCa85rKkqM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AQL Islamic Center",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-11T15:24:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "naxwzF4gbKmqHy7yX9H0Yx3Zx8M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "I5DN2oGxf_Q"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-20T13:13:32Z",
+                "channelId": "UCSxfLYC2ymT60Us1EMuo74w",
+                "title": "CERAMAH KH ZAINUDDIN MZ, SIKSAAN NERAKA JAHANNAM",
+                "description": "DailyVegaAyuSafitri #ceramahkhzainudinmz.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I5DN2oGxf_Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I5DN2oGxf_Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I5DN2oGxf_Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DAILY VEGA AS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-20T13:13:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FtVENGPRZaDA5ytPuDKoXT0gxWQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RodEgLRYmhs"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-13T03:59:45Z",
+                "channelId": "UCR5cbvcJ25CgUmFkiONK5IA",
+                "title": "SUNDAY SERVICE 2 - 10.30 AM [13 MARCH 2022] BIJAK MENGHITUNG HARI - PS. DJOHAN HANDOJO",
+                "description": "Welcome to Bethany Church Online service ONSITE SUNDAY SERVICES Onsite service will be held at Grand Hyatt Hotel. Please ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RodEgLRYmhs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RodEgLRYmhs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RodEgLRYmhs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bethany Church Singapore",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-13T03:59:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_ljqTSd-UrCjBQeVNzsEtOfNmQM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6FMmJ3DaXyc"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-07T15:37:18Z",
+                "channelId": "UC8GKTJ1puxGT4hxD6paBfyA",
+                "title": "Cikal Bakal Calon Penghuni Neraka || Ceramah KH Zainuddin MZ",
+                "description": "Assalamualaikum warohmatullohi wabarokatuh? Cikal Bakal Calon Penghuni Neraka || Ceramah KH Zainuddin MZ Ceramah KH ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6FMmJ3DaXyc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6FMmJ3DaXyc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6FMmJ3DaXyc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Petengan Obor",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-07T15:37:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3monxdqw9EH6tytqwlwf6LZ72aw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X_g4p77W_Ms"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-13T18:34:39Z",
+                "channelId": "UCG_kRfgNPK769hexYBAtfAw",
+                "title": "WAYANG KULIT DALANG KI ANOM DWIJOKANGKO &quot;GATUTKACA NAGIH JANJI&quot; BT CAK DIQIN &amp; GARENG BEJEN",
+                "description": "Pagelaran Wayang Kulit Dalang: KI Anom Dwijokangko Lakon: Gathutkaca Nagih Janji Bintang Tamu: Cak Diqin Nyimut ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X_g4p77W_Ms/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X_g4p77W_Ms/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X_g4p77W_Ms/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ADEKA MULTIMEDIA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-13T18:34:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LkEdC009h2QiKWTKzwhlKnJVXzg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "k4d9S7XJE0M"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-12T09:22:26Z",
+                "channelId": "UC2JOxEvyhok9QVY_XALr0yQ",
+                "title": "IBADAH ANAK VOLTAGE (GRADE 4-7) GMS JABODETABEK 12 MARET 2022 - A WAY OUT",
+                "description": "Jika kamu membutuhkan dukungan doa, kami, GMS Jabodetabek, rindu untuk mendoakanmu. Yuk kirimkan pergumulanmu ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k4d9S7XJE0M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k4d9S7XJE0M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k4d9S7XJE0M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GMS Jakarta",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-12T09:22:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "G65Y0zvG5MTnEQ06GfElPcGAyCs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vqMlqvqIvjY"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-08T23:00:14Z",
+                "channelId": "UCvpcpmN2zVPuEYngHrcjIWA",
+                "title": "BAPA PEGANG TANGANKU  ||  MORNING WORSHIP 9 MARET 2022",
+                "description": "SONGLIST DALAM VIDEO INI: 1- Hidupku adlh Penyembahan (Pdt. Agus Leo Silitonga) 2- Yang Terutama (Ir. Djohan E Handojo, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vqMlqvqIvjY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vqMlqvqIvjY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vqMlqvqIvjY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Welyar Kauntu OFFICIAL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-08T23:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "koa2yIZziH2QfJ1cyCV7QaM0EwU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ixUiaZiGX_I"
+            },
+            "snippet": {
+                "publishedAt": "2019-09-16T07:23:11Z",
+                "channelId": "UCr2qBMhzeUT9wwAInN_pokw",
+                "title": "GEJALA USUS BUNTU BISA SEMBUH TANPA OPERASI DENGAN OBAT HERBAL QNC JELLY GAMAT",
+                "description": "Penyakit usus buntu atau dalam bahasa medis dikenal dengan Apendisitis adalah suatu kondisi ketika apendiks atau sebuah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ixUiaZiGX_I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ixUiaZiGX_I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ixUiaZiGX_I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "QNC Store",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-09-16T07:23:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PDlx6LDLuFbKCF4PPljb-Svmacc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_k34dZaaVRc"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-23T08:04:13Z",
+                "channelId": "UC2zAftbaMcya5TLgYCPQPaQ",
+                "title": "Testimoni Merci Propolis,Penyakit Usus Buntu",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_k34dZaaVRc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_k34dZaaVRc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_k34dZaaVRc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Heri Yanto MERCI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-23T08:04:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i7zXpH6dkb6VJHNVZfhMbnjPldY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "y9EK64jyAI0"
+            },
+            "snippet": {
+                "publishedAt": "2019-10-18T19:24:27Z",
+                "channelId": "UCYoSf4sJAmPO7lUMM_zUBmA",
+                "title": "Obat herbal untuk mengatasi penyakit usus buntu",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y9EK64jyAI0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y9EK64jyAI0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y9EK64jyAI0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Om Lihin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-10-18T19:24:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kgJfsKKim_giOHOL45Wud_jVHkw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NdrZ1iNfkdk"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-02T18:40:31Z",
+                "channelId": "UCBwp7JCz2at_viona_-3L6w",
+                "title": "Review Aturan Konsumsi Habspro Untuk Penyakit Usus Buntu, Ginjal Cuci Darah, Jantung &amp; Lambung",
+                "description": "Cara Konsumsi Habspro Untuk Penyakit Usus Buntu, Ginjal Cuci Darah, Jantung & Lambung Agar Hasil Maksimal..!! *MANFAAT ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NdrZ1iNfkdk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NdrZ1iNfkdk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NdrZ1iNfkdk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pejuang Hijrah SSBTeam",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-02T18:40:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yIyv8sIqeeDAL_6ERrd0cqXsDvQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xyNQe4oa7P8"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-29T14:51:07Z",
+                "channelId": "UCY3dxA0lL3MAm-NUpz1M5cA",
+                "title": "Kesaksian Melia-propolis | Menyembuhkan Penyakit Asmha,Usus Buntu dan Maag Kronis",
+                "description": "Kesaksian Melia-propolis | Menyembuhkan Penyakit Asmha,Usus Buntu dan Maag Kronis Hampir semua Pennyakit bisa di ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xyNQe4oa7P8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xyNQe4oa7P8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xyNQe4oa7P8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CHOLIS 234",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-05-29T14:51:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Po9J5TGrfULgWbPGNoXbVjf8v34",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2UEwXN4ucKc"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-14T01:09:37Z",
+                "channelId": "UCJjHz9ZyBrud18QALmzFYzg",
+                "title": "Testimoni gejala usus buntu membaik dengan kangen water",
+                "description": "Video dari epah520592@gmail.Com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2UEwXN4ucKc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2UEwXN4ucKc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2UEwXN4ucKc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Epah masropah",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-14T01:09:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9tfRPzLHvOcniZNJ61N1b5ClcUw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "064Y5rXGm_s"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-10T14:29:01Z",
+                "channelId": "UCMgRasdlmSv6l_aUkRHy6Gg",
+                "title": "&quot;100x Lipat&quot; - Ps. Elijah Soetopo - Worship and Words 10 Maret 2022 (pk 20.00 WIB)",
+                "description": "Welcome to Alfa Omega Church We are known as \"The Church for Sinners\" dimana semua orang yang dosanya banyak ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/064Y5rXGm_s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/064Y5rXGm_s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/064Y5rXGm_s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alfa Omega Church",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-10T14:29:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-fIcl7vHl_XOJYj-uGlh5OuIdqU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rpQAgYOLpeI"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-21T17:12:24Z",
+                "channelId": "UClmKR53o1rxRoVG-3C2I7Tg",
+                "title": "testimoni penderita usus buntu",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rpQAgYOLpeI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rpQAgYOLpeI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rpQAgYOLpeI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Eka Ashari Agung Putra",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-11-21T17:12:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VzTdskkphsajvsI0irZgF5Q2Qsk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hHjowNzXX4I"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-16T05:21:22Z",
+                "channelId": "UC6C6zZMmyJeAUUGvnLOyOaQ",
+                "title": "Obat Herbal Liver Hepatitis Dekapro Bharata Pemesanan &amp; Konsultasi 082328813233",
+                "description": "Produk Original Cv.Widjaya Bharata Pasifik/PT. Bharata Internasional Jangan terkoda barang murah, hanya disini produk original ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hHjowNzXX4I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hHjowNzXX4I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hHjowNzXX4I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JHONKATULISTIWA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-16T05:21:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "csnvPTLpvIYOxGhZgNHtm5AexlE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zhVSsptw6xk"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-31T12:19:05Z",
+                "channelId": "UCyTYEl-Yv2gzTgqxSj_b3VQ",
+                "title": "TERAPI BEKAM mengeluarkan DARAH KOTOR",
+                "description": "BEKAM TERAPI DARAH KOTOR#bekam#terapibekam#bekamdarah# https://youtu.be/pkn1e8HdDVc.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zhVSsptw6xk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zhVSsptw6xk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zhVSsptw6xk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Agrie official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-31T12:19:05Z"
+            }
+        }
+    ]
+}

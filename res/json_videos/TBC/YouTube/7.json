@@ -1,0 +1,1713 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "J-IWeIwzFSuxPkemeEhjUnMpnis",
+    "nextPageToken": "CN4CEAA",
+    "prevPageToken": "CKwCEAE",
+    "regionCode": "ID",
+    "pageInfo": {
+        "totalResults": 217586,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VfGAWOHTo9MMS0VxejMpvoWqaHw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FYWoOSqJtEo"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-19T04:52:53Z",
+                "channelId": "UCGwiwVL-Nor55IOBrJMeLKg",
+                "title": "MANIFESTASI KLINIS PENYAKIT TBC DALAM RONGGA MULUT",
+                "description": "Video penyuluhan untuk menyelesaikan PKL 3 di Puskesmas Ardimulyo, Kecamatan Singosari, Kabupaten Malang Dari video ini ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FYWoOSqJtEo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FYWoOSqJtEo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FYWoOSqJtEo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mita Cahyani",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-19T04:52:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Gca2yp51BbLMuHz6CRF3KYtXns4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-i-JSbNSHqI"
+            },
+            "snippet": {
+                "publishedAt": "2019-11-05T01:26:58Z",
+                "channelId": "UCxsANnXCQUOEnpebVM9YLvQ",
+                "title": "Penyakit TBC (kelompok 4) DIII 2A Stikes Kepanjen 2018",
+                "description": "Assalamualaikum semua sahabat youtube.. Ini penugasan dari salah satu mata kuliah kami \"Promosi Kesehatan\" Tonton sampai ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-i-JSbNSHqI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-i-JSbNSHqI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-i-JSbNSHqI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fransiska DA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-11-05T01:26:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kjDVr51U9Ks0miCVqubdU3fD9rU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UaFVzSoLCjw"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-31T14:51:16Z",
+                "channelId": "UCW17iF5Mvl8kIuRHizotxug",
+                "title": "Konseling penyakit TBC - Simulasi Apotek",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UaFVzSoLCjw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UaFVzSoLCjw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UaFVzSoLCjw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ni Juni",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-05-31T14:51:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yAT2DcVhD46tIKPdZkRwcFhIuxg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VTBWRpvDYwE"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-03T06:36:40Z",
+                "channelId": "UCGiQJlpy4kbv0QvafDtInOA",
+                "title": "FKUB 2017 PROMKES SERI 17 - Penyakit TBC (Pencegahan dan Pengelolaan Penyakit TBC)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VTBWRpvDYwE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VTBWRpvDYwE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VTBWRpvDYwE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Saiful Abdurrahman",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-11-03T06:36:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MEDCk3D7eo59Mdgp4iXkEsNd59U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "U3XFjD6OUiA"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-25T04:15:00Z",
+                "channelId": "UC8S4KEkkyW2c3AdQuZXLVDA",
+                "title": "Presentasi tentang penyuluhan penyakit TBC",
+                "description": "Hasnah Batubara (2013363010) Safriani Siregar (2013363022) Siti Amelya Nasution (2013363023) Yolanda Arjuni Efendy ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U3XFjD6OUiA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U3XFjD6OUiA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U3XFjD6OUiA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kelompok 6 Ilmu Kesehatan Masyarakat",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-25T04:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kvoDC9Y1kcLDgzzj22PdUJ-Ighw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uebxXHiJE9c"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-16T13:04:18Z",
+                "channelId": "UCpX6Plek56tA5NVNFMce5PA",
+                "title": "promosi kesehatan tentang penyakit TBC",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uebxXHiJE9c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uebxXHiJE9c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uebxXHiJE9c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ferdihendra takaeb",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-16T13:04:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "es_X5QnK2Q-zHzqNutPog3aU6Xs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zYnV4DOxXEc"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-24T03:06:54Z",
+                "channelId": "UCXX-39fiYGK2hGwjOKtJG1A",
+                "title": "PENCEGAHAN PENYAKIT TBC PUSKESMAS KELURAHAN RAWA TERATAI KECAMATAN CAKUNG JAKARTA TIMUR",
+                "description": "Assalamualaikum Bosquee.. Salam Sehat buat Kita semua. Jangan lupa ditonton videonya terus di comment, like dan subcribe ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zYnV4DOxXEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zYnV4DOxXEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zYnV4DOxXEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Puskesmas Rawa Teratai",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-24T03:06:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "24YLmkJraKxHNF97fJaps25HrdI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3V2ll1hQoEY"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-10T15:09:55Z",
+                "channelId": "UCuCS6h_Pt3p7HjDmn-lCV7Q",
+                "title": "Iklan penyakit TBC FKM UNISKA",
+                "description": "IKLAN LAYANAN KESEHATAN MASYARAKAT.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3V2ll1hQoEY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3V2ll1hQoEY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3V2ll1hQoEY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ysa Elysa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-12-10T15:09:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-Nf0fOtISwpv7IQfJhVcK3mhsMY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7GAk-DJnKnE"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-03T03:40:03Z",
+                "channelId": "UC5VNsH_NW2zI2NuYfsnXaXg",
+                "title": "I Lega I  Anak Sembuh dari Penyakit TBC I",
+                "description": "Ini adalah kesaksian orangtua yang berhasil mendampingin anaknya yang terkena Penyakit TBC. Kini anaknya sudah sembuh ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7GAk-DJnKnE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7GAk-DJnKnE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7GAk-DJnKnE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Berlei",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-03T03:40:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JbmxSkI-fGmqFjVmbgE-lzcXGoU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qb971zgrLaU"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-15T05:34:46Z",
+                "channelId": "UC02NbSLlIg49dSBZXMobQ9A",
+                "title": "Wahh!!!  Ternyata penyakit TBC dapat terjadi karena kurangnya menjaga pola hidup sehat.",
+                "description": "Institut Agama Islam Negeri Bengkulu #Fakultas Tarbiyah dan Tadris #Prodi pgmi.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qb971zgrLaU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qb971zgrLaU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qb971zgrLaU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mita Octavia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-15T05:34:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BDJJBgS8QeOe3YQaM1L6OHgus1o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-HvXaM3UNrg"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-25T11:11:03Z",
+                "channelId": "UCrOdsGrvRVeCNdc4aBOF-zQ",
+                "title": "Wasilah innolife propolis penyakit TBC bisa sembuh, #shorts",
+                "description": "Wasilah innolife propolis dan atas izin Allah penyakit TBC bisa sembuh,, #shorts info pemesanan hubungi wa 081231640658 klik ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-HvXaM3UNrg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-HvXaM3UNrg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-HvXaM3UNrg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zainul Afif treniNet",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-25T11:11:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qkxOFC6rD4eOIsh-VRwE2eA7lIc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TzkshOCP77w"
+            },
+            "snippet": {
+                "publishedAt": "2019-04-08T01:30:38Z",
+                "channelId": "UC01o7TSuFHd02PBKl9UfbWQ",
+                "title": "kartun indonesia, penyuluhan penyakit TBC",
+                "description": "kartun indonesia, penyuluhan penyakit TBC.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TzkshOCP77w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TzkshOCP77w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TzkshOCP77w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mr 93",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-04-08T01:30:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "M9iUVokMI4Q77mLYJ4aeELktqzA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fFERdyvwRUY"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-03T15:22:39Z",
+                "channelId": "UCOnaJHY8rppLPnJ-KBELmkA",
+                "title": "Tanaman Pegagan Untuk mengobati Penyakit TBC",
+                "description": "Nama : Ira Destiana Npm : 09200000055 kelas : 3B keperawatan Reguler.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fFERdyvwRUY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fFERdyvwRUY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fFERdyvwRUY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ira Destiana",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-03T15:22:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VFJbjhC6ocjsP_43dyv5jKeBNbw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ztas0hUJNdI"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-21T10:12:05Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Indonesia Duduki Peringkat Ketiga Penderita TBC Tertinggi di Dunia, di Bawah India dan China",
+                "description": "TRIBUN-VIDEO.COM - Jumlah penderita TBC di Indonesia, saat ini berada di peringkat tiga tertinggi di dunia, persis di bawah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ztas0hUJNdI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ztas0hUJNdI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ztas0hUJNdI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-21T10:12:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rOt_aMQNutb48ILU4gP4Lz1QdF4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FwrkG_IPm4A"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-25T12:48:31Z",
+                "channelId": "UCbsPqbPMTJhC5PpQQx5BWhA",
+                "title": "Edukasi penyakit TBC (tugas SIK)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FwrkG_IPm4A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FwrkG_IPm4A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FwrkG_IPm4A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "A040 Siti Fatimatuz Zahroh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-25T12:48:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HdcG3hLtHNE2vIV4KIiX_7C1kpQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ASN728G0gog"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-14T05:38:56Z",
+                "channelId": "UCUUSBztUGo9vXrqqEWjroSQ",
+                "title": "MENCEGA PENULARAN PENYAKIT TBC LEWAT UDARA",
+                "description": "Tugas : PENGANTAR TEKNOLOGI & INFORMASI Prodi : D-IV Kep. Anestesiologi INSTITUT TEKNOLOGI & KESEHATAN BALI ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ASN728G0gog/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ASN728G0gog/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ASN728G0gog/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moh. Alex Afandi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-14T05:38:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "p44jeJdCLZnROn9Ggx8dMa1iPTY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KqgC6jHn7-o"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-17T03:20:41Z",
+                "channelId": "UCGvfNaeES8VVQr0099Ajt0w",
+                "title": "#stooptbc #inovasiukm #berantastbc MASDUL TERHARU Masyarakat Peduli Terhadap Penyakit TBC Paru",
+                "description": "Di masa pandemi ini memaksa orang untuk bekerja dari rumah. Semua serba On Line. Jual beli juga On line. Kami mengajak ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KqgC6jHn7-o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KqgC6jHn7-o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KqgC6jHn7-o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mulyo Deje",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-17T03:20:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JOt9f9VQFI81ktMSNjhRShI_AAQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iXl72bdIJOw"
+            },
+            "snippet": {
+                "publishedAt": "2019-01-18T02:52:22Z",
+                "channelId": "UC1IIZlxyfg6Z6xN-TMktbeQ",
+                "title": "#PENYAKIT TBC DAN BERANI MENCEGAHNYA",
+                "description": "politeknikbinahusadakendari.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iXl72bdIJOw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iXl72bdIJOw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iXl72bdIJOw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ikho Melamba",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-01-18T02:52:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "g-jndVarzbUSxm-wKCiFfDUdAgk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "E_RpNlg8feQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-22T12:25:02Z",
+                "channelId": "UClflnolIlOPf9TT84BhuacQ",
+                "title": "Roleplay penyakit menular(TBC)",
+                "description": "Just for task.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E_RpNlg8feQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E_RpNlg8feQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E_RpNlg8feQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "28.30 pradipta aditama",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-08-22T12:25:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UtNZN4-CucrUiUYdUIw4TF4-3us",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0BbhPBmERD8"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-21T20:57:52Z",
+                "channelId": "UCCJKOz0LzrGEL6is5mfLI2w",
+                "title": "Penyuluhan dan Konseling Penyakit TBC (Tuberculosis)",
+                "description": "Video ini dibuat untuk memenuhi tugas stase komunitas jurusan Profesi Ners program studi Keperawatan UNIVERSITAS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0BbhPBmERD8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0BbhPBmERD8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0BbhPBmERD8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "safira fira",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-21T20:57:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8fufpt8qKAYhhuv5grRnxJu0e5Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5_TskJUEgzc"
+            },
+            "snippet": {
+                "publishedAt": "2020-01-16T12:33:54Z",
+                "channelId": "UC6XiIEDueBuEAA8CWmSkNYA",
+                "title": "Kenali cegah dan obati penyakit TBC - Mahasiswa stik Makassar",
+                "description": "lhely_bundafatih @essepuji @stikmakassar @mahasiswastik ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5_TskJUEgzc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5_TskJUEgzc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5_TskJUEgzc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "M Faridnur",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-01-16T12:33:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8HM247n-TcarEt4UTiQJb7s256A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G4oKlw_ze5A"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-03T06:18:44Z",
+                "channelId": "UCgMdIJf2f9uj4n7ZEO78vzg",
+                "title": "Video Penyuluhan Penyakit TBC",
+                "description": "FilmoraGo.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G4oKlw_ze5A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G4oKlw_ze5A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G4oKlw_ze5A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fify Bunga ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-03T06:18:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2gnDV9BmmO9MwFnvXf58U7s5N1Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_e50uPTHEYo"
+            },
+            "snippet": {
+                "publishedAt": "2019-01-11T02:52:13Z",
+                "channelId": "UCyCLdFah_0r7DrCmyb1byNA",
+                "title": "Penyakit TBC, penyakit yang menular dan mematikan",
+                "description": "Penyakit TBC (Tuberculosis)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_e50uPTHEYo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_e50uPTHEYo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_e50uPTHEYo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rismayanti Syamsul",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-01-11T02:52:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yAWaTZCo6g6BlcvJhlXr6EsHHPw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W91CMqGsMcg"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-26T12:52:32Z",
+                "channelId": "UC2h9oOaT9eNgRGM2K5y7n_w",
+                "title": "PENKES TENTANG PENYAKIT TBC",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W91CMqGsMcg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W91CMqGsMcg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W91CMqGsMcg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "S1 keperawatan Mitra adiguna",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-26T12:52:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QfipGnwBJTeuj___JNcSJVlTay8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GhXY3IEsb2Q"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-02T15:32:59Z",
+                "channelId": "UCL-rUsPG4p-r6rf2MW6xN8w",
+                "title": "ASKEP Keluarga dengan Kasus Penyakit Menular (TBC)",
+                "description": "assalamualaikum video ini kami persembahkan untuk dosen kami semoga Bermanfaat.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GhXY3IEsb2Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GhXY3IEsb2Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GhXY3IEsb2Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linda Nrmld",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-02T15:32:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fnoD9xFdxStIwgU93UkEo9U2fLU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2Uf94Yu9v0c"
+            },
+            "snippet": {
+                "publishedAt": "2020-02-07T12:22:47Z",
+                "channelId": "UCbpjAVfOo8q3p9jfY7004bQ",
+                "title": "pengecekan dahak TBC",
+                "description": "maaf teman2 dikarnakan prosesnya panjang jadi selanjutya di episode ke 2 maaff.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2Uf94Yu9v0c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2Uf94Yu9v0c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2Uf94Yu9v0c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Arw 22",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-02-07T12:22:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SDThACJr6GNR2U1wgkofZZcUDaQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i1eizYDD5P8"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-04T09:06:35Z",
+                "channelId": "UCIWsIe05JcYAlLK6E-ICDsw",
+                "title": "Promkes Pencegahan Penyakit TBC|| oleh mahasiswa STIKes Garut",
+                "description": "Nama : N.Dedeh Sopaenah NIM : 244119009 TUGAS MEDIA PROMOSI KESEHATAN STIKES GARUT #TOSSTB #STOPTBC ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i1eizYDD5P8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i1eizYDD5P8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i1eizYDD5P8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "dedeh sopaenah",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-04T09:06:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yPAzDLOHk6qAEBHB9ymsu1l4A84",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N8aw3BTG1OQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-10T13:54:01Z",
+                "channelId": "UCfHssQeRdT7ogEKMMCHoWAg",
+                "title": "TUGAS MEDIKAL BEDAH •Tentang Pendidikan Kesehatan pada Penyakit TBC•",
+                "description": "STIKes Cirebon.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N8aw3BTG1OQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N8aw3BTG1OQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N8aw3BTG1OQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lia lestari",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-10T13:54:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tmoZJ4Bym0wIb7UwP9dJq6jo0KA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7Dm3ISsmvok"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-12T16:29:37Z",
+                "channelId": "UCdlImLhTPsCZITKU0APuB-w",
+                "title": "Inovasi BELL BOX TB BERKESAN: Berantas dan Eliminasi Penyakit TBC Melalui Bell Box Dering Kesembuhan",
+                "description": "Inovasi Pelayanan Publik Dinas Kesehatan Kabupaten Gunung Mas.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7Dm3ISsmvok/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7Dm3ISsmvok/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7Dm3ISsmvok/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Selvi Oktavianti",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-12T16:29:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eLkgUHc-v16A3uanpnB96OGtMbc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pwzDNITLPzc"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-24T12:19:21Z",
+                "channelId": "UC0vOP46ibGt1W1P50MYJxcw",
+                "title": "Promosi Kesehatan : Penyakit Tuberculosis (TBC)",
+                "description": "Assalamualaikum Warahmatullahi Wabarakatuh. Saya Ibnu Fadli dari Kelas 3E dengan Mata Kuliah Promosi Kesehatan, Ilmu ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pwzDNITLPzc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pwzDNITLPzc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pwzDNITLPzc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ibnu Fadli",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-24T12:19:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sMnSB2fKd0VEVr-plJ1UI4qrPZY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PnLamtK4kBc"
+            },
+            "snippet": {
+                "publishedAt": "2019-08-05T06:44:51Z",
+                "channelId": "UC5JNSLKkYYN-GTux_qpwSFg",
+                "title": "Video mengenai penyakit TBC kreasi anak farmasi universitas MRM",
+                "description": "Pada video ini terdapat penjelasan mengenai awal mulanya pasien terkena penyakit TBC dan cara untuk menanggulanginya ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PnLamtK4kBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PnLamtK4kBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PnLamtK4kBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "A.maulana razak",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-08-05T06:44:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CaQtZijkFVnDvuN9gu03pOt2vh8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WzfTbakLPp0"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-16T18:00:46Z",
+                "channelId": "UCwFB1MsaCH5cpEXoaxeKILA",
+                "title": "penyuluhan tentang pencegahan penularan penyakit tbc",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WzfTbakLPp0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WzfTbakLPp0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WzfTbakLPp0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Heppy L",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-16T18:00:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qkuqi8DGNG8JkuPo0KMttU5XWG0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oEhbj8vPJtM"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-26T08:10:14Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Tekan Penderita TBC di Indonesia, Reza Rahadian Bantu Sosialisasi",
+                "description": "Laporan Wartawan Tribunnews, Lendy Ramadhan TRIBUN-VIDEO.COM - Ikut partisipasi kurangi jumlah penderita Tuberculosis ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oEhbj8vPJtM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oEhbj8vPJtM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oEhbj8vPJtM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-03-26T08:10:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5axYyPPDhx1-tGN4vbDZP_fPBl4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6pAlbsKcOPE"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-20T02:47:23Z",
+                "channelId": "UCskG7DcBOqwwHAi6Covz_Gg",
+                "title": "Tugas Pratikum Komunikasi Farmasi-Konseling Pada Penyakit TBC",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6pAlbsKcOPE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6pAlbsKcOPE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6pAlbsKcOPE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jois carin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-20T02:47:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7845m0ggmw3jzTJwJotSOIvuCT0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-oRdkY3UGMU"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-08T08:54:10Z",
+                "channelId": "UCMGGAHJrAM_Z2jfGcSZUZ4w",
+                "title": "Konsultasi, Informasi &amp; Edukasi Penyakit TBC",
+                "description": "tugas kelompok membuat video konseling, informasi & edukasi untuk penyakit TBC. Mata Kuliah : Konseling, Informasi & Edukasi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-oRdkY3UGMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-oRdkY3UGMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-oRdkY3UGMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nur Pratiwi Alimuddin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-08T08:54:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4oJueD7pv6ZL1ol1WQbKSxKWqig",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_u0tZF0l1t0"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-03T10:10:23Z",
+                "channelId": "UCOouhvO-QDUtvsS2p7tY86Q",
+                "title": "Promosi Kesehatan Penyakit TBC",
+                "description": "Anis Fikriya Fitri Kamila / ig : @anisfikriya Megathalia Aditya / ig : @megathalia_ Mila Maulida Rohma / ig : @milamaulida ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_u0tZF0l1t0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_u0tZF0l1t0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_u0tZF0l1t0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rinanda Eko Yulianto",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-05-03T10:10:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "X9rJ3YOy3RYQxWtzFR9-Tpi53oY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VCR1bvR38Aw"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-04T09:35:54Z",
+                "channelId": "UCfxXvx0NaDHZpxZAyGZAupQ",
+                "title": "Wawancara Penyakit TBC bersama dengan Ibu Siti Kalimah,S.Kep.",
+                "description": "Nama Anggota Kelompok 4 1. Herlina Prastika Widowati (200341617253) 2.Maulidatul Masruroh (200341617249) 3.Paulina ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VCR1bvR38Aw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VCR1bvR38Aw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VCR1bvR38Aw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Paulina Retno Ningtyas",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-04T09:35:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nTYXmKnJ_KELLh7ZI7JulRKKDsU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FPQTxe13q4s"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-19T06:25:38Z",
+                "channelId": "UC7doWKIRi9g8NpuVIY4qyyw",
+                "title": "17010073_2017B_Safira Andriyani_PENDIDIKAN KESEHATAN TENTANG PENCEGAHAN PENYAKIT TBC DI DESA Y",
+                "description": "Tugas Osce keperawatan Komunitas.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FPQTxe13q4s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FPQTxe13q4s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FPQTxe13q4s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Safira Andriyani",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-19T06:25:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ibPO7XMOwF3qrMEfLZOs1lMyEks",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ePI-t-hrEoU"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-03T06:38:13Z",
+                "channelId": "UCAlU4tRoWRTy_FmcHJgqRKA",
+                "title": "PENDIDIKAN KESEHATAN TENTANG PENYAKIT TBC",
+                "description": "SEMOGA BERMANFAAT MAAF MASIH BANYAK KEKURANGAN.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ePI-t-hrEoU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ePI-t-hrEoU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ePI-t-hrEoU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MARIANA LISO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-03T06:38:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "daEu7TKnGH1_DM7Drd4B9gAAWv0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2BuSULYR5H0"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-02T11:22:34Z",
+                "channelId": "UCPi00j7xXlKuuF_qDOom9dw",
+                "title": "Pencegahan Penularan Penyakit TBC",
+                "description": "tugas media sosial dan promosi kesehatan (Kesehatan Masyarakat_IKM 3 Promkes)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2BuSULYR5H0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2BuSULYR5H0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2BuSULYR5H0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Septiana Cantika",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-02T11:22:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FXBQnhe3GmkXroLh07eSML3Wajw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GxcKaP68O5s"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-29T08:57:07Z",
+                "channelId": "UC3y3MgccBPOccZPhbh1Z6Dw",
+                "title": "Penyuluhan Mengenai Penyakit TBC",
+                "description": "Happy Watching☺️Maaf jika ada kekurangan.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GxcKaP68O5s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GxcKaP68O5s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GxcKaP68O5s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sofia Elfianti",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-29T08:57:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0vVpxchKbbWNK18n85VYrLEBZU0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AOKJMWT24TI"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-29T07:09:05Z",
+                "channelId": "UC5iOjpRhXEgSOC-IbVmYrNQ",
+                "title": "Promosi kesehatan tentang penyakit TBC",
+                "description": "Video ini dalam rangka memenuhi Tugas Akhir Semester 6 Mata Kuliah Pengembangan Media Promosi Kesehatan. Dosen ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AOKJMWT24TI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AOKJMWT24TI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AOKJMWT24TI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Maudi Siti Fitridewi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-29T07:09:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Sb4SXHr3lBQH1MAC3v5yD8jaxd4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "l3MaDDLrd5k"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-15T05:15:37Z",
+                "channelId": "UCZ0KT0glsfd-5sLTQlNIChg",
+                "title": "Penyuluhan RSPS ( Remaja Sehat Peduli Sesama ) Tentang Penyakit TBC",
+                "description": "Disini kameramennya tidak ditulis karena yang jadi kameramennya bergantian.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l3MaDDLrd5k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l3MaDDLrd5k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l3MaDDLrd5k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ezzar Anyaz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-15T05:15:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "m7ypv_S-q-qPoWM_iCzQv6NF0wk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HWysTixTeW0"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-16T16:39:01Z",
+                "channelId": "UCJrTAZddHoEM4T_cKaQV6bg",
+                "title": "Praktikum Komunikasi “konseling kepada pasien penyakit TBC”",
+                "description": "Praktikum komunikasi Farmasi “pelayanan kefarmasian berupa konseling kepada pasien penyakit TBC” Nama Anggota ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HWysTixTeW0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HWysTixTeW0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HWysTixTeW0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alifah Farida",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-16T16:39:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ot2xJxNc4AGQaVSYSRKU1puBc0s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WFQILBDPa2A"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-03T01:29:05Z",
+                "channelId": "UCZYy_aMF85yQnURtIMI5-Uw",
+                "title": "Pengkajian penyakit TBC untuk memenuhi Tugas praktiklinik 2. Noviana inya bura",
+                "description": "Created by InShot:https://inshotapp.com/share/youtube.html.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WFQILBDPa2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WFQILBDPa2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WFQILBDPa2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noviana Inya bura",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-03T01:29:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JdBuKmZLqwxrRVTL3qcLRO0BkGw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ycwFsFLugt0"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-04T10:34:54Z",
+                "channelId": "UCsyqCh96iFvhTmOP2etaN9Q",
+                "title": "praktik komunikasi dalam keperawatan 2 dengan kasus asuhan keperawatan penyakit TBC",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ycwFsFLugt0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ycwFsFLugt0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ycwFsFLugt0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Novi Setianingrum",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-04T10:34:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zrRHsBOB2DIaET7Spz7pA6A9gAA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pK5H3WFaRLY"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-26T13:42:50Z",
+                "channelId": "UCMpQR1zmKpEWuebvbnDHiyQ",
+                "title": "bab 6 ilmu penyakit TBC",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pK5H3WFaRLY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pK5H3WFaRLY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pK5H3WFaRLY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dewi Hasanah",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-26T13:42:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oFG9QwCn8heyPqsF56xXld63q_g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GTPWejtdA68"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-23T05:23:54Z",
+                "channelId": "UCUDwUxqPDB33I0tmN2qDXCQ",
+                "title": "Penyuluhan Pencegahan Penyakit TBC  &quot;Ega Malia Jiska&quot; UAS Pend. Kewarganegaraan Universitas Ma Chung",
+                "description": "Ega Malia Jiska 612010012 Video untuk memenuhi UAS pendidikan Kewarganegaraan Prodi Farmasi Universitas Ma Chung.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GTPWejtdA68/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GTPWejtdA68/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GTPWejtdA68/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ega Mayla Jiska",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-23T05:23:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "f26BAtpuYLg7Sdh1ohfqPnJq2mU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fKE12MT94nI"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-24T08:02:18Z",
+                "channelId": "UCnBqsCqqd_8-BgaZfbacxfA",
+                "title": "#TLMUNISAYOGYA_Bahaya Dan Pencegagan Penyakit TBC &amp; Lepstospirosis",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fKE12MT94nI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fKE12MT94nI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fKE12MT94nI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kelas A TLM Unisa20",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-24T08:02:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VDw_EAQmhFPyfJwmlXeO2WtMdA0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VpKH1szUgLk"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-07T13:59:03Z",
+                "channelId": "UCoFEuJfabhLBCtXeYX8RmHA",
+                "title": "Mengenal Dan Memenejemen Penyakit TBC",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VpKH1szUgLk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VpKH1szUgLk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VpKH1szUgLk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Anjelina Kurnia Daya",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-07T13:59:03Z"
+            }
+        }
+    ]
+}

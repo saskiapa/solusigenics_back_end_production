@@ -1,0 +1,1168 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "HY5aUDpA9LhidNWwBPWhRrWh1_w",
+    "prevPageToken": "CKYEEAE",
+    "regionCode": "ID",
+    "pageInfo": {
+        "totalResults": 181018,
+        "resultsPerPage": 34
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tWCMK2lH393aKgZZYIRiJ_SkGcM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TCGiv0fG05c"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-18T13:28:49Z",
+                "channelId": "UCCcbLjEmdMvUZD7UCKk9Aug",
+                "title": "Obat Herbal Terbaik*PROPOLIS PLATINUM ~untuk Penderita penyakit TBC.",
+                "description": "K-LinkInfluencer.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TCGiv0fG05c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TCGiv0fG05c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TCGiv0fG05c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SITA TKW HK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-18T13:28:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YrkkFrWlBpQ1qwZlFzZNUKWdUV4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NcKszlXQ6iQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-04T09:16:11Z",
+                "channelId": "UCk3YS18BVXJbZQ-TtxvVfJQ",
+                "title": "CARA PENCEGAHAN DAN PENGOBATAN PENYAKIT TBC",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NcKszlXQ6iQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NcKszlXQ6iQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NcKszlXQ6iQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rahmi Astuty Lubis",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-04T09:16:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hJopHU5ZId2iR3KkVTt4t87QCB4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0TvvBx1shCE"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-29T15:37:03Z",
+                "channelId": "UCPdtiS2GK20Me0tuSRgqBlw",
+                "title": "Propolis Hepro - Pendamping Obat Anti TBC - Khasiat untuk Penyakit TBC, Liver Dan Anti HIV",
+                "description": "Bismillahirrahmaanirrahiiim ... Ini Propolis Hepro Trigona Asli Indonesia yang dapat membantu Menuntaskan TBC, Liver dan Anti ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0TvvBx1shCE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0TvvBx1shCE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0TvvBx1shCE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Muhammads",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-29T15:37:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T28SCA21BbfQgCVn2NjERjNlxhU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lZeS-ECXzMI"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-01T08:26:40Z",
+                "channelId": "UCjNG8rsOTCHQlhoQI6UZzDg",
+                "title": "Harus Tahu, Ini Ciri Penyakit TBC yang Sudah Parah !",
+                "description": "Penyakit TBC disebabkan oleh infeksi bakteri Mycobacterium tuberkulosis, yang dapat menyerang paru-paru, kelenjar hingga ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lZeS-ECXzMI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lZeS-ECXzMI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lZeS-ECXzMI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PROPOLIS SM JAKARTA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-01T08:26:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c5K_UZ3vo-C9unuVyf65ooey77k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O2kwes5_Qds"
+            },
+            "snippet": {
+                "publishedAt": "2016-06-10T11:56:01Z",
+                "channelId": "UCFLmzRl08gsGjsaNxhIACNw",
+                "title": "GEJALA PENYAKIT TBC  Apa saja ciri cirinya",
+                "description": "Terapi penyembuhan asma wienarto, Tuntaskan Asma Akut Pencarian alternative terapi penyembuhan asma atau sesak nafas ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O2kwes5_Qds/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O2kwes5_Qds/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O2kwes5_Qds/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ALTERNATIVE WIENARTO HP/WA 08122893709",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-06-10T11:56:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zrZIs3d7RyAcOzET9uYnCfm-qhw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6U0BDaX-aBU"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-15T00:36:21Z",
+                "channelId": "UCwWI_4RjbFX99zqXuigfO1A",
+                "title": "Obat Herbal Tbc Kelenjar | Obat Herbal Penyakit Tbc Paru",
+                "description": "Obat herbal tbc kelenjar, obat herbal penyakit tbc paru. Untuk Pemesanan WA/SMS : 085659907770 PIN BB : 5E2A4C31.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6U0BDaX-aBU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6U0BDaX-aBU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6U0BDaX-aBU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Propolis Obat Herbal Paru Paru",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-04-15T00:36:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JR7SeyZmTzppxptQ_2ZVZvQ8PMk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KoNKokYdGPU"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-18T01:19:32Z",
+                "channelId": "UCO8OAmyGzHcC6mCzTipnFxA",
+                "title": "Pengertian Penyakit TBC dan Cara Mengatasinya..",
+                "description": "Pengertian Penyakit TBC dan Cara Mengatasinya.. #TBC adalah singkatan dari Tuberkulosis, merupakan infeksi bakteri ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KoNKokYdGPU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KoNKokYdGPU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KoNKokYdGPU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "INFO KESEHATAN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-03-18T01:19:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dghpVlh4SZs38Set_5DiELjbXb0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CXSYTGb-6yA"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-17T09:09:17Z",
+                "channelId": "UCDQBem2MnadCNrUwewb6z6A",
+                "title": "CEGAH PENYAKIT TBC DENGAN PROPOLIS",
+                "description": "TBC menjadi penyakit menular yang cenderung banyak dialami terutama bagi yang imunitas tubuhnya lemah. Penyakit TBC ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CXSYTGb-6yA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CXSYTGb-6yA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CXSYTGb-6yA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lenn Project",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-17T09:09:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QAO9EW8NXNwrJB9L4bE2SSy_2Mw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WB2OAt1M-yQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-18T12:26:28Z",
+                "channelId": "UCc3XrpN068AmS4bUp8kVATw",
+                "title": "KENALI GEJALA PENYAKIT TBC DAN TEMUKAN SOLUSINYA | PROPOLIS PLATINUM",
+                "description": "TBC menjadi penyakit menular yang cenderung banyak dialami terutama bagi yang imunitas tubuhnya lemah. Penyakit TBC ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WB2OAt1M-yQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WB2OAt1M-yQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WB2OAt1M-yQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jein Cristin Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-18T12:26:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wAMfESfF6j4H3eHxYUxUOTFQm7c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iK3liEHSuUM"
+            },
+            "snippet": {
+                "publishedAt": "2019-04-02T05:48:42Z",
+                "channelId": "UCKfDdWy_rJuGIPBhNU5n2bQ",
+                "title": "Obat Alami Untuk Mengobati Penyakit TBC 082340836266 HD",
+                "description": "Obat Alami Untuk Mengobati Penyakit TBC 082340836266 https://youtu.be/iK3liEHSuUM Macam-macam Penyakit Paru-paru dan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iK3liEHSuUM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iK3liEHSuUM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iK3liEHSuUM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Arie nasa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-04-02T05:48:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yIAHBGJPat_IFeH5XmBwi_avZG4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "x5-lEuiDYLs"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-15T04:09:50Z",
+                "channelId": "UCIO70riSUBOrao0Sf5usjnw",
+                "title": "Cara Mengobati Penyakit Tbc Pada Anak",
+                "description": "Cara mengobati penyakit tbc pada anak, obat herbal tbc kulit. Untuk Pemesanan WA/SMS : 085659907770 PIN BB : 5E2A4C31.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x5-lEuiDYLs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x5-lEuiDYLs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x5-lEuiDYLs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bebas Flek",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-04-15T04:09:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rApZD4C_ZXd7jmWFeqkqQ6BVDEQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GQO9ZzWjobs"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-07T04:49:47Z",
+                "channelId": "UC2gw2otSh3-A5HJy_mvqBcg",
+                "title": "Apakah Penyakit Tbc Kelenjar Bisa Sembuh Total| Solusi Tanpa Operasi",
+                "description": "TBC (Tuberkulosis) yang juga dikenal dengan TB adalah penyakit paru-paru akibat kuman Mycobacterium tuberculosis. TBC ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GQO9ZzWjobs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GQO9ZzWjobs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GQO9ZzWjobs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jamu tradisional jawa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-07T04:49:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yJ5buFf3SjOwNipNb0LKMsXA1f0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cbE1lCOr90k"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-18T14:07:14Z",
+                "channelId": "UCBRb_YNEj75Z2vUBrUfgt4g",
+                "title": "Cara jitu Mencegah Penyakit TBC",
+                "description": "Penyakit TBC dapat dicegah dengan menjaga kebersihan diri, lingkungan serta membiasakan diri dengan pola hidup sehat, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cbE1lCOr90k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cbE1lCOr90k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cbE1lCOr90k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rans Roy Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-18T14:07:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2TSLpm4EQIvWHFqNcPK-GgYJtmI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w0ghXr9jh-M"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-17T07:57:34Z",
+                "channelId": "UCpJjKkJSkgULeGD4qGBwzpw",
+                "title": "Obat Detok Paru Paru Untuk Penyakit TBC",
+                "description": "Pengobatan penyakit paru paru, tbc, bronkitis dan radang paru paru obati dengan Paket detok paru paru De Nature. Untuk ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w0ghXr9jh-M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w0ghXr9jh-M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w0ghXr9jh-M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Herbalis De Nature",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-05-17T07:57:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XCS1FSbB0_3liUTq9ZYXYg44dO4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xJYV0Y2S0QA"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-08T09:30:51Z",
+                "channelId": "UC2gw2otSh3-A5HJy_mvqBcg",
+                "title": "Obat Herbal Penyakit Paru Paru Tbc Tanpa Efek Samping",
+                "description": "UNTUK BERKONSULTASI DAN PEMESANAN OBATNYA Hubungi kontak dan WA kami: 082243658800 kami menjual obat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xJYV0Y2S0QA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xJYV0Y2S0QA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xJYV0Y2S0QA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jamu tradisional jawa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-08T09:30:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kzMj_w0MFYZ_KNuKXfrEGeU0ul8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8OvmkvxgjTI"
+            },
+            "snippet": {
+                "publishedAt": "2016-03-29T19:58:16Z",
+                "channelId": "UCjaRDAcadqp10TR1gOtY7uw",
+                "title": "0853-5999-3750 obat penyakit tbc secara alami",
+                "description": "obat penyakit tbc secara alami, menyembuhkan tbc secara alami, pengobatan tbc kelenjar secara alami, cara mengobati tbc ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8OvmkvxgjTI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8OvmkvxgjTI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8OvmkvxgjTI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "rental mobilku",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-03-29T19:58:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5SI7cPQ7URSoOzTKRPcD8Rajn20",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_nBFow2zeqo"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-05T15:13:32Z",
+                "channelId": "UCSO7WcKxL7qS9JfIWVOEUYw",
+                "title": "PENYAKIT TBC BISA SEMBUH SEMPURNA PEGOBATAN GRATIS - DOKTER",
+                "description": "PENYAKIT TBC BISA SEMBUH SEMPURNA PEGOBATAN GRATIS.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_nBFow2zeqo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_nBFow2zeqo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_nBFow2zeqo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ahad Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-04-05T15:13:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GUBIEn7jPSnEOT24Fklvn8D5WAA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_qXMWxf8xCI"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-15T01:17:44Z",
+                "channelId": "UCGA-ISbyh6i5rEpy_-OAT-g",
+                "title": "Testimoni : Penyembuhan Penyakit TBC dgn ikhtiar Melia Propolis berdampingan dgn pengobatan Medis",
+                "description": "Video ini memaparkan tentang khasiat dan penggunaan Melia Propolis berdampingan dengan pengobatan Dokter / Medis untuk ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_qXMWxf8xCI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_qXMWxf8xCI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_qXMWxf8xCI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Musyawir Ilyas",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-15T01:17:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fGflkoU8LqQ_6MNUNEXJQFfzEyw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aoQkALFePT8"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-09T07:44:11Z",
+                "channelId": "UC2gw2otSh3-A5HJy_mvqBcg",
+                "title": "Kenali Tanda Tanda Penyakit TBc Kelenjar| HERBAL AMPUH",
+                "description": "UNTUK BERKONSULTAI DAN PEMESANAN OBATNYA Hubungi kontak dan Wa kami: 082243658800 kami menjual obat herbal ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aoQkALFePT8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aoQkALFePT8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aoQkALFePT8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jamu tradisional jawa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-09T07:44:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3a6wxn4TiWsKXkuTL_tMDYKDMsY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QZxTkvD-x_s"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-17T08:09:26Z",
+                "channelId": "UC2gw2otSh3-A5HJy_mvqBcg",
+                "title": "Obat Penyakit Tbc Kelenjar Di Apotik| SOLUSI HERBAL MANJUR",
+                "description": "UNTUK BERKONSULTAI DAN PEMESANAN OBATNYA Hubungi kontak dan Wa kami: 082243658800 kami menjual obat herbal ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QZxTkvD-x_s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QZxTkvD-x_s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QZxTkvD-x_s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jamu tradisional jawa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-17T08:09:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Jb7uT0iST7vTXWWwoQM5n7vXyJA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rW4yKqo0F2s"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-17T08:23:03Z",
+                "channelId": "UC2gw2otSh3-A5HJy_mvqBcg",
+                "title": "Pengobatan Herbal Untuk Penyakit Tbc Kelenjar Yang Aman",
+                "description": "UNTUK BERKONSULTAI DAN PEMESANAN OBATNYA Hubungi kontak dan Wa kami: 082243658800 kami menjual obat herbal ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rW4yKqo0F2s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rW4yKqo0F2s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rW4yKqo0F2s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jamu tradisional jawa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-17T08:23:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zcBlZeSp8JnExBTKGX0sLUh7gJ0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bUhSHfqTZ0g"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-02T19:46:48Z",
+                "channelId": "UCQPtq4saBp28gB2vuIaAiMw",
+                "title": "0853-5999-3750  cara mengobati penyakit tbc dengan obat tradisional",
+                "description": "cara mengobati penyakit tbc dengan obat tradisional,cara mengobati tbc tanpa obat, cara mengobati tbc pada orang dewasa, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bUhSHfqTZ0g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bUhSHfqTZ0g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bUhSHfqTZ0g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "agen asuransi generali indonesia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-04-02T19:46:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SDu1mQJBR5xfGmWIYcKKP6BptQ0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e0Uz79oWfp0"
+            },
+            "snippet": {
+                "publishedAt": "2019-12-10T11:56:37Z",
+                "channelId": "UC2cbXsLyNEjlo_BoJnktJ8Q",
+                "title": "PENULARAN PENYAKIT TBC YANG HARUS ANDA KETAHUI",
+                "description": "UNTUK BERKONSULTASI DAN PEMESANAN OBATNYA Hubungi kontak dan Wa kami: 0822 4365 8800 De Nature Indonesia ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e0Uz79oWfp0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e0Uz79oWfp0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e0Uz79oWfp0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sehatku alami",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-12-10T11:56:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "u9rOOhsXI2CfnGKdGyjc-H6wNCg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ygXn7BJujbw"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-15T13:30:00Z",
+                "channelId": "UCbqNt9ZpQuTRszU8zrb0A6w",
+                "title": "TESTIMONI BATUK KELUAR DARAH SERTA PENYAKIT TBC SEMBUH DENGAN HERBAL INI",
+                "description": "TESTIMONI BATUK KELUAR DARAH SERTA PENYAKIT TBC SEMBUH DENGAN HERBAL INI TBC (Tuberkulosis) yang juga ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ygXn7BJujbw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ygXn7BJujbw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ygXn7BJujbw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DE NATURE HERBAL SEHAT ALAMI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-15T13:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3toWKLT3rBAmrC0Vh2dXWqrOTK0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H0UEXlINSjY"
+            },
+            "snippet": {
+                "publishedAt": "2020-02-05T06:26:46Z",
+                "channelId": "UCfVmcRVvTq_wiPMC_rn6DgQ",
+                "title": "Riview Bpk Burhanudin- Yang Terkena Penyakit TBC Kelenjar Tiroid Sembuh Dengan Obat Herbal De Nature",
+                "description": "Bpk. Burhanudin telah di vonis Dokter terkena penyakit TBC Kelenjar Tiroid cukup lama dan untuk pengobatan yang cukup mahal ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H0UEXlINSjY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H0UEXlINSjY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H0UEXlINSjY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "windi anggita",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-02-05T06:26:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0QvhusE3cPA2m-V9kgf7qpaIKyk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xtk03RAMlCA"
+            },
+            "snippet": {
+                "publishedAt": "2020-01-08T03:55:29Z",
+                "channelId": "UCuhfSS99m3bcXg0cI3K1iGA",
+                "title": "Dengan Obat Alami Ini Penyakit TBC &amp; Paru Paru Dijamin Sembuh",
+                "description": "Pengobatan yang sangat Kami anjurkan adalah dengan pengobatan herbal de nature indonesia, pengobatan paling aman,cepat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xtk03RAMlCA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xtk03RAMlCA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xtk03RAMlCA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pengobatan Herbal",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-01-08T03:55:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UtyfAYUSR1479UekV4H2A3tcqiY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y23IPPFsai8"
+            },
+            "snippet": {
+                "publishedAt": "2020-01-08T03:45:11Z",
+                "channelId": "UCuhfSS99m3bcXg0cI3K1iGA",
+                "title": "Cukup Minum Obat Alami Ini Penyakit TBC Pasti Sembuh | Buktikan Sendiri",
+                "description": "Penyakit paru-paru akan mudah diobati jika penyakit itu belum terlalu parah, namun sebaliknya jika penyakit paru-paru sudah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y23IPPFsai8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y23IPPFsai8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y23IPPFsai8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pengobatan Herbal",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-01-08T03:45:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uOl-bXCbR7zXbRefCJw3ztBey38",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EvolwmNLcmg"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-08T09:36:06Z",
+                "channelId": "UC2gw2otSh3-A5HJy_mvqBcg",
+                "title": "OBAT UNTUK PENYAKIT PARU PARU DAN TBC AMPUH",
+                "description": "UNTUK BERKONSULTASI DAN PEMESANAN OBATNYA Hubungi kontak dan WA kami: 082243658800 kami menjual obat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EvolwmNLcmg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EvolwmNLcmg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EvolwmNLcmg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jamu tradisional jawa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-08T09:36:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hhq72pOeIrpfHwA6UUOTqoGiiWw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B1mE4j3u-E0"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-06T17:21:32Z",
+                "channelId": "UCBz6x7F7_XMTr6weQiJulsg",
+                "title": "🚼Testimoni Produk kesehatan Melia Propolis, dapat membantu menyembuhkan penyakit TBC &amp; cuci DARAH🚼",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B1mE4j3u-E0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B1mE4j3u-E0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B1mE4j3u-E0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alfonsus Deodatus",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-06T17:21:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZPoV0Se30HkDdnFTc2o8NnIDIfA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "baDNDKZdBGA"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-23T14:07:45Z",
+                "channelId": "UCY3dxA0lL3MAm-NUpz1M5cA",
+                "title": "Kesaksian Melia Propolis menyembuhkan Penyakit-TBC | Penyakit TuBerColose",
+                "description": "Kesaksian Melia Propolis menyembuhkan Penyakit-TBC | Penyakit TuBerColose Kesaksian propolis Kesaksian dari obat propolis ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/baDNDKZdBGA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/baDNDKZdBGA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/baDNDKZdBGA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CHOLIS 234",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-05-23T14:07:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KP5Ozu6V0iaWVHxXvpVxlEGDPHE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IZtG_OvoC8g"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-02T19:35:57Z",
+                "channelId": "UCQPtq4saBp28gB2vuIaAiMw",
+                "title": "0853-5999-3750  cara mengobati penyakit tbc secara medis",
+                "description": "cara mengobati penyakit tbc secara medis, cara mengobati kelenjar tbc di leher,cara mengobati tb laten, cara pengobatan tbc ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IZtG_OvoC8g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IZtG_OvoC8g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IZtG_OvoC8g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "agen asuransi generali indonesia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-04-02T19:35:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5AYbpXMLrqQ61URIpwBFgA7T7tg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9JCiT2d5hBw"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-16T07:40:36Z",
+                "channelId": "UCP4fd8NDU8VqjvgNyQ0UlyA",
+                "title": "CARA MUDAH ATASI PENYAKIT TBC",
+                "description": "Info konsultasu dan pemesanan ( Bisa COD ) : Whatsapp/ Sms/ Telpon ☎️ 0822-2948-3761 Facebook 🖥️ Heru U S    Instagram ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9JCiT2d5hBw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9JCiT2d5hBw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9JCiT2d5hBw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bang De Nature",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-16T07:40:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6-W1hWIhKCZU5pcafaEgVlZDZmU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RECkABZJDio"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-12T02:33:40Z",
+                "channelId": "UC8Qg3YqAOwg6IC0FWDYtWfA",
+                "title": "Khasiat Madu Gurah Untuk Tenggorokan dan Batuk",
+                "description": "Link pembelian : https://shp.ee/pn39gfj Obat Flu Batuk Demam Madu Gurahfit Obat Herbal Sakit Tenggorokan Sesak Nafas ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RECkABZJDio/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RECkABZJDio/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RECkABZJDio/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cerita Dunia Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-12T02:33:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nAImyMtJMn1ldCzGgPhLF0GwdJA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1zDVH_Mpcuw"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-08T11:18:05Z",
+                "channelId": "UCUjf-cDaH1r1UFHduEFveNQ",
+                "title": "HABSPRO UNTUK 72 JENIS PENYAKIT 085283432090",
+                "description": "MANFAAT SUPER HABSPRO*Jadikan Habspro sebagai suplemen kesehatan anda, karena Habspro memiliki manfaat yang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1zDVH_Mpcuw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1zDVH_Mpcuw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1zDVH_Mpcuw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SANTRI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-08T11:18:05Z"
+            }
+        }
+    ]
+}

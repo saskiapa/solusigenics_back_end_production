@@ -1,0 +1,1713 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "8X063JVIXVSyUAWvHnkPHlxqCD0",
+    "nextPageToken": "CPoBEAA",
+    "prevPageToken": "CMgBEAE",
+    "regionCode": "ID",
+    "pageInfo": {
+        "totalResults": 372373,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AtiERInweQuX9KdQoCtoqDusL5Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Sd9RjEM_Ask"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-28T10:09:32Z",
+                "channelId": "UCcbHF1wLDxLkw43pXV44Nkg",
+                "title": "Obat ampuh atasi diare pada kambing 100 persen ampuh",
+                "description": "Diare pada kambing tentu hal sangat berbahaya jika tidak segera di obati.kali ini saya akan membahas cara pengobatan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sd9RjEM_Ask/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sd9RjEM_Ask/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sd9RjEM_Ask/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kempu Bolang",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-28T10:09:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_HUNwm6HwD198kwIxDO2HlCa0-Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zmrtKvhtWkg"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-01T04:07:02Z",
+                "channelId": "UCGTYNHIvma0Efqp5JSVb_TA",
+                "title": "8 Manfaat Daun Jambu Biji | Untuk Demam Berdarah dan Diare",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zmrtKvhtWkg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zmrtKvhtWkg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zmrtKvhtWkg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ATLM Indonesia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-01T04:07:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "k_L2sqYB65I25pB832U7ReZLLeU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qp9d3xJwFJw"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-17T11:46:42Z",
+                "channelId": "UCznmWhNM7_41Kn8FgpX5_zQ",
+                "title": "RUQYAH SAKIT PERUT - KEMBUNG - DIARE -SEMBELIT",
+                "description": "TERAPI RUQYAH UNTUK MENGATASI SEMUA PENYAKIT YANG TERKAIT DENGAN PERUT DAN USUS PUTARLAH VIDEO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qp9d3xJwFJw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qp9d3xJwFJw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qp9d3xJwFJw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TGK. TAUFIQ, S.PD.I",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-17T11:46:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7DvRYtOhqOY0RNDoakzOP_oOm2w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pm4igqrTo6Q"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-06T12:20:54Z",
+                "channelId": "UC9YRO4YQds7m4FVk2SlrRBQ",
+                "title": "Cara Simpel Mengatasi Diare Pada Bayi | Cara Membuat Oralit Sendiri Dirumah | Diare Bayi 6 Bulan",
+                "description": "Saat musim pancaroba balita rawan terkena diare. salah satu cara mengatasinya adalah dengan oralit buatan sendiri. atau jika ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pm4igqrTo6Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pm4igqrTo6Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pm4igqrTo6Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ambar megasari",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-06T12:20:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ecpDtsRDGllgBHkpHprVVlbRaU0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Tz0R4dbK820"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-09T12:30:06Z",
+                "channelId": "UCZF-nsOOgm_VciD2zt-bPXQ",
+                "title": "Alami ! Rempah Untuk Hilangkan Mual , Pusing &amp; Diare - dr. Zaidul Akbar",
+                "description": "Mual dan diare memang tidak enak saat dialami oleh kita bahkan mengganggu aktivitas. Sebelum minum obat kimia alangkah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Tz0R4dbK820/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Tz0R4dbK820/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Tz0R4dbK820/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bisikan.com",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-09T12:30:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J7KkiIX8sTebKYjgNxHzi3mWl6Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9E1jAKLmSyQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-22T10:49:48Z",
+                "channelId": "UC1_KyDGdfxSOnMTY3AmxVbw",
+                "title": "DIARE BOLEHKAH MENYUSUI",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9E1jAKLmSyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9E1jAKLmSyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9E1jAKLmSyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Epple888",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-22T10:49:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MImPcFam9dOvqUXDyQgfM8nVw-k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oJsX13ay6k0"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-01T04:03:25Z",
+                "channelId": "UC7RMKonSGJeS3xgUkYcCUgA",
+                "title": "edukasi penyakit diare | klasifikasi diare |gejala dehidrasi pada anak | penangan pertama pada diare",
+                "description": "halo semuanya! Di video ini, saya dr. niko vebryanto kurniawan kembali dengan edukasi tentang penyakit diare atau ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oJsX13ay6k0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oJsX13ay6k0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oJsX13ay6k0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "niko vebryanto",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-01T04:03:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6w3DMOYY9uk9pggJ5ykcuIXiefY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w1WjDpJ5zU0"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-31T23:39:24Z",
+                "channelId": "UCXPcXy1fghRgqoSZ6dWz7OA",
+                "title": "Tempe Rebus Obat Diare untuk Kucing [Merawat Kucing Himalaya]",
+                "description": "Membuat Tempe Rebus Obat Diare untuk Kucing... dibuat waktu itu karena si rocky sempet mencret, biasa nya kucing terutama ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w1WjDpJ5zU0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w1WjDpJ5zU0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w1WjDpJ5zU0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ROCKY & Friends",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-31T23:39:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2jpux_ItHE_mQVbdVpGVcM7CS2w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hgH-4PA8cEM"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-08T13:51:19Z",
+                "channelId": "UCSV7FgMcSdOWxeSCYCD3UOA",
+                "title": "Nikita Mirzani Diare Habisi Uang Lebih Ratusan Juta Rupiah Liburan ke Eropa",
+                "description": "Nikita Mirzani # NM # Diare https://wartakota.tribunnews.com/2021 WARTA KOTA, JAKARTA - Presenter dan bintang film Nikita ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hgH-4PA8cEM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hgH-4PA8cEM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hgH-4PA8cEM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Warta Kota Production",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-08T13:51:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bauD-9NWV35J1OIRMQ0UxZZjUog",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GfQtVbwvWA8"
+            },
+            "snippet": {
+                "publishedAt": "2019-11-18T07:20:03Z",
+                "channelId": "UC3m94vy-8PMD57iHO3bxzpw",
+                "title": "DIARE",
+                "description": "Semua hal yang berhubungan dengan informasi kesehatan mulai dari informasi terbaru dunia kesehatan, tips kesehatan, hingga ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GfQtVbwvWA8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GfQtVbwvWA8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GfQtVbwvWA8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PODCAST FAST KESEHATAN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-11-18T07:20:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NeRyKeCcK3JSSEF-GKeo-18Pt6Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_nzj0HOfKGA"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-01T12:52:07Z",
+                "channelId": "UC6yVB3-yTM_pHGjgLGk5czQ",
+                "title": "Obat Diare Herbal Paling Manjur Untuk Bayi Mencret , mudah dibuat &amp; bahan pasti ada di dapur bunda",
+                "description": "jika bayi kita sakit akan sangat membingungkan bunda , tapi jangan khawatir kali ini kita akan belajar bersama bagaimana ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_nzj0HOfKGA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_nzj0HOfKGA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_nzj0HOfKGA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mari Belajar Herbal",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-01T12:52:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uTUyG15UG06AKJUIwjjsCsxJoSg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TthaKgGBTGY"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-20T11:35:00Z",
+                "channelId": "UC65gD6qbavvCogJP3G-qIuA",
+                "title": "Cara Mudah Mengobati Domba Diare atau Mencret 100% Ampuh Dengan Cara Ini | Cara Ternak Ghaper",
+                "description": "Cara Mudah Mengobati Domba Diare atau Mencret 100% Ampuh Dengan Cara Ini | Cara Ternak Ghaper #vetways #eduternak ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TthaKgGBTGY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TthaKgGBTGY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TthaKgGBTGY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GHAPER",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-20T11:35:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ciy0VsmLXyAAfpCXoTjhJfHLvpk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gu79EVD5eyY"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-06T05:12:27Z",
+                "channelId": "UCtfSRMH3uBsenh-bAQ_MHzw",
+                "title": "PENYEBAB DIARE PADA KUCING",
+                "description": "Divideo ini dibahas tentang penyebab diare pada kucing, supaya kucing kita terhindar dari penyakit ini. semoga anabul dirumah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gu79EVD5eyY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gu79EVD5eyY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gu79EVD5eyY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dipa Cat",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-06T05:12:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zFe6560C9YybiH_dLe7zlxPQJkA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IDou53gzlDQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-16T05:52:47Z",
+                "channelId": "UCTQ4mayjazd0XdaCh_X8abw",
+                "title": "Faktor Risiko Diare Kronis akibat Konsumsi Makanan, dari Iritasi hingga Radang Usus",
+                "description": "TRIBUN-VIDEO.COM - Banyak orang yang menyepelekan kebersihan saat makan atau minum. Padahal dapat menyebabkan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IDou53gzlDQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IDou53gzlDQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IDou53gzlDQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribun Health",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-16T05:52:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sMrRniaonzUv9P7wQIg2pR-zY_U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NvQUgnsQ80I"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-28T11:10:39Z",
+                "channelId": "UCR8bjJ35zm92Bat9kVBExbg",
+                "title": "KAMBING DIARE||PENYEBAB,GEJALA,MENCEGAH,MENGOBATI DIARE/MENCRET",
+                "description": "pengobatan diare pada kambing yang diare sampai lemas.terutama perbanyak hijauan daun nangkq dan daun jambu biji ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NvQUgnsQ80I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NvQUgnsQ80I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NvQUgnsQ80I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MASEKOTERNAK KAMBINGCHANNEL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-28T11:10:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZYEOMd7xkgmhxiHaKsROUjmzSlg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yjxf5JLXIYg"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-10T00:36:18Z",
+                "channelId": "UCss24P4NEFmWtwaTP9BI0Ew",
+                "title": "Pembuatan Bubur Tempe Untuk Bayi Diare",
+                "description": "Nama :Zyahwa Rezy Aprilia Nur Khafidhoh Nim : C2019115 Kelas :5B Prodi :S1 Keperawatan.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yjxf5JLXIYg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yjxf5JLXIYg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yjxf5JLXIYg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zyahwa Rezy Aprilia Nur Khafidhoh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-10T00:36:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Z-23d6FbwOKMq0OkzUVkJUcTfAU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ii7fBTcLAeo"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-30T10:00:13Z",
+                "channelId": "UCpRz3zWRRoeFup3vdOKSOnQ",
+                "title": "PERTOLONGAN PERTAMA UNTUK KUCING MENCRET DAN DIARE",
+                "description": "Inilah cara mengobati kucing mencret/diare dengan pertolongan pertama yang bisa kamu lakukan di rumah. Agar tidak ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ii7fBTcLAeo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ii7fBTcLAeo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ii7fBTcLAeo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sarangeong",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-30T10:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ag4Iz6M-cY81wfQRY8cMjAvj2Uo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WwGG-BLcZ-Q"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-10T17:21:52Z",
+                "channelId": "UC2_VyjGgK69wC3C8drDavVQ",
+                "title": "Pijat Diare untuk Bayi || Baby Massage for Diare",
+                "description": "Halo semua.... Sudah tahukan kalau ada Natural Therapy untuk diare pada bayi? Jadi pijat diare pada bayi ini dilakukan untuk ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WwGG-BLcZ-Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WwGG-BLcZ-Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WwGG-BLcZ-Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cynthia EAS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-10T17:21:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Zd5-cM_06z3kGhYSWqAcMNjCrBA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AmP8U3onItU"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-14T13:10:52Z",
+                "channelId": "UC4Bdw3ZzYzl2UQ_Y5FwmsuA",
+                "title": "Pengalaman bayi cepat sembuh dari diare dan ruam merah part 2 saat lacto B zinc dan vometa ga mempan",
+                "description": "Pengalaman bayi diare dan ruam merah part 2 saat lacto B zinc dan vometa ga mempan ini lanjutan video bayi diare part 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AmP8U3onItU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AmP8U3onItU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AmP8U3onItU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tan Exclusive pumping Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-14T13:10:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RdA7g3TRwqOTVELMmSQQ-rbAgsQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oFMH9GyIGcY"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-08T03:49:20Z",
+                "channelId": "UCejd8jm9PuAnd__hiqiIc_g",
+                "title": "Cara Ampuh Membuat Minuman Anti Diare dari Daun Jambu Biji",
+                "description": "diare adalah gangguan pencernaan yang diakibatkan karena infeksi virus bakteri atau makanan yang terkontaminasi, diare ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oFMH9GyIGcY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oFMH9GyIGcY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oFMH9GyIGcY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KHD Creative",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-08T03:49:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6NQW1RondDSRHtR_g_fvorrcdwo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "q7DiPAanCvg"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-24T02:21:46Z",
+                "channelId": "UCI7dIR0J-lnJjp2bDAVdutQ",
+                "title": "Makanan untuk kucing mencret/diare ||miu meow",
+                "description": "Makanan untuk kucing mencret/diare ||miu meow adalah tempe dan ikan pindang. Selain mudah di dapat harganya juga ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q7DiPAanCvg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q7DiPAanCvg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q7DiPAanCvg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Miu Meow",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-24T02:21:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c3_p5iuypNaLHjdTPZ7mJec9WLc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "laWh0or9GOo"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-27T09:15:12Z",
+                "channelId": "UCDl_KWrh0HtUTGmWLhmIK3Q",
+                "title": "TERNYATA PROBIOTIK BUKAN OBAT ANTI DIARE. #salahkaprah #mencret",
+                "description": "Masyarakat saat ini hafal, kalau diare, anak akan diberi probiotik atau simbiotik. Apakah benar bahwa probiotik itu obat anti diare ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/laWh0or9GOo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/laWh0or9GOo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/laWh0or9GOo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dokter Bambang UMY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-27T09:15:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aRMpubi-gPWrGqAcsRDWKynDoAY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gPLZyvxoYpU"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-09T13:18:20Z",
+                "channelId": "UCnc1g9pnPAs8krYqSyZP7cQ",
+                "title": "4 Buah Ini Bisa Jadi Obat Diare",
+                "description": "1. Pisang Pisang mengandung potassium yang baik untuk pencernaan dan mengatasi dehidrasi. Vitamin dan kalium digunakan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gPLZyvxoYpU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gPLZyvxoYpU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gPLZyvxoYpU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PORTAL MAJALENGKA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-09T13:18:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "F_nEuf_DQQk2JUt1ALspeiDexv0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S8xWH65hFDE"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-27T02:30:02Z",
+                "channelId": "UCUuKaHi1uRfpzEnKaCfpGtg",
+                "title": "MTBS | DIARE DEHIDRASI BERAT | RINGAN | PERSISTEN | DISENTRI #ukombidan #soalukombidan #DIAREANAK",
+                "description": "Assallamuallaikum temen2, kali ini aku akan bahas tips trik mudah untuk membedakan macam diare pada mtbs untuk ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S8xWH65hFDE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S8xWH65hFDE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S8xWH65hFDE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nova Nita Sari",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-27T02:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KOutBgFxNInZ2HUAaKkYZiEKWFY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OLvO57KCD-g"
+            },
+            "snippet": {
+                "publishedAt": "2020-02-10T06:35:49Z",
+                "channelId": "UC8R8OzIS07_3jo1OfxKRC0w",
+                "title": "Penanganan Diare Pada Anak | Question &amp; Answer | Tanya Dokter Eps 7",
+                "description": "Sakit Diare tidak hanya terkena pada orang dewasa tapi juga dapat terkena pada anak-anak, lalu apa saja yang harus dilakukan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OLvO57KCD-g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OLvO57KCD-g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OLvO57KCD-g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Radio PRFM 107,5 News Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-02-10T06:35:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UUXmQKY-mBJCBlciCrA4H9OLCC4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1GpbcJIonqs"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-05T05:46:00Z",
+                "channelId": "UCzG77IvAxfzt4a6D9VDjK-g",
+                "title": "Cara Mengatasi Bayi Mencret / Diare (Orang Tua Jangan Panik!)",
+                "description": "Cara Mengatasi Bayi Mencret Obat Mencret untuk Bayi #obatdiare #bayidiare #bayidiaregaperluobat #diareanak #anakdiare ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1GpbcJIonqs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1GpbcJIonqs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1GpbcJIonqs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bilal HR",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-05T05:46:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J6X4NgjnR5DfDCcQVUxJaqmrqV4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "65VV05DECxg"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-24T23:01:36Z",
+                "channelId": "UCpAzkAlTch_0t1uD-77t9vw",
+                "title": "Saat Anak Diare dan Muntah-muntah, Ini Yang Orang Tua Harus Ketahui",
+                "description": "Saat ini di tempat saya bertugas, di Kota Sorong sedang banyak kasus anak diare dan muntah. Beberapa anak jatuh ke kondisi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/65VV05DECxg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/65VV05DECxg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/65VV05DECxg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bagus Winandi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-24T23:01:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nz_icnSTEAKZa6_iqMEG0MV7Okk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FcL2XJ2E20Q"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-28T08:00:03Z",
+                "channelId": "UCLpu7av3brCF5mVTQWsHnVg",
+                "title": "Kelas 5 Tema 3 Subtema 2 Pembelajaran 2 | Penyebab Diare | Media Pembelajaran",
+                "description": "Hai hai hai~ Di video kali ini aku mau membahas tentang media pembelajaran di sd. Dwngan berlakunya kurikulum 2013 maka ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FcL2XJ2E20Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FcL2XJ2E20Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FcL2XJ2E20Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Devinta Firdana",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-28T08:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6jcZqwu0zOd0RSUyywWu55FVj40",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Md0kCZglEQU"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-09T11:00:22Z",
+                "channelId": "UCE1Q2IYb_77TU-PwKHcmpEQ",
+                "title": "🔥 11 Obat Diare Anak Dari Bahan Alami Tanpa Efek Samping - Obat Mencret Alami Untuk Anak",
+                "description": "Pernahkah Bunda menghadapi anak yang tengah sakit diare? Ketika si kecil mengalami diare tersebut, umumnya menjadi lemas, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Md0kCZglEQU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Md0kCZglEQU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Md0kCZglEQU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Madu 369 - Spesialis Anak Susah Makan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-09T11:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xdeD7yEz_Mmyk3H7hATz7tG_7Ic",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H87dEAWZW9Y"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-03T12:29:37Z",
+                "channelId": "UCzj7oeE933WdIHNWb1KWbEw",
+                "title": "PROBIOTIK aja ngga mempan untuk diare anak!!!",
+                "description": "Buibu dateng ke klinik nanya: dok anak saya diare udah saya kasih probiotik kok ga berhenti diarenya??? Untuk video lain: Anak ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H87dEAWZW9Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H87dEAWZW9Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H87dEAWZW9Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lucky Yogasatria Sp.A",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-03T12:29:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GJm1kwETEr2FK9Cm06oSEpSS7mg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p_8AeRREDUk"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-21T14:17:07Z",
+                "channelId": "UCeSttfq77nwRA36-0qWRZ2A",
+                "title": "ASKEP DIARE PADA ANAK - SDKI, SIKI, SLKI",
+                "description": "Pedoman untuk askepnya menggunakan SDKI, SIKI, SLKI.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p_8AeRREDUk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p_8AeRREDUk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p_8AeRREDUk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DR. NP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-21T14:17:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7uR0bgZbhx5nELE351_a_EqzjLw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O50dHrgY4e4"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-20T14:45:16Z",
+                "channelId": "UCKfuIKFw9GS18twqKOdFXeg",
+                "title": "OBAT DIARE BAYI DAN ANAK | Apoteker Ana",
+                "description": "Tidak perlu panik saat anak mengalami diare, coba dengan 3 produk ini untuk pertolongan pertama pada anak yang diare.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O50dHrgY4e4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O50dHrgY4e4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O50dHrgY4e4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Maria Ana Mustika",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-20T14:45:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mYMpaWnGHKoMvzUcOWrig2wDMlY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XEeT6-zlpkI"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-30T12:02:54Z",
+                "channelId": "UCCglvc8sEb4h01-9BIvC2GQ",
+                "title": "hal-hal yang tidak boleh di lakukan ketika kucing mencret / diare",
+                "description": "hayy teman-teman di video aku kali ini aku mau berbagi hal-hal apa saja yang tidak boleh dilakukan ketika kucing kita mencret ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XEeT6-zlpkI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XEeT6-zlpkI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XEeT6-zlpkI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "menong and friends",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-30T12:02:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FBSCU8YSGRbfDlOCFZHpdCXPlGQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xU_TNVDY5k4"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-02T02:38:55Z",
+                "channelId": "UCSkgKNtPcL1-LB0hDfQ77GA",
+                "title": "Masak minuman  untuk diare",
+                "description": "Minuman sehat untuk anak yang lagi sakit yang tidak mau makan,Masak minuman ini cocok untuk pengganti sufor disaat anak ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xU_TNVDY5k4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xU_TNVDY5k4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xU_TNVDY5k4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dewi Mahar 14",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-02T02:38:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jJcEb3wuA0_mSefNDhIGKoqVarA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jKxy0OrZ-DE"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-22T06:16:50Z",
+                "channelId": "UCCaOOJzaziIup1HLUL1V4tg",
+                "title": "cara mengobati kucing mencret/diare",
+                "description": "Info Adopsi, Follow Instagram bubulusi : https://www.instagram.com/bubulusicats Dan save wa admin bubulusi 089625203322 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jKxy0OrZ-DE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jKxy0OrZ-DE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jKxy0OrZ-DE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "bubulusi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-22T06:16:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GUmqoUj8VSnYkt20dI1ZxhIHmkc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lQY47L3Eyfs"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-02T03:43:16Z",
+                "channelId": "UCiuvLpTqJliOGJDImJ7Yd9Q",
+                "title": "12  dayu, meli, siti dirawat dirumah sakit karena sakit diare",
+                "description": "JUDUL : Dayu meli dan Siti dirawat di rumah sakit karena diare. Dayu minum obat setiap 4 jam sekali, meli minum obat 5 jam ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lQY47L3Eyfs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lQY47L3Eyfs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lQY47L3Eyfs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bimbel Demos",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-02T03:43:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fpJdQmUK4gH5meWJQ8rZH9BP1u4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h0K1AnNDTZY"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-11T01:44:24Z",
+                "channelId": "UC1eCyF7hMp7LlpTQV7g1oVg",
+                "title": "Rebusan daun jambu biji obati diare parahku",
+                "description": "Rebusan daun jambu biji obati diare parahku 4 daun jambu biji Air #rebusandaunjambubiji #jambubiji #whiteguava ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h0K1AnNDTZY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h0K1AnNDTZY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h0K1AnNDTZY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "N Jannah",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-11T01:44:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QSl4MwCgf4lydi_E69BimOWRDlg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2gulWQlIAG4"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-08T01:15:00Z",
+                "channelId": "UCmzXj_RkL8fafUwSe734LjA",
+                "title": "CARA MENGATASI KUCING MENCRET DAN TIDAK MAU MAKAN | OBAT KUCING DIARE",
+                "description": "Assalamualaikum wr. wb. Kali ini Rin Tans buat video CARA MENGATASI KUCING MENCRET DAN TIDAK MAU MAKAN ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2gulWQlIAG4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2gulWQlIAG4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2gulWQlIAG4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rin Tans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-08T01:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Lxk_8LYxxVK92dBkqT5mEWMlajY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5TSeKdUSfJ4"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-27T06:34:55Z",
+                "channelId": "UC8MFbNSnMu3Etttl0rln-VQ",
+                "title": "Cara Mengobati Kucing Mencret / Diare",
+                "description": "Assalamualaikum.... Hai CL..!! Diare pada kucing umumnya disebabkan dari perubahan makanan, namun bisa juga karena ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5TSeKdUSfJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5TSeKdUSfJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5TSeKdUSfJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Afiat Arifin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-27T06:34:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_ozRqrXGV4Vfp5boB-WwKhqkdhk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pRQwP9TI-7Q"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-19T18:28:31Z",
+                "channelId": "UCCY9T9_cxeok5BLAAj37r9Q",
+                "title": "Asuhan keperawatan anak dengan Diare",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pRQwP9TI-7Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pRQwP9TI-7Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pRQwP9TI-7Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Penta Zuchruf",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-19T18:28:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c2zMZ4YrL_cylObDWnUYjpI3KUk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6pYu5L8NIY8"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-22T04:27:58Z",
+                "channelId": "UC7JRcNEDwiIMfmyQ_LIgn7A",
+                "title": "Buah Salak Bisa Mengatasi Diare, Berikut Langkah Tepat Atasi Diare",
+                "description": "Subscribe Youtube Bandung TV offfical dan Bandung TV News ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6pYu5L8NIY8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6pYu5L8NIY8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6pYu5L8NIY8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bandung TV Entertainment",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-22T04:27:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y4nMmJDkLuDFGgF4A1LgdjSVz_s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vHqr2y5lUEU"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-23T05:28:08Z",
+                "channelId": "UCj-w0Q9_f-9pnSa2s2_LC0w",
+                "title": "Merawat kucing diare dan cacingan",
+                "description": "merawat kucing mencret, diare, cacingan, bab berdarah, bab lendir, muntah.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vHqr2y5lUEU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vHqr2y5lUEU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vHqr2y5lUEU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kucing kak icis",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-23T05:28:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "G1jnF4lsfbS--bDASZPd0KbRXz4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C_HyTnmqcoc"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-23T12:00:13Z",
+                "channelId": "UCQxRJUgfM6fH69nrv3Fj-Ug",
+                "title": "C1 - Kenali dan Cegah DIARE / Mencret - TIPS untuk ANAK SEKOLAH",
+                "description": "Terima kasih telah menonton video kami, Untuk informasi lebih lengkap tentang Fakultas Kedokteran Universitas Alkhairaat, Palu ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C_HyTnmqcoc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C_HyTnmqcoc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C_HyTnmqcoc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fakultas Kedokteran Universitas Alkhairaat",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-23T12:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3n97rt5PWB3Q7h3kd87Ne4nsozM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_w9f8POsxbw"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-21T05:51:01Z",
+                "channelId": "UC0u71cf5KAsKgRF8MY90X8w",
+                "title": "7 PENYEBAB KUCING DIARE | PAHAMI PENYEBAB KUCING DIARE TERUS MENERUS &amp; CARA MENGOBATI KUCING MENCRET",
+                "description": "7 PENYEBAB KUCING DIARE | PAHAMI PENYEBAB KUCING DIARE TERUS MENERUS & CARA MENGOBATI KUCING ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_w9f8POsxbw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_w9f8POsxbw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_w9f8POsxbw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "puspusmiaw",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-21T05:51:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "j90CKHEJCvkoRwidw77iDygaCnc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6awTQwMT-RE"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-03T10:00:07Z",
+                "channelId": "UC02azBTcaHaTv4UcXYPrXww",
+                "title": "PERTAMA KALI 12 JAM PUASA + DIARE",
+                "description": "Vlog William CS!! Jangan lupa untuk klik Like, Subscribe, dan Share! Share video ini ke teman\" kalian yang membutuhkan kasih ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6awTQwMT-RE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6awTQwMT-RE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6awTQwMT-RE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "William CS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-03T10:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-OaX3FUaAh1z6wa7nTftP7cK89Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z4mdlLn-BMg"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-15T00:00:12Z",
+                "channelId": "UC4CkTwFnsctOgIsRL3xB4-w",
+                "title": "Doa Sakit Diare - Untuk Anak Yang Sakit Perut dan Gangguan Pencernaan",
+                "description": "Jangan Hanya Obat! Panjatkan Doa Ini | Doa Untuk Anak Yang Sakit Diare dan Gangguan Pencernaan #rahasiadoa #doa ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z4mdlLn-BMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z4mdlLn-BMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z4mdlLn-BMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rahasia Doa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-15T00:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HnXTsk1JFdPl1leIAcQrrvr2fLM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HbOuG3mKN3E"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-15T07:16:02Z",
+                "channelId": "UCUbhcTfW82bE7WFd7d3US-w",
+                "title": "Pencegahan DIARE dengan CTPS",
+                "description": "VIDEO PROMKES JUDUL \"Pencegahan DIARE dengan CTPS\" KELOMPOK 3 SEMESTER 5A Tahun Ajaran 2021/2022 Tema ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HbOuG3mKN3E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HbOuG3mKN3E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HbOuG3mKN3E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kesling Magetan POLKESBAYA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-15T07:16:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vl6afr4LEHO_Fj7qu5e-ZCRz7t0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Z-bLERkiLmA"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-31T05:11:17Z",
+                "channelId": "UCUTQSmkA8i7vkdvDQaxqTyA",
+                "title": "CARA MENGATASI DIARE KRONIS DAN AKUT",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z-bLERkiLmA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z-bLERkiLmA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z-bLERkiLmA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TAUFIK MASRURI CHENEL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-31T05:11:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fe2tgrK5JcSdFhGey7-LKuNAnxY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uhT9UBX-7sQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-29T08:45:16Z",
+                "channelId": "UCg8iDXQydbhyDaLW5UpdVsA",
+                "title": "Gejala dan Penyebab Usus Buntu dan Diare",
+                "description": "Gejala dan Penyebab Usus Buntu dan Diare Salah satu penyakit yang sering terjadi berkaitan dengan organ tubuh Usus adalah, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uhT9UBX-7sQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uhT9UBX-7sQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uhT9UBX-7sQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FAN TV WIKI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-29T08:45:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vfMMyDLFF57b8Xk7KWd9Cdx7BKg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NtBRR323HIE"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-02T04:00:12Z",
+                "channelId": "UClF9FzBM499EujCDYxGZl4g",
+                "title": "PRANK - MASAKIN SUAMI DIKASIH GARAM 2 SENDOK SAMPAI SAKIT PERUT &amp; DIARE !!! VIDEO LUCU NGAKAK",
+                "description": "funny #ngakak #mipazhuzhuzhu PRANK - MASAKIN SUAMI DIKASIH GARAM 2 SENDOK SAMPAI SAKIT PERUT & DIARE !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NtBRR323HIE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NtBRR323HIE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NtBRR323HIE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mipa zhuzhuzhu",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-02T04:00:12Z"
+            }
+        }
+    ]
+}

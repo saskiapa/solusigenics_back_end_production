@@ -1,0 +1,1713 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "IYvGZVx2R0q1bXlemLfhNwZ3qWE",
+  "nextPageToken": "CJYBEAA",
+  "prevPageToken": "CGQQAQ",
+  "regionCode": "ID",
+  "pageInfo": {
+      "totalResults": 75653,
+      "resultsPerPage": 50
+  },
+  "items": [
+      {
+          "kind": "youtube#searchResult",
+          "etag": "weFo87-9vjiOBTcdO7w9DxHACeo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "-L-TCqQDx-w"
+          },
+          "snippet": {
+              "publishedAt": "2019-01-21T09:01:28Z",
+              "channelId": "UCm_PV0_88-WCeIRrBtiuhww",
+              "title": "Penanganan Kanker Usus Besar Dengan Bedah Minimal Invasif - Healthtalk Bethsaida Hospitals",
+              "description": "Disaat orang yg terkasih mengalami kejadian yang mengacam nyawanya, penangan dini sudah menjadi sebuah prioritas utama.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/-L-TCqQDx-w/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/-L-TCqQDx-w/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/-L-TCqQDx-w/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Bethsaida Hospitals",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-01-21T09:01:28Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Z8haVyI4dJm_FxevNZJrSunvhsg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "IWiqmeW_FY0"
+          },
+          "snippet": {
+              "publishedAt": "2018-08-31T04:04:54Z",
+              "channelId": "UC9dDO1-3TEcwVEFqhsMGAuw",
+              "title": "yang Perlu Di Perhatikan Dalam Penyembuhan Usus Buntu",
+              "description": "benny indrajaya Hai jumpa lagi dengan saya   Subscribe www.youtube.com/bennyindrajaya. video ini ditujukan untuk ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/IWiqmeW_FY0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/IWiqmeW_FY0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/IWiqmeW_FY0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "benny indrajaya",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-08-31T04:04:54Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "TFnDr4N66Mow63WtY8LB4p97Jg4",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "36P-oC7RJPI"
+          },
+          "snippet": {
+              "publishedAt": "2021-07-08T09:43:09Z",
+              "channelId": "UCeD9PaKD0BoOy1QrWl7zd3Q",
+              "title": "GEJALA USUS BUNTU DAN CARA MENANGANINYA TANPA OPERASI!",
+              "description": "tips #ususbuntu #tanpaoperasi Thanks To ; Good Love by Vendredi https://soundcloud.com/vendrediduo Creative Commons ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/36P-oC7RJPI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/36P-oC7RJPI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/36P-oC7RJPI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Ajik Ute Channel",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-07-08T09:43:09Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "iu5f_-Va0EpWRlxcDz6FqZQtVNU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "lsi9uw6CRM8"
+          },
+          "snippet": {
+              "publishedAt": "2016-12-21T09:31:57Z",
+              "channelId": "UC7VMGqAcnnEc4i1S_6xcynA",
+              "title": "7 Gejala Awal Usus Buntu",
+              "description": "7 Gejala Awal Usus Buntu.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/lsi9uw6CRM8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/lsi9uw6CRM8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/lsi9uw6CRM8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "YT Info",
+              "liveBroadcastContent": "none",
+              "publishTime": "2016-12-21T09:31:57Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "86ARzBd8kk_T8Rnsy8evtYaxI7Y",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "CezwZxgBFtU"
+          },
+          "snippet": {
+              "publishedAt": "2016-10-20T12:41:21Z",
+              "channelId": "UCCN3fo_5qhyKe0YvUub7--w",
+              "title": "Pencegahan Penyakit Usus Buntu",
+              "description": "Penjelasan oleh dr. Riyan Wahyudo.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/CezwZxgBFtU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/CezwZxgBFtU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/CezwZxgBFtU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "anapuspita sari",
+              "liveBroadcastContent": "none",
+              "publishTime": "2016-10-20T12:41:21Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "KaaLobBYBv3iAd4K1Y6nhK66kfU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "bAnH8Ft5PIc"
+          },
+          "snippet": {
+              "publishedAt": "2019-02-11T02:54:16Z",
+              "channelId": "UCjkvpFAHFL4NfrTMzej0d0g",
+              "title": "WAJIB TAU!!  Inilah tanda dan gejala usus buntu yang paling khas",
+              "description": "Hallo semua Ini merupakan tanda tanda usus buntu Buat semua nya harus jaga kesehatannya yaa Terimakasih.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/bAnH8Ft5PIc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/bAnH8Ft5PIc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/bAnH8Ft5PIc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Official Alami",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-02-11T02:54:16Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "vKtFPPEoOCuUY3J2TLHmmIuQ-CI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ALP4JDaaXMk"
+          },
+          "snippet": {
+              "publishedAt": "2019-09-25T09:41:29Z",
+              "channelId": "UCtf5ewb0-vg6vtI2FCBt5YA",
+              "title": "Cara Mengetahui Usus Buntu Secara Tepat",
+              "description": "Cara Mengetahui Usus Buntu Secara Tepat Cara Mengetahui Usus Buntu Secara Tepat Cara Mengetahui Usus Buntu Secara ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ALP4JDaaXMk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ALP4JDaaXMk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ALP4JDaaXMk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Azzami TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-09-25T09:41:29Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "4hgHd7TlL7hQlECFxlvtitEf9Fs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "mFAuFMjxF8U"
+          },
+          "snippet": {
+              "publishedAt": "2022-01-25T11:46:04Z",
+              "channelId": "UC7yA3gzd_YZgb-MIuKM_rLQ",
+              "title": "4 Faktor Risiko Usus Buntu yang Umum Dialami",
+              "description": "Penyakit usus buntu bisa terjadi pada siapa saja. Cari tahu apa saja faktor risiko yang umum dialami pada video di atas, ya!",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/mFAuFMjxF8U/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/mFAuFMjxF8U/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/mFAuFMjxF8U/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Halodoc",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-01-25T11:46:04Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "RhDnLh1yRpZJnlRrWucyN1WEGbg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "rOXz8cGqG_A"
+          },
+          "snippet": {
+              "publishedAt": "2021-11-07T10:38:09Z",
+              "channelId": "UCkGq2p7CTvQX4INqlP3WUrw",
+              "title": "DOKTER WIDI Menjawab Tentang USUS BUNTU | USUS BUNTU HARUS OPERASI?",
+              "description": "MIE INSTAN, JAMBU BIJI, BIJI CABAI MENYEBABKAN USUS BUNTU? Usia muda bisa terkena usus buntu? Ciri Dan Gejala ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/rOXz8cGqG_A/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/rOXz8cGqG_A/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/rOXz8cGqG_A/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Dokter Widi",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-11-07T10:38:09Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "kBydQh7jytgRW_qR_zT1iK9w89o",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Qrh5h5NlPOQ"
+          },
+          "snippet": {
+              "publishedAt": "2021-10-06T16:43:56Z",
+              "channelId": "UCJchV7TcFp_QC10554DSIQA",
+              "title": "Usus Buntu (Apendisitis)",
+              "description": "Tugas Individu Mata Kuliah Dasar Biomedik Nama : Khadijah Attairah NIM : 2111211049 Kelas : A3 Penyakit usus buntu adalah ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Qrh5h5NlPOQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Qrh5h5NlPOQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Qrh5h5NlPOQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Khadijah Attairah",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-10-06T16:43:56Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "_fG9hX1H3CCQOoSqMyoBqkWtPMc",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "f6bjmqolqxo"
+          },
+          "snippet": {
+              "publishedAt": "2021-07-14T06:51:03Z",
+              "channelId": "UChq7NDxIkiwKCFRt6Qmn-Bw",
+              "title": "dr. Agus Rahmadi -  Penyebab rasa sakit pasca operasi usus buntu",
+              "description": "Ayo bergabung dengan Komunitas Sahabat Sehat ! klik link dibawah ini : http://bit.ly/sahabatsehatUmmatTV Kunjungi website ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/f6bjmqolqxo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/f6bjmqolqxo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/f6bjmqolqxo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "UmmatTV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-07-14T06:51:03Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "PlJiqVojmdA9g1u8Wh49SnyBS9g",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "QtZiigftzN0"
+          },
+          "snippet": {
+              "publishedAt": "2019-12-22T11:09:40Z",
+              "channelId": "UCSUxkgJuL8_E70ym2IAZAOA",
+              "title": "Adakah Obat untuk RADANG USUS BESAR?  Dr  Zaidul Akbar menjawab",
+              "description": "Uraiannya tentang kesehatan pada 17 Desember 2019, di masjid Al Ikhlas komplek Karang Tengah Permai Ciledug kemarin ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/QtZiigftzN0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/QtZiigftzN0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/QtZiigftzN0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "ATOSASTRO Channel",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-12-22T11:09:40Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "7Q-k2IuoSDPuj1CyMKRku4h2Pms",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "X9ZmDgNx0cc"
+          },
+          "snippet": {
+              "publishedAt": "2022-02-01T09:22:30Z",
+              "channelId": "UC13F--w8Y95yjWRvRGPgYug",
+              "title": "Ini Gejala yang Dirasakan Jimin saat Covid-19 Sekaligus Usus Buntu",
+              "description": "TRIBUNNEWSBOGOR.COM - Salah satu member BTS, Jimin, baru saja menjalani operasi radang usus buntu akut pada Senin ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/X9ZmDgNx0cc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/X9ZmDgNx0cc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/X9ZmDgNx0cc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Tribun Bogor Travel",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-02-01T09:22:30Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "LdYDEuBMVMSB1FlENOwnWEruz5c",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "CDs9jQZr28Q"
+          },
+          "snippet": {
+              "publishedAt": "2022-02-16T04:08:53Z",
+              "channelId": "UCXvwMGn8EepFOEY4RYIJFFw",
+              "title": "Gejala Usus Buntu Yang Perlu Diwaspadai",
+              "description": "Motivasikes #GejalaUsusBuntuYangPerluDiwaspadai #TandaDanGejalaUsusBuntu #ObatTerbaik #ObatSakitGigi #ObatBatuk ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/CDs9jQZr28Q/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/CDs9jQZr28Q/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/CDs9jQZr28Q/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Andi Azis",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-02-16T04:08:53Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "blO5IF_xK3cCJsGaHNTG18eEWGU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "8lmJ64qyHuw"
+          },
+          "snippet": {
+              "publishedAt": "2022-01-21T03:52:29Z",
+              "channelId": "UCyS-Rvb4P5fzo-P9j6ANzZg",
+              "title": "Waspadai gejala usus buntu !",
+              "description": "Apa gejala usus buntu ? Anda mungkin sudah tidak asing dengan penyakit usus buntu. Namun jarang diantara anda yang ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/8lmJ64qyHuw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/8lmJ64qyHuw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/8lmJ64qyHuw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "dr. Cahyo EDUKES",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-01-21T03:52:29Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "dndVaNIvUbXna4lf5TJTwrJ3BsI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ETLVlI0dfsk"
+          },
+          "snippet": {
+              "publishedAt": "2019-04-29T11:36:10Z",
+              "channelId": "UCIY5GKVE1D-ljmUfXNH7bIQ",
+              "title": "PENYAKIT USUS BUNTU",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ETLVlI0dfsk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ETLVlI0dfsk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ETLVlI0dfsk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Nanda Nohu",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-04-29T11:36:10Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "iSunZZZ8x_6TlPnivSAZnUegLpA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "g69Atdumt8Y"
+          },
+          "snippet": {
+              "publishedAt": "2022-02-12T07:56:57Z",
+              "channelId": "UClOOgtYeA1VFgvV8FFAvifQ",
+              "title": "Gejala Usus Buntu #shorts #tiktok #tips #motivasi #kesehatan #edukasi #viral #trending #video",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/g69Atdumt8Y/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/g69Atdumt8Y/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/g69Atdumt8Y/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "PENDIDIKAN",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-02-12T07:56:57Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "i0QOPEsYsxkT6uU4-Cdf3PM-_dw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "-vGQq-fvJac"
+          },
+          "snippet": {
+              "publishedAt": "2019-08-02T19:24:23Z",
+              "channelId": "UCI8Z7tt6Q_0nXr0UMJSO9Xg",
+              "title": "Penyakit Usus Buntu (Appendicitis)",
+              "description": "Sebelum menjawab pertanyaan masyarakat, Dokter Spesialis menjelaskan sedikit mengenai penyakit Usus Buntu.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/-vGQq-fvJac/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/-vGQq-fvJac/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/-vGQq-fvJac/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "RSUD Sangkulirang",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-08-02T19:24:23Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "lxEAA26hxpq5d394hUCyHR9l004",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Z1IRySJrV74"
+          },
+          "snippet": {
+              "publishedAt": "2020-07-13T03:21:54Z",
+              "channelId": "UCrnf_AGvXWZev6HIlBvzN3Q",
+              "title": "Pengalaman Operasi Usus Buntu - Gejala Awal, Diagnosa, Obat, Makanan Pantangan, Pemulihan, Sembuh",
+              "description": "Pengalaman Operasi Usus Buntu - Gejala Awal, Diagnosa, Obat, Makanan Pantangan, Pemulihan, Sembuh. Usus buntu ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Z1IRySJrV74/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Z1IRySJrV74/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Z1IRySJrV74/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Mayawa Gi",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-07-13T03:21:54Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "3syfnVd27r7pzGEikK2y1SjaVYk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ofDj2cz-yLY"
+          },
+          "snippet": {
+              "publishedAt": "2017-02-03T09:08:25Z",
+              "channelId": "UCSwrs8WKSqCLy6Xua-1sA7w",
+              "title": "Penyakit Usus Buntu Atau Appendicitis",
+              "description": "Edukasi Kesehatan Tentang Penyakit Usus Buntu Atau Appendicitis. Kunjungi website kami di www.binahusada.com ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ofDj2cz-yLY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ofDj2cz-yLY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ofDj2cz-yLY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "marketing rsbh",
+              "liveBroadcastContent": "none",
+              "publishTime": "2017-02-03T09:08:25Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "PRqN5RbV9rqQbSrSnpCpGRUR_jI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "lCXH1WPr2Ps"
+          },
+          "snippet": {
+              "publishedAt": "2019-11-16T11:55:19Z",
+              "channelId": "UCtf5ewb0-vg6vtI2FCBt5YA",
+              "title": "Persiapan Sebelum Usg Perut!!! Untuk Melihat Usus Buntu, Batu Ginjal, Rahim, Liver, Empedu, Prostat.",
+              "description": "Persiapan Sebelum Usg Perut Untuk Melihat Usus Buntu Edukasi sebelum pemeriksaan usg berlangsung Usg harus puasa 4 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/lCXH1WPr2Ps/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/lCXH1WPr2Ps/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/lCXH1WPr2Ps/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Azzami TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-11-16T11:55:19Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "U0HyDAYZKL7QCU3DZv3nUYewFCE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ZZwRHBlO5ro"
+          },
+          "snippet": {
+              "publishedAt": "2018-07-16T08:54:16Z",
+              "channelId": "UCzTlGbETak1uwQnbkYKZe_w",
+              "title": "Usus Buntu - Penyebab - Fakta &amp; Mitos  : Dr. Handy Wing Sp.B, FBMS, FIBC, FICS",
+              "description": "Dr. Handy Wing Sp.B, FBMS, FIBC, FICS memberikan pencerahan yang sangat bermanfaat mengenai penyakit usus buntu, ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ZZwRHBlO5ro/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ZZwRHBlO5ro/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ZZwRHBlO5ro/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Halosehat",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-07-16T08:54:16Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "1VSejyrFSbkJ4mEAZuTUYHV6irc",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "6u4YwUmbsLE"
+          },
+          "snippet": {
+              "publishedAt": "2018-09-25T05:58:48Z",
+              "channelId": "UCh5UCB8m-2S7L58jbfQsh4g",
+              "title": "Cara Mengatasi Usus Buntu Di Rumah",
+              "description": "Video kali ini tentang cara mengatasi usus buntu di rumah. Mengobati usus buntu harus dilakukan lewat konsultasi dan tindakan ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/6u4YwUmbsLE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/6u4YwUmbsLE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/6u4YwUmbsLE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Sehat Secara Alami",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-09-25T05:58:48Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "cvJGe4-oYJZoWGtVVnHADj3LiaQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "T1hnCCFQsjE"
+          },
+          "snippet": {
+              "publishedAt": "2020-10-22T06:18:03Z",
+              "channelId": "UCRX_nOkr0ofyL2Pxh-LKkdA",
+              "title": "Penyakit usus buntu !!!!",
+              "description": "Hallo teman-teman,di vidio kali ini saya akan membahas tentang penyakit appendisitis atau yang dikenal dengan penyakit usus ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/T1hnCCFQsjE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/T1hnCCFQsjE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/T1hnCCFQsjE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Rhya RR love",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-10-22T06:18:03Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "QN491j_Wx1eR6BPivLwzs7DJBJQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "9DjTU7kjrPo"
+          },
+          "snippet": {
+              "publishedAt": "2021-06-10T21:51:32Z",
+              "channelId": "UCNi8EcJz1GtWt-dA2OmfwxQ",
+              "title": "TANDA DAN GEJALA USUS BUNTU",
+              "description": "Usus buntu adalah peradangan yang terjadi pada usus buntu atau appendiks. Usus buntu merupakan organ berbentuk kantong ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/9DjTU7kjrPo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/9DjTU7kjrPo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/9DjTU7kjrPo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Dokter Jul",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-06-10T21:51:32Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "yRe6HVUyGZWvD_dRLhDensYeruE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "V7xMbwObMeQ"
+          },
+          "snippet": {
+              "publishedAt": "2021-10-14T11:28:40Z",
+              "channelId": "UCTQ4mayjazd0XdaCh_X8abw",
+              "title": "Bahaya Konsumsi Obat Maag untuk Mengatasi Gejala Usus Buntu, Begini Penjelasan dari Dokter",
+              "description": "TRIBUNHEALTH.COM - Penyakit radang usus buntu merupakan penyakit yang serius. Seseorang yang menderita kondisi ini ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/V7xMbwObMeQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/V7xMbwObMeQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/V7xMbwObMeQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Tribun Health",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-10-14T11:28:40Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "qIkfGQ0zBRjU6el5vU46J9TtA3A",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "6Sq-4833JmM"
+          },
+          "snippet": {
+              "publishedAt": "2016-10-26T02:14:46Z",
+              "channelId": "UCMQjNRmDbsa-WfbEnUsN1oQ",
+              "title": "Apenditis Yang Membuat Meringis - Raphael Operasi Usus Buntu",
+              "description": "Hari jumat pagi 21 Okt 2016, Raphael merasa sakit di bagian perut dan meminta untuk dibawa ke dokter. Di tempat dokter anak ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/6Sq-4833JmM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/6Sq-4833JmM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/6Sq-4833JmM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Raphael Tube",
+              "liveBroadcastContent": "none",
+              "publishTime": "2016-10-26T02:14:46Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "rundq18GtN8pULxh8yUbVKYEeNU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "pV1kncZoDlA"
+          },
+          "snippet": {
+              "publishedAt": "2021-12-29T03:00:12Z",
+              "channelId": "UCh5UCB8m-2S7L58jbfQsh4g",
+              "title": "6 Gejala Usus Buntu pada Anak yang Harus Diwaspadai",
+              "description": "Buat temen-temen yang punya anak yang doyan pedes, hati-hati takutnya terjadi radang usus buntu. Usus buntu adalah penyakit ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/pV1kncZoDlA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/pV1kncZoDlA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/pV1kncZoDlA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Sehat Secara Alami",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-12-29T03:00:12Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "pOKzip55KTCxtBGMMXBAgvXHWVI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "RnaatDQj6p8"
+          },
+          "snippet": {
+              "publishedAt": "2022-01-07T15:02:35Z",
+              "channelId": "UCnCkaCA5fgKOCp_wyK3j0Nw",
+              "title": "Mitos dan Fakta Seputar Penyakit Usus Buntu #ususbuntu #apendicitis",
+              "description": "Hello guys, kali ini aku akan bahas tentang Mitos dan fakta seputar penyakit usus buntu, disimak baik-baik yaa :) Jangan lupa like ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/RnaatDQj6p8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/RnaatDQj6p8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/RnaatDQj6p8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Sumartini Ayuni",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-01-07T15:02:35Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "z5dT2S-c8yKxekDWVuqXhKUppcY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Cd4SXGZCIiU"
+          },
+          "snippet": {
+              "publishedAt": "2019-12-19T05:30:04Z",
+              "channelId": "UCgpnh5DnZnousJAuUmxTvJw",
+              "title": "Perbedaan Sakit Perut karena Gas, Usus Buntu atau Batu Ginjal",
+              "description": "ususbuntu #penyebabususbuntu #bahayasakitperut.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Cd4SXGZCIiU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Cd4SXGZCIiU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Cd4SXGZCIiU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Ismi TV New",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-12-19T05:30:04Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Td3-fyE0iLPOWvNAHI6DdgeQgmI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "hOwj14HMDUU"
+          },
+          "snippet": {
+              "publishedAt": "2020-11-25T12:22:37Z",
+              "channelId": "UCbifNrDwRL-o3W7jvrKioNg",
+              "title": "Mengapa bisa sakit usus buntu, Gejalanya apa aja... Sebelum dan sesudah operasi usus buntu...",
+              "description": "Hai teman- teman .. Di vlog ini, aku akan bercerita .. Pengalamanku divonis sakit usus buntu .. Gejala yang aku alami .",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/hOwj14HMDUU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/hOwj14HMDUU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/hOwj14HMDUU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Disini Anne Vlog",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-11-25T12:22:37Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "iAoNsZrwunge9YhOkG85rZnquzs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "rCj2OczJgv0"
+          },
+          "snippet": {
+              "publishedAt": "2021-02-03T03:28:16Z",
+              "channelId": "UCu4H4xMKGUcWbnAy3n5Xpmg",
+              "title": "Informasi Kesehatan (Gejala Usus Buntu)",
+              "description": "Nama: Muhammad Rayhan Jabir Kelas : 9G No Absen : 21 SMP NEGERI 95 JAKARTA.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/rCj2OczJgv0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/rCj2OczJgv0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/rCj2OczJgv0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "mr R19",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-02-03T03:28:16Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "YxVvbA40yo5DdJD8L5oRY47G_LE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "xrsWtJFaI30"
+          },
+          "snippet": {
+              "publishedAt": "2018-03-02T09:18:33Z",
+              "channelId": "UC4G_KARYOBM8je0tt5O-aHQ",
+              "title": "Gejala Usus Buntu",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/xrsWtJFaI30/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/xrsWtJFaI30/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/xrsWtJFaI30/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "SayaSehat",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-03-02T09:18:33Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "tPayMi7b2SxSfFN3zduuwRMAKAA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "dkFa3xwlSgs"
+          },
+          "snippet": {
+              "publishedAt": "2020-11-30T06:54:30Z",
+              "channelId": "UCv5MvVtssbn1putq2RnRnjA",
+              "title": "Apa itu penyakit usus buntu?",
+              "description": "Assamualaikum hallo kalian semua. Apakah pada sehat semuanya jangan lupa ingat pesan ibu 3M Memakai masker mencuci ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/dkFa3xwlSgs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/dkFa3xwlSgs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/dkFa3xwlSgs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Perawat Bedah",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-11-30T06:54:30Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "3uSOD63THhgjikw417cb9GrpUDU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "GU1K3_j7wD8"
+          },
+          "snippet": {
+              "publishedAt": "2019-12-01T03:38:43Z",
+              "channelId": "UCzx-TgpSVIIb4_yzA6fwhtw",
+              "title": "AFTER OPRASI USUS BUNTU SAAT HAMIL | KOK MALAH JADI KAYAK GINI SAAT HAMIL TRIMESTER KETIGA",
+              "description": "haii temen\" di vidio ini aku mau sedikit berbagi tentang after oprasi aku saat hamil trimester ketiga ini... aku cukup takut ya temen\" ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/GU1K3_j7wD8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/GU1K3_j7wD8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/GU1K3_j7wD8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "risa itaka",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-12-01T03:38:43Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "qR_5a4YsWP9iD0DC_Lv3sj3OLdE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "3XVn21hTWZU"
+          },
+          "snippet": {
+              "publishedAt": "2019-09-23T06:45:02Z",
+              "channelId": "UCcgMuh8kyZ_1PU0P1rpzIAw",
+              "title": "Penyakit Usus Buntu Sembuh Total! Tidak Perlu Operasi",
+              "description": "Apa usus buntu tanpa operasi, bisa sembuh? jawaban nya adalah sangat mungkin! Yuk Simak video nya sampai beres untuk ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/3XVn21hTWZU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/3XVn21hTWZU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/3XVn21hTWZU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "ARUL LIEN",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-09-23T06:45:02Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "pqvDxU1GvgiMAiPJTSB7-EjPuCw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "69bSQkNo_5o"
+          },
+          "snippet": {
+              "publishedAt": "2020-12-17T12:00:04Z",
+              "channelId": "UCKECwHOIAZkpv7c1hqg1mWw",
+              "title": "Mengenal Kanker Usus Mulai dari Gejala Awal Hingga Penyebabnya | lifestyleOne",
+              "description": "Jakarta, tvOnenews.com - Mengenal Kanker Usus mulai dari Gejala Awal Hingga Penyebabnya | lifestyleOne Kanker usus besar ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/69bSQkNo_5o/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/69bSQkNo_5o/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/69bSQkNo_5o/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "VDVC health",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-12-17T12:00:04Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "9jWub8S7LrXArpNhz4jRwN3vurw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "0s7E3fcYvJ4"
+          },
+          "snippet": {
+              "publishedAt": "2021-02-06T04:25:13Z",
+              "channelId": "UCzSrWIKkRYejvGun6SEDjEw",
+              "title": "PENYAKIT USUS BUNTU",
+              "description": "TUGASSEKOLAH.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/0s7E3fcYvJ4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/0s7E3fcYvJ4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/0s7E3fcYvJ4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Saniti Saniti",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-02-06T04:25:13Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "460EdI6BFNdIz-LcyWvTYJ73oI0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "HdZ9LiwJVw0"
+          },
+          "snippet": {
+              "publishedAt": "2020-10-24T15:33:28Z",
+              "channelId": "UCu5gBSRbj8MsXdDKCYm7aKQ",
+              "title": "viral.sudah operasi usus buntu kok masih nyeri diperut.coba ini....",
+              "description": "viral.sudah operasi usus buntu kok masih nyeri diperut.coba ini.... Semoga bermamfaat bagi semua.nyeri diperut meski sudah ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/HdZ9LiwJVw0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/HdZ9LiwJVw0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/HdZ9LiwJVw0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "INFO TAKA",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-10-24T15:33:28Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "pi3Xn0H9BZq0CiFq801m6bxP8lQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "mR5jWdqp884"
+          },
+          "snippet": {
+              "publishedAt": "2020-07-24T12:00:46Z",
+              "channelId": "UCRVlaFGoSxryrlChpzbPTSg",
+              "title": "Kondisi Setelah Operasi Usus Buntu - part 2",
+              "description": "Halo semuanya! Terimakasih yaa karena sudah nonton video aku Follow Instagram aku @mar_jessica untuk dapetin tips ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/mR5jWdqp884/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/mR5jWdqp884/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/mR5jWdqp884/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Maria Jessica",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-07-24T12:00:46Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "afenY304aA05X5dA-wFVzAk8m24",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Hj6znZqjIAY"
+          },
+          "snippet": {
+              "publishedAt": "2021-01-28T08:00:03Z",
+              "channelId": "UCIU4A3QTdcIJiibhil4rKXQ",
+              "title": "Suka Makanan Pedas, Hati-hati Sakit USUS BUNTU ? |  Jawaban Health",
+              "description": "Jawaban Health kali ini JCers kita akan membahas Usus Buntu. Pernah atau tidak JCers mendengar kalau suka makanan pedas ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Hj6znZqjIAY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Hj6znZqjIAY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Hj6znZqjIAY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Jawaban",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-01-28T08:00:03Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "dh_kW8TL95--TU7ZhG8l7HzEJ98",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "TWpO6Oc6yMo"
+          },
+          "snippet": {
+              "publishedAt": "2020-11-13T01:46:52Z",
+              "channelId": "UCC155Ny6ThRw0DFeSkSOBEw",
+              "title": "USUS BUNTU ( APENDISITIS). GEJALA, PENYEBAB &amp; PENGOBATAN NYA",
+              "description": "USUS BUNTU APENDISITIS GEJALA PENYEBAB & PENGOBATAN USUS BUNTU NYERI PERUT NYERI PERUT KANAN ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/TWpO6Oc6yMo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/TWpO6Oc6yMo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/TWpO6Oc6yMo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "dr. Suci Nasir",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-11-13T01:46:52Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "8liiVEb-JnFOHVj1L9sIOdQGQs0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "5xhBjugZn1Y"
+          },
+          "snippet": {
+              "publishedAt": "2019-08-14T05:42:59Z",
+              "channelId": "UCDdAIBYBr3X7647YER48vHQ",
+              "title": "Mengenal Fungsi Dan Penyebab Radang Usus Buntu || APPENDIX",
+              "description": "Mengenal Fungsi Dan Penyebab Radang Usus Buntu || APPENDIX USUS BUNTU /APENDIX ADALAH SUATU ORGAN YANG ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/5xhBjugZn1Y/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/5xhBjugZn1Y/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/5xhBjugZn1Y/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "INSPIRASI KESEHATAN",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-08-14T05:42:59Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Ryif2Xq2l5m5ids5j_bjDVgVMek",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "zKP8MzUCDcQ"
+          },
+          "snippet": {
+              "publishedAt": "2015-03-23T08:41:11Z",
+              "channelId": "UCLLC2Q1zws11m-ORg8cHo7Q",
+              "title": "Doctor Says: Penyakit Usus Buntu (Tugas PKL)",
+              "description": "Jagalah kesehatan anda mulai dari sekarang, hindari makan-makanan yang menyebabkan terjadinya penyakit ini.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/zKP8MzUCDcQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/zKP8MzUCDcQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/zKP8MzUCDcQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Dea Afifa",
+              "liveBroadcastContent": "none",
+              "publishTime": "2015-03-23T08:41:11Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "RSG9gDebQVl7cnb5_nTpM49kzaI",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "i1XSnFsa6yI"
+          },
+          "snippet": {
+              "publishedAt": "2019-08-31T12:00:13Z",
+              "channelId": "UCvs8VBGJM432HxNQofOUBuQ",
+              "title": "5 Makanan yang Baik Dikonsumsi Penderita Radang Usus Buntu",
+              "description": "Apendisitis merupakan peradangan usus buntu yang memanjang dari usus besar. Namun, Anda juga dapat mengonsumsi ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/i1XSnFsa6yI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/i1XSnFsa6yI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/i1XSnFsa6yI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Herbal TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-08-31T12:00:13Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "f3Ys6VFfu2keh_JnJyqSHIlSo5c",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "sugSXWd4rlo"
+          },
+          "snippet": {
+              "publishedAt": "2020-02-02T09:00:17Z",
+              "channelId": "UCHjyCSSE-1fAYfvLMwPdUXg",
+              "title": "TANPA OPERASI!!USUS BUNTU SEMBUH TOTAL,cara mengobati usus buntu secara alami||obat ampuh usus buntu",
+              "description": "Assalamualaikum Wr.Wb Selamat Datang Di Chanel Kami Dalam Chanel Ini Kami Akan Membahas Akan Pentingnya Hidup ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/sugSXWd4rlo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/sugSXWd4rlo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/sugSXWd4rlo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "zaffran tv",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-02-02T09:00:17Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "4aPbZUOVDZ3riRizLzoSmN98S0E",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "F-qySdzS7mM"
+          },
+          "snippet": {
+              "publishedAt": "2021-10-06T17:46:05Z",
+              "channelId": "UCr_93U_KFBfefi1AoMh3PlA",
+              "title": "Penyakit usus buntu",
+              "description": "\"Tugas video penjelasan permasalahan dalam sistem pencernaan\" Nova Amalia (2111219001) kelas A3 jurusan ilmu kesehatan ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/F-qySdzS7mM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/F-qySdzS7mM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/F-qySdzS7mM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Nova Amalia",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-10-06T17:46:05Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "cOFXYo9t4_S6233Btu2_ysivzxs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "3VA_u9yNfVQ"
+          },
+          "snippet": {
+              "publishedAt": "2019-12-22T22:41:15Z",
+              "channelId": "UCh5UCB8m-2S7L58jbfQsh4g",
+              "title": "Makanan Pantangan Usus Buntu",
+              "description": "Video kali ini tentang makanan pantangan penderita usus buntu. Radang usus merupakan kondisi ketika usus mengalami ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/3VA_u9yNfVQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/3VA_u9yNfVQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/3VA_u9yNfVQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Sehat Secara Alami",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-12-22T22:41:15Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "lP9lEOeIo3L8MdcN4dZHjzog7A8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "usZmWhEwc6Y"
+          },
+          "snippet": {
+              "publishedAt": "2022-02-03T16:05:27Z",
+              "channelId": "UCp_09HViYnyAIzNljqohD_A",
+              "title": "GEJALA AWAL USUS BUNTU YANG PERLU ANDA KETAHUI",
+              "description": "Penyakit usus buntu atau dalam bahasa medis dikenal dengan apendisitis, adalah kondisi ketika apendiks atau sebuah kantung ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/usZmWhEwc6Y/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/usZmWhEwc6Y/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/usZmWhEwc6Y/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "BISMILLAH SEHAT",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-02-03T16:05:27Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "csw95tKTUzhiVf5Kd3uPdfObqe0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "JrMgfvlVER0"
+          },
+          "snippet": {
+              "publishedAt": "2016-01-08T23:49:39Z",
+              "channelId": "UC7bV5se2wC_bPwPpKrXIZnQ",
+              "title": "Gejala Penyakit Usus Buntu yang Patut Diwaspadai",
+              "description": "Usus buntu adalah salah satu organ dalam tubuh yang pada awalnya banyak yang menganggap tidak memiliki fungsi.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/JrMgfvlVER0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/JrMgfvlVER0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/JrMgfvlVER0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "ORYZA Channel",
+              "liveBroadcastContent": "none",
+              "publishTime": "2016-01-08T23:49:39Z"
+          }
+      }
+  ]
+}

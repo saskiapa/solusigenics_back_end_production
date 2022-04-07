@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "LkbMGo14OsqZ3XSMvI8a3Jf5g-0",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "NL",
+    "pageInfo": {
+        "totalResults": 266797,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cUW5nJ1CzQYLxVCgMG4evcBfTh0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7NfN7KVSM3k"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-19T13:49:06Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Waspada Gejala Tipes - AYO SEHAT",
+                "description": "KOMPASTV - Sobat sehat, menjaga kebersihan merupakan salah satu faktor penting agar kita tetap terjaga dari serangan infeksi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7NfN7KVSM3k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7NfN7KVSM3k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7NfN7KVSM3k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-19T13:49:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "h5gFIgNNEKoOuJzMWvhY6Fjfbx0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CyjikiTG_ZA"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-27T13:54:40Z",
+                "channelId": "UCEc05MFabb7_i5boeEBkd2A",
+                "title": "Apa Bedanya Tipes dan DBD? - dr. Daniel Bramantyo",
+                "description": "Gengs, sudah tahu perbedaan gejala tipes dan DBD? Yuk ketahui perbedaannya di video ini. Jangan lupa share, like, comment ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CyjikiTG_ZA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CyjikiTG_ZA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CyjikiTG_ZA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gue Sehat",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-05-27T13:54:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "l3CI822W9GqwPCjMSmCE_fyBQTE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s1l8dXck2Do"
+            },
+            "snippet": {
+                "publishedAt": "2020-02-11T00:00:07Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Sakit Tipes karena Sering Lembur dan Kelelahan? Fakta atau Mitos?",
+                "description": "TRIBUN-VIDEO.COM - Haloo Tribunners! kali ini Tanya Dokter akan membahas tentang apa itu penyakit tifus dan bagaimana ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s1l8dXck2Do/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s1l8dXck2Do/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s1l8dXck2Do/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-02-11T00:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pgY_F24h_yyh_llUTychgih9YQY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NEsrxUrgjEc"
+            },
+            "snippet": {
+                "publishedAt": "2019-10-03T08:43:11Z",
+                "channelId": "UCPJH3LDK8yzvxUEzyI-ftaA",
+                "title": "FAQ - Tifoid #1: Tipes, Tifus &amp; Tifoid, Apa Penyebabnya?",
+                "description": "Banyak yang mengira orang kena tipes karena terlalu kecapekan. Hmm.. apa betul begitu? Daripada penasaran, simak ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NEsrxUrgjEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NEsrxUrgjEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NEsrxUrgjEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OVIS UI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-10-03T08:43:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WfvCMXar9mMriH7HSbR9znXlkRs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "A5vYxhxX97k"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-30T12:19:39Z",
+                "channelId": "UCvEoO7977S-OwyInMGlPXkw",
+                "title": "Tipes - Penyebab Penyakit Tipes",
+                "description": "Kids, penyakit tipes, merupakan penyakit yang gampang terkena oleh manusia baik muda maupun yang sudah mulai berumur.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A5vYxhxX97k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A5vYxhxX97k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A5vYxhxX97k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GridKids",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-30T12:19:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FNbweEozmngOemwAxy8kQpyq3-w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SdmpuRdx-ug"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-23T19:30:00Z",
+                "channelId": "UC295-Dw_tDNtZXFeAPAW6Aw",
+                "title": "15 BEAUTY TIPS TO MAKE YOUR LIFE EASIER",
+                "description": "TIMESTAMPS: 00:31 DIY lip stain 01:13 How to get the perfect eyebrows 03:02 Eyebrow volumizer 04:29 Fastest makeup hack ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SdmpuRdx-ug/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SdmpuRdx-ug/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SdmpuRdx-ug/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "5-Minute Crafts",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-11-23T19:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pX9Jgtk4uGLttDiZ_GEKEGYsZlc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UxnoZAuW-Jk"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-22T11:43:55Z",
+                "channelId": "UC8CjGaokAb8aw2eB3iBk9CQ",
+                "title": "CARA ALAMI OBATI TIPES DENGAN LABU AIR / LABU PUTIH",
+                "description": "ObatAlamiTipes #ObatHerbal #LabuAirObatiTipes #ObatTipes #ZaidulAkbar #JSR #JurusSehatRasulullah.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UxnoZAuW-Jk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UxnoZAuW-Jk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UxnoZAuW-Jk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BISNIS IBU RUMAH TANGGA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-22T11:43:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "g3SWgsuphJRD2KNzA8JLsmo2aXQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hEwUoV9Pz9k"
+            },
+            "snippet": {
+                "publishedAt": "2019-10-10T08:42:37Z",
+                "channelId": "UCPJH3LDK8yzvxUEzyI-ftaA",
+                "title": "FAQ - Tifoid #2: Gejala Demam Tifoid (Tipes)",
+                "description": "Penyakit demam tifoid atau yang sering disangka tipes menunjukkan beberapa gejala yang khas. Salah satunya adalah demam ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hEwUoV9Pz9k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hEwUoV9Pz9k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hEwUoV9Pz9k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OVIS UI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-10-10T08:42:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dxVNv_w0arT7QifCeC9X6hN1Nhw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3UMSQREhyt4"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-07T02:00:00Z",
+                "channelId": "UCPKhaHdM_SjhcQ9jxdZQYlA",
+                "title": "PANTANGAN SAKIT TIPES ATAU DEMAM TIFOID AGAR CEPAT SEMBUH - DOKTER SADDAM ISMAIL",
+                "description": "Informasi Selengkapnya Tonton Video Sampai Habis Follow IG https://www.instagram.com/saddam_ismail/?hl=id Terima Kasih.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3UMSQREhyt4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3UMSQREhyt4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3UMSQREhyt4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Saddam Ismail",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-07T02:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J91rbqiK-g1Ln5oPPkCGuRKNnks",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mxk3lLuV75g"
+            },
+            "snippet": {
+                "publishedAt": "2019-10-17T08:00:05Z",
+                "channelId": "UCPJH3LDK8yzvxUEzyI-ftaA",
+                "title": "FAQ - Tifoid #3: Pengobatan Demam Tifoid (Tipes)",
+                "description": "Kalau sakit demam tifoid (atau yang banyak orang sebut sebagai tipes) itu perlu dirawat di RS nggak ya? Lalu asupan penting ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mxk3lLuV75g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mxk3lLuV75g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mxk3lLuV75g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OVIS UI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-10-17T08:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cEwDb_N2ODnkuykdeMFnjfgXLVk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "upSL1uEhyVY"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-11T11:45:02Z",
+                "channelId": "UCzTlGbETak1uwQnbkYKZe_w",
+                "title": "9 Pantangan Makanan Penderita Tipes yang Harus Dihindari",
+                "description": "Penderita tipes tidak boleh makan sembarangan agar tidak memperparah kondisinya. Berikut beberapa makanan yang harus ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/upSL1uEhyVY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/upSL1uEhyVY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/upSL1uEhyVY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Halosehat",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-11T11:45:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AmqsS6TRfVzpcVz8aJuMY5SJuJ8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F8jahbtBdWs"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-14T07:39:32Z",
+                "channelId": "UC9T0TVdVPAxbIxXI_hm9Jww",
+                "title": "Awesome makeup tipes &amp; tricks💄😍||makeup gadgets",
+                "description": "Smart Makeup Tipes and Tricks Welcome to our YouTube channel. You will find the best content on the following topics:- ‣ Smart ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F8jahbtBdWs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F8jahbtBdWs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F8jahbtBdWs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Unique Home Products",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-14T07:39:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ajjK36RtmzFdt0ckJO2cNCaocXo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uV_d1NcmVlU"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-02T02:56:48Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Mahasiswa di Aceh Jadi Lumpuh Usai Divaksin Memiliki Riwayat Sakit Tipes, Lambung Akut dan Sinusitis",
+                "description": "TRIBUN-VIDEO.COM - Amelia Wulandari (22), mahasiswa Fakultas Hukum Universitas Syiah Kuala Banda Aceh, terpaksa ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uV_d1NcmVlU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uV_d1NcmVlU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uV_d1NcmVlU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-02T02:56:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BBpQ0_u7i3qrfYbgIamYXy_vEwY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vn0IeZU_xik"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-01T06:33:49Z",
+                "channelId": "UCnLSlapw20YF5YCKHzfQoaw",
+                "title": "Mengolah labu air (blonceng) untuk obat tradisional tipes / tipus / thypus",
+                "description": "Sekali minum 70-100 ml perasan labu air, diminum cukup satu kali sehari.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vn0IeZU_xik/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vn0IeZU_xik/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vn0IeZU_xik/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "katabmalang",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-01T06:33:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BC9F-F89uDrpjAOJkZevZ5RRpXY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s8ftSjQVNog"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-21T10:28:58Z",
+                "channelId": "UC-xXrdDbGgXXFXYYeKiOSOw",
+                "title": "Masque de Delaire et disjoncteur palatin - Tipes d’orthodontie ©",
+                "description": "Vidéo 3d de la Clinique Pardiñas (http://j.mp/cPardinas) sur deus types d'orthodontie: disjonteur palatin et masque de Delaire.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s8ftSjQVNog/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s8ftSjQVNog/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s8ftSjQVNog/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dentalk!",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-04-21T10:28:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1Y6vNRQD702sXVxP0aS0LDUdJa4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DofDp2ac35o"
+            },
+            "snippet": {
+                "publishedAt": "2019-11-01T15:51:51Z",
+                "channelId": "UC3Y47nUSHB8_dW9GNyxu_bA",
+                "title": "TEKAN TITIK INI,,,!!!  SAKIT TIPES JADI SEMBUH...!!!",
+                "description": "TEKAN TITIK INI,,,!!! SAKIT TIPES JADI SEMBUH...!!! Semoga Dapat Membantu Penonton Channel Lathifu Syifa Dalam ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DofDp2ac35o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DofDp2ac35o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DofDp2ac35o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lathifu Syifa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-11-01T15:51:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KGlN3SOifP1H9cpOfhGTRXCYbsE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hr1rMtZ_3z4"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-11T11:30:10Z",
+                "channelId": "UCPKhaHdM_SjhcQ9jxdZQYlA",
+                "title": "YANG TERJADI JIKA SAKIT TIPES / DEMAM TIFOID TIDAK DIOBATI SAMPAI TUNTAS - DOKTER SADDAM ISMAIL",
+                "description": "sakit tipes atau demam tifoid mungkin ada yang teman teman rasakan gejala ringan walaupun seperti itu jangan sampai ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hr1rMtZ_3z4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hr1rMtZ_3z4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hr1rMtZ_3z4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Saddam Ismail",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-11T11:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hBJAjtWPHt2Sp5fKWHpMCuiVrFE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Zbw_IE9Gd4g"
+            },
+            "snippet": {
+                "publishedAt": "2014-09-13T23:16:16Z",
+                "channelId": "UCodXp18IZBc6GxLZpqadu3Q",
+                "title": "تجربة الانتنا والدبلة الممغنطة  Tipes",
+                "description": "Tipes , elctroinc system , pigeon racing , pigeon , eye pigeon.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zbw_IE9Gd4g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zbw_IE9Gd4g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zbw_IE9Gd4g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TIPES Arabic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-09-13T23:16:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6EXhybIS1vViLTY-z1oQc7wqeLU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZZN-_SI5acw"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-05T07:00:06Z",
+                "channelId": "UCPKhaHdM_SjhcQ9jxdZQYlA",
+                "title": "GEJALA SAKIT TIPES ATAU DEMAM TIFOID YANG SERING DIALAMI - DOKTER SADDAM ISMAIL",
+                "description": "Informasi Selengkapnya Tonton Video Sampai Habis Follow IG https://www.instagram.com/saddam_ismail/?hl=id Terima Kasih.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZZN-_SI5acw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZZN-_SI5acw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZZN-_SI5acw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Saddam Ismail",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-05T07:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9GeA3azlSJNrZPiKrF_hVAX6LUQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "V7CJGa9cXz4"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-19T10:17:41Z",
+                "channelId": "UCIohHXwCEKxWCLvAguJ-GjA",
+                "title": "Bedanya TIPES Dan TIFUS | Best Moment #KlinikTendean (18/10/21)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V7CJGa9cXz4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V7CJGa9cXz4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V7CJGa9cXz4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TRANS TV Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-19T10:17:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UH5X5goUsUF8TFTps4y-zgUOkUE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4t6sCorWXLo"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-24T07:30:01Z",
+                "channelId": "UClWDKuRsg8Bt_7GKsekMnNw",
+                "title": "Info Wajib Tahu ! Kenali Gejala Penyakit Tipes",
+                "description": "Penyakit tipes merupakan penyakit infeksi yang disebabkan oleh bakteri yang menyebar melalui makanan atau minuman yang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4t6sCorWXLo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4t6sCorWXLo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4t6sCorWXLo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SKWAD Health",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-04-24T07:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "e1-IaJQXyATTNtgO5zxK5KBUrmI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JJQK-9qLZXI"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-18T14:42:56Z",
+                "channelId": "UCDMNqDn8kb7TQnG8w2BQRLQ",
+                "title": "Tipes Tjommies",
+                "description": "Ons almal het sulke tipes vriende. Deel met hulle! Dankie vir julle ondersteuning. Laaik asseblief die video as jy dit gelaaik het.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JJQK-9qLZXI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JJQK-9qLZXI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JJQK-9qLZXI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Koos Bloubal",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-06-18T14:42:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-hMl5ydyIZUbfhfPkteh4inanL4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AC6qHBvXx_Q"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-28T06:49:13Z",
+                "channelId": "UChq7NDxIkiwKCFRt6Qmn-Bw",
+                "title": "dr. Agus Rahmadi - Solusi tepat atasi tipes tanpa obat",
+                "description": "Ayo bergabung dengan Komunitas Sahabat Sehat ! klik link dibawah ini : http://bit.ly/sahabatsehatUmmatTV Manfaat bergabung ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AC6qHBvXx_Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AC6qHBvXx_Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AC6qHBvXx_Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UmmatTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-28T06:49:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "27Ur-TsUkQgaBSgwdFT1nGGsbqc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dX5yDQwvp44"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-21T08:21:15Z",
+                "channelId": "UCu9g2ID__kol_6aqQJTn9kg",
+                "title": "Gejala Tipes dan Pengobatannya",
+                "description": "Penyakit tifus atau tipes merupakan satu diantara penyakit yang cukup sering dialami manusia. Penyakit ini muncul akibat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dX5yDQwvp44/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dX5yDQwvp44/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dX5yDQwvp44/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribun Pontianak",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-21T08:21:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bFgbJbV1L4Gtq8jMw9BJjXe0w1w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eAsGyICkzrQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-22T08:34:04Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "🔴HEALTHY TALK: Waspada Bahaya Tipes pada Anak",
+                "description": "TRIBUN-VIDEO.COM - Tipes merupakan kondisi yang umum terjadi di masyarakat. Penyakit ini tidak hanya terjadi pada orang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eAsGyICkzrQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eAsGyICkzrQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eAsGyICkzrQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-22T08:34:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9du_sWHYEH4f2eQlPFxMYS_RUdU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tNjBCi-73vI"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-03T11:06:34Z",
+                "channelId": "UCnFqn65wqvF85hLdcm0ThDw",
+                "title": "Tipes / Tifus / Demam Tifoid ( Typhoid Fever )",
+                "description": "tifus #tipes #demamtifoid Video ini menjelaskan apa itu demam tifoid, penyebab dan gejalanya. Serta kapan harus segera ke ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tNjBCi-73vI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tNjBCi-73vI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tNjBCi-73vI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dokter Sun",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-03T11:06:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yqlxzJRRjbb940vA0dsqzwMUzlI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vhRHuqENW3k"
+            },
+            "snippet": {
+                "publishedAt": "2019-12-28T18:41:33Z",
+                "channelId": "UCjv1_2P8qGIj6Qi8XrXhpmw",
+                "title": "Obat MAAG, GERD, ASAM LAMBUNG &amp; GEJALA TIPES Ampuh Dalam 12 Jam ( Penyebab, Gejala &amp; Obatnya )",
+                "description": "Hai...hai Assalamualaikum Gengsss Udah lama banget aku gak upload video baru, karena kemarin hampir 2 minggu aku sakit ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vhRHuqENW3k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vhRHuqENW3k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vhRHuqENW3k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Octariyadi Ratna",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-12-28T18:41:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_bNRgyfLHI3dCyBqk1kzRhV-07A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "g1dNabGye9E"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-11T09:18:20Z",
+                "channelId": "UCMCwnjp-3rq4bR1lUretDmA",
+                "title": "TIPES USTB Doublebox (English version)",
+                "description": "Installation of the TIPES USTB double box with the TIPES antennas.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g1dNabGye9E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g1dNabGye9E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g1dNabGye9E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TIPES",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-11T09:18:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BuBTDhXZiKucNRLONslaDIzEG-8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Sib2suI6D6Y"
+            },
+            "snippet": {
+                "publishedAt": "2019-12-13T11:08:47Z",
+                "channelId": "UCuo7FPsDnxpy0umy_RJhyCA",
+                "title": "PEMERIKSAAN WIDAL (TIPES) METODE KUALITATIF",
+                "description": "PEMERIKSAAN WIDAL (TIPES) METODE KUALITATIF Pemeriksaan Widal (Prosedur, Prinsip, Cara Kerja Dan Interpretasi Hasil) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sib2suI6D6Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sib2suI6D6Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sib2suI6D6Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Info LabMed",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-12-13T11:08:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SEsYS-vTyTH0vTrVLDcLHel4aS4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YSkjHEv6edg"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-07T09:38:12Z",
+                "channelId": "UC7yA3gzd_YZgb-MIuKM_rLQ",
+                "title": "Langkah Pencegahan Tipes dan DBD",
+                "description": "Meski gejala awalnya sama, tipes dan DBD merupakan penyakit yang berbeda, baik penyebab, pengobatan, maupun ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YSkjHEv6edg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YSkjHEv6edg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YSkjHEv6edg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Halodoc",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-07T09:38:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OneXhsMLzzQzoCO9KsAFgrlcu9Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lcb3GHfDE3c"
+            },
+            "snippet": {
+                "publishedAt": "2019-01-06T02:39:11Z",
+                "channelId": "UCfP5vtXJNfBI-hajVeRuC5A",
+                "title": "Gejawa Awal Penyakit Tipes",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lcb3GHfDE3c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lcb3GHfDE3c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lcb3GHfDE3c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fakta Kece",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-01-06T02:39:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yzbxXJfVrQS9FKcMNIeGtZdxwAE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8Stt8UNg90s"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-21T05:56:59Z",
+                "channelId": "UCmR-F0lcv2cAQGfqmYgCXpA",
+                "title": "INGIN SAKIT TIPES/TIFUS SEMBUH TOTAL TANPA RESIKO KAMBUH LAGI ?? INI SOLUSI TEPATNYA !!",
+                "description": "penyakit #tipes #tifus Solusi tepat penyakit tipes tanpa obat.. Tipes atau demam tifoid adalah penyakit yang disebabkan oleh ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Stt8UNg90s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Stt8UNg90s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Stt8UNg90s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ridwan Nasty YT",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-21T05:56:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hBph62gsTi072EgNoylGIwamRNE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8GOWiPdt8rs"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-21T05:12:47Z",
+                "channelId": "UCmR-F0lcv2cAQGfqmYgCXpA",
+                "title": "PANTANGAN SAKIT TIPES AGAR CEPAT SEMBUH TOTAL",
+                "description": "Pantangan #Makanan # Sakit #Tipes Pantangan makanan saat sakit tipes/demam tifoid agar cepat sembuh total.. video lainnya ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8GOWiPdt8rs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8GOWiPdt8rs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8GOWiPdt8rs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ridwan Nasty YT",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-21T05:12:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "F-Ti6WvkIvmSQj04GgRmcq96J-E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lURh0l35F4Y"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-09T08:08:34Z",
+                "channelId": "UCn5E6crv7pUFOieAqKCpXvQ",
+                "title": "Tips mengobati sakit tipes tanpa dirawat di rumah sakit || pengalaman pribadi",
+                "description": "yg mau order sari kurma original klik link shopee   https://shp.ee/v5xkfr7 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lURh0l35F4Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lURh0l35F4Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lURh0l35F4Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "nacute channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-09T08:08:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FQH7WmPDFUaCtO-p5DfbAVNfdBc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-GQf9E-BvQo"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-15T23:00:00Z",
+                "channelId": "UCtTovBxKibpMERIQNNof0kg",
+                "title": "Waspada penyakit tipes yang mematikan ( demam tifoid ) / Go Dok Indonesia",
+                "description": "Penyakit Tipes / demam tifoid adalah penyakit yang dapat menyerang seluruh organ tubuh yang disebabkan oleh infeksi bakteri ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-GQf9E-BvQo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-GQf9E-BvQo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-GQf9E-BvQo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Go Dok Indonesia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-09-15T23:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bxf5jHK492WfrkxfkNkIYTYLFwY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Fs83KHFRE9k"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-07T01:04:11Z",
+                "channelId": "UCrEkh0duiFUn-ZC4Wj-RtWg",
+                "title": "Benarkah Penyakit Tipes karena Kecapean? | Health Corner",
+                "description": "Jangan lupa subscribe channel youtube Sonora di: http://bit.ly/youtubesonorafm92 http://bit.ly/youtubesonorafm92 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fs83KHFRE9k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fs83KHFRE9k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fs83KHFRE9k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sonora FM",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-07T01:04:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "X1hSHQ01zen80S8iBKLkOGCk9JU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Rqy01hR4fDM"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-12T11:40:24Z",
+                "channelId": "UCvuFnFP2zaq6B5UV12qaxHA",
+                "title": "CARA MENGOLAH CACING TANAH UNTUK OBAT TIPES",
+                "description": "TIPS ! CARA AMPUH MENYEMBUHKAN PENYAKIT TIFUS ATAU TIPES. SIMAK CARA MERACIKNYA. ASSALAMUALAIKUM ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rqy01hR4fDM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rqy01hR4fDM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rqy01hR4fDM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ucup chanel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-12T11:40:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qcHewqef7YF4qkV46vpn_NXMrT4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0T5tMQ96cjg"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-24T07:03:13Z",
+                "channelId": "UCTQ4mayjazd0XdaCh_X8abw",
+                "title": "Apakah Ada Pantangan Makanan Minuman pada Penderita Tipes Dok ?",
+                "description": "PENJELASAN LENGKAPNYA: https://youtu.be/jd9Aa1tyQs8 TRIBUN-VIDEO.COM - Dokter Ayodhia menjelaskan yang harus ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0T5tMQ96cjg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0T5tMQ96cjg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0T5tMQ96cjg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribun Health",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-24T07:03:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "I_6ivP0O2stfi-gVScyua-wxEOE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HOAF3hyCg1g"
+            },
+            "snippet": {
+                "publishedAt": "2019-01-13T22:01:35Z",
+                "channelId": "UCPKhaHdM_SjhcQ9jxdZQYlA",
+                "title": "GEJALA AWAL DEMAM TIFOID / TIPES",
+                "description": "sobat sehat apakah sudah tau tentang demam tifoid atau tipes ataupun tifus nah kenali gejalanya dan juga apa saja sih yang bisa ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HOAF3hyCg1g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HOAF3hyCg1g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HOAF3hyCg1g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Saddam Ismail",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-01-13T22:01:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WKExtMH7qMTovmCpxSEq-i3ghDo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UqNG8GmegUA"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-02T13:11:10Z",
+                "channelId": "UCzTlGbETak1uwQnbkYKZe_w",
+                "title": "Penderita Tipes Makan Bakso, Boleh atau Tidak?",
+                "description": "Apakah penderita tipes boleh makan bakso? Simak penjelasan lengkapnya ini. Medical Research & Source: 1. Longjam ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UqNG8GmegUA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UqNG8GmegUA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UqNG8GmegUA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Halosehat",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-02T13:11:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jCGdPBv_1UOhV2pCIBcyUEiA7QE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nIPXbIPZ1KU"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-13T16:51:54Z",
+                "channelId": "UCIYZtmXJidL6_zBCeopZo0w",
+                "title": "Demam Thypoid {Tipes} - dr Rendy Septian - Dokterku Elshinta",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nIPXbIPZ1KU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nIPXbIPZ1KU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nIPXbIPZ1KU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "wewowman",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-09-13T16:51:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NSTXoWtLXDXpaG_hyXJboHKRE-I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AuwoaXNb7ZY"
+            },
+            "snippet": {
+                "publishedAt": "2019-11-27T07:00:59Z",
+                "channelId": "UCly8Wwf7NvFDyPvzHEcll1g",
+                "title": "RESEP JSR TIPES | Cara Mengobati Tipes Secara Alami",
+                "description": "Assalamu'alaikum Warohmatullahi Wabarokatuh NOTE : Temen2 ... Klo ada iklan yang kurang pantas ditayangkan di video saya ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AuwoaXNb7ZY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AuwoaXNb7ZY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AuwoaXNb7ZY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dinzalove JSR",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-11-27T07:00:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "N29xgd9OHyO3pbgzAv-efK0Q-lU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "V-rIDF5PbIs"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-21T10:22:36Z",
+                "channelId": "UCooTNJldUr9QuwIGKNN_cog",
+                "title": "OBAT TIPES PALING MANJUR! NAKAM OGES LECEP - PECEL MALANG | Kuliner Malang - Ngalam Njajan #3",
+                "description": "Ngalam Njajan adalah sebuah segmen terbaru dari Wearemania TV, dimana kami akan mencoba dan membagikan rekomendasi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V-rIDF5PbIs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V-rIDF5PbIs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V-rIDF5PbIs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Wearemania TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-21T10:22:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "A3Dm4l6SnVaFA4IAL6itu9bGM7s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8phmK95l3Xk"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-08T09:00:03Z",
+                "channelId": "UCPKhaHdM_SjhcQ9jxdZQYlA",
+                "title": "CARA AGAR TIDAK TERKENA GANGGUAN PENCERNAAN ATAUPUN TIPES - DOKTER SADDAM ISMAIL",
+                "description": "sakit tipes ada cara agar tidak terkena gangguan pencernaan karena tipes Informasi Selengkapnya Tonton Video Sampai Habis ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8phmK95l3Xk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8phmK95l3Xk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8phmK95l3Xk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Saddam Ismail",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-08T09:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GVs2tiI-uHj6EBlWwQgFsPt4Xuo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uSEzwXJ4J1Q"
+            },
+            "snippet": {
+                "publishedAt": "2019-06-28T14:18:56Z",
+                "channelId": "UCRHH6muH6uTbL5qQWgV9zfQ",
+                "title": "Obat Tipes Alami Paling Ampuh! Sembuhkan Demam Tifoid/Tifus dan Gejalanya",
+                "description": "Tipes adalah penyakit yang terjadi karena adanya infeksi dari bakteri Salmonella typhi. Penyakit yang juga dikenal sebagai ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uSEzwXJ4J1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uSEzwXJ4J1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uSEzwXJ4J1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Herbal Tube",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-06-28T14:18:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NJ1TbSctgZup1Fl9pyShrp_HOAY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C9ObpHX1Fj8"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-07T04:49:32Z",
+                "channelId": "UCxiFTELKoiMWNd2-2FUUSzw",
+                "title": "Waspada Demam Tifoid(Typhoid Fever) (Tipes) jaga kebersihan",
+                "description": "Penyakit demam tifoid atau juga yang sering dikira tipes atau typhoid fever, menunjukkan gejala yang khas. Salah satunya ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C9ObpHX1Fj8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C9ObpHX1Fj8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C9ObpHX1Fj8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "klinik pasadena",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-07T04:49:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZPP5Elj0dHkG97HwWrM_mJcYu2A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nE8PiEGlJQU"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-21T13:51:26Z",
+                "channelId": "UCtL25wqkjQSoE4lT6D1EbYg",
+                "title": "Makanan Untuk Sakit Tipes Agar Cepat Sembuh | Ahli Gizi Debby Octaria",
+                "description": "SAKIT TIPES BOLEH MAKAN APA SAJA ? Assalamualaikum Wr Wb Halo Sobat Sehat ... Pertanyaan itu sering sobat cari di ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nE8PiEGlJQU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nE8PiEGlJQU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nE8PiEGlJQU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FD2 Health",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-21T13:51:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nU2Si6lDrG7hqB1O3YXKxyMVqbU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Im1oECHIzV8"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-23T16:50:51Z",
+                "channelId": "UCGt7NbRUOkmT3nKWsOUOKRg",
+                "title": "BOTAK GENETIK + KENA TIPES DALAM WAKTU 4BULAN KEMBALI PULIH DAN GONDRONG FULL (REVIEW BRO ANGKASA)",
+                "description": "kali ini gw mau review lgi pejuang gondrong yg gw bimbing alhamdulilah bisa tebel dalam waktu 4bulan di tonton sampe selesai ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Im1oECHIzV8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Im1oECHIzV8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Im1oECHIzV8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ridwan Fahreza Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-23T16:50:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "U0m_oODo4UvYn6yS73y4XDSgYVk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NuJ7ePf9lV8"
+            },
+            "snippet": {
+                "publishedAt": "2019-02-09T12:22:12Z",
+                "channelId": "UC6I6a2M0j28BTteJLNf0yPA",
+                "title": "Cara Mengobati Sakit Tipes secara Alami Dengan Pijat Refleksi Kaki",
+                "description": "Sakit Tipes dengan gejala Perut Sakit, Panas Dalam , Lidah berwarna Merah ditengahnya kebiruan , kening / dahi terasa Panas ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NuJ7ePf9lV8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NuJ7ePf9lV8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NuJ7ePf9lV8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mr OMPONG",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-02-09T12:22:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0YtsLdBuGZC16ZKfwJ-95igjenM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p7QUQPscxVY"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-13T20:45:59Z",
+                "channelId": "UC422QLr_6nQLq2YvbOzSJ6Q",
+                "title": "15 Junie - Gr. 2 - LV - Aanbieding 1 (Verskillende tipes grond)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p7QUQPscxVY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p7QUQPscxVY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p7QUQPscxVY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Laerskool Roodekrans",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-13T20:45:59Z"
+            }
+        }
+    ]
+}

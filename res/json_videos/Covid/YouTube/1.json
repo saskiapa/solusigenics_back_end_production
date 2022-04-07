@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "l6A2G4nPONvIhN1msAWplzaoXbs",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "ID",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ke16nrunPC0ljtrdncDRlhQnW48",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LD6z2fbo2W0"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-17T01:00:01Z",
+                "channelId": "UCKII0Ml9S5wneKbHswmUrIQ",
+                "title": "Mengenal Gejala Covid-19",
+                "description": "Live streaming 24 jam: https://www.cnnindonesia.com/tv Covid 19 telah ditetapkan badan kesehatan dunia, atau WHO, sebagai ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LD6z2fbo2W0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LD6z2fbo2W0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LD6z2fbo2W0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CNN Indonesia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-17T01:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uWsD-kgaGKUJGs2WXE2mXmdmuMw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IqFIA27bUew"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-04T14:49:07Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Ini Beda Gejala Virus Corona dengan Influenza dan Flu Biasa!",
+                "description": "KOMPAS.TV - Rumah Sakit Penyakit Infeksi, RSPI, Sulianti Saroso masih merawat sembilan orang di ruang isolasi. Dari sembilan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IqFIA27bUew/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IqFIA27bUew/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IqFIA27bUew/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-04T14:49:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XEMyuEZuqyf5U0iwoTJSjbSTL08",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RxDNh5M7pfw"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-02T04:06:20Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Penjelasan Dokter Soal Gejala-gejala Corona",
+                "description": "JAKARTA, KOMPAS.TV - Segmen tanya jawab seputar covid-19 kembali hadir. Sudah ada wakil ketua Ikatan Dokter Indonesia, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RxDNh5M7pfw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RxDNh5M7pfw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RxDNh5M7pfw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-02T04:06:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "l4sXQ3tIAkX5dofZ0oEGdSRHWH0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5h-OXcjc4TY"
+            },
+            "snippet": {
+                "publishedAt": "2020-01-24T15:10:54Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Wajib Tahu! Gejala Virus Corona dan Cara Pencegahannya",
+                "description": "Virus Corona mulai merebak ke sejumlah negara. Tentunya kita harus juga mulai waspada jika virus Corona ini mulai merambat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5h-OXcjc4TY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5h-OXcjc4TY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5h-OXcjc4TY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-01-24T15:10:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GX1DhfVQ2gBIeUTWeV1n7BzMQWo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SuIkfn3uqaI"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-16T06:09:52Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Virus Corona Varian Omicron Terdeteksi di Indonesia, Perhatlkan Gejalanya",
+                "description": "JAKARTA, KOMPAS.TV - Pada tanggal 15 Desember Virus Corona varian Omicron telah terdeteksi di Indonesia. Kasus pertama ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SuIkfn3uqaI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SuIkfn3uqaI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SuIkfn3uqaI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-16T06:09:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xqaeCvvG-DpzA40JbSSorKXcKJk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ljuBID9oj24"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-15T10:00:13Z",
+                "channelId": "UCKII0Ml9S5wneKbHswmUrIQ",
+                "title": "Kenali Delirium Sebagai Gejala Baru Covid-19",
+                "description": "Live streaming 24 jam: https://www.cnnindonesia.com/tv Jurnal ilmiah temukan ada indinkasi virus corona pengaruhi sistem saraf ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ljuBID9oj24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ljuBID9oj24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ljuBID9oj24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CNN Indonesia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-15T10:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_38dPws4FCn1y4mnMTD0gvO8_vM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "T-fe1UL7gqY"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-05T08:43:57Z",
+                "channelId": "UCzl0OrB3-ehunyotIQvK77A",
+                "title": "Mengenali Gejala Covid-19 Varian Delta",
+                "description": "Salah satu varian virus corona yang penyebarannya cukup masif adalah varian delta. Varian ini sudah ditemukan di puluhan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T-fe1UL7gqY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T-fe1UL7gqY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T-fe1UL7gqY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "metrotvnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-05T08:43:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JIdPtC_OR4PFHopb4-co_HexAlM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7ysnNg07dMk"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-30T07:20:32Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Begini Gejala yang Dialami Penderita Covid-19 Varian Omicron",
+                "description": "KOMPAS.TV - Gejala penderita covid-19 varian omicron pada umumnya sama seperti varian delta dan varian sebelumnya.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7ysnNg07dMk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7ysnNg07dMk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7ysnNg07dMk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-30T07:20:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dClKalBaItbFqo7WAi8g7-4q3fE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C05WBRGoacc"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-01T07:22:13Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Simak! Gejala Covid-19 Varian Omicron dan Cara Mencegahnya!",
+                "description": "JAKARTA, KOMPAS.TV Dokter Pertama di Afrika Selatan yang mendeteksi varian Covid-19 Omicron Angelique Coetzee ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C05WBRGoacc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C05WBRGoacc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C05WBRGoacc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-01T07:22:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4H4BBdb31eSBLdFaKNjlXKnujhk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DnKB4Yxzb1c"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-28T14:38:16Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Dirjen WHO: Gejala Varian Covid-19 Omicron Sama, Tapi Penyebarannya Lebih Cepat Daripada Delta",
+                "description": "JAKARTA, KOMPAS.TV - Pemerintah resmi melarang kedatangan warga negara asing (WNA) yang memiliki riwayat perjalanan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DnKB4Yxzb1c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DnKB4Yxzb1c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DnKB4Yxzb1c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-28T14:38:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eE1FaDg1XPTwD74-T1ck4rtbD7Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dLCVR29t5mk"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-31T05:51:17Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Tanya-Jawab Covid-19 : Jika Terdapat Tanda-Tanda Gejala Covid-19, Apa Yang Harus Dilakukan?",
+                "description": "KOMPAS.TV - Apakah anda sudah mengetahui pasti tentang virus Corona atau covid-19? Dokter Spesialis Penyakit Dalam, dr.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dLCVR29t5mk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dLCVR29t5mk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dLCVR29t5mk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-31T05:51:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ahebo2CTHFwG1OoWmQEZcGA9bH8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fW1xxTHAwFw"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-08T03:01:07Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Gejala Corona yang Perlu Diwaspadai pada Gelombang Kedua Pandemi",
+                "description": "KOMPAS.TV - Ancaman kedatangan gelombang kedua Covid-19 semakin nyata. Mutasi virus corona dengan varian yang makin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fW1xxTHAwFw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fW1xxTHAwFw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fW1xxTHAwFw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-08T03:01:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CADV69yVZdgy_N9DrQuyMYmphVk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KYkwdeGfM-g"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-29T11:02:22Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Waspada! 7 Gejala Terpapar Varian Baru Corona",
+                "description": "JAKARTA, KOMPAS.TV - Varian Baru Corona dari Inggris telah menyebar ke sejumlah negara. Agar lebih waspada, simak 7 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KYkwdeGfM-g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KYkwdeGfM-g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KYkwdeGfM-g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-29T11:02:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "m27Yy8N8ilzTiBJ8PqhReuZSjcs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lBgSCz7-P8I"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-17T13:01:52Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Wajib Tahu! Ini Gejala Awal Infeksi Virus Corona dari Hari ke Hari",
+                "description": "Ilustrasi Virus Corona (Sumber: Shutterstock)JAKARTA, KOMPAS.TV - Kasus positif terinfeksi virus Corona bertambah di ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lBgSCz7-P8I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lBgSCz7-P8I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lBgSCz7-P8I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-17T13:01:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zLO_lCnt4uI1Ha4P1gizokkAKR8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6tifIF7ah9o"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-02T10:49:15Z",
+                "channelId": "UCPAxpUn1mrn14xU0JpsLhDg",
+                "title": "2 Maret 2020, Saat Indonesia Pertama Kali Dilanda Covid-19",
+                "description": "Tepat hari ini, Rabu (2/3/2022), Indonesia memasuki dua tahun masa pandemi Covid-19, dimana tercatat sejak awal pertama ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6tifIF7ah9o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6tifIF7ah9o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6tifIF7ah9o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kompas.com",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-02T10:49:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uWBh0qe382ehbfNyPNQmMrXpNoQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ASRugSYKZN0"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-28T02:04:47Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "WHO Sebut Varian Baru Covid-19 Omicron Memiliki Tingkat Penularan Tinggi",
+                "description": "KOMPAS.TV - Dunia tampaknya belum bisa benar-benar bebas dari merebaknya virus covid-19. Jelang akhir tahun 2021 ini ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ASRugSYKZN0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ASRugSYKZN0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ASRugSYKZN0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-28T02:04:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wIVlX1BKw4FJmgzyt8cmr4XnW2A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kdl4D1RFMo8"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-15T13:01:17Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "[INFOGRAFIS] 7 Cara Cegah Penularan Virus Corona Covid-19",
+                "description": "JAKARTA, KOMPAS.TV - Sebelum melindungi orang lain, sebaiknya kita harus melindungi diri sendiri terlebih dulu.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kdl4D1RFMo8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kdl4D1RFMo8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kdl4D1RFMo8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-15T13:01:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "g93bw4LIvfSAVAamA5G-kbV-IHE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "itAbC58CwpI"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-03T15:37:26Z",
+                "channelId": "UCKII0Ml9S5wneKbHswmUrIQ",
+                "title": "Infeksi Ulang Covid-19, Mengapa Bisa Terjadi?",
+                "description": "NARSUM: Iris Rengganis / Spesialis Penyakit Dalam - Ketua PP Peralmuni Semakin banyak mutasi virus, juga membuat reinfeksi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/itAbC58CwpI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/itAbC58CwpI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/itAbC58CwpI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CNN Indonesia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-03T15:37:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pZ50sXA8US08zFbNiNPoAlE3kRs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sFDCiCBlEz0"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-03T03:02:12Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Mengalami Gejala Mirip Corona? Bisa Jadi Kamu Terkena Penyakit Ini!",
+                "description": "JAKARTA, KOMPAS.TV - Apakah Anda selalu mengikuti perkembangan mengenai Covid-19 atau virus corona? Hal itu memang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sFDCiCBlEz0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sFDCiCBlEz0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sFDCiCBlEz0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-03T03:02:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MlWJh3bNCQhIQGbIj04UnQZn0ug",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rq7E6XcrKQo"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-01T14:17:00Z",
+                "channelId": "UCzl0OrB3-ehunyotIQvK77A",
+                "title": "Panglima TNI Andika Perkasa Terpapar Covid-19",
+                "description": "Panglima TNI Andika Perkasa terkonfirmasi positif covid-19. Pagi ini (28/01/2022) tidak menghadiri rapat pimpinan TNI Polri yang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rq7E6XcrKQo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rq7E6XcrKQo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rq7E6XcrKQo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "metrotvnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-01T14:17:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PtJzFpZqjxn9cBjFfLWI7WC2_TU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eAc5lNqSNhA"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-03T08:21:29Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Kemenkes Jelaskan: Perbedaan Antara Covid-19 dan Virus Corona",
+                "description": "JAKARTA, KOMPAS.TV Kementrian Kesehatan menjabarkan terdapat perbedaan penyebutan. Berdasarkan referensi dari WHO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eAc5lNqSNhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eAc5lNqSNhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eAc5lNqSNhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-03T08:21:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FXzpMt6bcvK20NfJSuCT9hNMB6s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "szkvdy9r4m4"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-03T14:30:17Z",
+                "channelId": "UCKII0Ml9S5wneKbHswmUrIQ",
+                "title": "Reinfeksi Covid-19, Kenapa Bisa Terjadi?",
+                "description": "Untuk ketiga kalinya, musisi maia estianty kembali positif covid-19. Tidak hanya maia, sejumlah public figure ternyata juga sempat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/szkvdy9r4m4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/szkvdy9r4m4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/szkvdy9r4m4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CNN Indonesia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-03T14:30:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NbxWifDsJ-n9lXIeurYSLCWVkPo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_Vc94DQfGxs"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-07T04:59:48Z",
+                "channelId": "UC6LJqxyUlipQDnD6qpbltgg",
+                "title": "Penyakit Coronavirus (COVID-19) disebabkan oleh virus, BUKAN oleh bakteria",
+                "description": "Virus yang menyebabkan COVID-19 adalah dalam famili virus yang disebut Coronaviridae. Antibiotik tidak berkesan terhadap ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_Vc94DQfGxs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_Vc94DQfGxs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_Vc94DQfGxs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "World Health Organization Regional Office for the Western Pacific",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-07T04:59:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "C23TtSF7jr0NRwSXK_y9G6pxqB0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "M_KHwDhXvCA"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-25T14:28:55Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Kenali Happy Hypoxia, Gejala Baru Corona Nan Berbahaya!",
+                "description": "KOMPAS.TV - Meninggalnya tiga pasien Corona warga Banyumas, Jawa Tengah, yang mengalami gejala Happy Hypoxia, dinilai ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M_KHwDhXvCA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M_KHwDhXvCA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M_KHwDhXvCA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-25T14:28:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kmyPEsV5PLzx7t7UnrTg54wmKHA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ESFAVbvnPVI"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-27T07:08:50Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Terbaru! Eijkman Ungkap 3 Gejala Khas Covid-19 pada Anak",
+                "description": "JAKARTA, KOMPAS.TV - lembaga biologi molekuler eijkman mengungkap gejala covid-19 klinis pada kasus anak. Studi ini ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ESFAVbvnPVI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ESFAVbvnPVI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ESFAVbvnPVI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-27T07:08:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OavJRV5e0CiuFys_XjtbDB_G9Ew",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ojlWuF_r1XE"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-21T11:38:58Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Update Corona 21 Februari 2022: Bertambah 34.418 Kasus Covid-19 di Indonesia!",
+                "description": "JAKARTA, KOMPAS.TV - Satuan Tugas Penanganan Covid-19 merilis perkembangan data kasus Covid-19 di Indonesia.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ojlWuF_r1XE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ojlWuF_r1XE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ojlWuF_r1XE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-21T11:38:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J-dNRFmleB-ogxqeCGJOQ_wFfQI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MF_lkKaQ5bE"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-22T08:03:53Z",
+                "channelId": "UCWqFsSmDlm-FqjCsrawMtDA",
+                "title": "DOA BERLINDUNG DARI SEGALA PENYAKIT (CORONA) PRAY COVID19",
+                "description": "FOLLOW IG aku ya : https://www.instagram.com/aya_ibrahim04/ Assalamualaikum SAHABAT UYEY !!! SEMOGA KITA ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MF_lkKaQ5bE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MF_lkKaQ5bE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MF_lkKaQ5bE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Aya Ibrahim Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-22T08:03:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FiqyuVAJ-4PSBb_1e9dOLvYdyKM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2ufK-07VTG8"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-07T17:52:29Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Ini Alasan Varian Baru Covid-19 Semakin Banyak, Dari Varian Alpha, Beta, Delta Hingga Kappa!",
+                "description": "JAKARTA, KOMPAS.TV Pandemi Covid-19 di Indonesia semakin mengkhawatirkan. Dalam dua minggu terakhir, Indonesia telah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2ufK-07VTG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2ufK-07VTG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2ufK-07VTG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-07T17:52:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i4mgd8M8ySPG96Rbiljn5AIQo-k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "obvDxH0y4_w"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-23T14:00:31Z",
+                "channelId": "UCKII0Ml9S5wneKbHswmUrIQ",
+                "title": "Waspada Dampak Covid-19 pada Otak dan Saraf",
+                "description": "Tak hanya mempengaruhi sistem pernafasan, infeksi Covid-19 juga berdampak pada sistem saraf dan otak manusia. Beberapa ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/obvDxH0y4_w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/obvDxH0y4_w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/obvDxH0y4_w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CNN Indonesia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-23T14:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3gwG-sRhfeRR4MJcMzneb_y4cnk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IWTwGNq6bhM"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-24T02:27:19Z",
+                "channelId": "UCLkBqDxaVPH76E_4UK9zG5g",
+                "title": "PENGALAMAN PASIEN COVID-19 YANG SUDAH SEMBUH",
+                "description": "Pandemi COVID-19 menjadi hal yang cukup ditakutkan oleh masyarakat. Mereka sangat takut untuk tertular karna stigma yang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IWTwGNq6bhM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IWTwGNq6bhM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IWTwGNq6bhM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TV Tani Sehat",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-24T02:27:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "d3j2RXwGZ1_gUaNkxNPXkvyVCCo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SXqhy1E0ZdQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-01T08:41:46Z",
+                "channelId": "UC22UFqscznRcYicQUpmLTeg",
+                "title": "Harungi banjir bawa keluar jenazah mangsa Covid-19",
+                "description": "Anggota pasukan petugas COVID-19 terpaksa mengharungi banyak laluan ditenggelami air banjir dalam usaha mereka ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SXqhy1E0ZdQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SXqhy1E0ZdQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SXqhy1E0ZdQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Harian Metro",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-01T08:41:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GnbLdeDOkBED9uOhTQMtwwMS5cc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7pn7Lmo9XGQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-03T07:31:09Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Varian Corona Inggris Ditemukan di Indonesia, Covid-19 Tak akan Hilang dari Dunia?",
+                "description": "KOMPAS.TV - Setahun sudah pandemi corona melanda Indonesia. Vaksinasi memunculkan harapan untuk segera mengakhiri ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7pn7Lmo9XGQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7pn7Lmo9XGQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7pn7Lmo9XGQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-03T07:31:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aRclFf1cbEj-k8JZR10yrA49KOY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Q9TLdDLh69k"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-23T02:10:49Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Ancaman Gelombang Ke-3 Corona, Kemenkes: Bisa Dicegah dengan Vaksinasi Covid-19",
+                "description": "KOMPAS.TV - Di tengah melandainya kasus covid-19, Indonesia kini sedang dibayangi ancaman gelombang 3 corona. Namun ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q9TLdDLh69k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q9TLdDLh69k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q9TLdDLh69k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-23T02:10:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JrRXC1aIMyCQiAIqijsIf-gqoo0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6Tbvvpu9Kdc"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-06T05:49:01Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Puncak Gelombang Covid-19 Varian Omicron Diprediksi Tiga Kali Lebih Tinggi dari Delta",
+                "description": "KOMPAS.TV - Indonesia kemarin mencatat lebih dari 33 ribu kasus covid-19 baru dalam sehari dengan kasus aktif menembus ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Tbvvpu9Kdc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Tbvvpu9Kdc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Tbvvpu9Kdc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-06T05:49:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3uxOS3IlS4HejLeeq_YeguQew-w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Mi4JUmLa8Yo"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-28T09:33:36Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Kenaikan Angka Kematian Corona Indonesia Jadi Sorotan Satgas Covid-19",
+                "description": "KOMPAS.TV - Meningkatnya angka kematian akibat corona jadi sorotan Satgas Covid-19. Juru Bicara Satgas Covid-19 Wiku ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Mi4JUmLa8Yo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Mi4JUmLa8Yo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Mi4JUmLa8Yo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-28T09:33:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r4inkW9csxTS_aMngjx0_g12XSc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "viu8VHH5WWc"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-13T17:00:28Z",
+                "channelId": "UCLkBqDxaVPH76E_4UK9zG5g",
+                "title": "GEJALA COVID 19 DARI HARI KE HARI",
+                "description": "Aldi Rahardian - Surveillance 3 Ana Shafira - Surveillance 3 Laily Nurhayati - Surveillance 3 Annisa Nadya - Surveillance 3 Nur ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/viu8VHH5WWc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/viu8VHH5WWc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/viu8VHH5WWc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TV Tani Sehat",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-13T17:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "K1hCn3rCuf48XvkX47twbvD-EH4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i8ukWjxvX3Y"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-03T11:33:12Z",
+                "channelId": "UCzl0OrB3-ehunyotIQvK77A",
+                "title": "2 Tahun Pandemi Covid-19, Sudah Siapkah Indonesia Menuju Endemi?",
+                "description": "Sudah genap dua tahun pandemi covid-19 melanda Indonesia. Beragam cara dilakukan pemerintah untuk keluar dari wabah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i8ukWjxvX3Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i8ukWjxvX3Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i8ukWjxvX3Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "metrotvnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-03T11:33:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NUMIpKidjD7shcZKaWqb0rBKcPs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qNpKe7CR710"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-24T04:04:15Z",
+                "channelId": "UCWBnPaPlVx2_h7Kdva52AYg",
+                "title": "Webinar Seri COVID-19: Waspada  Omicron, Kenali dan Kendalikan Penyakit Penyerta (KOMORBID)",
+                "description": "TATA TERTIB MENGIKUTI KEGITAN WEBINAR 1. Peserta diharapkan berpartisipasi aktif dan mengikuti seminar ini secara ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qNpKe7CR710/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qNpKe7CR710/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qNpKe7CR710/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kementerian Kesehatan RI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-24T04:04:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PccgltRu2_k8hrH3_BXboIlYDJw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Wn_piCp2apw"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-24T04:41:31Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Tanya Dokter, Apa Bedanya Covid-19 dengan Flu Biasa?",
+                "description": "JAKARTA, KOMPASTV - Penyebaran virus corona telah menjadi pandemi dan menjadi sorotan warga dunia termasuk Indonesia.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wn_piCp2apw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wn_piCp2apw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wn_piCp2apw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-24T04:41:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0To6C8HiUKZxP2w3ILW4kxVxlFg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i13wBzaZwno"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-24T06:06:47Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Sempat Alami Penurunan Kasus, Benarkah Indonesia Lewati Puncak Gelombang 3 Covid-19?",
+                "description": "JAKARTA, KOMPAS.TV - Hingga kini, Indonesia masih belum bebas dari pandemi covid-19. Merebaknya varian omicron ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i13wBzaZwno/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i13wBzaZwno/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i13wBzaZwno/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-24T06:06:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YNanxjpViJHxDyx2WbuinF-iY9w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "168LHyqZwQs"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-02T16:01:59Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Pemerintah Persiapkan Transisi dari Pandemi ke Endemi Covid-19, Apa Saja Indikatornya?",
+                "description": "JAKARTA, KOMPAS.TV - Menteri Kesehatan, Budi Gunadi Sadikin mengungkap adanya kemungkinan perayaan Idul Fitri tahun ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/168LHyqZwQs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/168LHyqZwQs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/168LHyqZwQs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-02T16:01:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bn5oVaSBc9DUBBi7tZcRT7Gw71U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8zcdJeX11yY"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-01T09:34:23Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Cara Bedain Flu Gejala Corona dengan Flu Alergi Dingin atau Debu?",
+                "description": "KOMPAS.TV - Kembali lagi di segmen Tanya Jawab Covid-19, kali ini bersama Dokter Spesialis Paru-Paru, Hermawan Setiyanto, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8zcdJeX11yY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8zcdJeX11yY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8zcdJeX11yY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-01T09:34:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jodQz3Ngk_RJQNyUxrPcWtW6L6k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UGPVc3_6Xd0"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-28T04:00:57Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Informasi Seputar Vaksin Covid-19 bagi Penderita Penyakit Bawaan",
+                "description": "KOMPAS.TV - Anda kembali bersama segmen Sehat di Tengah Pandemi, khusus membahas dan tanya jawab soal vaksin, setiap ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UGPVc3_6Xd0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UGPVc3_6Xd0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UGPVc3_6Xd0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-28T04:00:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ara2cDJGQlexzV5carACtstmlMo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LdKFuZt_nt8"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-05T08:30:01Z",
+                "channelId": "UCKII0Ml9S5wneKbHswmUrIQ",
+                "title": "Panduan Merawat Pasien Positif Corona di Rumah",
+                "description": "Live streaming 24 jam: https://www.cnnindonesia.com/tv Jumlah pasien positif terinfeksi Covid-19 di Indonesia terus bertambah.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LdKFuZt_nt8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LdKFuZt_nt8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LdKFuZt_nt8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CNN Indonesia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-05T08:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HFgiOl2CI4rVOX8YFzm_2rzDryQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qq_mxzfRJ9E"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-20T09:16:57Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Kasus Bertambah, Jakarta Sumbang Kasus Baru Covid-19 Tertinggi",
+                "description": "KOMPAS.TV - Penyebaran covid-19 di Indonesia masih terjadi, DKI Jakarta kembali mencatatkan sebagai daerah dengan kasus ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qq_mxzfRJ9E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qq_mxzfRJ9E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qq_mxzfRJ9E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-20T09:16:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8Od9tuHmyxt4RVB6awBPVYFNdRM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pEvOLJhF78g"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-03T07:56:13Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Kemenkes Sebut Banyak Kasus Positif Corona Tanpa Gejala",
+                "description": "JAKARTA, KOMPAS.TV Gambaran virus corona bukan seperti di film zombie dan sangat berbeda. Sekarang ada kasus yang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pEvOLJhF78g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pEvOLJhF78g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pEvOLJhF78g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-03T07:56:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AOH80TCdZTWqqTZ4ur8QJiPTp04",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BUPiO03Zjq8"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-11T10:00:08Z",
+                "channelId": "UCKECwHOIAZkpv7c1hqg1mWw",
+                "title": "Cara Meredakan Radang Tenggorokan Akibat Covid Omicron | Solusi Penyakit #59",
+                "description": "VDVC health - Mengobati Radang Tenggorokan Radang tenggorokan atau sakit tenggorokan menjadi salah satu gejala khas, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BUPiO03Zjq8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BUPiO03Zjq8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BUPiO03Zjq8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VDVC health",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-11T10:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DAQSJ6_p2ceWvWrx4M-UVXoR8oc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "onLvFVlBXKo"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-23T09:16:53Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "BREAKING NEWS - Pernyataan Presiden Jokowi Terkait Lonjakan Kasus Covid-19 di Indonesia",
+                "description": "Sahabat Kompas TV, Jangan lupa Subscribe, Share dan Like Channel Kompas TV Agar Selalu Memperoleh Informasi Terkini ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/onLvFVlBXKo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/onLvFVlBXKo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/onLvFVlBXKo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-23T09:16:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "B4G8fpJ-P4AgWVY1q5P_tpP5VSk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cvwnyf-XFvA"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-26T06:11:03Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Kasus Positif Covid-19 Kembali Sentuh Angka Ribuan, Jakarta Jadi Daerah Penyumbang Tertinggi",
+                "description": "JAKARTA, KOMPAS.TV - Pada hari Selasa (25/01) kemarin kasus harian covid 19 di indonesia menyentuh angka 4.878 kasus.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cvwnyf-XFvA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cvwnyf-XFvA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cvwnyf-XFvA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-26T06:11:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2TJzreKYpJ07dfU5G8vhMsq25T0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-NYD0uaRcqg"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-24T04:02:05Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Sebelum Covid-19, Penyakit Endemik Ini Sudah Ada di Indonesia",
+                "description": "KOMPAS.TV - Menteri Keuangan Sri Mulyani Indrawati mengungkapkan kemungkinan pandemi Covid-19 akan berubah menjadi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-NYD0uaRcqg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-NYD0uaRcqg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-NYD0uaRcqg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-24T04:02:05Z"
+            }
+        }
+    ]
+}

@@ -1,0 +1,505 @@
+{
+    "total": 1,
+    "page": 1,
+    "per_page": 25,
+    "paging": {
+        "next": null,
+        "previous": null,
+        "first": "/videos?client_id=4fb4f63fdde29900061514b3f809b6b951db7b54&client_secret=RhftNCV5BIuatbfPHxMN8aXbH8dfTrJ8GKj%2FZcHVTtt6lk9nsQM9DCU%20pewtu9pXLIwFG%205OyfTTxj70PsygKIMRsRnhIUdES%20mMB2lnCsj9qXTwwf1lzqQjmyydxS%2Fv&query=penyakit%20usus%20buntu&page=1",
+        "last": "/videos?client_id=4fb4f63fdde29900061514b3f809b6b951db7b54&client_secret=RhftNCV5BIuatbfPHxMN8aXbH8dfTrJ8GKj%2FZcHVTtt6lk9nsQM9DCU%20pewtu9pXLIwFG%205OyfTTxj70PsygKIMRsRnhIUdES%20mMB2lnCsj9qXTwwf1lzqQjmyydxS%2Fv&query=penyakit%20usus%20buntu&page=1"
+    },
+    "data": [
+        {
+            "uri": "/videos/168751643",
+            "name": "Ruang Sehat: Makanan Pasca Operasi Usus Buntu",
+            "description": "Makanan Pasca Operasi Usus Buntu - Penting untuk diperhatikan khususnya makanan yang direkomendasikan pasca menjalani operasi usus buntu. Video ini menjelaskan beberapa makanan yang sangat dianjurkan untuk dikonsumsi setelah menjalani operasi usus buntu.\n\nSemoga video kami dapat mempercepat pemulihan pasca operasi usus buntu Anda.\n\nUntuk membaca artikelnya lebih detail bisa diakses di:\nhttp://ruangsehat.net/perawatan-intensif-pasca-operasi-usus-buntu/\n\nAtau jika Anda ingin mengetahui biaya operasi usus buntu silahkan cek disini:\nhttp://ruangsehat.net/kisaran-biaya-operasi-usus-buntu-di-indonesia/\n\nInformasi penting seputar usus buntu:\nhttp://ruangsehat.net/informasi-dan-fakta-seputar-penyakit-usus-buntu/\n\n----------------------------------------­-------------------------------\nVideo ini dibuat oleh:\nRuang Sehat : Pedoman Cara Hidup Sehat\n\nWebsite: http://ruangsehat.net\n\nGoogle Plus: https://plus.google.com/115782981062451842817\n\nTwitter: https://twitter.com/RuangSehatInfo\n\nInstagram: https://www.instagram.com/ruang_sehat/\n\nAbout Me: https://about.me/RuangSehat",
+            "type": "video",
+            "link": "https://vimeo.com/168751643",
+            "player_embed_url": "https://player.vimeo.com/video/168751643?h=607410f9c8",
+            "duration": 156,
+            "width": 1280,
+            "language": "id",
+            "height": 720,
+            "embed": {
+                "html": "<iframe src=\"https://player.vimeo.com/video/168751643?h=607410f9c8&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=239169\" width=\"1280\" height=\"720\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"Ruang Sehat: Makanan Pasca Operasi Usus Buntu\"></iframe>",
+                "badges": {
+                    "hdr": false,
+                    "live": {
+                        "streaming": false,
+                        "archived": false
+                    },
+                    "staff_pick": {
+                        "normal": false,
+                        "best_of_the_month": false,
+                        "best_of_the_year": false,
+                        "premiere": false
+                    },
+                    "vod": false,
+                    "weekend_challenge": false
+                }
+            },
+            "created_time": "2016-05-31T10:10:02+00:00",
+            "modified_time": "2022-03-15T09:51:50+00:00",
+            "release_time": "2016-05-31T10:10:02+00:00",
+            "content_rating": [
+                "safe"
+            ],
+            "content_rating_class": "safe",
+            "rating_mod_locked": false,
+            "license": null,
+            "privacy": {
+                "view": "anybody",
+                "embed": "public",
+                "download": false,
+                "add": true,
+                "comments": "anybody"
+            },
+            "pictures": {
+                "uri": "/videos/168751643/pictures/573307182",
+                "active": true,
+                "type": "custom",
+                "base_link": "https://i.vimeocdn.com/video/573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d",
+                "sizes": [
+                    {
+                        "width": 100,
+                        "height": 75,
+                        "link": "https://i.vimeocdn.com/video/573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_100x75?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_100x75&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 200,
+                        "height": 150,
+                        "link": "https://i.vimeocdn.com/video/573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_200x150?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_200x150&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 295,
+                        "height": 166,
+                        "link": "https://i.vimeocdn.com/video/573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_295x166?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_295x166&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 640,
+                        "height": 360,
+                        "link": "https://i.vimeocdn.com/video/573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_640x360?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_640x360&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 960,
+                        "height": 540,
+                        "link": "https://i.vimeocdn.com/video/573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_960x540?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_960x540&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 1280,
+                        "height": 720,
+                        "link": "https://i.vimeocdn.com/video/573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_1280x720?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_1280x720&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "link": "https://i.vimeocdn.com/video/573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_1920x1080?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F573307182-4448e6b0c1972ff9ae80f9e75c2cf7d03425ac5b3549235e5536e3ae7eb026fa-d_1920x1080&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    }
+                ],
+                "resource_key": "3714ebd2f11d98852de293a8874edecc8607c4f8",
+                "default_picture": false
+            },
+            "tags": [
+                {
+                    "uri": "/tags/pascaoperasiususbuntu",
+                    "name": "Pasca Operasi Usus Buntu",
+                    "tag": "Pasca Operasi Usus Buntu",
+                    "canonical": "pascaoperasiususbuntu",
+                    "metadata": {
+                        "connections": {
+                            "videos": {
+                                "uri": "/tags/pascaoperasiususbuntu/videos",
+                                "options": [
+                                    "GET"
+                                ],
+                                "total": 1
+                            }
+                        }
+                    },
+                    "resource_key": "8896a3090dffbfd86c81222b3250a07ca2c525e5"
+                },
+                {
+                    "uri": "/tags/operasiususbuntu",
+                    "name": "Operasi Usus Buntu",
+                    "tag": "Operasi Usus Buntu",
+                    "canonical": "operasiususbuntu",
+                    "metadata": {
+                        "connections": {
+                            "videos": {
+                                "uri": "/tags/operasiususbuntu/videos",
+                                "options": [
+                                    "GET"
+                                ],
+                                "total": 1
+                            }
+                        }
+                    },
+                    "resource_key": "4e95f9283f604a80e4fd46e2201a3db2d610c71c"
+                },
+                {
+                    "uri": "/tags/makananpascaoperasiususbuntu",
+                    "name": "Makanan Pasca Operasi Usus Buntu",
+                    "tag": "Makanan Pasca Operasi Usus Buntu",
+                    "canonical": "makananpascaoperasiususbuntu",
+                    "metadata": {
+                        "connections": {
+                            "videos": {
+                                "uri": "/tags/makananpascaoperasiususbuntu/videos",
+                                "options": [
+                                    "GET"
+                                ],
+                                "total": 1
+                            }
+                        }
+                    },
+                    "resource_key": "d49a02295810d06944521618c4a179122a1a3683"
+                }
+            ],
+            "stats": {
+                "plays": null
+            },
+            "categories": [],
+            "uploader": {
+                "pictures": {
+                    "uri": null,
+                    "active": false,
+                    "type": "default",
+                    "base_link": "https://i.vimeocdn.com/portrait/defaults-blue",
+                    "sizes": [
+                        {
+                            "width": 30,
+                            "height": 30,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_30x30"
+                        },
+                        {
+                            "width": 72,
+                            "height": 72,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_72x72"
+                        },
+                        {
+                            "width": 75,
+                            "height": 75,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_75x75"
+                        },
+                        {
+                            "width": 100,
+                            "height": 100,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_100x100"
+                        },
+                        {
+                            "width": 144,
+                            "height": 144,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_144x144"
+                        },
+                        {
+                            "width": 216,
+                            "height": 216,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_216x216"
+                        },
+                        {
+                            "width": 288,
+                            "height": 288,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_288x288"
+                        },
+                        {
+                            "width": 300,
+                            "height": 300,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_300x300"
+                        },
+                        {
+                            "width": 360,
+                            "height": 360,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_360x360"
+                        }
+                    ],
+                    "resource_key": "06cd312fcc3908e2d839aeb00ccaaf434acb0859",
+                    "default_picture": true
+                }
+            },
+            "metadata": {
+                "connections": {
+                    "comments": {
+                        "uri": "/videos/168751643/comments",
+                        "options": [
+                            "GET"
+                        ],
+                        "total": 0
+                    },
+                    "credits": {
+                        "uri": "/videos/168751643/credits",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 0
+                    },
+                    "likes": {
+                        "uri": "/videos/168751643/likes",
+                        "options": [
+                            "GET"
+                        ],
+                        "total": 0
+                    },
+                    "pictures": {
+                        "uri": "/videos/168751643/pictures",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 1
+                    },
+                    "texttracks": {
+                        "uri": "/videos/168751643/texttracks",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 0
+                    },
+                    "related": null,
+                    "recommendations": {
+                        "uri": "/videos/168751643/recommendations",
+                        "options": [
+                            "GET"
+                        ]
+                    }
+                },
+                "interactions": {
+                    "report": {
+                        "uri": "/videos/168751643/report",
+                        "options": [
+                            "POST"
+                        ],
+                        "reason": [
+                            "pornographic",
+                            "harassment",
+                            "ripoff",
+                            "incorrect rating",
+                            "spam",
+                            "causes harm",
+                            "csam"
+                        ]
+                    }
+                },
+                "is_vimeo_create": false,
+                "is_screen_record": false
+            },
+            "user": {
+                "uri": "/users/52808140",
+                "name": "Ruang Sehat",
+                "link": "https://vimeo.com/user52808140",
+                "capabilities": {
+                    "hasLiveSubscription": false,
+                    "hasEnterpriseLihp": false,
+                    "hasSvvTimecodedComments": false
+                },
+                "location": "",
+                "gender": "",
+                "bio": null,
+                "short_bio": null,
+                "created_time": "2016-05-31T10:08:55+00:00",
+                "pictures": {
+                    "uri": null,
+                    "active": false,
+                    "type": "default",
+                    "base_link": "https://i.vimeocdn.com/portrait/defaults-blue",
+                    "sizes": [
+                        {
+                            "width": 30,
+                            "height": 30,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_30x30"
+                        },
+                        {
+                            "width": 72,
+                            "height": 72,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_72x72"
+                        },
+                        {
+                            "width": 75,
+                            "height": 75,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_75x75"
+                        },
+                        {
+                            "width": 100,
+                            "height": 100,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_100x100"
+                        },
+                        {
+                            "width": 144,
+                            "height": 144,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_144x144"
+                        },
+                        {
+                            "width": 216,
+                            "height": 216,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_216x216"
+                        },
+                        {
+                            "width": 288,
+                            "height": 288,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_288x288"
+                        },
+                        {
+                            "width": 300,
+                            "height": 300,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_300x300"
+                        },
+                        {
+                            "width": 360,
+                            "height": 360,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_360x360"
+                        }
+                    ],
+                    "resource_key": "06cd312fcc3908e2d839aeb00ccaaf434acb0859",
+                    "default_picture": true
+                },
+                "websites": [],
+                "metadata": {
+                    "connections": {
+                        "albums": {
+                            "uri": "/users/52808140/albums",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "appearances": {
+                            "uri": "/users/52808140/appearances",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "channels": {
+                            "uri": "/users/52808140/channels",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "feed": {
+                            "uri": "/users/52808140/feed",
+                            "options": [
+                                "GET"
+                            ]
+                        },
+                        "followers": {
+                            "uri": "/users/52808140/followers",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "following": {
+                            "uri": "/users/52808140/following",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "groups": {
+                            "uri": "/users/52808140/groups",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "likes": {
+                            "uri": "/users/52808140/likes",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "membership": {
+                            "uri": "/users/52808140/membership/",
+                            "options": [
+                                "PATCH"
+                            ]
+                        },
+                        "moderated_channels": {
+                            "uri": "/users/52808140/channels?filter=moderated",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "portfolios": {
+                            "uri": "/users/52808140/portfolios",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "videos": {
+                            "uri": "/users/52808140/videos",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 1
+                        },
+                        "shared": {
+                            "uri": "/users/52808140/shared/videos",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "pictures": {
+                            "uri": "/users/52808140/pictures",
+                            "options": [
+                                "GET",
+                                "POST"
+                            ],
+                            "total": 0
+                        },
+                        "folders_root": {
+                            "uri": "/users/52808140/folders/root",
+                            "options": [
+                                "GET"
+                            ]
+                        },
+                        "teams": {
+                            "uri": "/users/52808140/teams",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 1
+                        }
+                    }
+                },
+                "location_details": {
+                    "formatted_address": "",
+                    "latitude": null,
+                    "longitude": null,
+                    "city": null,
+                    "state": null,
+                    "neighborhood": null,
+                    "sub_locality": null,
+                    "state_iso_code": null,
+                    "country": null,
+                    "country_iso_code": null
+                },
+                "skills": [],
+                "available_for_hire": false,
+                "can_work_remotely": false,
+                "resource_key": "56d363c103c3d671fbb486a00b33162b27fcc1c9",
+                "account": "basic"
+            },
+            "app": null,
+            "status": "available",
+            "resource_key": "b8157b9af0714734de350948a6437c70f3a6e299",
+            "upload": null,
+            "transcode": null,
+            "is_playable": true,
+            "has_audio": true
+        }
+    ]
+}

@@ -1,0 +1,1713 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "M4YuIBcVsUdQPvBgH8TsJj2INoA",
+    "nextPageToken": "CPQDEAA",
+    "prevPageToken": "CMIDEAE",
+    "regionCode": "ID",
+    "pageInfo": {
+        "totalResults": 181023,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "o7nV-At958MUq04w8GcL4ymEPTA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZAISFrMFBSI"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-15T19:58:48Z",
+                "channelId": "UCF0OKBcyeukOOEnSqRIYbYQ",
+                "title": "Tips atau Cara menghindar Dari Terkena PENYAKIT TBC Secara Ampuh.",
+                "description": "Asalamualaikum wr wb. Salam sejahtera salam akal sehat dan salam perdamaian. Pada kesempatan kali ini saya ingin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZAISFrMFBSI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZAISFrMFBSI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZAISFrMFBSI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Agus R",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-15T19:58:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vzrUh_Z6TGxxPeTVZVjuKC5lC7M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tx7Jn9xpykY"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-08T03:24:42Z",
+                "channelId": "UC0KMauBLM1V_wa1YqXLKJiQ",
+                "title": "Pengalaman Asam Lambung (Gerd), TBC Paru dan Nyeri di kepala bagian pelipis",
+                "description": "Di video ini saya sedikit sharing cerita pengalaman sakit asam lambung, sakit tbc paru dan nyeri di kepala bagian pelipis yg ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tx7Jn9xpykY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tx7Jn9xpykY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tx7Jn9xpykY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ahmad Sibgha",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-08T03:24:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1CW0f0m4y2fbiEspJX7r6uSODRs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "R_pLPJgz-gM"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-15T02:01:14Z",
+                "channelId": "UCWlKqnwp1ngLSXQsxBA9QUA",
+                "title": "Kenali Ciri Ciri Penyakit TBC",
+                "description": "Obat TBC De Nature herbal. Berkhasiat mengatasi Penyakit TBC. Obat sudah bersertifikasi BPOM RI, Dinkes dan halal kapsul ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R_pLPJgz-gM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R_pLPJgz-gM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R_pLPJgz-gM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shelvia Oktiviani",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-09-15T02:01:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gHR3bD8Q4IX8_oipyy_XCANWh1o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ORjxhlOl-rc"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-15T03:16:48Z",
+                "channelId": "UCp-pEPiUEE8gn_BteHYj8tA",
+                "title": "OBAT TBC TRADISIONAL | CARA MENGOBATI PENYAKIT TBC ( TUBERKULOSIS ) | OBAT DETOPAR + PIPECA DENATURE",
+                "description": "OBAT TBC TRADISIONAL | CARA MENGOBATI PENYAKIT TBC ( TUBERKULOSIS ) | OBAT DETOPAR + PIPECA DENATURE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ORjxhlOl-rc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ORjxhlOl-rc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ORjxhlOl-rc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lia De Nature",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-15T03:16:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hUPn4iZsEhpO7HL68Ml0A_aIM6w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PCON03-ghnc"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-21T12:49:12Z",
+                "channelId": "UCkECRM_ZC0eNcMr0L5ik_BQ",
+                "title": "Obat tradisional untuk penyembuhan penyakit paru,tbc",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PCON03-ghnc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PCON03-ghnc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PCON03-ghnc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "syarah ayudya putri",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-21T12:49:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KHuRgRhNY75_vIx0ANsqcn2hBcM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YKin_hjvGtc"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-10T03:33:59Z",
+                "channelId": "UC5J6Q1R0U5zd8VtSAqHYdRw",
+                "title": "Ciri penyakit TBC pada paru yang harus diwaspadai",
+                "description": "Obat tuberkulosis de nature herbal. Berkhasiat mengatasi penyakit tbc. Obat sudah bersertifikasi BPOM RI, Dinkes dan halal ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YKin_hjvGtc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YKin_hjvGtc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YKin_hjvGtc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Wulan De Nature",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-09-10T03:33:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "F-yLGrW1njezyCFJaofSeL262Q4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SdsQi75edfA"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-10T01:42:00Z",
+                "channelId": "UC-1-C1V6cApdACoXpnzsN1w",
+                "title": "Cegah penyakit TBC dengan obat herbal dari De nature Indonesia",
+                "description": "Obat penyakit tbc de nature herbal. Berkhasiat mengatasi penyakit tbc Obat sudah bersertifikasi BPOM RI, Dinkes dan halal ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SdsQi75edfA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SdsQi75edfA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SdsQi75edfA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Obat Paru-paru",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-09-10T01:42:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LK6WxkIuV0EgDbq0ZeOiTFJWSQc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xvBsp3oAgtM"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-04T12:19:49Z",
+                "channelId": "UCSpd53Gau6Y7578XuEJFdjw",
+                "title": "WOW Menakjubkan Manfaat dari Akar Angin Bagi Kesehatan~Bisa Untuk Penyakit TBC",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xvBsp3oAgtM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xvBsp3oAgtM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xvBsp3oAgtM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Manfaat TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-07-04T12:19:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PKRbF-MowFPSa9y54cGunCHfeXk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rVhPUdMAvk4"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-19T02:38:51Z",
+                "channelId": "UC0QHRr3b2cnxslT9nuXN0UQ",
+                "title": "WA 0823 4354 7378 susu untuk penyakit tbc, susu untuk penderita maag dan asam lambung",
+                "description": "WA 0823-4354-7378 susu untuk penyakit tbc, susu untuk penderita maag dan asam lambung, susu untuk tulang retak di apotik, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rVhPUdMAvk4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rVhPUdMAvk4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rVhPUdMAvk4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Susu Untuk Tulang Dan Sendi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-19T02:38:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZLdTA55jvttMevEjBtSB4HH-SME",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "me6pLKpN-A4"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-19T02:34:54Z",
+                "channelId": "UC0QHRr3b2cnxslT9nuXN0UQ",
+                "title": "WA 0823 4354 7378 susu untuk tulang rahang, susu untuk penyakit tbc",
+                "description": "WA 0823-4354-7378 susu untuk tulang rahang, susu untuk penyakit tbc, susu untuk penderita maag dan asam lambung, susu ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/me6pLKpN-A4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/me6pLKpN-A4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/me6pLKpN-A4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Susu Untuk Tulang Dan Sendi",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-19T02:34:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZDva-OgJJgEZAFxTfipcniPc7tI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CUwnvbyc39M"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-20T02:02:49Z",
+                "channelId": "UCq6Pjx10c0h7NdKmMzins3A",
+                "title": "Detopar Pipeca De Nature Obat Tbc Paru Paru Asma Penyakit Sesak Nafas Herbal Denature",
+                "description": "obatasma #obatasmaherbal #obatasmaampuh #obatsesaknapas #obatasmamanjur #obatasmadenature Detopar pipeca De ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CUwnvbyc39M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CUwnvbyc39M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CUwnvbyc39M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Feny Herbal",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-20T02:02:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QV7QKJqlbF9xkLLr5pEIDa2kzjA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "65a36ZJCizo"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-30T03:01:57Z",
+                "channelId": "UCr8uHkvoQHFw7guqJ1jjPwQ",
+                "title": "Kelompok 5 komunikasi kesehatan  Penyakit TBC dan pengobatannya",
+                "description": "Komunikasi massa,komunikasi intrandan komunikasi interpersonal.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/65a36ZJCizo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/65a36ZJCizo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/65a36ZJCizo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Novalya irma putri irma putri",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-30T03:01:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "d6dD27TKCnFwgHC_YU37GEUkKUY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dC05tiu_Nxg"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-15T11:10:53Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Diabetes Apakah Bisa Sembuh Tanpa Obat, Begini Menurut Ahli Gizi",
+                "description": "Video Lengkapnya: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dC05tiu_Nxg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dC05tiu_Nxg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dC05tiu_Nxg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-15T11:10:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "680MA6u7byqMLmUi_nfQzPmMyrw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LgZyXssmzHI"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-11T07:55:52Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Apakah Pasien dengan Penyakit Jantung Boleh Vaksin Covid-19?",
+                "description": "Pasien Sakit Jantung Bisa Dapat Suntikan Vaksin Covid-19 Ketua PP Perhimpunan Dokter Spesialis Kardiovaskular Indonesia ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LgZyXssmzHI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LgZyXssmzHI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LgZyXssmzHI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-11T07:55:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pOcdCKsCMexvI0T2_VDSt0IfMgI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5UqaVLgbdlA"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-21T13:53:10Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Jokowi Siap Terbitkan Perpres hingga Dorong Para Menteri Keluarkan Permen untuk Tangani TBC",
+                "description": "Laporan Wartawan Tribunnews.com, Fransiskus Adhiyuda TRIBUN-VIDEO.COM - Presiden Joko Widodo (Jokowi) meminta ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5UqaVLgbdlA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5UqaVLgbdlA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5UqaVLgbdlA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-21T13:53:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OANxkPv7PKCh11SpqJaesl0k7vU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7PpW0JLMofY"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-15T03:57:22Z",
+                "channelId": "UCtVIyuH5KjqDRL-gs7CdkWA",
+                "title": "OBAT ATASI BATUK TBC TAK KUNJUNG SEMBUH - CARA MENGHILANGKAN PENYAKIT TBC / TUBERKULOSIS",
+                "description": "OBAT ATASI BATUK TBC TAK KUNJUNG SEMBUH - CARA MENGHILANGKAN PENYAKIT TBC / TUBERKULOSIS Produk ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7PpW0JLMofY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7PpW0JLMofY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7PpW0JLMofY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Produk De Nature",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-15T03:57:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i_LnfwAwm2JDfyDtT4QyBrzFCnc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Uh7_5F1QLhw"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-04T10:50:11Z",
+                "channelId": "UCYsJTcmt8Ix3TccpopFrzDA",
+                "title": "Penyakit | TBC | Pengertian, Gejala, Pencegah dan Pengobatan. \\\\ Part 1",
+                "description": "Tugas Komunikasi Farmasi Pencegahan dan pengobatan TBC Dosen Pengampu : Nurul Hidayah, S.Farm., M.Si, Apt. Nama ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Uh7_5F1QLhw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Uh7_5F1QLhw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Uh7_5F1QLhw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CCTV Anak Pharm",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-04T10:50:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ge_C_8Amvld0eZUPxkdQRjiO_t0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sKoMZdvVPXw"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-06T09:24:57Z",
+                "channelId": "UC2QMRd9QXlBqnx-bQNHAn-Q",
+                "title": "Penyembuhan Penyakit TBC / ASMA dengan ilmu Supranatural Padepokan NCA",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sKoMZdvVPXw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sKoMZdvVPXw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sKoMZdvVPXw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Padepokan NUR CHAKRA ABABIL ( NCA )",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-06T09:24:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "P8t0VFlYLVUHzcUcc6n50QPKNcE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KQe3tMmJgNE"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-09T03:48:05Z",
+                "channelId": "UCWx33sJU1PkxOaiA-S9Rm4w",
+                "title": "PKM: Penyuluhan Penggunaan Vitamin &amp; Suplemen yg Rasional u/ Imunitas pd Pandemi Covid-19 Sesi 2 &amp; 3",
+                "description": "Pengabdian Kepada Masyarakat : Penyuluhan Penggunaan Vitamin dan Suplemen yang Rasional untuk Imunitas pada Pandemi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KQe3tMmJgNE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KQe3tMmJgNE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KQe3tMmJgNE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "prodi farmasi uht surabaya",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-09T03:48:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UWfnwfBQiHlqeJWe8i0Hxj5340s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PBr6Yy05wX4"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-13T04:03:16Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Terungkap Penyakit yang Diidap Gadis Pemalang yang Jasadnya Disimpan Ortu Berharap Bisa Hidup Lagi",
+                "description": "TRIBUN-VIDEO.COM - Tak ada tanda kekerasan pada gadis SMP yang ditemukan dalam keadaan meninggal dunia di ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PBr6Yy05wX4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PBr6Yy05wX4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PBr6Yy05wX4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-13T04:03:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "p9lGNWwicE9C5EjHVN4kdlFd0z8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S__fSNqyo_E"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-30T14:37:59Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Berikut Cara Cek Bansos Program Keluarga Harapan (PKH)",
+                "description": "Hai Tribunners, Pemerintah memberikan bansos kepada masyarakat melalui Program Keluarga Harapan (PKH). PKH adalah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S__fSNqyo_E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S__fSNqyo_E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S__fSNqyo_E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-30T14:37:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6HrnVvO-5GMRy1egvXhLNW_lXNM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-H7kmANBuis"
+            },
+            "snippet": {
+                "publishedAt": "2019-08-13T16:41:41Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Benarkah Akar Bajakah Menyembuhkan Kanker Payudara? - AIMAN",
+                "description": "Anggina Rafitri dan Aysa Maharani adalah siswa SMA Negeri 2 Palangka Raya yang meraih medali emas tingkat internasional ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-H7kmANBuis/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-H7kmANBuis/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-H7kmANBuis/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-08-13T16:41:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "x5H7g51pgW0LOToU156EpX68yhs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IKuhhsxHkss"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-02T13:34:19Z",
+                "channelId": "UC57M5JO7BB_2-tKbkBvJ3xA",
+                "title": "DENGARKAN DAN RASAKAN SETELAHNYA,AYAT PENYEMBUH SEGALA MACAM PENYAKIT,DOA PENYEMBUH MACAM PENYAKIT",
+                "description": "DENGARKAN DAN RASAKAN SETELAHNYA,AYAT PENYEMBUH SEGALA MACAM PENYAKIT,DOA PENYEMBUH MACAM ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IKuhhsxHkss/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IKuhhsxHkss/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IKuhhsxHkss/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lorong Doa",
+                "liveBroadcastContent": "live",
+                "publishTime": "2022-02-02T13:34:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8sNfhceh-Ddsqbftmll7QS4EtHI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RpF5Q1GqvOc"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-04T12:44:06Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Pegawai KPK Ditemukan Tewas di Rumahnya di Gunungsindur Bogor, Tak Terlihat Warga Selama 3 Hari",
+                "description": "TRIBUN-VIDEO.COM - Pegawai Komisi Pemberantasan Korupsi (KPK) berinisial JS ditemukan meninggal dunia di rumahnya di ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RpF5Q1GqvOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RpF5Q1GqvOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RpF5Q1GqvOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-04T12:44:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Xmmqeb4B3fnMf17X3CAqEDsP9y8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nlQig6EiOPQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-09T03:00:32Z",
+                "channelId": "UCJ0WgVOARcyFSc6FX0NvADg",
+                "title": "part 4 PREDIKSI SOAL PPPK &amp; SKB PERAWAT 2022 | kemampuan teknis perawat terupdate 2022",
+                "description": "Hari ini aku bahas soal PPPK (P3K) kesehatan terbaru 2022. semoga bermanfaat dan kita semua bisa lolos P3K 2022, yuk ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nlQig6EiOPQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nlQig6EiOPQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nlQig6EiOPQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ners tyas",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-09T03:00:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PcNPrVFvX5uHkhberbpQWNqHUCg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "52eKOP1ejJU"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-08T06:13:49Z",
+                "channelId": "UCyIMsCzDRm8_y_6wM26_PWQ",
+                "title": "Halo Dokter &#39;&#39;Mengetahui Gejala Serangan Asma dan Tatalaksana&quot;",
+                "description": "TVRI #TVRINasional #MediaPemersatuBangsa #IndonesiaSehatTVRI Program INDONESIA SEHAT \"Halo Dokter\" 7 Maret 2022 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/52eKOP1ejJU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/52eKOP1ejJU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/52eKOP1ejJU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TVRI Nasional",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-08T06:13:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vlD7UmL2LDoFnGBo6H8NRFDDKJo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F2Qn-Ym6vdI"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-09T14:24:15Z",
+                "channelId": "UCbdNFWO0kwOVzbyalI-fgKw",
+                "title": "Aipda ramot manurung menyumbangkan uang  10 jt untuk biaya bapak ini berobat ke jawa.",
+                "description": "Kepedulian seorang anggota Bhabinkamtibmas terhadap masyarakat yang sedang menderita penyakit parah mengidap penyakit ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F2Qn-Ym6vdI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F2Qn-Ym6vdI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F2Qn-Ym6vdI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ramot Manurung",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-09T14:24:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VoP9XBZAWi9kVjWU1y6NK2Y6fmg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nBAcgHIO-tg"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-01T05:36:09Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Suara Tangisan Tak Digubris Warga, Balita di Kelapa Gading Selama 4 Hari Tidur dengan Jasad Nenek",
+                "description": "TRIBUN-VIDEO.COM - Selama berhari-hari, bocah berusia 3 tahun berinisial J hidup bersama jasad neneknya di dalam rumah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nBAcgHIO-tg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nBAcgHIO-tg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nBAcgHIO-tg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-01T05:36:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JpIPdtXHuWwRuADLYj-Xbypqrqg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Z0ON78lo93Y"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-30T10:09:14Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Begini Dampaknya Bila Nikahi Pria yang Suka Onani, Ejakulasi Dini Menanti di Atas Ranjang",
+                "description": "Simak selengkapnya di ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z0ON78lo93Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z0ON78lo93Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z0ON78lo93Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-30T10:09:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cNB6Sv-xorCUlJbt6uywAfcpHdM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dhV_ZFnS8mw"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-15T13:09:15Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Macam-macam Gangguan Pada Testis, Medical Sexologist: Ereksi Bisa Menurun",
+                "description": "Selengkapnya tonton di https://youtu.be/3wqd9wnEAII TRIBUN-VIDEO.COM - Testis atau buah zakar merupakan bagian penting ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dhV_ZFnS8mw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dhV_ZFnS8mw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dhV_ZFnS8mw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-15T13:09:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yluUa7f47ZRJRoY46HEGr37pnnE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "f88hdy5hZn8"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-09T07:17:53Z",
+                "channelId": "UCYfN5acBlDaKD8qmFNmKKYA",
+                "title": "TBC Tulang dan lumpuh sembuh tanpa obat dan  tanpa operasi dgn PAZ Al Kasaw (Pengobatan Akhir Zaman)",
+                "description": "Pengobatan akhir zaman dengan konsep bio mekanik hasil inspirasi dari Al Qur'an dan As Sunnah Ditemukan oleh seseorang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f88hdy5hZn8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f88hdy5hZn8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f88hdy5hZn8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sehat Saphire",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-09T07:17:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c9NLM_noWy4WRegFoCRExJbBGi4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jeuHBSPu0Zs"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-08T01:58:23Z",
+                "channelId": "UCodayMWz3OkBrzliF87YoOw",
+                "title": "Ustadz Dr Abu Hafizhah Irfan MSI - Kematian Husnul Khotimah",
+                "description": "Ustadz Dr Abu Hafizhah Irfan MSI - Kematian Husnul Khotimah.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jeuHBSPu0Zs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jeuHBSPu0Zs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jeuHBSPu0Zs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lorong Faradisa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-08T01:58:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Q4tIrzQsaYJq9kpP2jMu_W_JAGk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3409OvgTdHk"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-02T06:50:30Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Upaya Pemerintah untuk Pulihkan Ekonomi di Tengah Pandemi Covid-19",
+                "description": "Laporan Wartawan Tribunnews, Lendy Ramadhan TRIBUN-VIDEO.COM - Pemerintah terus mengupayakan pemulihan ekonomi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3409OvgTdHk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3409OvgTdHk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3409OvgTdHk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-02T06:50:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DpnyqTGlAqLtoloC6XfHrYAbsKU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IjIUdAqwyIs"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-05T11:30:04Z",
+                "channelId": "UC0dKXPZfDSZYNGjC_JNxaYA",
+                "title": "Arja Muani || Ki Ratna Kepakisan || Printing Mas Denpasar || Bagian 5",
+                "description": "Arja Muani dari Printing Mas Denpasar yang berjudul Ki Ratna Kepakisan Bagian 5. Pada awal dekade 1990-an, Sanggar ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IjIUdAqwyIs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IjIUdAqwyIs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IjIUdAqwyIs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Setia Damai Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-05T11:30:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sGWC7asoJ8gRF6IHCWMjbNKsvIE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NUYeHLdM-dU"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-26T10:12:39Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "5 Cara Mudah Atas Darah Rendah Tanpa Keluar Biaya Banyak",
+                "description": "TRIBUN-VIDEO.COM - Tekanan darah rendah biasanya membuat penderitanya merasa pusing, sensasi muntah, dan pingsan.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NUYeHLdM-dU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NUYeHLdM-dU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NUYeHLdM-dU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-26T10:12:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KTIgXVDRhUTWwuOUxljtlUlBZ8k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s8EMiKa1HCM"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-01T02:28:14Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Kondisi Pertama Kali Balita di Kelapa Gading Ditemukan di Dekat Jasad Neneknya, Tubuh Penuh Kotoran",
+                "description": "TRIBUN-VIDEO.COM - Nasib nahas dialami bocah berinisial J. Ia ditemukan bersama dengan jasad neneknya berinisial OT di ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s8EMiKa1HCM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s8EMiKa1HCM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s8EMiKa1HCM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-01T02:28:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "A7QCxP6YOLJlzprs2x9CUK0NjhY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bSTMLUkpyKY"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-07T11:35:01Z",
+                "channelId": "UCl7fGR8LmpEucfsHegDY_8Q",
+                "title": "Pertama di Dunia! ITS Ciptakan Alat Deteksi Dini Covid 19 Melalui Batuk",
+                "description": "Tim Institut Teknologi Sepuluh Nopember (ITS) Surabaya, Jawa Timur menginovasikan alat diagnosis kesehatan elBicare Cough ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bSTMLUkpyKY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bSTMLUkpyKY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bSTMLUkpyKY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sariagri",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-07T11:35:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r4FhlSyj6p9SaNOLpwG2y9XSp6c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mmnMRFRxiB4"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-28T13:59:02Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Pola Makan Menaikan Berat Badan, Tanpa Membuat Perut Buncit",
+                "description": "TRIBUN-VIDEO.COM - Malam Minggu Sehat kali ini bertema \"Atur Pola Makan atau Diet? Mana yang Lebih Tepat?\" bersama Ahli ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mmnMRFRxiB4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mmnMRFRxiB4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mmnMRFRxiB4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-28T13:59:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "V4txi7wi0RAtZWvJhvI9iws6u5E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fPs--hNPZYo"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-04T06:41:11Z",
+                "channelId": "UCgQXn7TQNd_at5UpBtzQlsA",
+                "title": "Cara Pijat Sesak Nafas, Terapi 4 Titik Menyembuhkan Sakit Paru-Paru Asma, TBC | Tutorial Pijat",
+                "description": "Cara Pijat Sesak Nafas, Terapi 4 Titik Menyembuhkan Sakit Paru-Paru Asma, TBC | Tutorial Pijat #pijatasma #tutorialpijat #pijat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fPs--hNPZYo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fPs--hNPZYo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fPs--hNPZYo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GUS SHALEH",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-04T06:41:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gnuZdXIGb20od9hEIoFM62jm_BA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "A38U2VfInaQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-12T01:29:32Z",
+                "channelId": "UCnivm1QRmjSavfdeGTvYq6Q",
+                "title": "BERSIHKAN PARU-PARU !! LENDIR BATUK, SESAK NAPAS DAN ASMA SEMBUH DENGAN RAMUAN INI",
+                "description": "paru-paru kotor dapat menyebabkan munculnya masalah ditubuh. Nah ini Cara alami membersihkan paru-paru kotor ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A38U2VfInaQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A38U2VfInaQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A38U2VfInaQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "topith tanj",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-12T01:29:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UF7y47Y7QxdDzeRtU83yst3ODgw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jW3yhBLuzoU"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-15T08:15:40Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Kondisi Laura Anna Sebelum Meninggal, Kerabat Sebut Sempat Alami Sesak Napas",
+                "description": "TRIBUN-VIDEO.COM - Pihak keluarga buka suara terkait kondisi selebgram Laura Anna sebelum dinyatakan meninggal dunia ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jW3yhBLuzoU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jW3yhBLuzoU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jW3yhBLuzoU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-15T08:15:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QhKmuThYBwZeKyHWUTvWmnh0Ezw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cUJBaaY_nII"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-07T06:54:10Z",
+                "channelId": "UCSa_spPLMjtAKHApaFgTCIA",
+                "title": "GARANSI!! WA: 0878 5926 0885, Reseller Makanan Konsentrasi di Bogor",
+                "description": "KLIK https://wa.me/6287859260885, Makanan Supaya Daya Ingat Kuat, Makanan Suplemen Otak, Makanan Terbaik Stroke, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cUJBaaY_nII/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cUJBaaY_nII/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cUJBaaY_nII/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jual Herbal Kecerdasan Anak OSB Tangerang",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-07T06:54:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Je_2tLzaKSS4gfdMbXIu49Ld8_M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_HdquM7XPSc"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-10T08:41:54Z",
+                "channelId": "UC80cDKQcF5x0I_shDGMuCpg",
+                "title": "Tugas Role play IDK kelompok 2",
+                "description": "Tugas Role play IDK kelompok 2 : peran perawat dalam penatalaksanaan spesimen dan pemeriksaan untuk data penunjang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_HdquM7XPSc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_HdquM7XPSc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_HdquM7XPSc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alya New",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-10T08:41:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2ayFQlMNGayl7Wutz47kLJIY66k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vZsMWULNnOo"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-09T01:39:13Z",
+                "channelId": "UCMk_xgkp4n32rIW3MXcfZNw",
+                "title": "KESIHATAN &quot;Kenali Penyakit Tuberculosis&quot;",
+                "description": "KESIHATAN \"Kenali Penyakit Tuberculosis\" Tetamu: Dr Fazilah Ahmad, Pakar Respiratori Hospital Pusrawi.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vZsMWULNnOo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vZsMWULNnOo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vZsMWULNnOo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "IKIM",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-09T01:39:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UK7acmorbPvDXK26ySpmekYJ3kk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3TZ8Vbi_Bts"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-06T05:44:56Z",
+                "channelId": "UCfo6NgfEAxfPoiaaYXH1jRA",
+                "title": "Webinar Kedokteran World Kidney Day 2022 &quot;Prevention and Early Detection of Kidney Disease&quot;",
+                "description": "Dalam rangka memperingati Hari Ginjal Sedunia/World Kidney Day (WKD) 2022, Perhimpunan Nefrologi Indonesia (PERNEFRI) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3TZ8Vbi_Bts/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3TZ8Vbi_Bts/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3TZ8Vbi_Bts/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PB PERNEFRI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-06T05:44:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NkTnlYSZ-qcmtST6iYJiZNVSS7s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GBnxeA5Z77E"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-10T11:30:09Z",
+                "channelId": "UC0dKXPZfDSZYNGjC_JNxaYA",
+                "title": "Arja Muani || Ki Ratna Kepakisan || Printing Mas Denpasar || Bagian 7",
+                "description": "Arja Muani dari Printing Mas Denpasar yang berjudul Ki Ratna Kepakisan Bagian 7. Pada awal dekade 1990-an, Sanggar ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GBnxeA5Z77E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GBnxeA5Z77E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GBnxeA5Z77E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Setia Damai Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-10T11:30:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "H2PiGBl9lMDuopYzF3S7-hNtlzY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XJ4ILzrMUGQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-10T09:00:13Z",
+                "channelId": "UCRYI9h3ufRif7WUyWoa-HSA",
+                "title": "Kisah Pilu Penderita Tumor (TARI) | Berbgai Bersama Queen Bansos",
+                "description": "SAT OFFICIAL - QUEEN BANSOS RANTAUPRAPAT - BERBAGI BERSAMA TARI - PENDERITA PENYAKIT TUMOR DI KEPALA ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XJ4ILzrMUGQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XJ4ILzrMUGQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XJ4ILzrMUGQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SAT OFFICIAL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-10T09:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8POzjHRR50uHxIROGlYa1oaUzkQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w2mG3CysJJs"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-09T18:31:42Z",
+                "channelId": "UCrZxJNOoOyEBF6ofCQ0OV7g",
+                "title": "Edukasi TBC - PBL 1 Kelompok 2 FIK UMS",
+                "description": "Ayo kenali penyakit menular satu ini! Tuberkulosis merupakan salah satu penyakit menular yang disebabkan oleh bakteri ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w2mG3CysJJs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w2mG3CysJJs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w2mG3CysJJs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Setyaning Ros Utami",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-09T18:31:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5qoDRScS-3IHA6UQcas_WJA80mg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_t45GbvAiIg"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-11T01:00:08Z",
+                "channelId": "UC-oNOyciq4ulxHEGWTHK6nA",
+                "title": "Endemi COVID: Apa Kata Ahli Evolusi Virus?",
+                "description": "Benarkah virus selalu berevolusi menjadi lebih jinak? Bagaimana seharusnya sikap kita ketika hidup berdampingan dengan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_t45GbvAiIg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_t45GbvAiIg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_t45GbvAiIg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RS Cepat Waras",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-11T01:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "e926o__69WIj4Vhj1l4jihK2ZsU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MAmuuGHddiw"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-08T12:18:32Z",
+                "channelId": "UCqGtBuXJLLKLwtffruNTtYg",
+                "title": "Palang Pintu Sanggar Al-Ma&#39;ruf terbaru - Bang Aden Alumni STM BHIZER????",
+                "description": "Tiktok Sanggar Al Maruf : tiktok.com/@sanggaralmaruf_ Terimakasih sudah menonton video kami. Mohon maaf bila ada ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MAmuuGHddiw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MAmuuGHddiw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MAmuuGHddiw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sanggar al maruf",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-08T12:18:32Z"
+            }
+        }
+    ]
+}

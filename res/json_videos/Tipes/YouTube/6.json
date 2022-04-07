@@ -1,0 +1,1713 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "5zdXAzYVCiNa38P8QkQPfyeQRLc",
+    "nextPageToken": "CKwCEAA",
+    "prevPageToken": "CPoBEAE",
+    "regionCode": "NL",
+    "pageInfo": {
+        "totalResults": 266784,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8yk9nyFIVqb9BOU6zQ4kq28Q38A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bfc1GDaOhRQ"
+            },
+            "snippet": {
+                "publishedAt": "2019-09-23T07:45:02Z",
+                "channelId": "UC80WBfKJSBsZsh4hg9a701A",
+                "title": "7 Makanan Untuk Penderita Tipes Agar Cepat Sembuh",
+                "description": "7 Makanan Untuk Penderita Tipes Agar Cepat Sembuh,Makanan Untuk Penderita Tipes,Tipes Agar Cepat Sembuh,obat tipes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bfc1GDaOhRQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bfc1GDaOhRQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bfc1GDaOhRQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "1001 herbal",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-09-23T07:45:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "k9ZlXGx2sU_rkOzFRGDOzBhYVFY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L0qp-BlYEsM"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-09T17:36:21Z",
+                "channelId": "UCnO6FOfe_QhJz7ZO3pVk8Dw",
+                "title": "#KERJA-KERJA-KERJA TIPES #KaosCustom",
+                "description": "Mau kaos custom KEREN MURAH gini? #GRATIS STICKER KEREN & SHOW YOUR STYLE!! #bonus bersedekah Kaos ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L0qp-BlYEsM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L0qp-BlYEsM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L0qp-BlYEsM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Blues Sticker",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-09T17:36:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3Uttq0fr7kqZFIQFqOj4mKteItk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dGijZ1tXyC0"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-10T09:06:25Z",
+                "channelId": "UCyTZDhLOoIRZcO9lM41no2Q",
+                "title": "Ayam Penyet Sambel Trasi Tomat Kiat di tipes Solo , Fixs bikin Kenyang !!",
+                "description": "Hallo Sobat Jajalen TV berjumpa lagi dengan kita !!! . Penyetan hits di kota Solo nih, Penyetan Kiat namanya.. Penyetan dengan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dGijZ1tXyC0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dGijZ1tXyC0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dGijZ1tXyC0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jajalen TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-10T09:06:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zFdh4twUgt19HpiNUCZXPs0cGtM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bJ2SKA6muTM"
+            },
+            "snippet": {
+                "publishedAt": "2010-02-18T09:17:52Z",
+                "channelId": "UCho6kpjLirvu6d9R7b-a2qQ",
+                "title": "Elektronické konštatovanie systémom TauRIS , Tipes , ATIS , BRICON ...mp4",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bJ2SKA6muTM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bJ2SKA6muTM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bJ2SKA6muTM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Franta65",
+                "liveBroadcastContent": "none",
+                "publishTime": "2010-02-18T09:17:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wUp4dRu0qi-VKO1mW2Pi4ePYFx0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JX-R52Z-vxM"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-12T14:55:00Z",
+                "channelId": "UC4G_KARYOBM8je0tt5O-aHQ",
+                "title": "Gejala Tipes/Tifus",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JX-R52Z-vxM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JX-R52Z-vxM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JX-R52Z-vxM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SayaSehat",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-01-12T14:55:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aeRbR8_s_9y8oxaq-mPrmoslk4Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ShsGrsNFvdc"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-14T11:42:50Z",
+                "channelId": "UCy4VOOS64UI-z9e6DHc64Mg",
+                "title": "Hiccups//क्यों बार बार हिचकी आता है//Complications//Treatment and Tipes//",
+                "description": "Hiccups is general condition . but sometimes it cause verious problem .so more information about hiccups watch this video.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ShsGrsNFvdc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ShsGrsNFvdc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ShsGrsNFvdc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Prolife  by Debendra kar",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-14T11:42:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yUA5nJ5ekNF83pSZkE-io47kXK0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mT7Z5AUHT_w"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-12T17:12:43Z",
+                "channelId": "UCFDoluyqtXjTgOfA5FcClUQ",
+                "title": "Lanjut Leveling Sampe Tipes ft. Shiryune..... Seal Plus Glory #3",
+                "description": "Jangan lupa untuk Like dan Subscribe yak, Kalo mau bantu dengan sawer juga gpp :) Makasi - https://saweria.co/clankucingtoxic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mT7Z5AUHT_w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mT7Z5AUHT_w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mT7Z5AUHT_w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tobi Si Kucing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-12T17:12:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "q5q1zMrk1KvM6Pqc85y0RqrRmaY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QHd2llRATX0"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-21T05:27:21Z",
+                "channelId": "UCjobS57wiJqkR167O9C1a2Q",
+                "title": "Sea of Tipes",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QHd2llRATX0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QHd2llRATX0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QHd2llRATX0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MrAdhit",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-21T05:27:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cd9SE3Svd1cXPotG7_tYUVcdWfY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "q7YxbvEsttk"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-15T03:00:10Z",
+                "channelId": "UCGw_JkDD6Mlea0aKeHqHz9A",
+                "title": "RANK PUSH TO GRANDMASTER BEST TIPES AND TRICKS #Sanjayda1b #shortstipsandtricks #shorts #viralshorts",
+                "description": "RANK PUSH TO GRANDMASTER BEST TIPES AND TRICKS #Sanjayda1b #shortstipsandtricks #shorts #viralshorts Thanks for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q7YxbvEsttk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q7YxbvEsttk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q7YxbvEsttk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sanjay Das 1B ⓥ • 143K views • 1 hour ago",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-15T03:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DQ3S6Kk4BuLO3l-EweNVuy7GgZI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EvN_aTKoh3o"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-01T05:30:02Z",
+                "channelId": "UCpNWky_Y8lWHAZCQ9h-MYdQ",
+                "title": "To gyus ham apkoo tipes dengai jabardasti😅warna mai pubg khelna chod dunga😅#shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EvN_aTKoh3o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EvN_aTKoh3o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EvN_aTKoh3o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITZ LITE GAMING",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-01T05:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-5pILdjJjP94DOsQK0jWkikEzzk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "52c6XE4vcSQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-08T10:08:56Z",
+                "channelId": "UCmrUwmkopCbau3rPhfo6FGw",
+                "title": "MAMA LELA SAKIT TIPES, LEMAS TAK BERDAYA - CUPLIKAN",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/52c6XE4vcSQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/52c6XE4vcSQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/52c6XE4vcSQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MAMA LELAH",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-08T10:08:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "la6TuP5cHJQlVpDdg-MmhEHejtI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yWITZk49tes"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-24T12:47:22Z",
+                "channelId": "UC-T7ktAVFafO4A3oriA7PGw",
+                "title": "Gejala Tipes pada Bayi yang Harus Parents Waspadai",
+                "description": "Hello Parents.. Bayi biasanya suka mengeksplorasi lingkungan yang ada di sekitarnya karena rasa keingintahuannya. Tak jarang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yWITZk49tes/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yWITZk49tes/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yWITZk49tes/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dunia Parenting",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-24T12:47:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gV2sJ-ycB9JvC-vBiBXidwL6gzI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JJ57iNQ_8W0"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-15T01:10:52Z",
+                "channelId": "UCTxnTrJG2aDGevdBSmgZrUw",
+                "title": "Jalan pintas dari tipes lotte ke kartasura",
+                "description": "Map: https://www.google.com/maps/d/edit?mid=1eO884sAnCIvFPdkWQ9M1Bezz1PCKXMmR&usp=sharing.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JJ57iNQ_8W0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JJ57iNQ_8W0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JJ57iNQ_8W0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NGARIDE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-15T01:10:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "de4C1Y_h2GBtQlYlb0yUP8hMhGQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W6wBQSMuFtk"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-23T05:59:53Z",
+                "channelId": "UCjobS57wiJqkR167O9C1a2Q",
+                "title": "Sea of Tipes",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W6wBQSMuFtk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W6wBQSMuFtk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W6wBQSMuFtk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MrAdhit",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-23T05:59:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EiHnEMV3chIUZXZyerTfuWviCRo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MCXNiB4nbmU"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-02T14:50:45Z",
+                "channelId": "UCCaYhpB-1w5aLBqvp0GLDdw",
+                "title": "Assamese vastu/Mahavastu.. picture tipes in assmese in Vastu Shasta",
+                "description": "বাস্তুশাস্ত্ৰ অনুসৰি এখন ঘৰত কেনেধৰণৰ চিত্ৰ(Picture) লগাব নালাগে সেই বিষয়ে জানো আহঁক।",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MCXNiB4nbmU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MCXNiB4nbmU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MCXNiB4nbmU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Subha Astrooo Vastu",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-02T14:50:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cYfyjDd2ur7K2D0xYFGe0EqLWEY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rTNATdbALrI"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-18T06:21:13Z",
+                "channelId": "UCziCgHnVYbN9RJK1mCasmaQ",
+                "title": "संख्याज्ञान - विशेष  / Tipes of numbers",
+                "description": "संख्याज्ञान - विशेष / Tipes of numbers.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rTNATdbALrI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rTNATdbALrI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rTNATdbALrI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Maitri Maths",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-18T06:21:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "l2J7esb7tIKG2SEamfeq2346qpo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uHtDYPWv6OE"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-07T11:31:37Z",
+                "channelId": "UCHEL-mwGYO4O8DNviA0VmoA",
+                "title": "Tipes of Kaiju universe players 1#",
+                "description": "nothing.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uHtDYPWv6OE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uHtDYPWv6OE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uHtDYPWv6OE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AlfaEPlayz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-07T11:31:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JukT8nXvQr_FEDCFpg30SZd3v6A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "97nz1xOyGNo"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-24T21:13:50Z",
+                "channelId": "UCjobS57wiJqkR167O9C1a2Q",
+                "title": "Sea of Tipes",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/97nz1xOyGNo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/97nz1xOyGNo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/97nz1xOyGNo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MrAdhit",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-24T21:13:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dgeRH67N4rlW2DX5FhZE2nFA1qU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MnQwkZzptFw"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-08T03:51:50Z",
+                "channelId": "UCb2JKTAkxjtsX2GVmuUIz1Q",
+                "title": "LIVE VALORANT INDONESIA, Pulang Magang Langsung Streaming, Semoga Kaga Tipes wkwkw",
+                "description": "Live Streaming Valorant Setiap hari!!! Halo guys, selamat datang di chanel Youtube streamer magang, semoga kalian enjoy sama ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MnQwkZzptFw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MnQwkZzptFw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MnQwkZzptFw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bima Naratama",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-08T03:51:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nGEVoeh-4o10uH1epl5ai8IpWzE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1uzh6OUFXTM"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-03T02:03:50Z",
+                "channelId": "UCxLxK7iUnhT5eovsy1vZDUg",
+                "title": "GENDONG ANAK YATIM SAKIT TIPES BEROBAT DI RS. THAMRIN DENGAN JAMINAN JAMKESDA  #SHORTS",
+                "description": "Dokumentasi kegiatan relawan sosial kemanusiaan ( Resos Sujud's Timur ) Kabupaten Bogor, menolong anak yatim asuhan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1uzh6OUFXTM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1uzh6OUFXTM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1uzh6OUFXTM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RESOS TV NEWS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-03T02:03:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Het48pqyMkh0ooJPTkMU2QZPq7s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S4b0W1xNPRI"
+            },
+            "snippet": {
+                "publishedAt": "2019-06-26T13:08:42Z",
+                "channelId": "UCX6jQHZLTqNx_NnP98jHaxw",
+                "title": "IGBT - indication cooktop mosfet full explain in hindi || tipes of igbt || rajinduction",
+                "description": "IGBT - indication cooktop mosfet full explain in hindi || tipes of igbt || rajinduction मैं राज,,,,इस वीडियो में हम सीखेंगे,, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S4b0W1xNPRI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S4b0W1xNPRI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S4b0W1xNPRI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RAJ INDUCTION",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-06-26T13:08:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y9RnYJRwi6DgVr5dFOvlR5B2i9o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e43sLmar3qI"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-16T10:00:30Z",
+                "channelId": "UCbuiDvTnG1P3GduXnm-jHmw",
+                "title": "KERJA SAMPE TIPES !! Gas Station Simulator #2",
+                "description": "LIVESTREAM setiap hari di NimoTV https://www.nimo.tv/fandraocto ▻SUBSCRIBE Fandra Octoramonth https://goo.gl/y7JY2x ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e43sLmar3qI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e43sLmar3qI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e43sLmar3qI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fandra Octoramonth",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-16T10:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "o5nieNmgaT0PPP-EquS7HALmXV4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_L0ZOvZsCHs"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-12T19:37:15Z",
+                "channelId": "UCgVFPPK4KItk5jlBX5HKRNQ",
+                "title": "Graad 11 Toerisme - Konsepte van tipes vlugte",
+                "description": "Vervoerdienste in Suid-Afrika: Lughawens, lugdienste en werking van lughawens: Konsepte: Plaaslike vlugte, Streeksvlugte, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_L0ZOvZsCHs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_L0ZOvZsCHs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_L0ZOvZsCHs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tourism NMBD",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-12T19:37:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hByAJM5dHyORhO7tJZgtVFbHcf4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8Be07GTqKgU"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-05T03:14:26Z",
+                "channelId": "UCXXeJWtVBNLhlxOto6_WxXw",
+                "title": "HANUNG BRAMANTYO BERI ALASAN TAK MAU SUTRADARAI SINETRON KEMBALI | INSERT PAGI TRANS TV",
+                "description": "ALASAN HANUNG BRAMANTYO TAK MAU LAGI SUTRADARAI SINETRON, SAYA PERNAH TIPES | INSERT PAGI TRANS TV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Be07GTqKgU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Be07GTqKgU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Be07GTqKgU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Insert Trans TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-05T03:14:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vnZB6scqnqsLgERWkuEUAz1Rgu8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ehsaVjwjfG4"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-04T18:25:21Z",
+                "channelId": "UCo1fOMLGn_dor9Z0ScHK3zg",
+                "title": "op rankpush# tipes",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ehsaVjwjfG4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ehsaVjwjfG4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ehsaVjwjfG4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SYCO PHANTIC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-04T18:25:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E1V9C5JyuOGLai0_rVbyovm2ikQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tvY1pxZXn7U"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-30T02:54:21Z",
+                "channelId": "UCOBLUHn8hpPv8prygRtrQxA",
+                "title": "Tepat Siang Ini. Dirawat Di Rumah Sakit. Natasha Wilona Positif Tipes, Begini Kondisinya Sekarang.",
+                "description": "Hallo gaiz,ketemu lagi di channel VERWIL OFFICIAL. Kali ini saya akan Memberikan info mengenai verrel Bramasta dan Natasha ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tvY1pxZXn7U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tvY1pxZXn7U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tvY1pxZXn7U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VERWIL OFFICIAL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-30T02:54:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gA87Que17na01r5LkHDM6X14XEQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L7eE5fpq8EY"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-28T22:06:59Z",
+                "channelId": "UC62BMnVp37ylnLOOPuMYJ9Q",
+                "title": "When the quiet kid subtracts",
+                "description": "Only jokes* Cred to underdoglit, I used parts of his tiktok to make this video Thanks for watching, I hope you enjoyed this meme ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L7eE5fpq8EY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L7eE5fpq8EY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L7eE5fpq8EY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "QUIET KID69",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-28T22:06:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aPRs8N8Na7lgD-1Bj6n-in33vhU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uDGaINwKGEc"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-30T19:54:38Z",
+                "channelId": "UCUkdq-Mv_q5SiJqg7TpjKcw",
+                "title": "【 Vtuber Indonesia】Pelunasan Donothon - Selesaikan Donothon dengan Kerja, Kerja, Kerja, Tipes-- Eh?",
+                "description": "Donothon Rules/Aturan: 1. Donation for donothon is in https://trakteer.id/suzunecorryn for local Indonesian (automatically counted) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uDGaINwKGEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uDGaINwKGEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uDGaINwKGEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Suzune Corryn『鈴音氷ん』Ch.",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-30T19:54:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NnMEWEZGTkP1b9sbwkCeJE3IXtw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0G0cu0KIDr8"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-16T08:31:57Z",
+                "channelId": "UCgtQsVu8RmDGNmHZR24h4yw",
+                "title": "#shorts,#youtubeshorts,#freefire #short || freefire tipes and tricks",
+                "description": "gameplay #pubgmobile #games #totalgaming #carryminati #garenafreefire #shorts #shortvideo #short games back ground songs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0G0cu0KIDr8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0G0cu0KIDr8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0G0cu0KIDr8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SS studio9555",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-16T08:31:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "X2PGNStrtlYM8v59c2UzWBPiaFI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tX1yt7Z9Xxg"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-15T08:12:55Z",
+                "channelId": "UCRF0sSViMhoNKfhKihU_RZw",
+                "title": "Far Cry 6 -Tipes : Weapon SPAS -12 ลูกซองLocation ลูกซองปราบจราจล",
+                "description": "Far Cry 6 -Tipes : Weapon SPAS -12 ลูกซองLocation ลูกซองปราบจราจล .... Follow my YouTube channel deposits. (ฝากติดตาม ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tX1yt7Z9Xxg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tX1yt7Z9Xxg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tX1yt7Z9Xxg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Games and Entertainment",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-15T08:12:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Lmd5pPPbgIvqX25a4XptO_uHai4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "M-pBV78g-Mc"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-27T17:35:04Z",
+                "channelId": "UCCkoFJqZaO-BYLDqB0BbH1w",
+                "title": "Perbedaan Gejala Corona dengan Flu dan Tipes, Awas Jangan Salah!",
+                "description": "Perbedaan Gejala Corona dengan Flu dan Tipes, Awas Jangan Salah!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M-pBV78g-Mc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M-pBV78g-Mc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M-pBV78g-Mc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ILHAM TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-27T17:35:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TpB9cTGKrFNksn5BdsEpP1QRkPI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G97QWo6-VLo"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-18T02:09:35Z",
+                "channelId": "UCxWkmrPT0sjFdXe3b10zPJA",
+                "title": "Air Cacing Obat Sakit Tipes#Short",
+                "description": "air cacing sangat berkhasiat untuk mengobati sakit tipes.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G97QWo6-VLo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G97QWo6-VLo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G97QWo6-VLo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BANKROBS CHANNEL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-18T02:09:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "F6KNWZycmLhEwjJB_fLDGFVLp0c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GgiN41qmkEo"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-25T13:32:00Z",
+                "channelId": "UCIGZvzVDnR5a6BA5okb5bvg",
+                "title": "FREE FIRE 🔥 GRANDMASTER NEW TRICKES AND TIPES ll SHORTS",
+                "description": "freefire #newGrandmasternew_trickesandtipes #007villanyt_shorts #rip13000diamonds#cobramp40max#shorts_srmstaineyt ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GgiN41qmkEo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GgiN41qmkEo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GgiN41qmkEo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "விவசாயி DHANA GAMING",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-25T13:32:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4X4j3BmdiB2VLSCYC6wytSQdy-I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gWrTuJdkPcE"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-24T04:31:08Z",
+                "channelId": "UCn51LJXdjZklHFUyRdRRTKw",
+                "title": "Mobile Photography Tipes &amp; Tricks | Macro Lens Photography ❤️❤️",
+                "description": "mobile photography,mobile photography ideas,mobile photography tips,mobile photography apps,mobile photography hacks ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gWrTuJdkPcE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gWrTuJdkPcE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gWrTuJdkPcE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NSB PICTURES",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-24T04:31:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FDO8we71Ah0Uf1c0hTgckSmJk-k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ppZnDVAIl9o"
+            },
+            "snippet": {
+                "publishedAt": "2019-09-25T03:12:43Z",
+                "channelId": "UCzIKq8l3o78v3m3sa4XJMYA",
+                "title": "Ciri-ciri dan Cara Mengobati Tipes - Tips Kesehatan (2020)",
+                "description": "Gejala Tipes: Ciri Ciri Tipes dan Cara Mengobati Tipes - Tips Kesehatan (2020) ⭕ Ciri-ciri dan gejala tipes yang mudah dikenali, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ppZnDVAIl9o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ppZnDVAIl9o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ppZnDVAIl9o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CSPeduliTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-09-25T03:12:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y5or4zqOsDtzZ_T3yQZqCTcZRas",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wVroteUfktQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-24T06:54:57Z",
+                "channelId": "UCoDca3NWC4Wwuv1qtZ1Fzog",
+                "title": "JUS PISANG BISA DIANDALKAN UNTUK MENGATASI TIPES",
+                "description": "TIPES adalah infeksi pada usus halus akibat bakteri Salmonella Paratyphi. Gejala - gejala yang muncul pada Penyakit Tipes ini, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wVroteUfktQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wVroteUfktQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wVroteUfktQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nini Unpal",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-24T06:54:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Q6KuXCZWBiZI7VsHP67lgrNeiVE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MFRdW3b4jdk"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-01T07:48:29Z",
+                "channelId": "UCyffnv6f_7QN26lNn1c2EOg",
+                "title": "జిగురు లేని బెండకాయ Curry perfect tipes/ jiguru leni bendakaya masala curry in telugu",
+                "description": "జిగురు లేని బెండకాయ Curry perfect tipes/ jiguru leni bendakaya masala curry in telugu.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MFRdW3b4jdk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MFRdW3b4jdk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MFRdW3b4jdk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "telugu recipes official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-01T07:48:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MeJMxKTBXHUJ-6TOhhEOmbXrMU8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j8VmNcaKepo"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-27T06:32:33Z",
+                "channelId": "UCZJMKAMHuMy7FYvYDWF5D8A",
+                "title": "Some Easy Basic Tipes For beginners To Start Chemistry",
+                "description": "Vikram HAP Chemistry 9644 56 2030 सीखना है New Organic Chemistry Basic to advance ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j8VmNcaKepo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j8VmNcaKepo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j8VmNcaKepo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "vikram singh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-05-27T06:32:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OcAXp6t-g1RCfReaLu42pQwRRJE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RYg81ih4fOs"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-13T05:19:16Z",
+                "channelId": "UCgral350YX21qYuY5ObUlrw",
+                "title": "hedshot tipes and trike#shorts #whatsapp",
+                "description": "plz subscribe my chenal bro #shorts #whatsapp #tiktok #youtubeshorts.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RYg81ih4fOs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RYg81ih4fOs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RYg81ih4fOs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Total gaming ff",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-13T05:19:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CuhDZgqGdUe_OzRz6oaEbtC55qo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B1RShkBTjr0"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-03T09:59:56Z",
+                "channelId": "UCUm0ANEeaR5fFLCalXDGn1Q",
+                "title": "West way to reduce weight lose tipes",
+                "description": "for more details click tha link below:- https://4781eq45x9h2ms62dft7p92q3t.hop.clickbank.net/ I've seen the Okinawa Flat Belly ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B1RShkBTjr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B1RShkBTjr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B1RShkBTjr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "shobhna Verma",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-03T09:59:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8qngyzqE9nO__lQPsTZsnQ7QQVE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3z4MG9j6gKg"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-02T02:31:31Z",
+                "channelId": "UCSHVgAhYSldMwv8pmdWmEHQ",
+                "title": "Bolehkah Makan Nanas Saat Tipes ?",
+                "description": "Yuk Di Baca, Ada yang seru disini Tentang Khasiat Buah Nanas yang perlu kamu ketahui! Jangan Lupa Like, Share, And ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3z4MG9j6gKg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3z4MG9j6gKg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3z4MG9j6gKg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sinta Merlina",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-05-02T02:31:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zmAH1BQp3TN038IQ0hoEO9H4fKQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Uj2NEB2_Ydk"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-25T11:34:48Z",
+                "channelId": "UCSDR0zIslZWMSdwnJOfU-vA",
+                "title": "who u are 😇 #shorts #ytshorts #trending #gymerboy🏋️ follow me for exercise tipes 😎",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Uj2NEB2_Ydk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Uj2NEB2_Ydk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Uj2NEB2_Ydk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SRISHTI AND VARUN😇",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-25T11:34:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "G-Fkvmt2QQvTltFc0EUQf-XsBu8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "y86He7ceLGw"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-26T12:00:24Z",
+                "channelId": "UCDP8cNz0V4L0xWI8YdyftLw",
+                "title": "&quot;TIPES VS HIV&quot; : AWAS SERANGAN DEMAM TIFOID !",
+                "description": "https://youtu.be/y86He7ceLGw Demam Tipes, atau Demam Tifoid, atau Demam Tifus disebabkan oleh bakteri Salmonella Typhi.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y86He7ceLGw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y86He7ceLGw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y86He7ceLGw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Atus Satriawan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-26T12:00:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2n7wUKRXKC9F_a12mwDMAPAib84",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2sF5fYLmiOg"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-05T05:41:07Z",
+                "channelId": "UCidwcpIw1lOdOftzYxetRgQ",
+                "title": "kerja kerja tipes #INDOPRIDE #IMC",
+                "description": "https://saweria.co/allec.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2sF5fYLmiOg/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2sF5fYLmiOg/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2sF5fYLmiOg/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "cella",
+                "liveBroadcastContent": "live",
+                "publishTime": "2022-03-05T05:41:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hUt_1DIFmtPXjlKPGF4_KqheZZA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fZtW2DdHJ0Q"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-22T05:58:59Z",
+                "channelId": "UC_MvjnNFcL5vtLcdFzQYfIQ",
+                "title": "tipes and trick in minecraft #shorts #minecraft #minecraftfacts. #technogamerz",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fZtW2DdHJ0Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fZtW2DdHJ0Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fZtW2DdHJ0Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Beat gaming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-22T05:58:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "m-YrMPxJhEmgLx9Wwa1rK4UzqdY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9-XsJKzn2bY"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-20T07:26:45Z",
+                "channelId": "UCMOsmxKK7VipydGZx5eAXfA",
+                "title": "Kerja Kerja Kerja Tipes haha #shorts #shots #status #storywa #indie",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9-XsJKzn2bY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9-XsJKzn2bY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9-XsJKzn2bY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Flayjoxx__",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-20T07:26:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8UMajoTUCgE18i4byP9-eLb4C2I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DSoBPlC-o_0"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-30T07:47:40Z",
+                "channelId": "UCQHB72rJM1CtHCDzyxoJOoQ",
+                "title": "Tifus VS Tipes, Apa Bedanya??",
+                "description": "DUSBIN HMF UNS 2021 PROUDLY PRESENT!!! Halo sobat   Berjumpa kembali di DUSBIN HMF UNS Periode 2021. Setelah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DSoBPlC-o_0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DSoBPlC-o_0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DSoBPlC-o_0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DUSBIN HMF UNS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-30T07:47:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5fEzLFfi1ll2iMgSbPcnn5cOTlE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H959Xa5_LDw"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-26T12:37:38Z",
+                "channelId": "UCVhiTvr0iwaLtplqd_Zf_fQ",
+                "title": "motivationzone A2 motivationa videos khan sar motivational video motivational video success tipes",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H959Xa5_LDw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H959Xa5_LDw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H959Xa5_LDw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "motivationzone",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-26T12:37:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MAiUQhVuJ7JFH1SRqFP0Yo8zBJ4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B_HBqS3tRhg"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-03T16:24:22Z",
+                "channelId": "UCGkPe73AS745YtOGUYXdIRg",
+                "title": "How to put goolwall tipes and tricks",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B_HBqS3tRhg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B_HBqS3tRhg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B_HBqS3tRhg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NRK gamer",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-03T16:24:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1lBnqxTPxB7sf6lLUFKoZUn9taU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Jr45MH5dBLU"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-26T23:51:50Z",
+                "channelId": "UCfuK-P7lUGODPieggCwfy3g",
+                "title": "tipes shots",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Jr45MH5dBLU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Jr45MH5dBLU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Jr45MH5dBLU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KING OF BGMI 😈",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-26T23:51:50Z"
+            }
+        }
+    ]
+}

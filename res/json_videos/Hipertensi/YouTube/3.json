@@ -1,0 +1,1713 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "-zdpCznIDA-Rt9Ws3xqkgo6mzhs",
+    "nextPageToken": "CJYBEAA",
+    "prevPageToken": "CGQQAQ",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 233579,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-wBPJE0X4hFTvF3lgUZm0BsotHQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AKpAI2lIc3o"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-04T04:34:41Z",
+                "channelId": "UC2IYO1aLCaSV01kigpxWq7A",
+                "title": "SIHAT EPISODE PENYAKIT HIPERTENSI PART 2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AKpAI2lIc3o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AKpAI2lIc3o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AKpAI2lIc3o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TV TABALONG",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-03-04T04:34:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gh_jMNnLE3IHcWNUdXC1oDX6JZA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_-BG-m-U8n0"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-02T01:54:40Z",
+                "channelId": "UCk8hky9ybUSGg3dWDVbPQbQ",
+                "title": "KONSELING PENYAKIT HIPERTENSI",
+                "description": "halo teman teman dIvideo kali ini aku akan menjelaskan bagaimana seorang apoteker memberikan konseling terhadap pasien ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_-BG-m-U8n0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_-BG-m-U8n0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_-BG-m-U8n0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "novita sudryani",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-06-02T01:54:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BiN8dk4H9aB6fTCaU7n7QL-8R-g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zs9xvCR8aQw"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-29T04:02:48Z",
+                "channelId": "UCVjMTVNEv9GxE4PHxRyqJww",
+                "title": "Hipertensi dan Diabetes, Penyakit Tidak Menular yang Banyak Terjadi di Indonesia",
+                "description": "Pola hidup yang tidak sehat, membuat masyarakat Indonesia rentan terkena penyakit tidak menular. Penyakit tidak menular yang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zs9xvCR8aQw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zs9xvCR8aQw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zs9xvCR8aQw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KompasTV Pontianak",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-11-29T04:02:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mE49KY62pDUO0rjZWFo5U2sE_Ig",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YfUXgw1rMJU"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-10T16:30:14Z",
+                "channelId": "UCChtrqMQDmImk9KL7FGx-sA",
+                "title": "Pencegahan Penyakit Hipertensi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YfUXgw1rMJU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YfUXgw1rMJU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YfUXgw1rMJU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cheriani Laoh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-10T16:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PizNbBVPJ353GYSo7RmqRjqMVys",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H1p0xSIu6Xo"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-07T11:33:11Z",
+                "channelId": "UC7yhUFyHt6svSuIWbVEwIbA",
+                "title": "penyakit HIPERTENSI",
+                "description": "Besar harapan saya semoga dg mendengar sedikit ilmu dari saya ini ttg hipertensi teman²yg belum rutin berobat tiap bulannya ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H1p0xSIu6Xo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H1p0xSIu6Xo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H1p0xSIu6Xo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mila kenari",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-07T11:33:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-XpbkfYLTbsWXCn2CJJjZ-fJzVY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RI97yYp0zV4"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-04T02:15:46Z",
+                "channelId": "UCENfGt-Kk-_4cXrrg2OxCSQ",
+                "title": "TUGAS KEPERAWATAN MEDIKAL BEDAH 1 Asuhan Keperawatan Penyakit Hipertensi.",
+                "description": "Tugas Ini Dibuat Untuk Memenuhi Mata Kuliah Keperawatan Medikal Bedah 1 Apabila Terdapat Kesalahan Dalam Berbicara ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RI97yYp0zV4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RI97yYp0zV4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RI97yYp0zV4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alisya Zanty H Samangun",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-04T02:15:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EPE64pfd_5R0Sm1-wKOnFGy0Lmc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s9lQ7Kfgcs8"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-22T00:27:32Z",
+                "channelId": "UCJ0SwVEAJRKm9E3eC7eg3PA",
+                "title": "Vidio Promosi Kesehatan tentang Penyakit Hipertensi Oleh Ekawati",
+                "description": "Vidio ini merupakan tugas kuliah mata kuliah SIK.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s9lQ7Kfgcs8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s9lQ7Kfgcs8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s9lQ7Kfgcs8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Info Kesehatan & Kreativitas",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-22T00:27:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_8HHCHxe_Y_svgVWHmCIj23gbU0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rsV19ePUF24"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-20T12:23:45Z",
+                "channelId": "UC60qipEVDa9ntXq3CyoUgzA",
+                "title": "Fisioterapi pada Penyakit Hipertensi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rsV19ePUF24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rsV19ePUF24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rsV19ePUF24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sakina pikawati",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-20T12:23:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ly3z4-sYCaQPpvks2iSW444Pj3M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2AwnxJUo8Og"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-24T14:00:06Z",
+                "channelId": "UCTQ4mayjazd0XdaCh_X8abw",
+                "title": "Faktor Risiko Seorang Alami Penyakit Hipertensi, dari Umur hingga Genetik",
+                "description": "TRIBUN-VIDEO.COM - Hipertensi atau tekanan darah tinggi adalah penyakit yang berbahaya karena bisa menyebabkan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2AwnxJUo8Og/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2AwnxJUo8Og/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2AwnxJUo8Og/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribun Health",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-24T14:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6_BUitzCXJgyWpukypgNzi1AmVE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ejL2B-0BQTQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-01T02:04:45Z",
+                "channelId": "UCU2TIoMDTCqnRfbHu-KN02w",
+                "title": "Jangan sepelekan penyakit HIPERTENSI",
+                "description": "Membahas masalah penyakit HIPERTENSI. mengingat penyakit ini merupakan salah satu ppenyebab kematian tertinggi dan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ejL2B-0BQTQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ejL2B-0BQTQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ejL2B-0BQTQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rofik Dianto",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-06-01T02:04:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "N0Gl6Gmn1lFcVftiETUXkcaiSRw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "A_bYmAu8AZU"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-24T17:14:30Z",
+                "channelId": "UCPRSuoAZ811HhxmSzJg7L1w",
+                "title": "PENYAKIT HIPERTENSI",
+                "description": "Hipertensi atau naiknya tekanan darah merupakan penyakit yang berbahaya, maka berbagilah ilmu tenteng kesehatan biar kita ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A_bYmAu8AZU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A_bYmAu8AZU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A_bYmAu8AZU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "POLTKES KEMSOR PB DIII KEP MKW KEL 1 HIPERTENSI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-24T17:14:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5ZmKYsu2UlJfQCFvVieAaeQ-Oww",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xJpufC7rlbM"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-13T12:30:25Z",
+                "channelId": "UCjZFwmbxjeVfOxibCh-gHZA",
+                "title": "Penyakit Hipertensi",
+                "description": "Promosi Kesehatan mengenai Penyakit Hipertensi Nama : Arini Lutfia NIM : PO6231320076 Prodi : DIII Gizi Reg XXI POLTEKKES ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xJpufC7rlbM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xJpufC7rlbM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xJpufC7rlbM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Arini Lutfia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-13T12:30:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WA4-uIDKzE7O5_41gK3uQzSz_bc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qXMEps-QoWI"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-13T17:32:16Z",
+                "channelId": "UCuq6EMip4157WYuhVrN05Rw",
+                "title": "MENGENAL PENYAKIT HIPERTENSI",
+                "description": "Assalamualaikum wrwb, Berikut adalah video UTS pendidikan gizi mengenai materi hipertensi, yang dibuat oleh : Nama : Elissa ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qXMEps-QoWI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qXMEps-QoWI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qXMEps-QoWI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EF Cooking",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-13T17:32:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "F4V6vH-UjKkg7FQnuUcfZhHtrNE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3rIGvg30Wmg"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-25T02:30:59Z",
+                "channelId": "UCGy1Z-b8h60soIl-g9-Yzmg",
+                "title": "#Pencegahan Penyakit Hipertensi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3rIGvg30Wmg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3rIGvg30Wmg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3rIGvg30Wmg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Manda Putri",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-25T02:30:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YXpKqPUSRg7jhQTGt-eicD51Gd8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rGQyebfI_Ik"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-03T11:52:48Z",
+                "channelId": "UCYmylA4C-IHVoJDKWxPzLiA",
+                "title": "Edukasi kesehatan penyakit hipertensi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rGQyebfI_Ik/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rGQyebfI_Ik/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rGQyebfI_Ik/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Agus Saparudin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-03T11:52:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8HptcqJstXCLi206XbDeMsZy8LQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "x7A5el0Q60M"
+            },
+            "snippet": {
+                "publishedAt": "2019-06-26T10:00:09Z",
+                "channelId": "UCPKhaHdM_SjhcQ9jxdZQYlA",
+                "title": "7 Buah Ampuh Untuk Menurunkan Darah Tinggi/Hipertensi",
+                "description": "Halo Guys 7 buah untuk menurunkan ataupun untuk mengontrol tekanan darah jadi sangat direkomendasikan untuk penderita ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x7A5el0Q60M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x7A5el0Q60M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x7A5el0Q60M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Saddam Ismail",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-06-26T10:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "u5CMaBVzyNihEuayNUE0dP7Oqsk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TuFP-JXilPg"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-23T17:13:15Z",
+                "channelId": "UC3eRvWf1UbF9IiRuy635phA",
+                "title": "Webinar Ahli Gizi Rumah Sakit  “Tata Laksana Gizi pada Hipertensi”",
+                "description": "Sabtu, 23 Oktober 2021 pukul 07.30 – 15.15 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TuFP-JXilPg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TuFP-JXilPg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TuFP-JXilPg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "gizIdes",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-23T17:13:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YotLg4W73cT0LZluOBdlpYT9uxY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sOKDTjcIJfc"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-22T22:49:14Z",
+                "channelId": "UCLZhzNnxMZ_CoPr7szCHDwA",
+                "title": "PENYULUHAN PENYAKIT HIPERTENSI",
+                "description": "Assalamualaikum Wr.Wb Video ini menunjukan tentang promosi kesehatan atau penyuluhan kesehatan di masyarakat oleh ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sOKDTjcIJfc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sOKDTjcIJfc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sOKDTjcIJfc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Elis Ega Afsari",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-22T22:49:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qr_fzS7Xh4llpoVEOZqVsnVnxYc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gnRgN6xDwSc"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-06T12:01:10Z",
+                "channelId": "UC97bs_2s_ZZZ1CYt78T8rww",
+                "title": "PENYULUHAN LEAFLET TENTANG PENYAKIT HIPERTENSI",
+                "description": "Jangan lupa like dan share ke semua orang Supaya video ini bisa bermanfaat bagi kita semua.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gnRgN6xDwSc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gnRgN6xDwSc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gnRgN6xDwSc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rielna Saraviour Toisuta",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-06T12:01:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DOdccOHEirxJT7FuvSgNjV00OMg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Xvq-wdUjosM"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-07T23:32:17Z",
+                "channelId": "UCEcNbn9HKeK5CvCDSeSqX2A",
+                "title": "HIPERTENSI PENYAKIT TURUNAN ?",
+                "description": "penyakit Hipertensi atau Darah Tinggi dijuluki \"Si Pembunuh Senyap\" karena walaupun sebenarnya keadaan Hipertensi kita ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xvq-wdUjosM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xvq-wdUjosM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xvq-wdUjosM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BIOGREENSC STORE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-07T23:32:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kcwHdKu1BCX8dcSdn5ZHKgZrKOE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nhGYoDvaiyg"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-10T04:00:09Z",
+                "channelId": "UCefMfRpiUU9-_2623qJXORQ",
+                "title": "#2SERI Materi SKB Kesehatan - Penyakit Non Infeksi | Hipertensi |BETA NERS",
+                "description": "2SERI Materi SKB Kesehatan - Penyakit Non Infeksi | Hipertensi |BETA NERS sebelum NONTON biasakan Subscribe sementara ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nhGYoDvaiyg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nhGYoDvaiyg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nhGYoDvaiyg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Beta Ners",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-10T04:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XDkOS1w9wRNi84VO3Vykx92ek1w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ea7kRomcp6o"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-14T11:00:15Z",
+                "channelId": "UCKECwHOIAZkpv7c1hqg1mWw",
+                "title": "Atasi Hipertensi dan Gula Darah dengan Belimbing Wuluh | Obat Alami",
+                "description": "Jakarta, tvOnenews.com - Atasi Hipertensi dan Gula Darah dengan Belimbing Wuluh | Obat Alami Belimbing wuluh merupakan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ea7kRomcp6o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ea7kRomcp6o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ea7kRomcp6o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VDVC health",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-14T11:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6g72SkRQlu5p8cAjtN2MQDUtqis",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ClMX8SAeF88"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-19T04:58:25Z",
+                "channelId": "UC7jI6GsUCVBusnXotHDLgWw",
+                "title": "Games Tebak Pertanyaan Penyakit Hipertensi | Siapa yang menang yaa?",
+                "description": "Vidio ini tentang hipertensi. Hipertensi adalah kondisi dimana tekanan darah sama dengan atau diatas 140 mmHg/90 mmHg.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ClMX8SAeF88/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ClMX8SAeF88/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ClMX8SAeF88/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "D' Setiyo Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-19T04:58:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KdhsE32EcmY-xoCcHegzOOQUF3g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "n4IhaPmYUZs"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-01T13:08:45Z",
+                "channelId": "UCkz70nAcMWjluBljiZaC_fA",
+                "title": "Kenali Penyabab dan Cara Menangani Penyakit Hipertensi dan Kolesterol | Hidup Sehat tvOne",
+                "description": "Hidup Sehat tvOne - Kenali Penyabab dan Cara Menangani Penyakit Hipertensi dan Kolesterol Hipertensi atau tekanan darah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n4IhaPmYUZs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n4IhaPmYUZs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n4IhaPmYUZs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hidup Sehat tvOne",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-01T13:08:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yoy7sZlMdbjRc5Ix_-F7wzlhw8s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kg242pqpPmU"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-17T06:27:13Z",
+                "channelId": "UCn6Kl5ziq8AfaYcO86eYUag",
+                "title": "EDUKASI PENYAKIT HIPERTENSI",
+                "description": "Nama : Gresia Genisa Npm : 09180000047 Prodi : S1 Keperawatan (4A) Dosen Pembimbing : Ibu Ns.Irma Herliana,M.Kep.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kg242pqpPmU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kg242pqpPmU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kg242pqpPmU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gresia G'nisa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-17T06:27:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "l8DJANBJERh3PHmUyzL6Tursryc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pT89RTfQJmM"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-17T07:03:20Z",
+                "channelId": "UCBAt7EgI_JK-Qe2R-qxt3DQ",
+                "title": "PENYAKIT HIPERTENSI",
+                "description": "Assalamualaikum Warahmatullahi Wabarakatuh . Video ini di buat untuk memenuhi tugas mata kuliah Epidemiologi Penyakit ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pT89RTfQJmM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pT89RTfQJmM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pT89RTfQJmM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sausan AlFath",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-17T07:03:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LStVFMrjVQNDCi7lPgwRq9pJE6Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9arivkApDpc"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-17T10:03:46Z",
+                "channelId": "UCkz70nAcMWjluBljiZaC_fA",
+                "title": "Waspada Hipertensi, Kenali Penyebabnya | Deteksi Penyakit",
+                "description": "Hidup Sehat tvOne - Waspada Hipertensi, Kenali Penyebabnya | Deteksi Penyakit Apa sih sebenarnya penyebab hipertensi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9arivkApDpc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9arivkApDpc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9arivkApDpc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hidup Sehat tvOne",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-17T10:03:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "knnlsgTJcye6iv9gfZlNL8mXyOA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tPgfC5nUM-M"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-20T02:58:53Z",
+                "channelId": "UCdEpNKgYQEDanFDQMdekAEA",
+                "title": "Penyuluhan Penyakit HIPERTENSI",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tPgfC5nUM-M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tPgfC5nUM-M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tPgfC5nUM-M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Micha Otu",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-20T02:58:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aivLUjwk5qHXibJ46lhssL36MiU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AsPhGVdH8pE"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-28T13:11:16Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Penderita Diabetes dan Hipertensi Alami Gangguan Ereksi, Bagaimana Cara Penyembuhannya?",
+                "description": "TRIBUN-VIDEO.COM - Ketidakmampuan mempertahankan ereksi dengan baik bisa saja menjadi awal retaknya hubungan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AsPhGVdH8pE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AsPhGVdH8pE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AsPhGVdH8pE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-28T13:11:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "otkHy9M5FXD4En1Oc8F9SRGSNxM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4wAkPy6iK7k"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-17T18:00:32Z",
+                "channelId": "UCRlN1XgT69CXnrlX13qUEJg",
+                "title": "komunikasi terapeutik pada Lansia dengan riwayat penyakit Hipertensi.",
+                "description": "Video dari Nyta Liany.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4wAkPy6iK7k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4wAkPy6iK7k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4wAkPy6iK7k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fernita Irmalian",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-17T18:00:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mi5OIOtOK1Tbi2FWs-PH5r-hlgc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4BrHi1_a1-4"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-09T00:29:21Z",
+                "channelId": "UCRAR6Fh486XNxBNEc5Z0OIA",
+                "title": "PENTINGNYA MENGETAHUI PENYAKIT HIPERTENSI ‼️",
+                "description": "TUGAS PROMOSI KESEHATAN \"PENYAKIT HIPERTENSI\" Nama: SALSABILA PURNAWAN SOERJIE Nim : PO6231320097 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4BrHi1_a1-4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4BrHi1_a1-4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4BrHi1_a1-4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Salsabila.Soerjie Salsabila.Soerjie",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-09T00:29:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "h_fnLvhUgGoRkJiqQTUEQ_Yy8Q4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "g5ht_RXCLoU"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-26T12:27:53Z",
+                "channelId": "UCcZxleNpdoYeQQwDTHuwIdw",
+                "title": "PENYULUHAN PENCEGAHAN PENYAKIT HIPERTENSI PADA LANSIA",
+                "description": "Nama : Dwi Febriyanti NIM : 1914314201040 Hipertensi yaitu suatu kondisi ketika tekanan darah terhadap dinding arteri terlalu ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g5ht_RXCLoU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g5ht_RXCLoU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g5ht_RXCLoU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dwi Febriyanti",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-26T12:27:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NXVSdmYOAHqE1RefN8H5_-Vq-tQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cO4edcZwF6E"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-07T12:00:15Z",
+                "channelId": "UCkz70nAcMWjluBljiZaC_fA",
+                "title": "JARANG DIKETAHUI, Ternyata Kebiasaan Ini Bisa Sebabkan Hipertensi | Deteksi Penyakit",
+                "description": "Hidup Sehat tvOne - JARANG DIKETAHUI, Ternyata Kebiasaan Ini Bisa Sebabkan Hipertensi | Deteksi Penyakit Hipertensi atau ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cO4edcZwF6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cO4edcZwF6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cO4edcZwF6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hidup Sehat tvOne",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-07T12:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "P7sG9RdCueztddMAm_6_a61WF1k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OjELHHkBzOA"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-09T02:33:39Z",
+                "channelId": "UCHD5XDZFZRt-f_rvWsJvFVA",
+                "title": "Penyuluhan (Belajar Bersama) Tentang Penyakit Hipertensi/Darah Tinggi",
+                "description": "Ditengah pandemi Covid-19, praktis kegiatan penyuluhan yang mengumpulkan masyarakat untuk sementara ini tidak dianjurkan.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OjELHHkBzOA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OjELHHkBzOA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OjELHHkBzOA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BAYU NERS CHANNEL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-09T02:33:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SS8BgMZxb05E-eXaYNKu80rvR14",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JWllO0PPU7I"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-06T13:00:31Z",
+                "channelId": "UC56-AgCnr_wvuBM8zf1-ogA",
+                "title": "PENYAKIT HIPERTENSI",
+                "description": "TUGAS #HIPERTENSI #IPPD Assalamualaikum wr.wb Nama saya Fuji Rahayu dari kelas 11 perawat A. Video ini merupakan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JWllO0PPU7I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JWllO0PPU7I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JWllO0PPU7I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fuji Rahayu",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-06T13:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5vWM8n23UmqwDrJLggQLY_hmRiE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RQSpT1mir_o"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-11T05:44:25Z",
+                "channelId": "UCgar1931Xca-H5fa0nU-jZQ",
+                "title": "Presentasi Leaflet Pada Penyakit Hipertensi",
+                "description": "Vidio ini dibuat untuk melengkapi tugas KMB 1 Nama: Brian Noya Kelas: D Keperawatan Npm: 12114201190035 Selamat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RQSpT1mir_o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RQSpT1mir_o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RQSpT1mir_o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brian Noya",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-11T05:44:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "z4ho1xxytlMymjTz_bbE39MmFMg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y4LdxNGhuiE"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-18T17:15:46Z",
+                "channelId": "UC1lHFyxRZiNjUIVaRoZ903g",
+                "title": "Sistem Prediagnosa Penyakit Hipertensi - FUZZY dan JST",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y4LdxNGhuiE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y4LdxNGhuiE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y4LdxNGhuiE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rofi'ul Khasanah",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-18T17:15:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0Z1Zc5WYDcL_58_msxfmJFrUUJU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8If0a-c7Ohg"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-15T10:02:17Z",
+                "channelId": "UCOxx1yYuJ-hFNWAFIi6iHfg",
+                "title": "Materi Penyuluhan Gizi Pada Penyakit Hipertensi",
+                "description": "Hii guys, ini adalah video materi tentang Gizi Pada Penyakit Hipertensi, semoga informasi dan pengetahuan dalam video ini ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8If0a-c7Ohg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8If0a-c7Ohg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8If0a-c7Ohg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nailu Rokhmah",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-15T10:02:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VK2m-X9hJAHV-bMJSJ22IycVR1Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lIwIqdUfPbs"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-13T03:55:00Z",
+                "channelId": "UCK4Cp0WCrM565Aw7x7d2DHQ",
+                "title": "Promosi Kesehatan Penyakit Hipertensi",
+                "description": "Setiap individu meninginkan untuk selalu sehat setiap hari tanpa ada penyakit yang menghampiri. Dari situlah, saya ingin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lIwIqdUfPbs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lIwIqdUfPbs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lIwIqdUfPbs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Irfan Sholahuddin Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-13T03:55:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-kDQNx69n9dwTLXXD_81PfM_DSc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MBcigj4QIwo"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-23T07:00:05Z",
+                "channelId": "UCpVJhe2MFI1UY7Z7-wDdH7Q",
+                "title": "MAMA ku, 12 TAHUN SAKIT DIABETES . KENA STROKE , HIPERTENSI, GINJAL DAN MINUM OBAT SEUMUR HIDUP",
+                "description": "Well, mama ku sudah 12 tahun hidup dengan diabetes / kencing manis.. 12 tahun itu pun sudah mengalami banyak penyakit ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MBcigj4QIwo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MBcigj4QIwo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MBcigj4QIwo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Emasuperr",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-23T07:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LFbnkX_vEyJnggz0IzgEzp1Rhyk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "I4X0SLdxWyg"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-16T12:27:56Z",
+                "channelId": "UC6GgbzI_mcSm2uGqYyZRlGw",
+                "title": "Penyuluhan Gizi Pada Penderita Penyakit Hipertensi",
+                "description": "selalupakaimasker #makangiziseimbang #jagajarak #produktifkerjadarirumah Nama : Sinta Santika NIM : P2.06.31.1.17.033 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I4X0SLdxWyg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I4X0SLdxWyg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I4X0SLdxWyg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DIII Gizi Tasik Gen 8",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-16T12:27:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "06cx5qYpI0kvkyh5CUP5Hf9Swc4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "o3yAEKwBIuA"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-18T03:54:45Z",
+                "channelId": "UCTw_oOi5DxiDL7CVRx_iZkQ",
+                "title": "Edukasi Pertolongan Pertama Penyakit Kronis - Hipertensi",
+                "description": "Pada video kali ini kami ingin memberikan edukasi tentang penanganan pertama pada penyakit kronis. Kami akan menjelaskan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o3yAEKwBIuA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o3yAEKwBIuA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o3yAEKwBIuA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KKN UNAIR 64 - KEL 210 - BANYU URIP KIDUL X C",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-18T03:54:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XrKGEpWdTSIVYjZPOHA4BJ9x7U8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "g2WKGDOSy8s"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-28T13:47:55Z",
+                "channelId": "UCmxAIW7RDDC88EPk4ry16Kg",
+                "title": "Diabetes dan Hipertensi Pengaruhi Kualitas Ereksi pada Pria, Ini Penjelasan dr Binsar Martin Sina",
+                "description": "TRIBUN-VIDEO.COM - Apakah penyakit diabetes atau hipertensi berpengaruh terhadap kualitas ereksi pada pria. Berikut ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g2WKGDOSy8s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g2WKGDOSy8s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g2WKGDOSy8s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribunnews",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-28T13:47:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-dhXWab4LFCvOikebqd3UXdOAac",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1dRDrB-hXpA"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-08T09:37:44Z",
+                "channelId": "UCkH6xDWBdWIx52VMKLSbwAA",
+                "title": "Faktor &amp; penyebab terjadinya penyakit hipertensi",
+                "description": "Haloo temen temen salam sehat disini di video ini saya akan menjelaskan apa itu hipertensi dan bagaimana penyebab terjadinya ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1dRDrB-hXpA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1dRDrB-hXpA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1dRDrB-hXpA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bangrw _tv",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-08T09:37:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LPReRLL1CmNMGxaNSrSEVSJdkLk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YZsnv5gFAvc"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-10T06:56:48Z",
+                "channelId": "UCTQ4mayjazd0XdaCh_X8abw",
+                "title": "Apakah Hipertensi Penyakit Turun Menurun Dok ?",
+                "description": "PENJELASAN LENGKAPNYA : https://youtu.be/h3Mgz8zTxbk TRIBUN-VIDEO.COM - Dokter Mustopa menjelaskan kalau dilihat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YZsnv5gFAvc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YZsnv5gFAvc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YZsnv5gFAvc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribun Health",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-10T06:56:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Zz8DpvgixlK_HqupUE3DQVbKSGI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eKfDzxRVLaQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-07T13:28:04Z",
+                "channelId": "UCcOvq10CYZnT89nTyttBrEQ",
+                "title": "Model Jaring-jaring (WEB OF CAUSATION) Penyakit Hipertensi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eKfDzxRVLaQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eKfDzxRVLaQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eKfDzxRVLaQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nurul Fathoana",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-07T13:28:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "locp3ynFojh9nBmwYOLlZmlXPkI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3OCT7zPOeaI"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-27T12:52:18Z",
+                "channelId": "UCdevpJggpPqxFILHE-FRruA",
+                "title": "EDUKASI SOSIALISASI PENYAKIT HIPERTENSI",
+                "description": "Hipertensi merupakan salah satu penyakit yang banyak dijumpai dikalangan masyarakat. Prevalensi yang kian meningkat setiap ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3OCT7zPOeaI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3OCT7zPOeaI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3OCT7zPOeaI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nirwana Nusa Penida",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-27T12:52:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "a-8cl0VXBxI3RLliP1_90PztO0c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RTPkMG4SlyE"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-16T15:31:56Z",
+                "channelId": "UCJhvzuPpOPMWw9XKsglcefw",
+                "title": "Implementasi Edukasi Penyakit Hipertensi",
+                "description": "EDUKASI HIPERTENSI PADA KOMUNITAS HIPERTENSI DI RW 01 KELURAHAN JABUNGAN Disusun untuk Memenuhi Tugas ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RTPkMG4SlyE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RTPkMG4SlyE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RTPkMG4SlyE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Danang Setiawan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-16T15:31:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UeQ4QU1vD1TGddcciiysdC8ldvg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "k0X5wZ1NNfk"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-24T15:37:28Z",
+                "channelId": "UCw5WXPHM6o6vy3H0xxrgjfQ",
+                "title": "Menu makan siang untuk penderita penyakit hipertensi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k0X5wZ1NNfk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k0X5wZ1NNfk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k0X5wZ1NNfk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Arwina Prima Surya",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-24T15:37:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "swYFXF2jQLrzzIDL7WEcLhKBam8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "f0HztCN57Sg"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-23T09:00:27Z",
+                "channelId": "UCz3Oa5i03QFeqiQN_XRRySA",
+                "title": "Penyakit hipertensi itu apa sih?",
+                "description": "Hai Semua, Channel ini dibuat untuk membagikan ilmu kepada teman-teman agar lebih mengenal mengenai banyak hal tentang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f0HztCN57Sg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f0HztCN57Sg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f0HztCN57Sg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EPIDEMIOLOGI FKM UINSU",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-23T09:00:27Z"
+            }
+        }
+    ]
+}

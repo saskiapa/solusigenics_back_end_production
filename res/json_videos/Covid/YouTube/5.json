@@ -1,0 +1,1713 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "Bo2MYVMPvRkIr-y_MSeW-CP-cbg",
+    "nextPageToken": "CPoBEAA",
+    "prevPageToken": "CMgBEAE",
+    "regionCode": "ID",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0DJ-lhhsGvFJySmIyvGwMwO74qk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "toM_g25UEuc"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-24T10:00:13Z",
+                "channelId": "UCcz9b2brFsk86Z_xruJMDoA",
+                "title": "Konferensi Pers - Perkembangan Penanganan Covid-19 di Indonesia per 24 Februari 2022",
+                "description": "Halo #SahabatTangguh! “Perkembangan Penanganan Covid-19 di Indonesia per 24 Februari 2022” Narasumber: Prof.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/toM_g25UEuc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/toM_g25UEuc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/toM_g25UEuc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BNPB Indonesia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-24T10:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kWq8ftu56wXy1fpvUEsqbQlGnyc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_B0gcOuQZKY"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-07T16:13:30Z",
+                "channelId": "UCkCoHqyT1IqmY2AOEs0kN_g",
+                "title": "Punya Penyakit Bawaan, Kondisi Aliff Alli Makin Kritis Usai Terpapar COVID-19",
+                "description": "KAPANLAGI.COM - KLovers, Aliff Alli sudah 3 minggu dirawat di Wisma Atlet untuk menjalani perawatan setelah dinyatakan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_B0gcOuQZKY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_B0gcOuQZKY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_B0gcOuQZKY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KapanLagiDotCom",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-07T16:13:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1aRI5iLYjEfk-E1hhnCy_AjEKFo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fqxRXiIqbUY"
+            },
+            "snippet": {
+                "publishedAt": "2020-01-31T05:00:10Z",
+                "channelId": "UCvEoO7977S-OwyInMGlPXkw",
+                "title": "Coronavirus - Gejala dan Cara Pencegahan Penyakit karena Virus Corona",
+                "description": "Coronavirus - Gejala dan Cara Pencegahan Penyakit karena Virus Corona Kids, semakin hari persoalan tentang penyebaran ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fqxRXiIqbUY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fqxRXiIqbUY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fqxRXiIqbUY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GridKids",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-01-31T05:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Z7-J1WUcyJpCWNOgKTnOKrqbSS0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NE4wqiyYykU"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-30T01:51:24Z",
+                "channelId": "UCeHO2wO5_0lfH0jymooIF5g",
+                "title": "Apakah Anak Dengan Kondisi Penyakit Jantung Bawaan Dapat Melakukan Vaksin Covid?",
+                "description": "Program vaksin covid untuk anak usia 12-17 tahun sangat direkomendasikan, lalu apakah anak dengan kondisi penyakit jantung ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NE4wqiyYykU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NE4wqiyYykU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NE4wqiyYykU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pelayanan Jantung Terpadu RSCM",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-30T01:51:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4tV62GZbZCL7Bido_fgq1xMlmco",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u-AnNl6MdI4"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-01T21:57:53Z",
+                "channelId": "UClI2qWfDIb7RalSszVDKJaQ",
+                "title": "Ayat Al-Quran Yang Boleh Merawat Penyakit Covid-19",
+                "description": "Terdiri daripada Surah Al-Fatihah dan Surah Al-Ahzab Ayat 9-11.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u-AnNl6MdI4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u-AnNl6MdI4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u-AnNl6MdI4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ainafendy_",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-01T21:57:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "N11IOMuI_KUeBQJazPeiaFvnLj0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9Z6mneulibk"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-01T12:56:01Z",
+                "channelId": "UC2p8wkJVSjsMsRv0MjTikgA",
+                "title": "COVID-19 | Pasar Raya Kehabisan Barang",
+                "description": "Pemimpin Hong Kong, Carrie Lam, meminta rakyatnya agar bertenang berikutan laporan ujian COVID-19 beramai-ramai yang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9Z6mneulibk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9Z6mneulibk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9Z6mneulibk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Buletin TV3",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-01T12:56:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6dRVRg8Q8Cw9MMcQRjDWDjbMOFY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "T-zfUqDk67U"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-12T05:27:31Z",
+                "channelId": "UCeq1WeHIbMyeKp_sUNolgzA",
+                "title": "Penyakit Ginjal Tambah Risiko Terinfeksi Corona Covid-19",
+                "description": "Virus corona Covid-19 telah menyebabkan kematian pada 4.200 orang di seluruh dunia. Link terkait: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T-zfUqDk67U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T-zfUqDk67U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T-zfUqDk67U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Suaradotcom",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-12T05:27:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fRLd3M82yI85hvroVyK_F-JJtss",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "P7JggWkc_8Y"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-18T09:26:53Z",
+                "channelId": "UC-AK5OD7V_DlveE55DzT-wg",
+                "title": "PBB Sebut Covid-19 Akan Menjadi Penyakit Musiman, Ini Penjelasannya",
+                "description": "Covid-19 tampaknya akan berkembang menjadi penyakit musiman, kata PBB pada Kamis (18/3/2021). PBB juga ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P7JggWkc_8Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P7JggWkc_8Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P7JggWkc_8Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kompascom Reporter on Location",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-18T09:26:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pgRIudS4gfdDbvVh4Et0mz2PUb8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UEzVKl2GTJw"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-14T07:07:38Z",
+                "channelId": "UC24J7ZbJIp_Mx6MCpbzG-vg",
+                "title": "#18 SEBAB-SEBAB ALLAH TURUNKAN PENYAKIT COVID-19 DAN BAGIMANA SELESAI",
+                "description": "Hanya Allah subhanahu wa wata'ala yang maha mengetahui, kenapa Allah subhanahu wa ta'ala turunkan mahluk corona ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UEzVKl2GTJw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UEzVKl2GTJw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UEzVKl2GTJw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Muhammad Sajie",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-14T07:07:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "A2QALydNxVXPk6b8y4EKvnzcjA0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "57HbEuebTEs"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-26T14:00:02Z",
+                "channelId": "UCKECwHOIAZkpv7c1hqg1mWw",
+                "title": "Penyakit Radang Tenggorokan : Gejala, Penyebab dan Cara Mengatasi | lifestyleOne",
+                "description": "Jakarta, tvOnenews.com - Mengenal Radang Tenggorokan : Gejala, Penyebab dan Cara Mengatasi | lifestyleOne Radang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/57HbEuebTEs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/57HbEuebTEs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/57HbEuebTEs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VDVC health",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-26T14:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "meIUom_ujAqYfgA3AQ63jWVYo5M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jJGdOFKeRxw"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-12T12:36:11Z",
+                "channelId": "UC_P3OULmaDTxY1T7zlWMzrg",
+                "title": "Vaksin covid-19 dari sinovac | Kondisi penyakit yang layak di vaksin? Part 2",
+                "description": "Vaksin covid-19 dari sinovac Dalam video kali ini saya membahas tentang vaksin covid-19 dalam artian siapa saja yang layak di ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jJGdOFKeRxw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jJGdOFKeRxw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jJGdOFKeRxw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Arif Budiman",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-12T12:36:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GGSlC9Hme-shwOrq3GWIIAHBsmk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "R-JbDMYmAQM"
+            },
+            "snippet": {
+                "publishedAt": "2020-02-07T12:32:48Z",
+                "channelId": "UCxlJ45KjG4XVcQ_hd8j227A",
+                "title": "CORONAVIRUS | What Is Coronavirus? | Coronavirus Outbreak | The Dr Binocs Show | Peekaboo Kidz",
+                "description": "Corona Virus | Wuhan China Coronavirus | Corona Virus Symptoms | Coronavirus Outbreak | Coronavirus News | 2019 Novel ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R-JbDMYmAQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R-JbDMYmAQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R-JbDMYmAQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Peekaboo Kidz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-02-07T12:32:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JmVwQ5Zajs8A6zWW6Q-2DTqJwbw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K3yX7YnWHLo"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-14T13:02:13Z",
+                "channelId": "UCjCdjwD8ZKRl8AugemNg7DA",
+                "title": "SEMOGA SEMUA TERHINDAR DARI PENYAKIT COVID 19 INI AMIN...",
+                "description": "jangan meremehkan jgn tidak peduli jaga kesehatan dan jaga imun tubuh smga semua sehat slalu amin... #covid19 #pingpong ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K3yX7YnWHLo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K3yX7YnWHLo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K3yX7YnWHLo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gilang Maulana official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-14T13:02:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UVFheVQV3qtRfbXcPTiyMGtZITQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ijzjwAZTisw"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-28T09:29:56Z",
+                "channelId": "UC6tHocpHoqCuRP5mHB7wo7Q",
+                "title": "TEAH HARI LAST KUARANTIN COVID !! - MAIN GAME RACING !",
+                "description": "Teruskan Subscribe Ammar Nazhan dan tekan Tombol Loceng Untuk Cerita Menarik! Channel kedua kami yang menarik !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ijzjwAZTisw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ijzjwAZTisw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ijzjwAZTisw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ammar Nazhan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-28T09:29:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "j9t59tByR4fTitiIZvKjQUY0h3g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "skip8Zeoo1I"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-27T06:12:35Z",
+                "channelId": "UCddnVngLQkxKaQ6Es_yh-2g",
+                "title": "Protokol Kewaspadaan Terhadap Penyakit Coronavirus 2019 (COVID-19) Untuk Petugas di Prehospital",
+                "description": "Layanan Medis Darurat (Emergency Medical Services/EMS) berperan penting dalam merespon permintaan bantuan, melakukan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/skip8Zeoo1I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/skip8Zeoo1I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/skip8Zeoo1I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ali Haedar",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-27T06:12:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0sh9OK0axXlCgh9ZUYTYLQ9bW9k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yUfBNdK5G5w"
+            },
+            "snippet": {
+                "publishedAt": "2020-01-27T03:45:55Z",
+                "channelId": "UCdi4AFB2FowamWIMFSneFNQ",
+                "title": "Doa jauhi Coronavirus dan wabak penyakit",
+                "description": "Ekoran daripada Coronovirus (Covid-19) yang melanda dunia akibat daripada wabak yang berpunca dari Negara China, daerah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yUfBNdK5G5w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yUfBNdK5G5w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yUfBNdK5G5w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "hikayatmora",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-01-27T03:45:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0Vr4v6m3f26FJCTiFqIDR-k3d3E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "itQiV-bHD30"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-02T07:49:11Z",
+                "channelId": "UC5Fe6K3RQNomWaUMLVhYRNg",
+                "title": "Re-infeksi Covid-19: Apa Yang Terjadi Pada Tubuh Kita?",
+                "description": "Penduduk indonesia yang terinfeksi COVID-19 Per 28 Februari 2022, telah mencapai 5.564.448 orang, dan banyak diantaranya ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/itQiV-bHD30/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/itQiV-bHD30/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/itQiV-bHD30/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rakyat Merdeka TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-02T07:49:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vGNAorx9quA0emueB4E5f6FzFFQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9gXWPhIyTbA"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-08T11:41:10Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Tengkuk Belakang Terasa Kaku, Pinggang Kanan Nyeri Berlebih, Ada Kaitan Penyakit Asam Lambung?",
+                "description": "KOMPAS.TV - Kembali lagi di segmen Sehat di Tengah Pandemi, kali ini bersama Dokter Spesialis Penyakit Dalam, Robert Sinto, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9gXWPhIyTbA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9gXWPhIyTbA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9gXWPhIyTbA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-08T11:41:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9tfsgSOktdvurc3hmVKHcpp4Pyw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wy_jMGjnL3E"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-25T21:30:34Z",
+                "channelId": "UCAjU4UTUJQ6aLDg3qnDVvsA",
+                "title": "Nestapa Buruh Bioskop di Tengah Pandemi Covid-19 dan UU Cipta Kerja",
+                "description": "Permasalahan buruh di tengah Covid-19 diperkeruh dengan kehadiran UU Cipta Kerja. Salah satu yang paling merasakan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wy_jMGjnL3E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wy_jMGjnL3E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wy_jMGjnL3E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LBH Jakarta",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-25T21:30:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sg0oTuVa3nXWCQE35cczKNZMwVg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5fkuke72Yxg"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-28T10:57:51Z",
+                "channelId": "UCRpmL6h_t6vNbfkzrm-74gQ",
+                "title": "Mengapa Pasien Covid-19 Rentan Terjangkit Penyakit Jamur Hitam?",
+                "description": "India tidak hanya dilanda lonjakan kasus Covid-19. India juga tengah dilanda wabah jamur hitam. Diberitakan BBC, Kamis ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5fkuke72Yxg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5fkuke72Yxg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5fkuke72Yxg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Oh, Begitu",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-28T10:57:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xHugmLB_KgA8lOtkSGO0BmkjTPU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CdPIZH9Juvs"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-31T06:18:39Z",
+                "channelId": "UCYfblrhI1-tr6leVANholgQ",
+                "title": "Dokter Penyakit Dalam Bantah Mentah-mentah Penyebaran Covid-19 Melalui Udara | AKIP",
+                "description": "Jakarta, tvOnenews.com - Hampir Sejumlah dokter membantah penyebaran covid-19 melalui udara, selama kita menjaga jarak ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CdPIZH9Juvs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CdPIZH9Juvs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CdPIZH9Juvs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VDVC Talk",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-31T06:18:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yLnfjHeKPhv_CZGtmciUDi7RI7s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1YuBt-N7i9o"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-12T15:44:19Z",
+                "channelId": "UCNHQowH04T27aUDtjAI4uiQ",
+                "title": "Penyakit mata terkait covid-19",
+                "description": "Penyakit mata terkait covid-19, hingga saat ini, adalah konjungtivitis. Konjungtivitis adalah infeksi ataupun inflamasi pada ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1YuBt-N7i9o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1YuBt-N7i9o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1YuBt-N7i9o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dokter Mata Anda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-12T15:44:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ljy-IGRoQsi5xuXxmBPsgByOvSY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0d3g7aUTKpY"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-29T17:09:41Z",
+                "channelId": "UCq14Qm9Pv8gfaeb7rlcumfQ",
+                "title": "SELAWAT SYIFA 100x MOHON SEMBUH PENYAKIT - BAZLI UNIC Daily Dhikr | Zikir Harian - الأذكار اليومية",
+                "description": "SELAWAT SYIFA 100x MOHON SEMBUH PENYAKIT - BAZLI UNIC Daily Dhikr | Zikir Harian - الأذكار اليومية Assalaamu Alaikum ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0d3g7aUTKpY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0d3g7aUTKpY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0d3g7aUTKpY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BAZLI CHANNEL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-29T17:09:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c3fDIpf_vYH06RdQR9_pJHBuNAs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "igwsWgG1gsk"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-31T15:24:43Z",
+                "channelId": "UCdloCXxspIuWT2pSvsOtb5Q",
+                "title": "EPHK - Penyakit Menular Covid-19",
+                "description": "Assalamu'alaikum Wr. Wb. Konten video ini berisi tentang penyakit menular Covid-19, pemberantasan penyakit menular ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/igwsWgG1gsk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/igwsWgG1gsk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/igwsWgG1gsk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gizi C 2018",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-31T15:24:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5adQX07ytHwxrUN5YBhsiXbEc3E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B8zCu-mnhPE"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-25T16:06:57Z",
+                "channelId": "UC6tHocpHoqCuRP5mHB7wo7Q",
+                "title": "AM DAH SIHAT ! TAPI SEMUA TEAM SAKIT ! - APA DAH JADI ?",
+                "description": "Teruskan Subscribe Ammar Nazhan dan tekan Tombol Loceng Untuk Cerita Menarik! Channel kedua kami yang menarik !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B8zCu-mnhPE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B8zCu-mnhPE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B8zCu-mnhPE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ammar Nazhan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-25T16:06:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "noWz3VqbRmxNEoBGnM_0GUsqbiA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2NyjVsouEaQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-04T12:00:01Z",
+                "channelId": "UC4h7C4VVkb7B4Q_ogHxt7fw",
+                "title": "[Tanya Dokter] 5 Pertanyaan Tersering Soal COVID-19 pada Anak, Simak Jawabannya!",
+                "description": "Panik karena si kecil tiba-tiba jatuh sakit di tengah kasus COVID-19 yang semakin meningkat? Jangan khawatir! Kini, channel ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2NyjVsouEaQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2NyjVsouEaQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2NyjVsouEaQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RS Pondok Indah",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-04T12:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y3g2AAFTX9i-ikSutV5q_JO1100",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yq0lo0eY4Bs"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-13T08:23:15Z",
+                "channelId": "UC77-0hKzGG3R7sM2P-T6lFg",
+                "title": "Penembangan Kandidat Vaksin Rekombinan Protein fusi untuk Penyakit Covid-19",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yq0lo0eY4Bs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yq0lo0eY4Bs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yq0lo0eY4Bs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SPADA INDONESIA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-13T08:23:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fwrej68QJgUOLFJPoAADP0ORumU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hRpm_r34tK4"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-28T13:00:09Z",
+                "channelId": "UCIjIhSrrsYoczYFwqQ5DJeQ",
+                "title": "Doa Bersama untuk Bangsa agar Penyakit Covid-19 Segera diangkat || Kamis, 28 Januari 2021",
+                "description": "Assalamu'alaikum Wr wb Klinik Pendidikan MIPA (KPM) mengundang seluruh kaum muslimin dan muslimat untuk mengikuti ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hRpm_r34tK4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hRpm_r34tK4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hRpm_r34tK4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KPM SEIKHLASNYA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-28T13:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vdeqmxNgkUBLedbTL10CPFMaKhQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "868jBPSizdM"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-26T04:53:07Z",
+                "channelId": "UCk9a1gw3r7kX5vSMRYd-ETA",
+                "title": "Seminar Online Seri #01 &quot;Bersiap Menghadapi Gelombang Ketiga Pandemi Covid-19&quot;",
+                "description": "Mulai merebaknya kasus Covid-19 varian omicron di Indonesia mengharuskan kita mulai waspada adanya gelombang ketiga ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/868jBPSizdM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/868jBPSizdM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/868jBPSizdM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kedokteran UII",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-26T04:53:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "x1ZOB_6k_Dg0_it3FyvPozv34zs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J_iH3VIH_lc"
+            },
+            "snippet": {
+                "publishedAt": "2020-09-25T07:37:22Z",
+                "channelId": "UCwFc1bMj5KFxX8BJ1wBRuzw",
+                "title": "Cara Membedakan Penyakit Flu dan Covid-19, Simak Ulasan Lengkap Berikut Ini",
+                "description": "https://medan.tribunnews.com/2020/09/25/cara-membedakan-penyakit-flu-dan-covid-19-simak-ulasan-lengkap-berikut-ini TRI ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J_iH3VIH_lc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J_iH3VIH_lc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J_iH3VIH_lc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribun MedanTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-09-25T07:37:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3qguopwvMWSruZfWwH8MD1SKrOs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RX-ds4SbFNo"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-18T04:05:42Z",
+                "channelId": "UCCduNupcztaN9sFrHV-fDIg",
+                "title": "Penyakit Tidak Berjangkit (NCD) &amp; COVID-19 Bhg 2 | MHI (18 Jun 2020)",
+                "description": "Malaysia Hari Ini merupakan sebuah rancangan bual bicara yang padat dengan pelbagai informasi menarik berkenaan hal ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RX-ds4SbFNo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RX-ds4SbFNo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RX-ds4SbFNo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TV3MALAYSIA Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-18T04:05:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VT8q0ALbmEYj1rRwi02z-qt1xS0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CZtKLvHjlTU"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-15T03:56:39Z",
+                "channelId": "UCYQLFe4eP_S6D8adofeDFJA",
+                "title": "Kuliah Pakar “Penyakit Covid-19 Pada Anak”",
+                "description": "Program Studi S1 Kebidanan dan Profesi Bidan STIKES Bina Usada Bali Mempersembahkan : Kuliah Pakar “Penyakit Covid-19 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CZtKLvHjlTU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CZtKLvHjlTU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CZtKLvHjlTU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BINA USADA TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-15T03:56:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TY4I33AvAY0I_-O3hb--LWIbuU0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JBsUHXWuG78"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-04T23:09:10Z",
+                "channelId": "UCwa0rj5KY6bWoVzJtgoiaDw",
+                "title": "Penyakit Hati Yang Lebih Bahaya Dari Virus Covid | LIVE MQ PAGI bersama Aa Gym",
+                "description": "Dakwah Digital Channel: Youtube Channel : https://www.youtube.com/channel/UCwa0rj5KY6bWoVzJtgoiaDw Facebook Page ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JBsUHXWuG78/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JBsUHXWuG78/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JBsUHXWuG78/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Aagym Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-04T23:09:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RfKQ3YNn0OTju9JP5J5jfphtZOI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "A9aKqVUuAnk"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-16T12:23:22Z",
+                "channelId": "UCAZQKIoRTUU2S2hpdLg3zQg",
+                "title": "WAKAJATI MALUKU : SAYA TERTULAR PENYAKIT COVID-19",
+                "description": "WAKAJATI MALUKU : SAYA TERTULAR PENYAKIT COVID-19 (TESTIMONI WAKAJATI MALUKU, PASIEN SEMBUH COVID-19) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A9aKqVUuAnk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A9aKqVUuAnk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A9aKqVUuAnk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DISKOMINFO MALUKU TV CHANNEL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-16T12:23:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SioVxhEwzJwyHbLYKh5_rt_t_68",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WkjiVa_vCwM"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-22T14:45:03Z",
+                "channelId": "UCo6__cZ0aN2dnyskpjPRyUg",
+                "title": "Daeng M Faqih  Part 4:   Penyakit COVID Bukan Aib",
+                "description": "Dr.Daeng M Faqih, SH,MH - Ketua Umum Pengurus Besar Ikatan Dokter Indonesia ( PB IDI) Tema : Masyarakat Tak Perlu Takut ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WkjiVa_vCwM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WkjiVa_vCwM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WkjiVa_vCwM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jaktv Official Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-22T14:45:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FlODPhViYNLdZRgfYJfTWOidYHg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kZCmVmqlNPw"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-18T08:53:09Z",
+                "channelId": "UC2uToyyd9JgVZPF4vb_YRKw",
+                "title": "Webinar &quot;Epidemiologi Penyakit Covid - 19 serta Peran Perguruan Tinggi dalam Era New Normal&quot; Part 2",
+                "description": "Webinar Series dari FKIK, Universitas Kristen Satya Wacana (UKSW) Salatiga.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kZCmVmqlNPw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kZCmVmqlNPw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kZCmVmqlNPw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UKSW Live Events",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-18T08:53:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4g76jKLJJeRYNBlFiW76A0xBM_k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rRQcpiTORxA"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-18T04:45:14Z",
+                "channelId": "UC7NCh3e9h_bqiyKjvPoN2DQ",
+                "title": "ZOOMINAR #5 MANAJEMEN PENYAKIT KRONIS DI MASA PANDEMI COVID-19",
+                "description": "Zoominar #5 STIKES Muhammadiyah Gombong. Manajemen Penyakit Kronis di Masa Pandemi Covid-19 Kehadiran di Youtube: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rRQcpiTORxA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rRQcpiTORxA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rRQcpiTORxA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UNIVERSITAS MUHAMMADIYAH GOMBONG",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-18T04:45:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vouiRY9Q-ZCtd2ff3nqyL03uP_s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6JkktgmIQ-o"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-18T07:15:29Z",
+                "channelId": "UC2uToyyd9JgVZPF4vb_YRKw",
+                "title": "Webinar &quot;Epidemiologi Penyakit Covid - 19 serta Peran Perguruan Tinggi dalam Era New Normal&quot; Part 1",
+                "description": "Webinar Series dari FKIK, Universitas Kristen Satya Wacana (UKSW) Salatiga.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6JkktgmIQ-o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6JkktgmIQ-o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6JkktgmIQ-o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UKSW Live Events",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-18T07:15:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6FnaXpXEnA9W5Z3bee1e2hIASrE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5R_uVNcAU24"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-24T11:57:42Z",
+                "channelId": "UCtzb3VE6W0-ZZErpS60733Q",
+                "title": "24 Jun 2020 Kabid Pencegahan dan Pengendalian Penyakit dr. Dwi Oktavia Memberikan Update COVID-19",
+                "description": "24 Jun 2020 Kepala Bidang Pencegahan dan Pengendalian Penyakit Dinas Kesehatan Provinsi DKI Jakarta dr. Dwi Oktavia Tatri ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5R_uVNcAU24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5R_uVNcAU24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5R_uVNcAU24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PEMPROV DKI JAKARTA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-24T11:57:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "v70fNZmQYaElI8NJemPyZ_bDVlE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DCdxsnRF1Fk"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-08T20:28:25Z",
+                "channelId": "UC9ORzYuIhR5gBQ1unLACgpg",
+                "title": "Understanding COVID-19 and How to Stay Safe",
+                "description": "This video contains updated information. Updated April, 8, 2020 The Emmi COVID-19 video helps educate the public on ways to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DCdxsnRF1Fk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DCdxsnRF1Fk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DCdxsnRF1Fk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UpToDate",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-08T20:28:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZyJD2DleGSztpA0s5myYGIm6DK4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SjiCKNMP7vg"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-04T13:00:11Z",
+                "channelId": "UCIjIhSrrsYoczYFwqQ5DJeQ",
+                "title": "Doa Bersama untuk Bangsa agar Penyakit Covid-19 Segera diangkat || Kamis, 4 Februari 2021",
+                "description": "Assalamu'alaikum Wr wb Klinik Pendidikan MIPA (KPM) mengundang seluruh kaum muslimin dan muslimat untuk mengikuti ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SjiCKNMP7vg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SjiCKNMP7vg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SjiCKNMP7vg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KPM SEIKHLASNYA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-04T13:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AgSgdsSm3Z_plmdvnDIi-0DDi-o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vW4Pc7YsW8E"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-11T13:00:14Z",
+                "channelId": "UCIjIhSrrsYoczYFwqQ5DJeQ",
+                "title": "Doa Bersama untuk Bangsa agar Penyakit Covid-19 Segera diangkat || Kamis, 11 Februari 2021",
+                "description": "Assalamu'alaikum Wr wb Klinik Pendidikan MIPA (KPM) mengundang seluruh kaum muslimin dan muslimat untuk mengikuti ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vW4Pc7YsW8E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vW4Pc7YsW8E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vW4Pc7YsW8E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KPM SEIKHLASNYA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-11T13:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OE40riD_nSwYQLyvRNQ4reP94NY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Fk3-IdhMm90"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-12T11:01:03Z",
+                "channelId": "UCtzb3VE6W0-ZZErpS60733Q",
+                "title": "12 Ags 2020 Kabid. Pencegahan &amp; Pengendalian Penyakit, Dwi Oktavia Daily Brief Penanganan Covid-19",
+                "description": "12 Agustus 2020 Kabid. Pencegahan dan Pengendalian Penyakit, drg. Dwi Oktavia, Daily Brief Pemerintah Provinsi DKI Jakarta ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fk3-IdhMm90/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fk3-IdhMm90/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fk3-IdhMm90/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PEMPROV DKI JAKARTA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-12T11:01:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RoNd6IR3SyVA_BfNOx9FcZ1zfHU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tAiLKoH4aIk"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-07T13:00:14Z",
+                "channelId": "UCIjIhSrrsYoczYFwqQ5DJeQ",
+                "title": "Doa Bersama untuk Bangsa agar Penyakit Covid-19 Segera diangkat || Kamis, 7 Januari 2021",
+                "description": "Sambut tahun 2021 dengan doa terbaik untuk bangsa 'Semoga Penyakit Covid-19 segera diangkat' Terus ikuti informasi lainnya ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tAiLKoH4aIk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tAiLKoH4aIk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tAiLKoH4aIk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KPM SEIKHLASNYA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-07T13:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "o9tEVI_31J2Fw3H8nhS4JtSIECE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s7ogVbe_W0E"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-07T07:00:09Z",
+                "channelId": "UC8YxknJQPo2hVYaJZX0MX0g",
+                "title": "VIRUS COVID YANG MENYEBARKAN PENYAKIT PADA CREWMATE!! | Among Us",
+                "description": "VIRUS COVID YANG MENYEBARKAN PENYAKIT PADA CREWMATE!! | Among Us ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s7ogVbe_W0E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s7ogVbe_W0E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s7ogVbe_W0E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JLGaming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-07T07:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MeeUf0IyKGqySv9f3-1thg575Is",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vGIGTX0x46Q"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-19T13:06:02Z",
+                "channelId": "UCu0yQD7NFMyLu_-TmKa4Hqg",
+                "title": "Gimana Cara Obat Ngancurin Penyakit?",
+                "description": "Selain kopi, ada hal lain lagi yang terkenal karena pahitnya. Bukan, bukan fakta pahit kehidupan yang gini-gini aja, tapiii: obat~ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vGIGTX0x46Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vGIGTX0x46Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vGIGTX0x46Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kok Bisa?",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-19T13:06:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uHFIyYg_fUmkns3wQ2afJZgDC8Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4A5E39Wg3Bw"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-09T08:00:54Z",
+                "channelId": "UCaALuPmVSPSfCKkppFj6SzA",
+                "title": "Health Talks Online &quot;COVID-19 dan Bahaya Penyakit Penyerta di Masa New Normal&quot; Bersama Al Fauzien",
+                "description": "Bersama dr. Robby Kurniawan, Sp.PD Dokter Spesialis Penyakit Dalam RSIA Bunda Aliyah Depok dan Moderator Ria Fitriani, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4A5E39Wg3Bw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4A5E39Wg3Bw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4A5E39Wg3Bw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RSU Bunda Aliyah Depok",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-09T08:00:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZtcdYya8VCzBizXcHolkrgxLaYU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hxNZwILvSeM"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-06T08:54:34Z",
+                "channelId": "UCtzb3VE6W0-ZZErpS60733Q",
+                "title": "06 Mei 2020 Kabid Pencegahan dan Pengendalian Penyakit dr. Dwi Oktavia Memberikan Update COVID-19",
+                "description": "06 Mei 2020 Kabid Pencegahan dan Pengendalian Penyakit dr. Dwi Oktavia Tatri Lestari Handayani, M.Epid Memberikan Daily ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hxNZwILvSeM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hxNZwILvSeM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hxNZwILvSeM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PEMPROV DKI JAKARTA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-06T08:54:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HQ1DIoz9gUC3xWT3_TCW55sU04E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BCv46FwtqhI"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-09T05:08:22Z",
+                "channelId": "UC-zwAo_0PsviX7-H71mbHYg",
+                "title": "TERKINI : Kalaulah Mereka Tahu Betapa Deritanya Penyakit Covid-19 - Dr. Kamaruddin Alias",
+                "description": "Kalaulah mereka tahu betapa menderitanya pesakit Covid-19 ini, mereka mungkin mereka akan lebih faham dan yakin mengapa ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BCv46FwtqhI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BCv46FwtqhI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BCv46FwtqhI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MalaysiaGazette TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-09T05:08:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RWT90vkOFjDPJx2x-QlkupBP0NQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eJWj05vzzJQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-03T14:20:35Z",
+                "channelId": "UCIjIhSrrsYoczYFwqQ5DJeQ",
+                "title": "DOA BERSAMA UNTUK BANGSA || &quot;DOA AGAR PENYAKIT COVID-19 SEGERA DIANGKAT&quot;",
+                "description": "Terus ikuti informasi lainnya di Website: https://www.kpm.read1institute.org/ Follow us: Fanpage Facebook: KPM Seikhlasnya ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eJWj05vzzJQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eJWj05vzzJQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eJWj05vzzJQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KPM SEIKHLASNYA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-03T14:20:35Z"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1713 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "yF8gcKGv1kvmYjdTX0t4IX5oz8s",
+    "nextPageToken": "CN4CEAA",
+    "prevPageToken": "CKwCEAE",
+    "regionCode": "ID",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "v8KZ1idKCUsdmLLAgIPmxAsfhaY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S0pkfyNwEzs"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-14T12:00:13Z",
+                "channelId": "UCS2iz-tjy39ooLqKQAVxJnA",
+                "title": "&quot;CARA MERAWAT PENYAKIT DIABETES&quot;  RUANG BEDAH VIDEO DIABETES SEDUNIA RSUD DR R SOEDJONO SELONG 2021",
+                "description": "Assalamu'alaikum Sahabat Sehat.. Dalam rangka menyambut \"Hari Diabetes Sedunia\" yang jatuh tanggal 14 November 2021, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S0pkfyNwEzs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S0pkfyNwEzs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S0pkfyNwEzs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RSUD Dr R Soedjono Selong",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-14T12:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "d-vHrZ3DUEBcnm_2iEFLYsmUSZo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3dveLcjMVzw"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-27T06:50:19Z",
+                "channelId": "UC246l481Fh5yKywvL4JgNrQ",
+                "title": "COBA KONSUMSI CACING DI REBUS /DI GORENG PENYAKIT DIABETES BISA SEMBUH",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3dveLcjMVzw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3dveLcjMVzw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3dveLcjMVzw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KAWAN BRIEL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-27T06:50:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oXjc1J3nH1dpBSERHTO5qipzezk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wP33ykzUVVY"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-18T01:46:47Z",
+                "channelId": "UCtJnqr1liZ2U6p40z6okRHw",
+                "title": "BAGAIMANA GEJALA AWAL PENYAKIT DIABETES ???",
+                "description": "Bagaimana gejala aw2al penyakit diabetes ?, saksikan video ini sampai hanis agar anda dapat mengetahui gejala awal penyakit ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wP33ykzUVVY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wP33ykzUVVY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wP33ykzUVVY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BSW 21 ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-18T01:46:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KV8b_s9Kx8OYFg57wbFyQB4jgdQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aPf4oVZbftA"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-09T09:49:20Z",
+                "channelId": "UCd9rgRuSWkwx-sCyZn-OSvA",
+                "title": "Sponge Cake Sukun Panggang (Makanan Selingan bagi penderita penyakit Diabetes Mellitus)",
+                "description": "Nama : Nurhalisa NIM : 19S10311 Prodi : S1 Gizi (Semester 3) #STIKesHusadaBorneo #Banjarbaru.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aPf4oVZbftA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aPf4oVZbftA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aPf4oVZbftA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nurhalisa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-09T09:49:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eY49orhSLTzMYvZUbvUJCSUVea0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tGTcfjIgUb8"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-28T05:55:20Z",
+                "channelId": "UCvd_bOqxPC9jSWN61aByxgQ",
+                "title": "Pengalaman Gejala dan Kompilkasi Diabetes Mellitus-Penyakit Diabetes Mellitus/Kencing Manis PART 1",
+                "description": "Pengalaman Sendiri, Gejala dan Kompilkasi Diabetes Mellitus-Ganasnya penyakit diabetes/kencing manis Bisa Subscirbe Di ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tGTcfjIgUb8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tGTcfjIgUb8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tGTcfjIgUb8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gerbuy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-28T05:55:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xBPlriEBMN9HuUlxtU0zg3Owc8s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3VWat6n5cRI"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-01T07:58:33Z",
+                "channelId": "UCA7yn7qM30dw47cv-NwfNSw",
+                "title": "Cara Cek Penyakit Diabetes(Kencing Manis) dalam Darah kita, Sangat Sederhana....",
+                "description": "pertama yang akan dibahas adalah faktor penyebab atau risiko dari seseorang untuk terserang diabetes. Pada kasus diabetes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3VWat6n5cRI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3VWat6n5cRI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3VWat6n5cRI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BUSER 69",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-01T07:58:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5FhQC_nh9zERUZElP4TjYZRrVvg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4XkUGaO67oU"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-03T11:50:29Z",
+                "channelId": "UCTNEjRZr4NAc95pTAqWaheA",
+                "title": "Kesehatan Kardiovaskular yang Baik Dapat Mengurangi Risiko Penyakit Diabetes | Koran Digital |",
+                "description": "Ayo Sobat Seru, kita jaga kesehatan kardiovaskuler dengan baik. Bisa dengan cara rutin berolahraga, menjaga pola makan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4XkUGaO67oU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4XkUGaO67oU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4XkUGaO67oU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Blok A Media",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-03T11:50:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6VnMHpPIB-WMdD8vfgwMrY6sNEs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wn-igZiFNZE"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-23T09:33:15Z",
+                "channelId": "UCI_gIIcffiE_Xj1xNNJL4eA",
+                "title": "MODEL MANAJEMEN PENYAKIT DIABETES - MPBW",
+                "description": "KELOMPOK 2 ARIELLA LINTANG N. (19410004) AUDREY ADELITA (19410005) AULYYA RAHMAH (19410006) DESTY ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wn-igZiFNZE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wn-igZiFNZE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wn-igZiFNZE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DOSEN MUDA CHANNEL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-23T09:33:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7gMnUS-2iy-DJPfzjo8clboLUU8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jFwmEbyIj_I"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-24T15:03:53Z",
+                "channelId": "UCDdAIBYBr3X7647YER48vHQ",
+                "title": "Mengenal 4 Gejala Awal Penyakit Diabetes Melitus !",
+                "description": "Mengenal 4 Gejala Awal Penyakit Diabetes Melitus ! Diabetes mellitus atau yang biasa kita kenal dengan kencing manis adalah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jFwmEbyIj_I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jFwmEbyIj_I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jFwmEbyIj_I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "INSPIRASI KESEHATAN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-24T15:03:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OQBURvCCROGpa1ctNNLRdu_WrxY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "flb7i_NE78Y"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-16T11:35:07Z",
+                "channelId": "UCOZkKlCWvpT31sW00Ns4VTw",
+                "title": "TEH KULIT SALAK INOVASI WARGA KARANGASEM BISA MENYEMBUHKAN PENYAKIT DIABETES",
+                "description": "THE KULIT SALAK INOVASI WARGA KALANGANYAR BEBANDEM KARANGASEM/ BERDASARKAN HASIL UJI LAB DARI ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/flb7i_NE78Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/flb7i_NE78Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/flb7i_NE78Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TV U Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-16T11:35:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Jyo3tl2EOT_mwXc_rc8hP9KHsDw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QKlizq4tFRw"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-03T06:08:04Z",
+                "channelId": "UCq5mJOHkGqMxWC-eclhWmpA",
+                "title": "TERBUKTI, CALL/WA 0813-3155-1900, Pijat Penyakit Diabetes",
+                "description": "\"Klik Https://WA.me/6281331551900, Klinik Diabetes Surabaya, Tempat Pengobatan Alternatif Diabetes, Tempat Terapi Diabetes, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QKlizq4tFRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QKlizq4tFRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QKlizq4tFRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Klinik Diabetes",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-03T06:08:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y8KYYHNWDuiEOuyiOL1FaOdfpDY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Rvyu1RVchyY"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-27T16:05:40Z",
+                "channelId": "UC_ueYlhuo2bt9a5VkvzwEDQ",
+                "title": "Uji coba metode mamdani untuk deteksi penyakit diabetes, simulasi pada Mathlab",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rvyu1RVchyY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rvyu1RVchyY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rvyu1RVchyY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Faris Media",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-27T16:05:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cVMEk_fxu9WqV36vJizo0Mhqhq8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jmdCdXhR8YQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-02T02:58:40Z",
+                "channelId": "UC3j40Lv_ZSEl2Z_y32M6yng",
+                "title": "MITOS &amp; FAKTA PENYAKIT DIABETES l EPS1 OBAT TAMAN SARI",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jmdCdXhR8YQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jmdCdXhR8YQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jmdCdXhR8YQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PROMKES PKC Tamansari",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-02T02:58:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UksuYdsAyVW6H013CPazSMbaY3k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PjnarpsWkVg"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-11T10:00:22Z",
+                "channelId": "UC03NHekIPbs9LJEWBa6NJcg",
+                "title": "Penyakit Diabetes Penyebab Kematian no 4 di Dunia   SOPAlpha",
+                "description": "sopalpha #diabetes #enjoylifewithagoodhealth Penyakit Diabetes menjadi penyebab kematian no.4 di DUNIA! Kali ini giliran ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PjnarpsWkVg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PjnarpsWkVg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PjnarpsWkVg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SOPALPHA Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-11T10:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eJibntzNk_xY2YgTG_BhRGH5eqY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "V_dD2SnLoWA"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-11T05:00:08Z",
+                "channelId": "UCrPCzhGyqCtn8F-Xq5kqN4g",
+                "title": "Menu Diet Pada Penyakit Diabetes Mellitus",
+                "description": "Diabetes disebabkan karena menurunnya kepekaan sel-sel tubuh terhadap insulin. Para penderita diabetes harus menjalankan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V_dD2SnLoWA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V_dD2SnLoWA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V_dD2SnLoWA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NoNa Calisda",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-11T05:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vYYR0hhwnrxMPTQMyQu1Z2rBJjg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Yki0iJveUbs"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-07T10:03:30Z",
+                "channelId": "UC1mGbGwcTMzUlawRt7rDWJA",
+                "title": "MASAKAN VRINDAFAN bisa mengobati diabetes, dan penyakit dalam",
+                "description": "masak #masakan #Vrindafan dalam video kali ini memasak hasil buruan yaitu daging SUIRREL. dimana daging tersebut sebuah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Yki0iJveUbs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Yki0iJveUbs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Yki0iJveUbs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NASIF IPUD Petualang",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-07T10:03:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i1C6PTavrp4sXR914x-q3enMNv0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "njqlnG-HF84"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-17T12:38:38Z",
+                "channelId": "UCHgnye_9JKFoCi3B-nPYH9w",
+                "title": "Kelompok 1 K3 (Aktualisasi Diri tentang penyakit Diabetes Militus)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/njqlnG-HF84/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/njqlnG-HF84/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/njqlnG-HF84/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bty Panjaitan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-17T12:38:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KUDMqKTGX4GnDkayI32bQQE0D0M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IaJLSBYBmzc"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-04T01:18:36Z",
+                "channelId": "UCqWihkLZytPeOEIC_BfdoIg",
+                "title": "DIABETES, APAKAH PATUT DIWASPADAI? Yuk..Mulai _Aware_ dengan Penyakit Diabetes - NGOPI BRAI #7",
+                "description": "NGOPI BRAI (Ngobrol Inspiratif bersama RSI Jemursari) Podcast yang digagas RSI Jemursari untuk mengedukasi masyarakat, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IaJLSBYBmzc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IaJLSBYBmzc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IaJLSBYBmzc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RS Islam Jemursari Surabaya",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-04T01:18:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sfi8uks90cEnVHpHeiuSYnkIK6A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fcsKcLIUdGQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-02T09:58:14Z",
+                "channelId": "UCdpReA_5bQclIB0wTBuWS3A",
+                "title": "Cara ampuh Sembuhkan Penyakit DIABETES Yang Sudah Menghitan ( Gangrene ), Dan Cara Penanganganannya",
+                "description": "Jangan Lupa \" KLIK ICON LONCENG\" nya Ya, Lalu Like Comment Dan Subscribe, Agar Bisa Mendapatkan Informasi Paling ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fcsKcLIUdGQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fcsKcLIUdGQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fcsKcLIUdGQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TV KOBRA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-01-02T09:58:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FUHyX_tAG7OTcPBVzyeMgIxZLjw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2BzK5VB2Q0o"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-07T05:23:37Z",
+                "channelId": "UCIFF7pf3suxwKQaeGneF5Dw",
+                "title": "Penyakit Diabetes Mellitus (Kelompok 12) PATOLOGI D4 TRO Tingkat 1B",
+                "description": "Halo guys welcome back to my Youtube channel jadi di video kali ini kami akan membahas mengenai penyakit Diabetes Mellitus ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2BzK5VB2Q0o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2BzK5VB2Q0o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2BzK5VB2Q0o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PATOLOGI D-IV TRO POLTEKKES JKT II",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-07T05:23:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OViaCW5bQCSj74X-J0aau0hRENo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O7h6Y4023yM"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-31T10:00:09Z",
+                "channelId": "UCGNb7sULq-YhDXju9QyGSVg",
+                "title": "HAI DOK : Penyakit Diabetes, Apakah Bisa Sembuh?",
+                "description": "Website : https://www.cmihospital.com Facebook Fan Page : https://www.facebook.com/cmihospitals Instagram ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O7h6Y4023yM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O7h6Y4023yM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O7h6Y4023yM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CMIhospital•com",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-31T10:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "28zYu6WOuj8Mbe6ddXmf1oHYAsQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0rIsuQ34Y14"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-07T07:17:34Z",
+                "channelId": "UCI2s-mjn0Ap7KG-AAB7_8_g",
+                "title": "WASPADAI 5 TANDA TANDA PENYAKIT DIABETES INI",
+                "description": "diabetes #TandaPenyakitDiabetes #GejalaDiabetes WASPADAI 5 TANDA TANDA PENYAKIT DIABETES INI. Inilah gejala gejala ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0rIsuQ34Y14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0rIsuQ34Y14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0rIsuQ34Y14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Info Resep Sehat",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-07T07:17:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jkpJ8MNcS_yGITREeJ93qixR5mM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h0iqzpGeY5U"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-28T03:21:23Z",
+                "channelId": "UC3A4M_Zl8MCbYZIyppb4LGQ",
+                "title": "Makan Durian Bersama Istri || Tidak Bisa Makan Bnyak Ingat Penyakit (Diabetes)",
+                "description": "Mukbang durian harga murah pesan sama teman 150 ribu dapat 16 biji jatuh dari Pohon.anak minta pesan kan.saya sama istri ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h0iqzpGeY5U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h0iqzpGeY5U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h0iqzpGeY5U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rudi Handil",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-28T03:21:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nBmEjFmYbbP-1JNtKQ-uqVc9T_0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oU5y8-gqrh0"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-24T20:58:16Z",
+                "channelId": "UCyQWAYXByD9ORMUzGTTy9Tw",
+                "title": "Penyebab &amp; Jenis Penyakit Diabetes Mellitus",
+                "description": "Penyebab diabetes melitus adalah berkurangnya kadar, atau kemampuan insulin dihasilkan oleh kelenjar pankreas dalam hal ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oU5y8-gqrh0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oU5y8-gqrh0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oU5y8-gqrh0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "D.P.N Chanel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-24T20:58:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OaxC_5uEsO5SG0Ef154ngZ67sr8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "a0v8r7Z9fG4"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-19T17:13:34Z",
+                "channelId": "UC7pgrIRB8r7rGIQ3chp_t0w",
+                "title": "Menu Makan Malam untuk penyakit Diabetes Melitus",
+                "description": "Nama : Maulina Hanifah Kelas : 6D Diabetes Melitus adalah penyakit yang di tandai dengan tekanan gula darah yang tinggi, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a0v8r7Z9fG4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a0v8r7Z9fG4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a0v8r7Z9fG4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gizi Klinik Komprehensif UHAMKA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-19T17:13:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vV9s60QnD5oKovV65Se2GMx6z0E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iQgH5-mqaFo"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-16T16:39:04Z",
+                "channelId": "UCFAq3O6S5KRXx1VVTGQcstQ",
+                "title": "ANALISIS FAKTOR PEMICU PENYAKIT DIABETES",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iQgH5-mqaFo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iQgH5-mqaFo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iQgH5-mqaFo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jastin Theo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-16T16:39:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "z8NafuoQq11avQr5TLlZWdew7bQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9VNL5m9vljY"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-13T08:49:58Z",
+                "channelId": "UCkm0QC0N6noOfbL3k0qYn3Q",
+                "title": "Kisah nyata penderita penyakit diabetes sembuh dengan ramuan tradisional (daun pare dll)",
+                "description": "Berbagi resep dari mantan penderita diabetes yg sudah sembuh(kisahnyata) Cara membuat ramuan tradisional untuk ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9VNL5m9vljY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9VNL5m9vljY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9VNL5m9vljY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "A Ooy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-08-13T08:49:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "u2MJ16yTxvhFqg888yRhz7Y-ZJs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JVCZBSTrod0"
+            },
+            "snippet": {
+                "publishedAt": "2020-04-25T12:21:39Z",
+                "channelId": "UC1Bixn2yY_Yjy9_mHUrh55w",
+                "title": "Sistem pakar mendiagnosa penyakit diabetes dengan metode certainty factor",
+                "description": "Menjelaskan sistem pakar dengan metode certainty factor.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JVCZBSTrod0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JVCZBSTrod0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JVCZBSTrod0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Uci Sri Damayanti",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-04-25T12:21:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "b8VNn3o6AGdYVFETWp68en6GpW8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "f7pePjc1jEk"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-06T15:13:15Z",
+                "channelId": "UChzW9K_NSq3cJoMjDjPuDNw",
+                "title": "Review Jurnal Tentang Sistem Pakar Diagnosa penyakit DIABETES MELITUS",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f7pePjc1jEk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f7pePjc1jEk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f7pePjc1jEk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fakhri Rahadian",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-06T15:13:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HAP8_nSdg_zH2M0KHgEzCFXLxpw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y2btn6lICwY"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-23T01:39:02Z",
+                "channelId": "UCfBk24KrPgNcsQB8R_aoZUA",
+                "title": "perubahan pada wajah yang bisa jadi seorang itu idap penyakit diabetes",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y2btn6lICwY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y2btn6lICwY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y2btn6lICwY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "salwati salwati",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-23T01:39:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "59s130InDIcFe0iAHPb5O_JLk94",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vqUf97_ZeCw"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-18T21:51:09Z",
+                "channelId": "UCA7KqsbdRC1jXuxd1NzBF2A",
+                "title": "TALK SHOW BERSAMA BIO HSA &quot; PENYAKIT DIABETES &quot; ( 18 Maret 2021 )",
+                "description": "Bio HSA adalah minuman kesehatan, dengan kombinasi buah-buahan trofis Indonesia, menjadikan Bio HSA produk yang unik ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vqUf97_ZeCw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vqUf97_ZeCw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vqUf97_ZeCw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gundaling FM",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-18T21:51:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J9d8C-iXUx1qhve1Y-Fnq9rKgYU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rFKJpYYBals"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-13T01:20:21Z",
+                "channelId": "UC6GPw3Nx8xiCWJ5wonax29Q",
+                "title": "Kelompok 6 - Al with Rapid Miner - Kasus : Diagnosa Penyakit Diabetes",
+                "description": "Channel ini di buat sebagai wadah untuk penyelesaian tugas dari matakuliah Kecerdasan Buatan (Artificial Intelligence) serta ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rFKJpYYBals/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rFKJpYYBals/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rFKJpYYBals/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Artificial Intelligence STMIK DCI Angkatan 2019",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-13T01:20:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1Misx99RZUxcqsmQ95FSC8i_K3c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UeDT6n0vJag"
+            },
+            "snippet": {
+                "publishedAt": "2019-12-26T01:44:35Z",
+                "channelId": "UCviSDDQQaWtd6OTsBlK5D_g",
+                "title": "Manfaat jus pare bagi penderita penyakit diabetes",
+                "description": "Jus pare mampu menurunkan kadar gula darah.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UeDT6n0vJag/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UeDT6n0vJag/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UeDT6n0vJag/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cerita Tki",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-12-26T01:44:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1OJKZKnvxE4Ejo4_qlc_hO6Kr2c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QWRHDl3DmlY"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-13T16:18:37Z",
+                "channelId": "UCAb1oRPJ3l5podiNl83eKhA",
+                "title": "Tutorial Pijat Refleksi mengobati penyakit diabetes/kencing manis",
+                "description": "cara#tutorial#pijitrefleksi#penyakitdiabeteskencingmanis#chanelkangafank.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QWRHDl3DmlY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QWRHDl3DmlY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QWRHDl3DmlY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kang afank",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-13T16:18:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "g0nnQXPFI7fznkRF_LSoTORBbXA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YwTheHeYBRw"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-16T06:57:56Z",
+                "channelId": "UCEJZ_RLA9ttTXiUYdgQDcqw",
+                "title": "Penyuluhan Penyakit Diabetes PT. METINDO ERA SAKTI",
+                "description": "Penyuluhan penyakit diabetes PT. Metindo Erasakti kepada para karyawan agar para karyawan selalu menjaga pola makan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YwTheHeYBRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YwTheHeYBRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YwTheHeYBRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Metindo Erasakti",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-08-16T06:57:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lBV0PpROFP-QEvRG-rTBVicnGMQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KPY1KSswyZI"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-10T20:03:21Z",
+                "channelId": "UCkJTDSJg_zC382qQiBbsAXg",
+                "title": "Menyusun menu diet untuk penderita penyakit Diabetes Mellitus",
+                "description": "Video ini dibuat untuk melengkapi tugas mata kuliah Theraputik Diet.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KPY1KSswyZI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KPY1KSswyZI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KPY1KSswyZI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dewi Prabaningtyas",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-10T20:03:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LLtOgpYZxs3NPzy0_xQHzGa1v2k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QwAET2hyVSU"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-31T09:29:47Z",
+                "channelId": "UCPC9csSztQ--OUNslDwYRTQ",
+                "title": "khasiat Daun Sirsak Untuk Penyakit Diabetes",
+                "description": "Sehat Alami#Daun Sirsak Untuk Kesehatan# Herbal Alami#Info Sehat# Kesehatan Dengan Herbal#",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QwAET2hyVSU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QwAET2hyVSU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QwAET2hyVSU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Herb Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-31T09:29:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QCWnBlFapIW3RFFbtciASSwr-Jk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FSSx4pYgHIM"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-15T01:22:19Z",
+                "channelId": "UCnbXjackmFT2WSfHV6jQ3jw",
+                "title": "Ruqyah karomah bathin, Pasien Pengidap Penyakit Diabetes Menaun ...",
+                "description": "Kabar gembira bagi mitra semua yang membutuhkan bantuan dari kami \"Metode Ruqiyah karomah batin \" insya Allah kami dapat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FSSx4pYgHIM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FSSx4pYgHIM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FSSx4pYgHIM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jrp Wf, Rangkasbitung - Banten",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-15T01:22:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fhOPT62O7opkLIqfSeiPHolxqCI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1c63VD3rHwM"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-06T08:10:11Z",
+                "channelId": "UCtTW35xpqOFYaA1RbEo96gA",
+                "title": "PODCAST GIZI || 3 LANGKAH MENCEGAH PENYAKIT DIABETES MELITUS",
+                "description": "3 langkah mencegah penyakit diabetes melitus yaitu pencegahan primer, sekunder dan tersier Untuk penjelasannya jangan lupa ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1c63VD3rHwM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1c63VD3rHwM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1c63VD3rHwM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SUNARTI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-06T08:10:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VEgHArxJz5KKjGjUVW9mhMNqLko",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "srTJSapX1DA"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-19T06:02:39Z",
+                "channelId": "UCb0NjBNmXYZNu66ZU0RyWuQ",
+                "title": "Penyakit Diabetes Melitus dan Pencegahannya.",
+                "description": "Semoga dengan adanya vidio ini dapat menambah pengetahuan teman-teman semuanya , karena menurut data di Indonesia ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/srTJSapX1DA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/srTJSapX1DA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/srTJSapX1DA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "mala hayatul khamilah",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-19T06:02:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZdCkbPerPBH8QeQD7TiZuLrl3E4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F8anGR9N1lc"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-15T03:57:05Z",
+                "channelId": "UCZ9m7axEGfTd2e4XdWMGzsg",
+                "title": "SEMINAR KESEHATAN TENTANG PENYAKIT DIABETES DARI dr.LEVY SUOTH , SP.PD",
+                "description": "seminarkesehatan #diabetes #minut.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F8anGR9N1lc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F8anGR9N1lc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F8anGR9N1lc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kawangkoan Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-15T03:57:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gEh6dHi9AVHZlRO_3YkARJe46GI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fR4M0Y-fFkw"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-14T04:46:31Z",
+                "channelId": "UCElVCvpmBiCfXAjMuT7JE8Q",
+                "title": "Pidato Pentingnya Melakukan Pemeriksaan Laboratorium Pada Penyakit Diabetes Melitus",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fR4M0Y-fFkw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fR4M0Y-fFkw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fR4M0Y-fFkw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "manik mahayeni",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-14T04:46:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rmumabIWsXS5XE4jtj_nz-Dem48",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SjeOMahiHJ8"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-08T01:41:02Z",
+                "channelId": "UC25U0HuqhamTZqwdwj4wiJQ",
+                "title": "TERBUKTI, CALL/WA 0813-3155-1900, Pijat Penyakit Diabetes",
+                "description": "Klik Https://WA.me/6281331551900, Pengobatan Alternatif Diabetes Terapi dm tipe 2, Pengobatan dm tipe 2, Pengobatan Stroke ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SjeOMahiHJ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SjeOMahiHJ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SjeOMahiHJ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zivana Adzkia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-08T01:41:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UsgoKnbymJsIj-io7JrrZSJNhz0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LShEgHbVTPU"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-16T04:34:08Z",
+                "channelId": "UCt8ZoPuwAbJlLpAJHuwvecg",
+                "title": "Farmakologi Bahan Alam &quot;Kayu Manis untuk Penyakit Diabetes Melitus&quot;-Diaz Permata",
+                "description": "Pada video ini, dijelaskan tentang mekanisme kayu manis untuk penyakit diabetes melitus. Enjoyy!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LShEgHbVTPU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LShEgHbVTPU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LShEgHbVTPU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Diaz Permata",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-16T04:34:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "upu4nxxcF6WQN0kk_W-F-0OFd88",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NENzAcj3BrU"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-29T10:45:26Z",
+                "channelId": "UCKJgG-OoRboHQxXJHO2i72g",
+                "title": "RESEP MANJUR MENGATASI  PENYAKIT DIABETES",
+                "description": "Daun binahong di percaya bisa mengobati segala macam penyakit diabetes dan penyembuhan luka dan masih banyak ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NENzAcj3BrU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NENzAcj3BrU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NENzAcj3BrU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ANDY JAYA CHANNEL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-29T10:45:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aRE6YOEBd1QBdk9aExGAgFlT-KY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ljFuuqCm6xA"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-07T02:02:56Z",
+                "channelId": "UCbAURuNjzanM9TiWrKjMWPA",
+                "title": "TERBUKTI, CALL/WA 0813-3155-1900, Pijat Penyakit Diabetes Pabean Cantian",
+                "description": "\"Klik Https://WA.me/6281331551900, Klinik Diabetes Surabaya, Tempat Pengobatan Alternatif Diabetes, Tempat Terapi Diabetes, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ljFuuqCm6xA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ljFuuqCm6xA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ljFuuqCm6xA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SF CNHL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-07T02:02:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cBU2CnkwRgoJqMMPdxvESRrkLak",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HqFTchiA1XM"
+            },
+            "snippet": {
+                "publishedAt": "2014-04-04T07:41:13Z",
+                "channelId": "UCTmzGqBD1Pj9wEX7UmzBnMg",
+                "title": "cara mencegah penyakit diabetes dengan sangat mudah untuk keluarga yang memiliki sejarah diabetes",
+                "description": "cara mudah mencegah penyakit diabetes untuk orang yang memiliki garis keturunan penderita diabetes...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HqFTchiA1XM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HqFTchiA1XM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HqFTchiA1XM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "bangkit ariyambodo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-04-04T07:41:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vB1mzdE2WF4vuNKodaWILjpjLdY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S_fJ5rMSOtc"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-14T23:22:01Z",
+                "channelId": "UCMQY1L1atKVstk2IU2-PXsQ",
+                "title": "Pengalaman mengobati penyakit diabetes dengan pare kampung.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S_fJ5rMSOtc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S_fJ5rMSOtc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S_fJ5rMSOtc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zabidi Zbd",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-14T23:22:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rNgHhIdk0_Y91xv87QLYZpXBIRE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gY4fiXx-1wY"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-08T01:17:57Z",
+                "channelId": "UCheW3zp5MwFqBPgghzQ7c1g",
+                "title": "TERBUKTI, CALL/WA 0813-3155-1900, Pijat Penyakit Diabetes Sukolilo",
+                "description": "\"Klik Https://WA.me/6281331551900, Diabetes Surabaya, Klinik Pengobatan Diabetes, Klinik Diabetes Surabaya, Rumah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gY4fiXx-1wY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gY4fiXx-1wY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gY4fiXx-1wY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NOVELIA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-08T01:17:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4tTrom3pBg1a27Lmt8RuZzM5SQQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "m2VbyzeSr3E"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-02T04:47:18Z",
+                "channelId": "UC5EPWvcwCzS06ABWeYbBRXA",
+                "title": "cara mengobati penyakit diabetes yang sudah parah",
+                "description": "cara mengobati penyakit diabetes yang sudah parah, Obat Kencing Manis Alami Dan Herbal Tradisional Untuk Mengobati ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m2VbyzeSr3E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m2VbyzeSr3E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m2VbyzeSr3E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Seputar Tips Cara Mengobati Penyakit",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-08-02T04:47:18Z"
+            }
+        }
+    ]
+}

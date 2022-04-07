@@ -1,0 +1,1134 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "25r5NVMehS1KLdshJFEVqUMZGsc",
+    "prevPageToken": "CKYEEAE",
+    "regionCode": "ID",
+    "pageInfo": {
+        "totalResults": 639616,
+        "resultsPerPage": 33
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "s2tozLu40XKVW6iD5bWjsynPRQ4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cxWlQ6vZbfQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-03T05:00:10Z",
+                "channelId": "UCR7vX1LU4ZDAlMN5gKVOlFw",
+                "title": "MEKANIK HP ... BEBE TRAILER",
+                "description": "Demam Berdarah Project teknisi hp kota medan sedang bercerita pengalaman pengalaman #anakmedan #teknisihp #hp.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cxWlQ6vZbfQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cxWlQ6vZbfQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cxWlQ6vZbfQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Demam Berdarah Project",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-03T05:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oRdcGXt-NSrg_q3tlS0MCKDkPTI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KW5HSUA5E6s"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-24T02:33:32Z",
+                "channelId": "UCX6PO0jqT3FX86-8IOpRCBQ",
+                "title": "Review Obat Anak Sakit Demam: Bodrexin Acetosal",
+                "description": "Hi Bos Bis, disini Oting mau review obat demam & nyeri yang cocok buat anak-anak. Yuk ditonton dan jangan lupa like ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KW5HSUA5E6s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KW5HSUA5E6s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KW5HSUA5E6s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tongbos",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-24T02:33:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WWFthv5qHR15Lyk4FB0BLWM52Sw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KLSXa95TmPw"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-05T02:48:59Z",
+                "channelId": "UCJix4mGsF54RzUIrtIC8OEA",
+                "title": "Selvi Ananda Tak Hanya Cantik, tapi Juga Luwes dan Anggun",
+                "description": "SelviAnanda #CantiknyaSelviAnanda PKK Kota Surakarta Masa Bhakti 2022-2026 Dilantik, Stunting Masih Jadi Fokus Utama ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KLSXa95TmPw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KLSXa95TmPw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KLSXa95TmPw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Info Seputar Solo Raya Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-05T02:48:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AlY3-BzY8TbqRWQ9pdjOW42NzfQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PZusHx5Bp3g"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-28T15:34:02Z",
+                "channelId": "UCv94Q5FybJpN4PiiGMTZGjg",
+                "title": "FOGGING",
+                "description": "Salah satu cara mencegah demam berdarah (DB) yaitu dengan penyemprotan atau fogging untuk membunuh nyamuk dewasa ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PZusHx5Bp3g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PZusHx5Bp3g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PZusHx5Bp3g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "disekitar kita",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-28T15:34:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "D_yKwh3Y6VwKH5ewstnNgtHiPfM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mmwfBWsYEqc"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-15T13:33:19Z",
+                "channelId": "UCI0yU4aNDjjrsKsOFzwaLUQ",
+                "title": "PENGASAPAN FOGING DI DUSUN TANGGULANGIN,SALAMAN,MAGELANG OLEH DINKES KAB.MAGELANG 15-2-2022",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mmwfBWsYEqc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mmwfBWsYEqc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mmwfBWsYEqc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NUR MAGELANG",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-15T13:33:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Der7KVLYUlm00_Z7TyjfGPmI_Ks",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ohRlsH9BVTs"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-01T23:00:28Z",
+                "channelId": "UCR7vX1LU4ZDAlMN5gKVOlFw",
+                "title": "Q GRADER KOPI ARABIKA ... KOCOL TRAILER",
+                "description": "Demam Berdarah Project pemilihan kopi indonesia dan beliau ahlinya di kota medan. tunggu ditayangin versi full nya.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ohRlsH9BVTs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ohRlsH9BVTs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ohRlsH9BVTs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Demam Berdarah Project",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-01T23:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YkOAQOU7ofxiystm5IeG83vQBgY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KMQyXNVq9AU"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-04T22:19:33Z",
+                "channelId": "UCddRTpcusbsWuAVPqBfiJrA",
+                "title": "wa 082134718957 jual BRITISH PROPOLIS GREN KIDS untuk anak Bojonegoro",
+                "description": "wa 082134718957 jual BRITISH PROPOLIS GREN KIDS Untuk anak Bojonegoro Anak tumbuh sehat dan kuat adanya ibu yang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KMQyXNVq9AU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KMQyXNVq9AU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KMQyXNVq9AU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Emkam isa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-04T22:19:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_wspMcBpGdvnwg_HV-YefQEvQv0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VPEF2OPJQSA"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-23T11:45:01Z",
+                "channelId": "UCXkRFUruW9lg4hEBILMVkPQ",
+                "title": "GINI TOH RASANYA POSITIF..",
+                "description": "Buat bolo-bolo yang mau dukung \"Crew Korea Reomit\" mohon bantuannya dengan bergabung menjadi member di channel ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VPEF2OPJQSA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VPEF2OPJQSA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VPEF2OPJQSA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korea Reomit",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-23T11:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ovG4Q5bQuH5Afk147przRiS5V7g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WRY2msr2_tQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-04T01:50:22Z",
+                "channelId": "UCSzRFikqwOdkS6M5-Xk9tSg",
+                "title": "Manfaat Dan Khasiat Konsumsi Jambu Biji Menurut Pakar Kesehatan Dunia",
+                "description": "Tentu Anda sudah mengenal buah jambu biji. Biasanya, Anda membawa buah ini saat akan menjenguk rekan atau saudara yang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WRY2msr2_tQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WRY2msr2_tQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WRY2msr2_tQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ceria Tani",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-04T01:50:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EPQOTIIUUlVWpBCvdkDaVp0MTjE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EB73Svx7bVA"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-05T07:14:18Z",
+                "channelId": "UChbjT9IX6rv-2Z1fKcIE2wA",
+                "title": "Penyebab BAB Bayi Berdarah dan Cara Mengatasinya",
+                "description": "Ketahui beberapa penyebab BAB bayi berdarah dan cara mengatasinya. Baca selengkapnya di ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EB73Svx7bVA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EB73Svx7bVA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EB73Svx7bVA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ayah Bunda Pintar",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-05T07:14:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DkdmwC2emL-LKDDaxo23KtFMc8Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XqV8Gtzndac"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-27T14:24:36Z",
+                "channelId": "UC7OftpC4wXrh55AZoQbrqoQ",
+                "title": "IBADAH RAYA, ONLINE; MINGGU, 27 FEBRUARI 2022.",
+                "description": "Shallom.. Selamat mengikuti Ibadah Raya (online) GPdI Mur Serumbai Dilayani oleh Pdt. Nico Dwiyadi, M. Th. Nikmati Hadirat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XqV8Gtzndac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XqV8Gtzndac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XqV8Gtzndac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mur Serumbai Church",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-27T14:24:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9poy02KHCnuifT4HMFwuUVhHb8I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GNY9oEk34QE"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-03T16:28:17Z",
+                "channelId": "UCAD3_sQ1wdXhlHcFc099vEA",
+                "title": "sehat selalu kakak fhmi..pasca opname#Demam berdarah#kids",
+                "description": "pulang dr opname rs..diagnosis DBD, ruam konvalesen dg trombosit saat hr pulang 127rb. di rs..riwayat trombosit sempat 24rb,, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GNY9oEk34QE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GNY9oEk34QE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GNY9oEk34QE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "d",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-03T16:28:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "d9HxcfPNO0Zk1URWR_NSL9iEb_Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6CCP3MLUhKA"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-28T22:40:00Z",
+                "channelId": "UC24_Z2L-8Ki183AI9zJJzNQ",
+                "title": "TIPS BIAR GAK DIPOSESIFIN LAGI! | SETAHUN KERJA LAPOR PAK! (28/02/22)* Part 9",
+                "description": "Jangan sampai niat tepuk tangan buat ngerayain Setahun Kerja #LaporPakTRANS7 berubah jadi tepok nyamuk yang wara-wiri ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6CCP3MLUhKA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6CCP3MLUhKA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6CCP3MLUhKA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TRANS7 OFFICIAL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-28T22:40:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "K0xAnXBnLdF5clMN-gc7A_ej5q0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QfrHzVfIttg"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-03T08:30:43Z",
+                "channelId": "UCSe6RCB_itSkrg9OE-bglnQ",
+                "title": "AMAN KAH JIKA SERING KONSUMSI OBAT BEBAS WARUNG UNTUK SAKIT KEPALA? - KATA DOKTER ADE",
+                "description": "Halo sahabat premier, Sakit kepala merupakan keluhan yang sangat sering dialami oleh setiap orang. Sakit kepala adalah suatu ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QfrHzVfIttg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QfrHzVfIttg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QfrHzVfIttg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RS Premier Jatinegara",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-03T08:30:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RPbiBBvYRRs1Fdpy4zmn8NhKWlM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zUfmCk5LOYo"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-02T02:00:24Z",
+                "channelId": "UCINnsq7saBdR41N8d0bMUvA",
+                "title": "Sepatu Rena #Shorts GoduploTV",
+                "description": "Sepatu Rena #Shorts GoduploTV Halo Teman - Teman , Kali ini Rena bakal Nunjukkin Koleksi Sepatu nya nih !! , Selamat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zUfmCk5LOYo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zUfmCk5LOYo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zUfmCk5LOYo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GoDuplo TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-02T02:00:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gyiRiEd90BkBZ9EsSxFe04EcQ_s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MjaQQrQANeQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-03T03:24:29Z",
+                "channelId": "UCCk9FYv-B1wTwxYMJwj_E8g",
+                "title": "Nguli Dadu di Identity V #1 0w0/ [Vtuber Indonesia]",
+                "description": "Halo semua 0w0/ Malam ini Yuki akan bemain Identity V buat nguli dadu 0w0/ bakal main casual2 aja sambil ngobrol2 sama ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MjaQQrQANeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MjaQQrQANeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MjaQQrQANeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "0w0 Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-03T03:24:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "csvLlxK6z3dfSoYUeZL0j2EsC6E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p6MIJwnASSI"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-04T06:08:53Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "7 Hari Dicari, 4 Korban Hilang Akibat Gempa Pasaman Belum Ditemukan",
+                "description": "KOMPAS.TV - Tujuh hari dicari, empat korban longsor akibat gempa di Sumatera Barat masih belum ditemukan. Masa pencarian ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p6MIJwnASSI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p6MIJwnASSI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p6MIJwnASSI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-04T06:08:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lDHACb4vquAiQVivJCwAQ3TvgwA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gwif4RWdfL4"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-05T01:57:59Z",
+                "channelId": "UCMMoaLSl7tXub4ckY4efRVA",
+                "title": "DAUN UBI JALAR ENAK NIH DIMASAK INI",
+                "description": "Follow Sosmed Kami Instagram : @dapur.eyangeni link : http://Instagram.com/dapur.eyangeni/ MAKASIH YAA BUAT KALIAN ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gwif4RWdfL4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gwif4RWdfL4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gwif4RWdfL4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dapur Eyang Eni",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-05T01:57:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OSbFbhPB6MDaFH5SpavtvnYP2mk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "V8DJZOOPGWQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-25T04:01:00Z",
+                "channelId": "UCWp4mtSCpPA6LbtEwQLjcfw",
+                "title": "Kaki Sampai Dibikin Bolong!? Inilah Kutu Paling Berbahaya dan Mengerikan Didunia, Waspada Jika..",
+                "description": "Kalian pasti bergidik ngeri melihat video barusan. Membayangkannya saja membuat kepala juga terasa gatal. Entah bagaimana ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V8DJZOOPGWQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V8DJZOOPGWQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V8DJZOOPGWQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hewan Populer",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-25T04:01:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lh2-ds0qCZfiz-YDlVKLaKygg_c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8AP_Q1A_X1w"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-25T05:05:00Z",
+                "channelId": "UC24_Z2L-8Ki183AI9zJJzNQ",
+                "title": "ACI PIKET, YANG NEMENIN BANYAK| ANAK SEKOLAH (24/02/22)* Part 2",
+                "description": "Jolene itu gak cuma cantik, tapi juga baik banget sama temen-temennya! Pas Aci lagi piket pagi, Jolene datang bantuin. Pas Aci ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8AP_Q1A_X1w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8AP_Q1A_X1w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8AP_Q1A_X1w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TRANS7 OFFICIAL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-25T05:05:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RC3iXAidNFJk_Xl1Z6nOyMgeynI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5Orn5MrE5mk"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-02T06:29:40Z",
+                "channelId": "UCRhFIBCfP8_bsqamZrKwqcA",
+                "title": "Footstep Underbone di supra 125 Fi , Fungsi ok tampil kece",
+                "description": "Hallo Sobat Kancil pada vlog x ini saya akan mereview standart samping pada footstep underbone merk X road tersebut ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5Orn5MrE5mk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5Orn5MrE5mk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5Orn5MrE5mk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sobat Kancil",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-02T06:29:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7DPM3OJ2ZtTsgUWCUAIuNm4KQuA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9ZPIe9z4OQo"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-02T16:13:40Z",
+                "channelId": "UCahN3pWnwxUylitmj5U7JgQ",
+                "title": "This happens WAY TOO OFTEN 😤 #DBD #DeadByDaylight #Gaming",
+                "description": "LIVE: https://www.twitch.tv/77annu ▫ Discord: https://discord.gg/TWRUMdB ▫ Instagram: https://www.instagram.com/77annu PC ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9ZPIe9z4OQo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9ZPIe9z4OQo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9ZPIe9z4OQo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "77annu",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-02T16:13:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tx85oUAHmPT7rJaHEEjAYDIXKCw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FBwInLV1BSk"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-04T05:28:14Z",
+                "channelId": "UC1duZnCGSL8GGrMXdCe_VKQ",
+                "title": "Ini Umpan nya,,!! Mancing Ikan MAS Dan Tawes Liaran,,Di Jamin Cepat Ngumpul Ikan nya",
+                "description": "Assalamualaikum,,, Balik Lamongan Lagi Mas Bro Dengan Memakai Essen SILFIA FHIS Mancing Tumbro Lagi Bersama Channel ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FBwInLV1BSk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FBwInLV1BSk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FBwInLV1BSk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Asal Mancing",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-04T05:28:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9yFbL5jV3E8swtpAZ8cd9pbzeyQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AjZAb-d8ARw"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-03T06:39:18Z",
+                "channelId": "UCw1_7-ugBqQXu_BTI7d3woQ",
+                "title": "Cara Melakukan Turniquet Test | Tugas Praktikum | Mahasiswi STIK Muhammadiyah Pontianak",
+                "description": "Assalamualaikum Warohmahtullahi Wabarokatu, kali ini Duo Farras akan membagikan videonya Bunda kami yang sedang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AjZAb-d8ARw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AjZAb-d8ARw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AjZAb-d8ARw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Duo Farras",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-03T06:39:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "w54OyNjTOmm5nTQl-UZvjKPXpq4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w3V-bTytcl0"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-02T15:41:57Z",
+                "channelId": "UCs8DQfGfOWV8GylqrSDsndA",
+                "title": "Together take care of children&#39;s growth and development for a healthy, superior and tough generation",
+                "description": "ParentalGuidance #GoodLiaison . PROSPEROUS GENERATION Avoid Corruption /Sejahterahkan Generasi Hindari Korupsi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w3V-bTytcl0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w3V-bTytcl0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w3V-bTytcl0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "World Gold",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-02T15:41:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OQxash8xpvViNz-pf_BMUyror-E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i87-1I6ejXw"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-28T08:00:09Z",
+                "channelId": "UCNqNid2HtlwGueFmbva_J1Q",
+                "title": "&quot; 10 tikaman bertalu talu&quot; | PELAJAR MALAYSIA DI MESIR DIBUNUH DI RUMAH SEWA",
+                "description": "Pada tahun 2007, negara Malaysia digemparkan dengan satu tragedi pembunuhan seorang pelajar Malaysia dibunuh di Mesir.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i87-1I6ejXw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i87-1I6ejXw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i87-1I6ejXw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Detektif Mat Despatch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-28T08:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dqMdvVJeHBDT3BEkj_jfS-sYuGY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AeyHuV8nHz8"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-04T02:42:47Z",
+                "channelId": "UC2mABfdsftpjYL75OuvdtGg",
+                "title": "Ayo Cegah Demam Berdarah 💪🏻",
+                "description": "Pencegahan Demam Berdarah Dengue (DBD) dengan 3 M PLUS 1. MENGURAS BAK/ TEMPAT PENAMPUNGAN AIR SETIAP ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AeyHuV8nHz8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AeyHuV8nHz8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AeyHuV8nHz8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Puskesmas Wae Nakeng",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-04T02:42:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bKx7hnzVqY7rTF7NpOgwMYpHoOk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yH1U5LQnwFE"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-02T18:39:05Z",
+                "channelId": "UCJjyJ6qrUTJYEqI8KzPTUdw",
+                "title": "Pemberantasan Sarang Nyamuk Aides Aigepty",
+                "description": "Foggingisasi Pemberantasan sarang aides aigepty dan pencegahan wabah demam berdarah di lingkungan desa Tambaksumur ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yH1U5LQnwFE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yH1U5LQnwFE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yH1U5LQnwFE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PR NU Tambaksumur",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-02T18:39:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2a-dpurLv3UM84L-VOO_eE2lxFw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9LmtZ7OUKEQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-04T03:15:42Z",
+                "channelId": "UCdC-QTM6d2KkT9uIl1YPYMw",
+                "title": "RW.08 Pulogebang Jakarta Waspada DemamBerdarah AEDES AEGYPTI.#3M PLUS #SiapKomandan Haji RW. Bosque😊",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9LmtZ7OUKEQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9LmtZ7OUKEQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9LmtZ7OUKEQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HDW Channel +",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-04T03:15:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6M-AjKkvA0LFMghq6S0_bZmkii4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8na8KmhJap0"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-24T11:18:04Z",
+                "channelId": "UCoXwEsGojb9pQvr8Cphqrjw",
+                "title": "Cara Menyembuhkan Sakit Demam Berdarah",
+                "description": "Cara meningkatkan trombosit dengan cepat (pengalaman pribadi) Cara Mengobati emam Berdarah Meningkatkan Trombosit ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8na8KmhJap0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8na8KmhJap0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8na8KmhJap0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Arga Lubis",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-24T11:18:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1eBtVIrI6nZQETw3sFpcpGySX50",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VmKJp_qMD08"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-05T03:29:34Z",
+                "channelId": "UCyDF8bLKflMGNXkMtQdYNbQ",
+                "title": "Review Pemakaian Perangkap Nyamuk Portoti PR 25 MB",
+                "description": "Bagi masyarakat Indonesia yang tinggal di Iklim tropis, kehadiran nyambuk bisa sangat berbahaya karena penularan penyakit ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VmKJp_qMD08/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VmKJp_qMD08/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VmKJp_qMD08/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "By Thikama",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-05T03:29:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lRGraLOx4soReuUnaBlY8m7IMsE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ih2dhnggJWI"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-24T13:54:50Z",
+                "channelId": "UCLsbFCaKJaplfcmJgL1_pPA",
+                "title": "SEMBUH DARI DEMAM BERDARAH DALAM 3 HARI | TESTIMONI PRODUK SGF (Supergreen Food)",
+                "description": "Nama adik ipar saya ini adalah Miracle Maun, umur 12 tahun, sebelumnya sudah berada di rumah sakit selama 4 hari karena ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ih2dhnggJWI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ih2dhnggJWI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ih2dhnggJWI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rildy Aquinaldo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-24T13:54:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zZCT_tNAvQQ6aDBdNnTjBzg_fz0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e1gelHgU1R8"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-02T08:30:03Z",
+                "channelId": "UCG-bUNU1XgCqmEjyVcWuZpg",
+                "title": "ATASI &amp; TUNTASKAN DEMAM BERDARAH",
+                "description": "ATASI & TUNTASKAN DEMAM BERDARAH Demam berdarah dengue atau DBD merupakan penyakit mudah menular yang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e1gelHgU1R8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e1gelHgU1R8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e1gelHgU1R8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Imogen Testimoni Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-02T08:30:03Z"
+            }
+        }
+    ]
+}

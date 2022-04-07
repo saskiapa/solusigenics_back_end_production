@@ -1,0 +1,1713 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "xB_i-H_8bu9D02xnrRm9PoWZKd4",
+    "nextPageToken": "CMgBEAA",
+    "prevPageToken": "CJYBEAE",
+    "regionCode": "ID",
+    "pageInfo": {
+        "totalResults": 722175,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WQ3LaxCAD2kRmdt2XTY1aunDMqs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dB5rWKwU33Q"
+            },
+            "snippet": {
+                "publishedAt": "2020-08-10T02:57:12Z",
+                "channelId": "UCE-s2lYzEnMtVcUAhXs7t_Q",
+                "title": "Poster demam berdarah - Kelas 3 SD PL Don Bosko Semarang",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dB5rWKwU33Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dB5rWKwU33Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dB5rWKwU33Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "agatha wiwin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-08-10T02:57:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0I7yCfjeweX0QBQao9BJx8rTbOk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bMORMFpbJfc"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-26T03:26:34Z",
+                "channelId": "UCpFFn4el5mbpImx2BhmabjA",
+                "title": "Penanganan Demam Berdarah - dr. Yulia Suryakusuma, Sp.A",
+                "description": "Berbincang Bincang Tentang Penanganan Demam Berdarah Khusus nya Anak.. Cara Agar Anak Kita Terhindar dari DBD, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bMORMFpbJfc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bMORMFpbJfc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bMORMFpbJfc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Reza Agusta",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-26T03:26:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8oRhaRogqVJnzMm7gnEc0TYPPEY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DFPV7HvbKq8"
+            },
+            "snippet": {
+                "publishedAt": "2019-08-24T15:24:42Z",
+                "channelId": "UCLrPmtiW6Yok3IPE0I6LgHg",
+                "title": "PROGRAM INOVASI ELING MAMAH (EDUKASI KELILING DEMAM BERDARAH)",
+                "description": "Sahabat sehat Puskesmas Kedungwuni I, Demam berdarah dengue (DBD) adalah penyakit menular yang disebabkan oleh virus ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DFPV7HvbKq8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DFPV7HvbKq8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DFPV7HvbKq8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PUSKESMAS KEDUNGWUNI I",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-08-24T15:24:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "G1S01RKD8k1zZGJPF9cB1z1ujAM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8J0dBTTB2bs"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-23T11:08:20Z",
+                "channelId": "UCpUssg4IHaVGl90F_bTTdRA",
+                "title": "BAHAYA DEMAM BERDARAH - IKLAN LAYANAN MASYARAKAT",
+                "description": "Demam Berdarah, disebabkan oleh gigitan nyamuk Aedes Aegypt dan di video ini gua akan menjelaskan gimana cara ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8J0dBTTB2bs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8J0dBTTB2bs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8J0dBTTB2bs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rakara",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-02-23T11:08:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6LGAx2lIoP2Vl8r2Wf3qQyDRz2Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1DyRnV4PfLM"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-02T09:09:11Z",
+                "channelId": "UCkVg-GS_axSl0h9w7hwp03g",
+                "title": "Fakta Nyamuk Aedes Aegypti Penyebab Demam Berdarah, Menggigit Pagi dan Sore Hari",
+                "description": "TRIBUN-VIDEO.COM - Memasuki musim penghujan kerap muncul penyakit demam berdarah yang disebabkan oleh nyamuk ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1DyRnV4PfLM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1DyRnV4PfLM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1DyRnV4PfLM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribun Trends",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-02T09:09:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "magUzdgd9-uQMjM3Ci0IDuEnNaA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Dv-N7C-qXNQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-24T17:15:15Z",
+                "channelId": "UCuIQUsNyvrWiyweUUydENMw",
+                "title": "ANALISIS SPASIAL FAKTOR LINGKUNGAN DAN DISTRIBUSI KASUS  DEMAM BERDARAH DENGUE - KELOMPOK 2 STIK",
+                "description": "Kelompok 2 Raudhatul Hasanah. AF 1911212011 Dani Tirtajaya Pramana 1911211016 Rida Tartila 1911212048 Mezi Fransiska ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Dv-N7C-qXNQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Dv-N7C-qXNQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Dv-N7C-qXNQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hasnah AF",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-24T17:15:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jW9Lv_vsbTVOPlWIcu69-g1XvHg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d6judAmsUTY"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-30T09:29:02Z",
+                "channelId": "UCRdYHT_CbOiD-_MERYAUONA",
+                "title": "INOVASI MENARIK MAHASISWA KAMPUS UNGU CEGAH NYAMUK DEMAM BERDARAH DENGUE (DBD)",
+                "description": "Hai sahabat ICsadaTV ♥, kali ini kita akan share kegiatan dari mahasiswa kampus ungu STIKes ICsada Bojonegoro yang hari ini ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d6judAmsUTY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d6judAmsUTY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d6judAmsUTY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ICsada TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-30T09:29:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OOHNQHJN4REG_9dn7rB4Jrb_S3U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "F2FAPDyf1u4"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-18T10:46:46Z",
+                "channelId": "UC-oNOyciq4ulxHEGWTHK6nA",
+                "title": "Kapan Demam Berdarah harus dirawat?! #demamberdarahdengue #indikasirawat #edukasikesehatan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F2FAPDyf1u4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F2FAPDyf1u4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F2FAPDyf1u4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RS Cepat Waras",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-18T10:46:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vqEyuK404ZR46JB3oQtPMzbKA84",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uIopZpeOr40"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-17T14:08:22Z",
+                "channelId": "UCnitMRx4CNpxEbT9wvxpEzg",
+                "title": "KUPAS TUNTAS DEMAM BERDARAH DENGUE (DBD)",
+                "description": "Dr. Bayu Abhyoga, Sp.PD Dokter Spesialis Dalam RS MEDIKA MULYA WONOGIRI.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uIopZpeOr40/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uIopZpeOr40/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uIopZpeOr40/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "rgs wonogiri",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-17T14:08:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YUmF-XVWGT8w32_yw7A987jsOco",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tVZt_r6SSR8"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-19T06:17:06Z",
+                "channelId": "UCypJ8Xhh-2bUfkT9KYoltmA",
+                "title": "Pasien Demam Berdarah di Kudus Melonjak Drastis",
+                "description": "KUDUS, KOMPAS.TV - Lonjakan pasien demam berdarah (DBD) di Rumah Sakit Umum Aisyiyah Kabupaten Kudus mencapai 90 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tVZt_r6SSR8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tVZt_r6SSR8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tVZt_r6SSR8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV JATENG",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-19T06:17:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "urV-5tmzs2A1A8mfAoTgfbT4WJo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "205l-kbGHKM"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-19T06:36:03Z",
+                "channelId": "UCcs0m24z7hRa96zElzAjIgg",
+                "title": "Story Dokhay || Edukasi tentang Demam berdarah bersama Amat Janget",
+                "description": "vidio ini bermaksud untuk memberikan edukasi dan informasi terkait kesehatan masyarakat umum dan khususnya masyarakat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/205l-kbGHKM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/205l-kbGHKM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/205l-kbGHKM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dokhay Story",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-19T06:36:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JyVlNqATpUUpGsLpklOnGVLfFZU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_Q2JSos8T88"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-09T16:27:16Z",
+                "channelId": "UCGFfEyG_4yfr10gpM0ShhMg",
+                "title": "Demam berdarah lagu melayu sambas|| musik terbaru cover jeck",
+                "description": "Jangan lupa dukung dengan tekan like ✓ coment✓ dan subscribe yach.✓ Terima kasih kalian sudah mendukung. Semoga ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_Q2JSos8T88/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_Q2JSos8T88/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_Q2JSos8T88/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bajaler Offisial",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-09T16:27:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nxxGbDdXtKODOvtWid5dwDSg9w8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "x8Bn0DG5TLU"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-06T05:23:07Z",
+                "channelId": "UC2VbJuJDFg0FG08wMCQZX_g",
+                "title": "Waspada Demam Berdarah, Bun!",
+                "description": "Keberadaan nyamuk Aedes aegypti sungguh membahayakan Bun. Sekarang saatnya Bunda harus lebih sadar akan bahaya dari ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x8Bn0DG5TLU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x8Bn0DG5TLU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x8Bn0DG5TLU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Keluarga Cap Lang",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-06T05:23:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oo4QaylVBfosnBHPqUg2VOn2CgM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3xR8CuEuUpY"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-07T07:22:30Z",
+                "channelId": "UC9NgA0W5OQuvu4K7PDdEzlg",
+                "title": "Waspadai Kasus Demam Berdarah, ini Imbauan Bupati Ciamis",
+                "description": "beritaterkini #demamberdarah Bupati Ciamis Herdiat Sunarya: DBD Lebih Ganas daripada Virus Corona Untuk Mengantisipasi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3xR8CuEuUpY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3xR8CuEuUpY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3xR8CuEuUpY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Galuhnews TV Ch.",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-07T07:22:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ttERXGejmEuKpvjMtHX-7cZlwUo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ToLUFyWzpgQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-10T16:26:46Z",
+                "channelId": "UCpY6MV2-kgdJrKhdFnBzCoA",
+                "title": "Promosi Kesehatan|Demam Berdarah Dengue(DBD)",
+                "description": "Selamat menonton yah   semoga bermanfaat.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ToLUFyWzpgQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ToLUFyWzpgQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ToLUFyWzpgQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Catherine Angelina Bana",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-10T16:26:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "78itcL8w3lKwNeQmXoKfUXkaP1s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TwHiVFaaLZQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-23T11:24:34Z",
+                "channelId": "UClRzEFMaB98r-YGBa_myBVA",
+                "title": "Fogging nyamuk dbd // Penanggulangan penyebaran demam berdarah dengue",
+                "description": "fogging #foggingnyamukdbd #penyemprotannyamuk #surveilanschannel Fogging nyamuk dbd dalam rangka penanggulangan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TwHiVFaaLZQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TwHiVFaaLZQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TwHiVFaaLZQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SURVEILANS Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-23T11:24:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "O28laqePIP7wAnOYhOH_HvDrUKs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HZWxAHLfrqA"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-17T12:10:35Z",
+                "channelId": "UCSxrGS1chi7ttVbGMa1LDhQ",
+                "title": "Edukasi dan Terapi Komplementer Demam Berdarah Dengue pada Anak",
+                "description": "Video dari Esra friska 08200100015.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HZWxAHLfrqA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HZWxAHLfrqA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HZWxAHLfrqA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Esra Friska",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-17T12:10:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pi25fuzbBj0XfivaBxenqGqpPyw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "n3KvktN6Dok"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-18T11:54:18Z",
+                "channelId": "UCEeYDlg-H049zii3Cdx2bbw",
+                "title": "VIDEO EDUKASI DBD DEMAM BERDARAH DENGUE",
+                "description": "video edukasi dbd agar teman teman sekalian terhindar dan bisa melakukan upaya preventif dirumah dengan pemberantasan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n3KvktN6Dok/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n3KvktN6Dok/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n3KvktN6Dok/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Story Of Yoga",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-18T11:54:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4Bc0mLfeHl4mUKKgKYdQA8-5T5E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Tqft3D3roTU"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-19T07:35:45Z",
+                "channelId": "UCrokHwjRI63m7as2dn4Rd4w",
+                "title": "PONOROGO - Ponorogo Tertinggi Kedua Sejatim Kasus Demam Berdarah",
+                "description": "Jumlah pasien yang terjangkit demam berdarah di Kabupaten Ponorogo terus bertambah. Bahkan Kabupaten Ponorogo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Tqft3D3roTU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Tqft3D3roTU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Tqft3D3roTU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SAKTI TV MADIUN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-19T07:35:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gX0UPfNubSE5ZcnjJmUVdNgYa1w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X4FmFbj-G6k"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-31T01:19:58Z",
+                "channelId": "UCek3A_PvTZ6Sl1vb30COW2Q",
+                "title": "DUH, DEMAM BERDARAH...Yuk kenali dan bersama kita cegah DBD",
+                "description": "Layanan Kesehatan Keliling Online RS PKU Muhammadiyah Bantul, bersama dr. Alfia Rizqina Farrasita membahas tentang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X4FmFbj-G6k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X4FmFbj-G6k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X4FmFbj-G6k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PKU Bantul",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-31T01:19:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T3QyTsPRens7J9tOka26vhqO4C4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u80HcTlw2PQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-03T06:08:37Z",
+                "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+                "title": "Pemerintah Tetapkan Kejadian Luar Biasa DBD di Sumba Barat dan Kabupaten Ngada, Inilah Alasannya",
+                "description": "KUPANG, KOMPAS.TV - Pemerintah Kabupaten Sumba Barat Daya dan Kabupaten Ngada, Nusa Tenggara Timur tetapkan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u80HcTlw2PQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u80HcTlw2PQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u80HcTlw2PQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KOMPASTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-03T06:08:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RdQ-_w_NShCxXz8Qmz6AdLmuIDI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "65um5xjbIIE"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-01T06:14:27Z",
+                "channelId": "UC8SDJhIDagWGcliaaQMaXUw",
+                "title": "NGOPI BARENG DOKTER KIKI | KENALI 4 DERAJAT DEMAM BERDARAH",
+                "description": "Demam berdarah dengue atau DBD merupakan penyakit mudah menular yang berasal dari gigitan nyamuk Aedes aegypti dan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/65um5xjbIIE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/65um5xjbIIE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/65um5xjbIIE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jejak Kata",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-01T06:14:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wpc16lZchAT9uKWICo8eVeeXF4k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YSshfKdihYo"
+            },
+            "snippet": {
+                "publishedAt": "2021-04-28T03:41:53Z",
+                "channelId": "UCDNMVoh43WQjTXWIjwifh2g",
+                "title": "Sosialisasi Pencegahan DBD (Demam Berdarah Dengue) dengan 5M",
+                "description": "Saat sebagian besar hanya tertuju pada Pandemi COVID-19, dilain hal ada beberapa masalah kesehatan lainnya yang erat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YSshfKdihYo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YSshfKdihYo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YSshfKdihYo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Suryo Wildan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-04-28T03:41:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-6qGWBsJZ7b9htdD4u4IzE614bM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1EdliLTrgy0"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-24T16:24:06Z",
+                "channelId": "UCfboKQq4dALtqppKy9R4xMQ",
+                "title": "SEBERAPA BAHAYANYA-KAH DBD ( DEMAM BERDARAH DENGUE ) ?",
+                "description": "VIDEO MENJELASKAN TENTANG SEBERAPA BAHAYANYA-KAH DBD ( DEMAM BERDARAH DENGUE ) ? sebelum kita ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1EdliLTrgy0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1EdliLTrgy0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1EdliLTrgy0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Health_Disease 1 minutes",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-24T16:24:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2dhlPADhHRT4V9wzW6CH7i1Ct14",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aN6ddrfBa5k"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-06T00:35:45Z",
+                "channelId": "UCmPuWQf1mVLgJhxslEQ_Z_w",
+                "title": "ANCAMAN DEMAM BERDARAH DI MUSIM HUJAN | Kecil-Kecil BAHAYA | Episode 1 | Web Series",
+                "description": "Awas Demam Berdarah mengancam disaat musim hujan, untuk itu kita harus waspada jangan sampai lengah dengan virus yang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aN6ddrfBa5k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aN6ddrfBa5k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aN6ddrfBa5k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Iboy McHardy Film Director",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-06T00:35:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E6IgW6TfCx_DDcld4h3cdGt-dEw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1H0HkVJvwfo"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-19T23:01:35Z",
+                "channelId": "UCJ2Ixsy190bOSBsEr1cCYSA",
+                "title": "DEMAM BERDARAH DENGUE DI TENGAH PANDEMI COVID - 19",
+                "description": "DEMAM BERDARAH DENGUE DI TENGAH PANDEMI COVID - 19 19 FEBRUARI 2022 PEMBICARA: dr. Budi Siahaan, SpPD ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1H0HkVJvwfo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1H0HkVJvwfo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1H0HkVJvwfo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Indonesia Sehat TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-19T23:01:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4NyH0R3kKVw-bqi91s9Rtrd-A_M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2KQoLAiHEqU"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-23T14:02:36Z",
+                "channelId": "UCRck0HutNiIFxUCsk7QsFDQ",
+                "title": "Penjelasan ASKEP demam berdarah",
+                "description": "Video ini dibuat untuk memenuhi tugas MK Keperawatan Anak 1. Jangan Lupa Like, Comen, Share, Subscribe.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2KQoLAiHEqU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2KQoLAiHEqU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2KQoLAiHEqU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Evana Tinte",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-23T14:02:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Uay2wqzXyMsqyDBAwF2zSzXDehQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ItrnkufOd4M"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-20T13:57:25Z",
+                "channelId": "UCAbROAR0WJh-xunC0IKU36A",
+                "title": "menggambar poster dengan tema WASPADA DEMAM BERDARAH dari huruf DB",
+                "description": "Menggambar poster dengan tema DEMAM BERDARAH bertujuan untuk mengingatkan saat ini adalah musim penghujan jadi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ItrnkufOd4M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ItrnkufOd4M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ItrnkufOd4M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Galery belajar mudah",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-20T13:57:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CxdEtL3gsJ-w0alwkq_ryuKaDJI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s1-DHXB_9dU"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-18T06:38:03Z",
+                "channelId": "UCPhWauyGmombVZb5VRp4wLA",
+                "title": "Cimahi Antisipasi Demam Berdarah",
+                "description": "TRIBUNJABAR.ID -Kasus demam berdarah atau DBD di Kota Cimahi pada 2021 tercatat sudah dua orang warga yang terserang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s1-DHXB_9dU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s1-DHXB_9dU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s1-DHXB_9dU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "tribunjabar video",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-18T06:38:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "M0t9QGmClzPrWOgQW_P_7qGLDZE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w6eVSHUuRZ4"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-13T11:40:33Z",
+                "channelId": "UCW0yHTRd6zXGVZ4e6qWZoOg",
+                "title": "Kasus Demam berdarah di jepara awal tahun 2022",
+                "description": "demamberdarahdengue #dbd #jepara.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w6eVSHUuRZ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w6eVSHUuRZ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w6eVSHUuRZ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MEDIA TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-13T11:40:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hbCpog1Ph5JErg_m8jRu6Ev8kAc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NvLQq92TVTo"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-27T21:03:05Z",
+                "channelId": "UCg3dT_3UAIZYiHVwzdYvPyg",
+                "title": "🔴 KONTER: Demam Berdarah Dengue",
+                "description": "KONTER: Demam Berdarah Dengue POSBELITUNG.CO - Konter (Konsultasi Dokter) Bersama : dr. Gemeinial Tema : Bahaya ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NvLQq92TVTo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NvLQq92TVTo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NvLQq92TVTo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pos Belitung",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-27T21:03:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_SHo6Audv-0xOH-TmnDLS3meERQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "scNSZXn5L6k"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-04T14:28:33Z",
+                "channelId": "UCwlQzzJO2X_36kEPo-qsQtA",
+                "title": "Menggambar #poster Tema Cara Mencegah Demam Berdarah",
+                "description": "Hai semua   Video kali ini kita menggambar ReQuest poster tema Mencegah Demam Berdarah,semoga menghibur dan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/scNSZXn5L6k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/scNSZXn5L6k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/scNSZXn5L6k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Drawing K.U",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-04T14:28:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "b80-aMC4ylxA1hNNoQRnSDXXQKM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cwPt9s644mE"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-01T01:15:00Z",
+                "channelId": "UC1XSRriezwQTzJuibrLYhTw",
+                "title": "NAH LO❗️PARA DOKTER BUAT PETISI&#39;&#39;ANCAMAN DEMAM BERDARAH AKIBAT SUMUR RESAPAN ANIS&#39;&#39;❗️NAHKAN GAGUNA❗️",
+                "description": "JUDUL :Para Dokter Ingatin Sumur Resapan Bisa Sebabkan Demam Berdarah, Apakah Anies akan Abaikan? PENULIS :Widodo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cwPt9s644mE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cwPt9s644mE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cwPt9s644mE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MANUVER POLITIK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-01T01:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E2kPx5IyxLfUyb3yVb9ffjZnGe8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u4nwme9XMCs"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-26T01:51:03Z",
+                "channelId": "UC0sE4iN0LlYjnm1s84UkmaQ",
+                "title": "Promosi kesehatan Demam Berdarah Dengue",
+                "description": "Haii Sahabat AKJP2, nah berikut adalah Promosi Kesehatan mengenai demam berdarah Dengue #akjp2pekanbaru #ayokuliah ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u4nwme9XMCs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u4nwme9XMCs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u4nwme9XMCs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "John Paul II Pekanbaru",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-26T01:51:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JMl5wlSAVkhC8y2MfpEBlo5c2jY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "owh93OnWbLo"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-28T12:54:43Z",
+                "channelId": "UCX1jfsJfSOhuqHnTZ_m-6bQ",
+                "title": "JUS YANG MAMPU MENGOBATI SAKIT DEMAM BERDARAH &quot;GUAVA JUICE/ JUS JAMBU KRYSTAL&quot;",
+                "description": "juicewrld #juice #juspenangkaldemamberdarah #vitaminc #vitamin.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/owh93OnWbLo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/owh93OnWbLo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/owh93OnWbLo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fitri cooking daily's",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-28T12:54:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c5Uw7NmqKbF1-ZixV5YCtuJmD3c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d6cD1emcrcg"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-07T14:20:53Z",
+                "channelId": "UCCRT3pqs-RvRwR_rURWmrgg",
+                "title": "KENALI TANDA² BAHAYA DEMAM BERDARAH DENGUE PADA ANAK @dr.vivi,spa #demamberdarahdengue",
+                "description": "Penyakit yang seringkali muncul pada musim hujan yaitu DBD.... tetap waspada dan jangan lengah dengan penyakit yang ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d6cD1emcrcg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d6cD1emcrcg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d6cD1emcrcg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "dr. Vivi, SpA",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-07T14:20:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4XauvU715LlsTK3vIWWsmW0kLDQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tAgVbJJHukQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-02T10:29:27Z",
+                "channelId": "UCkVg-GS_axSl0h9w7hwp03g",
+                "title": "Kapan Penderita Demam Berdarah Harus Dibawa ke Rumah Sakit? Ini Penjelasan dr Tan Shot Yen",
+                "description": "TRIBUN-VIDEO.COM - Dokter, Filsuf, Ahli Gizi Komunitas, dr Tan Shot Yen menjelaskan tentang waktu yang tepat bagi orang tua ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tAgVbJJHukQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tAgVbJJHukQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tAgVbJJHukQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tribun Trends",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-02T10:29:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Z-lwvflbbTHL3LWZJW51RbwgpLU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "54CrnK2W8FA"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-07T18:42:58Z",
+                "channelId": "UCmPuWQf1mVLgJhxslEQ_Z_w",
+                "title": "DEMAM BERDARAH MENGANCAM DI MUSIM HUJAN | Kecil-Kecil BAHAYA | Episode 2 | Web Series",
+                "description": "Efek musim hujan yang membahayakan adalah Wabah Demam Berdarah, wabah ini dapat kita hindari dengan cara menegakkan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/54CrnK2W8FA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/54CrnK2W8FA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/54CrnK2W8FA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Iboy McHardy Film Director",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-07T18:42:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FA0o9p8Z_BozFC9dzTYBoZ8fcaU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4v6TauR6VrE"
+            },
+            "snippet": {
+                "publishedAt": "2021-11-11T13:55:38Z",
+                "channelId": "UCSqjEdZRnFiaL1xwF8NWQQA",
+                "title": "ANCAMAN DEMAM BERDARAH DENGUE INTAI WARGA BOGOR",
+                "description": "dbdkotabogor #rsudkotabogor #bogortoday #pemkotbogor #dinkeskotabogor #demamberdarahdengue.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4v6TauR6VrE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4v6TauR6VrE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4v6TauR6VrE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bogor Today",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-11T13:55:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xqydK6_znGp453WxXTGias__hHI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4-zheGBfEfg"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-25T12:13:03Z",
+                "channelId": "UCIDu62xtQdRIUg5NFbYbC8Q",
+                "title": "Penyuluhan DBD (Demam berdarah dengue)",
+                "description": "Nim : 2130021071 Nama : pancarani wulandari universitas Nahdlatul Ulama Surabaya Prodi : S1 kesehatan masyarakat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4-zheGBfEfg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4-zheGBfEfg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4-zheGBfEfg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PANCARANI WULANDARI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-25T12:13:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UMefuMyxmbtsVMQUWANmqwaR3Vc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jLoa5NqoG3A"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-05T10:50:26Z",
+                "channelId": "UCX1JYSe_mQk-be9r98pSWQA",
+                "title": "Pasien Demam Berdarah Di Kabupaten Madiun Meningkat",
+                "description": "MADIUN, KOMPAS.TV - Pasien demam berdarah di RSUD Caruban Kabupaten Madiun, Jawa Timur mengalami peningkatan.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jLoa5NqoG3A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jLoa5NqoG3A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jLoa5NqoG3A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kompas TV Madiun",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-05T10:50:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rpciYRMpIxES2u_slTHstmBx2Bk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yzreVEP42XI"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-19T23:45:32Z",
+                "channelId": "UCf7UcH1sTbqfdb0TvDY7COA",
+                "title": "Saat Demam Berdarah harus sering minum, tapi seringkali mual muntah_ dr Arlini",
+                "description": "Demam berdarah dengue atau DBD merupakan penyakit mudah menular yang berasal dari gigitan nyamuk Aedes aegypti dan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yzreVEP42XI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yzreVEP42XI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yzreVEP42XI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ruang dr Arlini",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-19T23:45:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qxT83D_GFx1JBQFD24B9BhvgpfI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HS8n0IdwYIg"
+            },
+            "snippet": {
+                "publishedAt": "2019-04-30T06:50:05Z",
+                "channelId": "UCU4wF8U7GRdCfVesAV2pS1w",
+                "title": "Obat Demam Berdarah - Bahan-bahan Alami Paling Ampuh Meningkatkan Trombosit",
+                "description": "Obat Demam Berdarah - Bahan-bahan Alami Paling Ampuh Meningkatkan Trombosit Assalamuallaikum berjumpa lagi dengan ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HS8n0IdwYIg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HS8n0IdwYIg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HS8n0IdwYIg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "dr. Intan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-04-30T06:50:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Gg3SuVx1FWWBaWi_vP4zna_2opU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jh2Rkh9oBGw"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-20T09:31:00Z",
+                "channelId": "UCi0fnIVHz2sXqIcOUy58iCg",
+                "title": "Nyamuk Nakal (Demam Berdarah) | Lagu Anak Terpopuler",
+                "description": "Nyamuk Nakal (Demam Berdarah) | Lagu Anak Terpopuler Berlangganan Gratis = http://bit.ly/KlikBerlanggananGratis Cipt : Kak ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jh2Rkh9oBGw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jh2Rkh9oBGw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jh2Rkh9oBGw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Video Edukasi Lagu Dan Bermain Anak Indonesia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-06-20T09:31:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4mP1SdPkF9EFydJbZOAOz5goMSI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QA9Jtcn32kQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-15T13:20:56Z",
+                "channelId": "UC-T7ktAVFafO4A3oriA7PGw",
+                "title": "Cara Mencegah Demam Berdarah pada Anak",
+                "description": "Hello Parents! Salah satu tantangan dan tugas orang tua adalah melindungi anak dari ancaman infeksi penyakit. Nah demam ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QA9Jtcn32kQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QA9Jtcn32kQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QA9Jtcn32kQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dunia Parenting",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-15T13:20:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "o3W60xyqEluBTVGgMdSnwyaglFA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sK5-Uel1sl4"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-08T03:12:06Z",
+                "channelId": "UC4ZMoN3iq5qRtZ368T9CyHw",
+                "title": "VIDEO EDUKASI DBD (DEMAM BERDARAH DENGUE) _ DINAS KESEHATAN KAB. KLATEN 2020",
+                "description": "Dinas Kesehatan Kabupaten Klaten berkolaborasi dengan (dr. Ani Isti, Sp.A, M.Kes / Dokter Spesialis Anak) memberikan edukasi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sK5-Uel1sl4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sK5-Uel1sl4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sK5-Uel1sl4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Onepeckerstudio",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-08T03:12:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tQzjEWwUBRf5mO13gDIauHBl4Ag",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SF-qq3viZY0"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-06T04:49:40Z",
+                "channelId": "UCOuwLct59ZOFrwhDIY6tVxw",
+                "title": "Waspada! Demam Berdarah Mulai Menyerang, Sebulan Ada 43 Kasus",
+                "description": "JEMBER, KOMPAS.TV - Penyakit demam berdarah mulai menyerang kawasan perkotaan dan pedesaan di Kabupaten Jember ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SF-qq3viZY0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SF-qq3viZY0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SF-qq3viZY0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KompasTV Jember",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-06T04:49:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KX_bVjIi153nN2_Z45UemYvJnmw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8cGamVgTmhY"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-28T04:05:00Z",
+                "channelId": "UC4rVzULZSOCUROlRQQfvoZA",
+                "title": "Kegiatan Fogging Pemberantasan Nyamuk DBD Demam Berdarah 3M+ di Kampung Tuwowo",
+                "description": "SUSCRIBE DEWAN YULA https://www.youtube.com/channel/UCntpyhh7n4SPjKuuqqjkh6Q @febriantomm1 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8cGamVgTmhY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8cGamVgTmhY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8cGamVgTmhY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dewan Yula Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-28T04:05:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Twg3m19YCAw2X4fZL5IVuiK_P7E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "daSjVkybsaQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-09T16:38:33Z",
+                "channelId": "UCkV0iKompAO4IGSWrgvf1xg",
+                "title": "Demam Berdarah Dengue",
+                "description": "Pengyluhan terkait demam berdarah dengue, perihal penyebab resiko, gejala yang perlu diwaspadai dan langkah pencegahan.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/daSjVkybsaQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/daSjVkybsaQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/daSjVkybsaQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "aisya sumayyah",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-09T16:38:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DPwa-hgF3lVsv6OB4cl6mWmBat0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WC5MJzvqtUg"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-26T10:15:10Z",
+                "channelId": "UC1Zcd_msqagx-38jnOwHwng",
+                "title": "WASPADA DEMAM BERDARAH!!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WC5MJzvqtUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WC5MJzvqtUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WC5MJzvqtUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tanggamus Vision Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-26T10:15:10Z"
+            }
+        }
+    ]
+}

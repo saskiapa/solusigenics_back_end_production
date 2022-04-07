@@ -1,0 +1,2376 @@
+{
+    "total": 5,
+    "page": 1,
+    "per_page": 25,
+    "paging": {
+        "next": null,
+        "previous": null,
+        "first": "/videos?client_id=4fb4f63fdde29900061514b3f809b6b951db7b54&client_secret=RhftNCV5BIuatbfPHxMN8aXbH8dfTrJ8GKj%2FZcHVTtt6lk9nsQM9DCU%20pewtu9pXLIwFG%205OyfTTxj70PsygKIMRsRnhIUdES%20mMB2lnCsj9qXTwwf1lzqQjmyydxS%2Fv&query=penyakit%20covid&page=1",
+        "last": "/videos?client_id=4fb4f63fdde29900061514b3f809b6b951db7b54&client_secret=RhftNCV5BIuatbfPHxMN8aXbH8dfTrJ8GKj%2FZcHVTtt6lk9nsQM9DCU%20pewtu9pXLIwFG%205OyfTTxj70PsygKIMRsRnhIUdES%20mMB2lnCsj9qXTwwf1lzqQjmyydxS%2Fv&query=penyakit%20covid&page=1"
+    },
+    "data": [
+        {
+            "uri": "/videos/512851194",
+            "name": "Epigallo, Kandungan Alami Teh Yang Diteliti Mampu Kurangi Resiko Covid-19",
+            "description": "Epigallo (EGCG) merupakan kelompok zat antioksidan yang masuk dalam golongan besar polifenol, Epigallo (EGCG) memberikan efek positif untuk kesehatan karena memiliki kekuatan antioksidan. Dengan adanya kekuatan antioksidan tersebut, katekin seperti Epigallo (EGCG) mampu mengendalikan radikal bebas yang sering terbentuk di dalam tubuh. Radikal bebas yang berlebih dapat memicu stres oksidatif dan dapat berujung pada kerusakan sel dan penyakit kronis.",
+            "type": "video",
+            "link": "https://vimeo.com/512851194",
+            "player_embed_url": "https://player.vimeo.com/video/512851194?h=af35090b53",
+            "duration": 93,
+            "width": 480,
+            "language": "id",
+            "height": 272,
+            "embed": {
+                "html": "<iframe src=\"https://player.vimeo.com/video/512851194?h=af35090b53&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=239169\" width=\"480\" height=\"272\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"Epigallo, Kandungan Alami Teh Yang Diteliti Mampu Kurangi Resiko Covid-19\"></iframe>",
+                "badges": {
+                    "hdr": false,
+                    "live": {
+                        "streaming": false,
+                        "archived": false
+                    },
+                    "staff_pick": {
+                        "normal": false,
+                        "best_of_the_month": false,
+                        "best_of_the_year": false,
+                        "premiere": false
+                    },
+                    "vod": false,
+                    "weekend_challenge": false
+                }
+            },
+            "created_time": "2021-02-16T09:02:15+00:00",
+            "modified_time": "2021-02-16T09:03:50+00:00",
+            "release_time": "2021-02-16T09:02:15+00:00",
+            "content_rating": [
+                "safe"
+            ],
+            "content_rating_class": "safe",
+            "rating_mod_locked": false,
+            "license": null,
+            "privacy": {
+                "view": "anybody",
+                "embed": "public",
+                "download": false,
+                "add": true,
+                "comments": "anybody"
+            },
+            "pictures": {
+                "uri": "/videos/512851194/pictures/1061893608",
+                "active": true,
+                "type": "custom",
+                "base_link": "https://i.vimeocdn.com/video/1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d",
+                "sizes": [
+                    {
+                        "width": 100,
+                        "height": 75,
+                        "link": "https://i.vimeocdn.com/video/1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_100x75?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_100x75&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 200,
+                        "height": 150,
+                        "link": "https://i.vimeocdn.com/video/1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_200x150?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_200x150&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 295,
+                        "height": 166,
+                        "link": "https://i.vimeocdn.com/video/1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_295x166?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_295x166&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 640,
+                        "height": 360,
+                        "link": "https://i.vimeocdn.com/video/1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_640x360?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_640x360&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 960,
+                        "height": 540,
+                        "link": "https://i.vimeocdn.com/video/1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_960x540?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_960x540&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 1280,
+                        "height": 720,
+                        "link": "https://i.vimeocdn.com/video/1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_1280x720?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_1280x720&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "link": "https://i.vimeocdn.com/video/1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_1920x1080?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1061893608-f52f4e6f36c917ae6badfd08a9cb3b7be82cf17b6cb8d0b938969170f29123af-d_1920x1080&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    }
+                ],
+                "resource_key": "f309704eae7cd978f6b11d9df6c083362406aa82",
+                "default_picture": false
+            },
+            "tags": [
+                {
+                    "uri": "/tags/tahhijau",
+                    "name": "tah hijau",
+                    "tag": "tah hijau",
+                    "canonical": "tahhijau",
+                    "metadata": {
+                        "connections": {
+                            "videos": {
+                                "uri": "/tags/tahhijau/videos",
+                                "options": [
+                                    "GET"
+                                ],
+                                "total": 1
+                            }
+                        }
+                    },
+                    "resource_key": "0530cf6a3bcb5c6cacd134cdc43b66c7151957d5"
+                },
+                {
+                    "uri": "/tags/vipro-g",
+                    "name": "vipro-g",
+                    "tag": "vipro-g",
+                    "canonical": "vipro-g",
+                    "metadata": {
+                        "connections": {
+                            "videos": {
+                                "uri": "/tags/vipro-g/videos",
+                                "options": [
+                                    "GET"
+                                ],
+                                "total": 1
+                            }
+                        }
+                    },
+                    "resource_key": "b74af5def720bcc5f9828b9cfe6cf255ce175e66"
+                },
+                {
+                    "uri": "/tags/epigallo",
+                    "name": "epigallo",
+                    "tag": "epigallo",
+                    "canonical": "epigallo",
+                    "metadata": {
+                        "connections": {
+                            "videos": {
+                                "uri": "/tags/epigallo/videos",
+                                "options": [
+                                    "GET"
+                                ],
+                                "total": 1
+                            }
+                        }
+                    },
+                    "resource_key": "f95021e3992dbf89468915ab7f01af70553e331e"
+                },
+                {
+                    "uri": "/tags/corona",
+                    "name": "corona",
+                    "tag": "corona",
+                    "canonical": "corona",
+                    "metadata": {
+                        "connections": {
+                            "videos": {
+                                "uri": "/tags/corona/videos",
+                                "options": [
+                                    "GET"
+                                ],
+                                "total": 14908
+                            }
+                        }
+                    },
+                    "resource_key": "72d974b94d7db598695600f46880cb7cf47606c0"
+                },
+                {
+                    "uri": "/tags/korona",
+                    "name": "korona",
+                    "tag": "korona",
+                    "canonical": "korona",
+                    "metadata": {
+                        "connections": {
+                            "videos": {
+                                "uri": "/tags/korona/videos",
+                                "options": [
+                                    "GET"
+                                ],
+                                "total": 474
+                            }
+                        }
+                    },
+                    "resource_key": "0304fa2dbebdbc373cf341e6e3c81917475081a9"
+                },
+                {
+                    "uri": "/tags/covid",
+                    "name": "covid",
+                    "tag": "covid",
+                    "canonical": "covid",
+                    "metadata": {
+                        "connections": {
+                            "videos": {
+                                "uri": "/tags/covid/videos",
+                                "options": [
+                                    "GET"
+                                ],
+                                "total": 14185
+                            }
+                        }
+                    },
+                    "resource_key": "c56c52521297d1825d13cd6ece8cb89d7ab78ed5"
+                },
+                {
+                    "uri": "/tags/egcg",
+                    "name": "egcg",
+                    "tag": "egcg",
+                    "canonical": "egcg",
+                    "metadata": {
+                        "connections": {
+                            "videos": {
+                                "uri": "/tags/egcg/videos",
+                                "options": [
+                                    "GET"
+                                ],
+                                "total": 12
+                            }
+                        }
+                    },
+                    "resource_key": "4bbaba05f3d71e1ee3a9a6b8594a1c99a370ce2d"
+                }
+            ],
+            "stats": {
+                "plays": null
+            },
+            "categories": [],
+            "uploader": {
+                "pictures": {
+                    "uri": null,
+                    "active": false,
+                    "type": "default",
+                    "base_link": "https://i.vimeocdn.com/portrait/defaults-blue",
+                    "sizes": [
+                        {
+                            "width": 30,
+                            "height": 30,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_30x30"
+                        },
+                        {
+                            "width": 72,
+                            "height": 72,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_72x72"
+                        },
+                        {
+                            "width": 75,
+                            "height": 75,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_75x75"
+                        },
+                        {
+                            "width": 100,
+                            "height": 100,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_100x100"
+                        },
+                        {
+                            "width": 144,
+                            "height": 144,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_144x144"
+                        },
+                        {
+                            "width": 216,
+                            "height": 216,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_216x216"
+                        },
+                        {
+                            "width": 288,
+                            "height": 288,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_288x288"
+                        },
+                        {
+                            "width": 300,
+                            "height": 300,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_300x300"
+                        },
+                        {
+                            "width": 360,
+                            "height": 360,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_360x360"
+                        }
+                    ],
+                    "resource_key": "06cd312fcc3908e2d839aeb00ccaaf434acb0859",
+                    "default_picture": true
+                }
+            },
+            "metadata": {
+                "connections": {
+                    "comments": {
+                        "uri": "/videos/512851194/comments",
+                        "options": [
+                            "GET"
+                        ],
+                        "total": 0
+                    },
+                    "credits": {
+                        "uri": "/videos/512851194/credits",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 0
+                    },
+                    "likes": {
+                        "uri": "/videos/512851194/likes",
+                        "options": [
+                            "GET"
+                        ],
+                        "total": 0
+                    },
+                    "pictures": {
+                        "uri": "/videos/512851194/pictures",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 1
+                    },
+                    "texttracks": {
+                        "uri": "/videos/512851194/texttracks",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 0
+                    },
+                    "related": {
+                        "uri": "/videos?client_id=4fb4f63fdde29900061514b3f809b6b951db7b54&client_secret=RhftNCV5BIuatbfPHxMN8aXbH8dfTrJ8GKj/ZcHVTtt6lk9nsQM9DCU pewtu9pXLIwFG 5OyfTTxj70PsygKIMRsRnhIUdES mMB2lnCsj9qXTwwf1lzqQjmyydxS/v&query=penyakit covid&offset=1",
+                        "options": [
+                            "GET"
+                        ]
+                    },
+                    "recommendations": {
+                        "uri": "/videos/512851194/recommendations",
+                        "options": [
+                            "GET"
+                        ]
+                    }
+                },
+                "interactions": {
+                    "report": {
+                        "uri": "/videos/512851194/report",
+                        "options": [
+                            "POST"
+                        ],
+                        "reason": [
+                            "pornographic",
+                            "harassment",
+                            "ripoff",
+                            "incorrect rating",
+                            "spam",
+                            "causes harm",
+                            "csam"
+                        ]
+                    }
+                },
+                "is_vimeo_create": false,
+                "is_screen_record": false
+            },
+            "user": {
+                "uri": "/users/133786307",
+                "name": "Bayu",
+                "link": "https://vimeo.com/user133786307",
+                "capabilities": {
+                    "hasLiveSubscription": false,
+                    "hasEnterpriseLihp": false,
+                    "hasSvvTimecodedComments": false
+                },
+                "location": "",
+                "gender": "",
+                "bio": null,
+                "short_bio": null,
+                "created_time": "2021-02-16T09:00:53+00:00",
+                "pictures": {
+                    "uri": null,
+                    "active": false,
+                    "type": "default",
+                    "base_link": "https://i.vimeocdn.com/portrait/defaults-blue",
+                    "sizes": [
+                        {
+                            "width": 30,
+                            "height": 30,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_30x30"
+                        },
+                        {
+                            "width": 72,
+                            "height": 72,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_72x72"
+                        },
+                        {
+                            "width": 75,
+                            "height": 75,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_75x75"
+                        },
+                        {
+                            "width": 100,
+                            "height": 100,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_100x100"
+                        },
+                        {
+                            "width": 144,
+                            "height": 144,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_144x144"
+                        },
+                        {
+                            "width": 216,
+                            "height": 216,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_216x216"
+                        },
+                        {
+                            "width": 288,
+                            "height": 288,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_288x288"
+                        },
+                        {
+                            "width": 300,
+                            "height": 300,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_300x300"
+                        },
+                        {
+                            "width": 360,
+                            "height": 360,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_360x360"
+                        }
+                    ],
+                    "resource_key": "06cd312fcc3908e2d839aeb00ccaaf434acb0859",
+                    "default_picture": true
+                },
+                "websites": [],
+                "metadata": {
+                    "connections": {
+                        "albums": {
+                            "uri": "/users/133786307/albums",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "appearances": {
+                            "uri": "/users/133786307/appearances",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "channels": {
+                            "uri": "/users/133786307/channels",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "feed": {
+                            "uri": "/users/133786307/feed",
+                            "options": [
+                                "GET"
+                            ]
+                        },
+                        "followers": {
+                            "uri": "/users/133786307/followers",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "following": {
+                            "uri": "/users/133786307/following",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "groups": {
+                            "uri": "/users/133786307/groups",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "likes": {
+                            "uri": "/users/133786307/likes",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "membership": {
+                            "uri": "/users/133786307/membership/",
+                            "options": [
+                                "PATCH"
+                            ]
+                        },
+                        "moderated_channels": {
+                            "uri": "/users/133786307/channels?filter=moderated",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "portfolios": {
+                            "uri": "/users/133786307/portfolios",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "videos": {
+                            "uri": "/users/133786307/videos",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 1
+                        },
+                        "shared": {
+                            "uri": "/users/133786307/shared/videos",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "pictures": {
+                            "uri": "/users/133786307/pictures",
+                            "options": [
+                                "GET",
+                                "POST"
+                            ],
+                            "total": 0
+                        },
+                        "folders_root": {
+                            "uri": "/users/133786307/folders/root",
+                            "options": [
+                                "GET"
+                            ]
+                        },
+                        "teams": {
+                            "uri": "/users/133786307/teams",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 1
+                        }
+                    }
+                },
+                "location_details": {
+                    "formatted_address": "",
+                    "latitude": null,
+                    "longitude": null,
+                    "city": null,
+                    "state": null,
+                    "neighborhood": null,
+                    "sub_locality": null,
+                    "state_iso_code": null,
+                    "country": null,
+                    "country_iso_code": null
+                },
+                "skills": [],
+                "available_for_hire": false,
+                "can_work_remotely": false,
+                "resource_key": "97b397f941403b6d0a364cda47630e38e6911491",
+                "account": "basic"
+            },
+            "app": {
+                "name": "Parallel Uploader",
+                "uri": "/apps/87099"
+            },
+            "status": "available",
+            "resource_key": "01b4052bfa96357734ba32a821a7a0bc375b3a5f",
+            "upload": null,
+            "transcode": null,
+            "is_playable": true,
+            "has_audio": true
+        },
+        {
+            "uri": "/videos/546763677",
+            "name": "Program Engagement Bersama MTC dan Penyampaian Bantuan Kepada Pemandu Bas Persiaran Yang Terkesan Teruk Akibat Covid19",
+            "description": "SIARAN MEDIA \nBANTUAN KEPADA PEMANDU BAS PELANCONGAN MENERUSI INISIATIF MAJLIS PELANCONGAN MALAYSIA\n\nKUALA LUMPUR : Sebagaimana yang kita ketahui , penggiat industri pelancongan amat terkesan dengan pandemik covid 19. Ada yang terpaksa menanggung beban yang berat dan mencari punca rezeki yang lain demi sesuap nasi utk keluarga mereka . Lebih sedih jika penggiat industri ini mengalami penyakit kronik seperti jantung dan buah pinggang.\nJusteru , Malaysia Tourism Council ( MTC) telah melancarkan Konsert Amal bagi mengumpul dana untuk membantu golongan yang kurang bernasib baik .\n“Antara segmen pekerja yang komited dalam sektor pelancongan ini ada pemandu bas pelancongan. Justeru MTC terpanggil untuk membantu apa yang boleh bagi memastikan pemandu bas ini juga terbela. Jasa dan bakti mereka dalam menjayakan aspirasi pelancongan negara tidak harus dipinggirkan,” kata Uzaidi Udanis, Presiden Majlis Pelancongan Malaysia.\nMenurut Uzaidi Udanis, Presiden Majis Pelancongan Malaysia Lebih 20 ribu penonton telah mengikuti konsert tersebut menerusi acara tersebut.  “ Kita telah berjaya mengumpul lebih RM30,000 menerusi acara tersebut dan semua sumbangan tersebut akan diagihkan kepada 100 pemandu bas pelancong yang terjejas.  Konsert secara online tersebut telah diadakan pada 30 April 2021  menerusi  platform Malaysia Virtual Experience yang dibangunkan oleh Malaysia Productiviti Corporation. Antara artis-artis yang terlibat menjayakan program konsert secara online tersebut ialah Zhuang Xue Zhong, Angeline Teoh dan Chong Sau Lin.",
+            "type": "video",
+            "link": "https://vimeo.com/546763677",
+            "player_embed_url": "https://player.vimeo.com/video/546763677?h=1a417ad5c8",
+            "duration": 4087,
+            "width": 1280,
+            "language": null,
+            "height": 720,
+            "embed": {
+                "html": "<iframe src=\"https://player.vimeo.com/video/546763677?h=1a417ad5c8&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=239169\" width=\"1280\" height=\"720\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"Program Engagement Bersama MTC dan Penyampaian Bantuan Kepada Pemandu Bas Persiaran Yang Terkesan Teruk Akibat Covid19\"></iframe>",
+                "badges": {
+                    "hdr": false,
+                    "live": {
+                        "streaming": false,
+                        "archived": false
+                    },
+                    "staff_pick": {
+                        "normal": false,
+                        "best_of_the_month": false,
+                        "best_of_the_year": false,
+                        "premiere": false
+                    },
+                    "vod": false,
+                    "weekend_challenge": false
+                }
+            },
+            "created_time": "2021-05-08T03:18:10+00:00",
+            "modified_time": "2021-10-23T06:26:20+00:00",
+            "release_time": "2021-05-08T03:18:10+00:00",
+            "content_rating": [
+                "unrated"
+            ],
+            "content_rating_class": "unrated",
+            "rating_mod_locked": false,
+            "license": null,
+            "privacy": {
+                "view": "anybody",
+                "embed": "public",
+                "download": true,
+                "add": true,
+                "comments": "anybody"
+            },
+            "pictures": {
+                "uri": "/videos/546763677/pictures/1131814415",
+                "active": true,
+                "type": "custom",
+                "base_link": "https://i.vimeocdn.com/video/1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d",
+                "sizes": [
+                    {
+                        "width": 100,
+                        "height": 75,
+                        "link": "https://i.vimeocdn.com/video/1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_100x75?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_100x75&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 200,
+                        "height": 150,
+                        "link": "https://i.vimeocdn.com/video/1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_200x150?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_200x150&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 295,
+                        "height": 166,
+                        "link": "https://i.vimeocdn.com/video/1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_295x166?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_295x166&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 640,
+                        "height": 360,
+                        "link": "https://i.vimeocdn.com/video/1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_640x360?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_640x360&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 960,
+                        "height": 540,
+                        "link": "https://i.vimeocdn.com/video/1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_960x540?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_960x540&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 1280,
+                        "height": 720,
+                        "link": "https://i.vimeocdn.com/video/1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_1280x720?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_1280x720&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "link": "https://i.vimeocdn.com/video/1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_1920x1080?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1131814415-5506909e3554839ea56a2154b24ad43716ef9b24a21af39ff8771307b36f84d0-d_1920x1080&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    }
+                ],
+                "resource_key": "2664ca7e75df6407a88a3f3b8cb7f00f054d6616",
+                "default_picture": false
+            },
+            "tags": [],
+            "stats": {
+                "plays": null
+            },
+            "categories": [],
+            "uploader": {
+                "pictures": {
+                    "uri": null,
+                    "active": false,
+                    "type": "default",
+                    "base_link": "https://i.vimeocdn.com/portrait/defaults-blue",
+                    "sizes": [
+                        {
+                            "width": 30,
+                            "height": 30,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_30x30"
+                        },
+                        {
+                            "width": 72,
+                            "height": 72,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_72x72"
+                        },
+                        {
+                            "width": 75,
+                            "height": 75,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_75x75"
+                        },
+                        {
+                            "width": 100,
+                            "height": 100,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_100x100"
+                        },
+                        {
+                            "width": 144,
+                            "height": 144,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_144x144"
+                        },
+                        {
+                            "width": 216,
+                            "height": 216,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_216x216"
+                        },
+                        {
+                            "width": 288,
+                            "height": 288,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_288x288"
+                        },
+                        {
+                            "width": 300,
+                            "height": 300,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_300x300"
+                        },
+                        {
+                            "width": 360,
+                            "height": 360,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_360x360"
+                        }
+                    ],
+                    "resource_key": "06cd312fcc3908e2d839aeb00ccaaf434acb0859",
+                    "default_picture": true
+                }
+            },
+            "metadata": {
+                "connections": {
+                    "comments": {
+                        "uri": "/videos/546763677/comments",
+                        "options": [
+                            "GET"
+                        ],
+                        "total": 0
+                    },
+                    "credits": {
+                        "uri": "/videos/546763677/credits",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 0
+                    },
+                    "likes": {
+                        "uri": "/videos/546763677/likes",
+                        "options": [
+                            "GET"
+                        ],
+                        "total": 0
+                    },
+                    "pictures": {
+                        "uri": "/videos/546763677/pictures",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 1
+                    },
+                    "texttracks": {
+                        "uri": "/videos/546763677/texttracks",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 0
+                    },
+                    "related": {
+                        "uri": "/videos?client_id=4fb4f63fdde29900061514b3f809b6b951db7b54&client_secret=RhftNCV5BIuatbfPHxMN8aXbH8dfTrJ8GKj/ZcHVTtt6lk9nsQM9DCU pewtu9pXLIwFG 5OyfTTxj70PsygKIMRsRnhIUdES mMB2lnCsj9qXTwwf1lzqQjmyydxS/v&query=penyakit covid&offset=2",
+                        "options": [
+                            "GET"
+                        ]
+                    },
+                    "recommendations": {
+                        "uri": "/videos/546763677/recommendations",
+                        "options": [
+                            "GET"
+                        ]
+                    }
+                },
+                "interactions": {
+                    "report": {
+                        "uri": "/videos/546763677/report",
+                        "options": [
+                            "POST"
+                        ],
+                        "reason": [
+                            "pornographic",
+                            "harassment",
+                            "ripoff",
+                            "incorrect rating",
+                            "spam",
+                            "causes harm",
+                            "csam"
+                        ]
+                    }
+                },
+                "is_vimeo_create": false,
+                "is_screen_record": false
+            },
+            "user": {
+                "uri": "/users/111981949",
+                "name": "Tourism In Malaysia",
+                "link": "https://vimeo.com/user111981949",
+                "capabilities": {
+                    "hasLiveSubscription": false,
+                    "hasEnterpriseLihp": false,
+                    "hasSvvTimecodedComments": false
+                },
+                "location": "",
+                "gender": "",
+                "bio": null,
+                "short_bio": null,
+                "created_time": "2020-04-06T14:49:08+00:00",
+                "pictures": {
+                    "uri": null,
+                    "active": false,
+                    "type": "default",
+                    "base_link": "https://i.vimeocdn.com/portrait/defaults-blue",
+                    "sizes": [
+                        {
+                            "width": 30,
+                            "height": 30,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_30x30"
+                        },
+                        {
+                            "width": 72,
+                            "height": 72,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_72x72"
+                        },
+                        {
+                            "width": 75,
+                            "height": 75,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_75x75"
+                        },
+                        {
+                            "width": 100,
+                            "height": 100,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_100x100"
+                        },
+                        {
+                            "width": 144,
+                            "height": 144,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_144x144"
+                        },
+                        {
+                            "width": 216,
+                            "height": 216,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_216x216"
+                        },
+                        {
+                            "width": 288,
+                            "height": 288,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_288x288"
+                        },
+                        {
+                            "width": 300,
+                            "height": 300,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_300x300"
+                        },
+                        {
+                            "width": 360,
+                            "height": 360,
+                            "link": "https://i.vimeocdn.com/portrait/defaults-blue_360x360"
+                        }
+                    ],
+                    "resource_key": "06cd312fcc3908e2d839aeb00ccaaf434acb0859",
+                    "default_picture": true
+                },
+                "websites": [],
+                "metadata": {
+                    "connections": {
+                        "albums": {
+                            "uri": "/users/111981949/albums",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "appearances": {
+                            "uri": "/users/111981949/appearances",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "channels": {
+                            "uri": "/users/111981949/channels",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "feed": {
+                            "uri": "/users/111981949/feed",
+                            "options": [
+                                "GET"
+                            ]
+                        },
+                        "followers": {
+                            "uri": "/users/111981949/followers",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 19
+                        },
+                        "following": {
+                            "uri": "/users/111981949/following",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "groups": {
+                            "uri": "/users/111981949/groups",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "likes": {
+                            "uri": "/users/111981949/likes",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "membership": {
+                            "uri": "/users/111981949/membership/",
+                            "options": [
+                                "PATCH"
+                            ]
+                        },
+                        "moderated_channels": {
+                            "uri": "/users/111981949/channels?filter=moderated",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "portfolios": {
+                            "uri": "/users/111981949/portfolios",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "videos": {
+                            "uri": "/users/111981949/videos",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 26
+                        },
+                        "shared": {
+                            "uri": "/users/111981949/shared/videos",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "pictures": {
+                            "uri": "/users/111981949/pictures",
+                            "options": [
+                                "GET",
+                                "POST"
+                            ],
+                            "total": 0
+                        },
+                        "folders_root": {
+                            "uri": "/users/111981949/folders/root",
+                            "options": [
+                                "GET"
+                            ]
+                        },
+                        "teams": {
+                            "uri": "/users/111981949/teams",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 1
+                        }
+                    }
+                },
+                "location_details": {
+                    "formatted_address": "",
+                    "latitude": null,
+                    "longitude": null,
+                    "city": null,
+                    "state": null,
+                    "neighborhood": null,
+                    "sub_locality": null,
+                    "state_iso_code": null,
+                    "country": null,
+                    "country_iso_code": null
+                },
+                "skills": [],
+                "available_for_hire": false,
+                "can_work_remotely": false,
+                "resource_key": "26bb48d2a9eb929098462ffbe7b0cacd62b76f98",
+                "account": "pro"
+            },
+            "app": {
+                "name": "Parallel Uploader",
+                "uri": "/apps/87099"
+            },
+            "status": "available",
+            "resource_key": "162970b1e64175cf1de467a42c9c34ff96b4b3d4",
+            "upload": null,
+            "transcode": null,
+            "is_playable": true,
+            "has_audio": true
+        },
+        {
+            "uri": "/videos/547790258",
+            "name": "KLIP VIDEO SES RTM RAYA 2021",
+            "description": "Teaser: Bagaimanakah cara anda meraikan Aidilfitri pada tahun ini? tanpa dapat pulang ke kampung, pastinya mengundang sebak rindu suasana desa tercinta, tidak dapat bersalam-salaman memohon ampun ibu, ayah, adik beradik serta sanak saudara bagaimanapun patuhilah SOP dan Kitajagakita Dalam berperang penyakit Yang Kita tak nampak Covid-19!!! Ini adalah Pengorbanan, seakan pahit untuk ditelan namun perjuangan Lindungi Diri Lindungi Semua harus diteruskan supaya manisnya lebaran dapat kita rasai pada masa mendatang, Silaturahim jangan terputus disini, hubungi keluarga tersayang walaupun jauh dimata namun RayaTetapBermakna, Salam Ukhwah dari kami unit Seksyen Ehwal Semasa Radio Televisyen Malaysia\n\nSelamat Menyambut Hari Raya Aidilfitri, Maaf Zahir Batin\n\nPenghargaan/Kredit\nLagu : Lala Raya\nCiptaan : Amy Ukays & Datin Seri Nur Shahidah Mohd Rashid\nPenyanyi : Dato Seri Aliff Syukri (TV Terlajak Laris)\nCopyright Belong To Universal Music Group\n\nParodi Nyanyian semula & cover lagu oleh unit Seksyen Ehwal Semasa RTM #lalaraya #RayatetapBermakna #LindungiDiriLindungiSemua \n\nCut To.\n\" Pergerakkan rentas negeri untuk balik ke kampung semasa cuti perayaan Aidilfitri, Maaf tidak dibenarkan !!!!\"",
+            "type": "video",
+            "link": "https://vimeo.com/547790258",
+            "player_embed_url": "https://player.vimeo.com/video/547790258?h=56be7ae359",
+            "duration": 251,
+            "width": 1920,
+            "language": null,
+            "height": 1080,
+            "embed": {
+                "html": "<iframe src=\"https://player.vimeo.com/video/547790258?h=56be7ae359&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=239169\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"KLIP VIDEO SES RTM RAYA 2021\"></iframe>",
+                "badges": {
+                    "hdr": false,
+                    "live": {
+                        "streaming": false,
+                        "archived": false
+                    },
+                    "staff_pick": {
+                        "normal": false,
+                        "best_of_the_month": false,
+                        "best_of_the_year": false,
+                        "premiere": false
+                    },
+                    "vod": false,
+                    "weekend_challenge": false
+                }
+            },
+            "created_time": "2021-05-11T03:21:39+00:00",
+            "modified_time": "2022-02-26T03:59:50+00:00",
+            "release_time": "2021-05-11T03:21:39+00:00",
+            "content_rating": [
+                "unrated"
+            ],
+            "content_rating_class": "unrated",
+            "rating_mod_locked": false,
+            "license": null,
+            "privacy": {
+                "view": "anybody",
+                "embed": "public",
+                "download": false,
+                "add": true,
+                "comments": "anybody"
+            },
+            "pictures": {
+                "uri": "/videos/547790258/pictures/1134166600",
+                "active": true,
+                "type": "custom",
+                "base_link": "https://i.vimeocdn.com/video/1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d",
+                "sizes": [
+                    {
+                        "width": 100,
+                        "height": 75,
+                        "link": "https://i.vimeocdn.com/video/1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_100x75?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_100x75&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 200,
+                        "height": 150,
+                        "link": "https://i.vimeocdn.com/video/1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_200x150?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_200x150&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 295,
+                        "height": 166,
+                        "link": "https://i.vimeocdn.com/video/1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_295x166?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_295x166&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 640,
+                        "height": 360,
+                        "link": "https://i.vimeocdn.com/video/1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_640x360?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_640x360&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 960,
+                        "height": 540,
+                        "link": "https://i.vimeocdn.com/video/1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_960x540?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_960x540&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 1280,
+                        "height": 720,
+                        "link": "https://i.vimeocdn.com/video/1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_1280x720?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_1280x720&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "link": "https://i.vimeocdn.com/video/1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_1920x1080?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1134166600-b54d845841ef08daba0000802285ed22f820406fd3cd5409f72258173848c053-d_1920x1080&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    }
+                ],
+                "resource_key": "160531775975169676ccf264473975f070f7a6dc",
+                "default_picture": false
+            },
+            "tags": [],
+            "stats": {
+                "plays": null
+            },
+            "categories": [],
+            "uploader": {
+                "pictures": {
+                    "uri": "/users/139887534/pictures/51517870",
+                    "active": true,
+                    "type": "custom",
+                    "base_link": "https://i.vimeocdn.com/portrait/51517870",
+                    "sizes": [
+                        {
+                            "width": 30,
+                            "height": 30,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_30x30"
+                        },
+                        {
+                            "width": 72,
+                            "height": 72,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_72x72"
+                        },
+                        {
+                            "width": 75,
+                            "height": 75,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_75x75"
+                        },
+                        {
+                            "width": 100,
+                            "height": 100,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_100x100"
+                        },
+                        {
+                            "width": 144,
+                            "height": 144,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_144x144"
+                        },
+                        {
+                            "width": 216,
+                            "height": 216,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_216x216"
+                        },
+                        {
+                            "width": 288,
+                            "height": 288,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_288x288"
+                        },
+                        {
+                            "width": 300,
+                            "height": 300,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_300x300"
+                        },
+                        {
+                            "width": 360,
+                            "height": 360,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_360x360"
+                        }
+                    ],
+                    "resource_key": "4dec88c040607207cd2033e5dc2dd4a52d249f27",
+                    "default_picture": false
+                }
+            },
+            "metadata": {
+                "connections": {
+                    "comments": {
+                        "uri": "/videos/547790258/comments",
+                        "options": [
+                            "GET"
+                        ],
+                        "total": 0
+                    },
+                    "credits": {
+                        "uri": "/videos/547790258/credits",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 0
+                    },
+                    "likes": {
+                        "uri": "/videos/547790258/likes",
+                        "options": [
+                            "GET"
+                        ],
+                        "total": 0
+                    },
+                    "pictures": {
+                        "uri": "/videos/547790258/pictures",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 1
+                    },
+                    "texttracks": {
+                        "uri": "/videos/547790258/texttracks",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 0
+                    },
+                    "related": {
+                        "uri": "/videos?client_id=4fb4f63fdde29900061514b3f809b6b951db7b54&client_secret=RhftNCV5BIuatbfPHxMN8aXbH8dfTrJ8GKj/ZcHVTtt6lk9nsQM9DCU pewtu9pXLIwFG 5OyfTTxj70PsygKIMRsRnhIUdES mMB2lnCsj9qXTwwf1lzqQjmyydxS/v&query=penyakit covid&offset=3",
+                        "options": [
+                            "GET"
+                        ]
+                    },
+                    "recommendations": {
+                        "uri": "/videos/547790258/recommendations",
+                        "options": [
+                            "GET"
+                        ]
+                    }
+                },
+                "interactions": {
+                    "report": {
+                        "uri": "/videos/547790258/report",
+                        "options": [
+                            "POST"
+                        ],
+                        "reason": [
+                            "pornographic",
+                            "harassment",
+                            "ripoff",
+                            "incorrect rating",
+                            "spam",
+                            "causes harm",
+                            "csam"
+                        ]
+                    }
+                },
+                "is_vimeo_create": false,
+                "is_screen_record": false
+            },
+            "user": {
+                "uri": "/users/139887534",
+                "name": "PasiveMakePerfect",
+                "link": "https://vimeo.com/user139887534",
+                "capabilities": {
+                    "hasLiveSubscription": false,
+                    "hasEnterpriseLihp": false,
+                    "hasSvvTimecodedComments": false
+                },
+                "location": "",
+                "gender": "o",
+                "bio": null,
+                "short_bio": null,
+                "created_time": "2021-05-11T03:20:05+00:00",
+                "pictures": {
+                    "uri": "/users/139887534/pictures/51517870",
+                    "active": true,
+                    "type": "custom",
+                    "base_link": "https://i.vimeocdn.com/portrait/51517870",
+                    "sizes": [
+                        {
+                            "width": 30,
+                            "height": 30,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_30x30"
+                        },
+                        {
+                            "width": 72,
+                            "height": 72,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_72x72"
+                        },
+                        {
+                            "width": 75,
+                            "height": 75,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_75x75"
+                        },
+                        {
+                            "width": 100,
+                            "height": 100,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_100x100"
+                        },
+                        {
+                            "width": 144,
+                            "height": 144,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_144x144"
+                        },
+                        {
+                            "width": 216,
+                            "height": 216,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_216x216"
+                        },
+                        {
+                            "width": 288,
+                            "height": 288,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_288x288"
+                        },
+                        {
+                            "width": 300,
+                            "height": 300,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_300x300"
+                        },
+                        {
+                            "width": 360,
+                            "height": 360,
+                            "link": "https://i.vimeocdn.com/portrait/51517870_360x360"
+                        }
+                    ],
+                    "resource_key": "4dec88c040607207cd2033e5dc2dd4a52d249f27",
+                    "default_picture": false
+                },
+                "websites": [],
+                "metadata": {
+                    "connections": {
+                        "albums": {
+                            "uri": "/users/139887534/albums",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "appearances": {
+                            "uri": "/users/139887534/appearances",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "channels": {
+                            "uri": "/users/139887534/channels",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "feed": {
+                            "uri": "/users/139887534/feed",
+                            "options": [
+                                "GET"
+                            ]
+                        },
+                        "followers": {
+                            "uri": "/users/139887534/followers",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "following": {
+                            "uri": "/users/139887534/following",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "groups": {
+                            "uri": "/users/139887534/groups",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "likes": {
+                            "uri": "/users/139887534/likes",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "membership": {
+                            "uri": "/users/139887534/membership/",
+                            "options": [
+                                "PATCH"
+                            ]
+                        },
+                        "moderated_channels": {
+                            "uri": "/users/139887534/channels?filter=moderated",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "portfolios": {
+                            "uri": "/users/139887534/portfolios",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "videos": {
+                            "uri": "/users/139887534/videos",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 1
+                        },
+                        "shared": {
+                            "uri": "/users/139887534/shared/videos",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "pictures": {
+                            "uri": "/users/139887534/pictures",
+                            "options": [
+                                "GET",
+                                "POST"
+                            ],
+                            "total": 1
+                        },
+                        "folders_root": {
+                            "uri": "/users/139887534/folders/root",
+                            "options": [
+                                "GET"
+                            ]
+                        },
+                        "teams": {
+                            "uri": "/users/139887534/teams",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 1
+                        }
+                    }
+                },
+                "location_details": {
+                    "formatted_address": "",
+                    "latitude": null,
+                    "longitude": null,
+                    "city": null,
+                    "state": null,
+                    "neighborhood": null,
+                    "sub_locality": null,
+                    "state_iso_code": null,
+                    "country": null,
+                    "country_iso_code": null
+                },
+                "skills": [],
+                "available_for_hire": false,
+                "can_work_remotely": false,
+                "resource_key": "6dd1c6804a0b5413e505d342d35c9ef4ae91162f",
+                "account": "basic"
+            },
+            "app": {
+                "name": "Parallel Uploader",
+                "uri": "/apps/87099"
+            },
+            "status": "available",
+            "resource_key": "2e6fabc7837851e73957a1229061a4de28c0ebff",
+            "upload": null,
+            "transcode": null,
+            "is_playable": true,
+            "has_audio": true
+        },
+        {
+            "uri": "/videos/430604194",
+            "name": "Indonesian Prayer and Praise",
+            "description": "Indonesian Service of Praise \nPrayer and Song in Bahasa Indonesia from members of St John’s Indonesian Congregation\n\nWelcome and Opening Prayer\nSelamat datang di acara Doa and Penyembahan bersama komunitas Indonesia di St. John Camberwell. Ini merupakan suatu keistimewaan bagi kami untuk bisa berdoa and menyembah Tuhan secara bersama. Sebelum acara dimulai mari kita berdoa:\n\nAllah Bapa di Sorga, Kami bersyukur untuk bisa berkumpul bersama untuk berdoa dan menyembah Engkau and biarlah doa and penyembahan ini bisa menjadi berkat bagi semua orang. Amien\n\n(Welcome to the Service of Prayer and Praise with Indonesians in St John Camberwell. It is a previllage for us to pray and praise together. Before we start, let us pray: Heavenly Father, we are grateful to have the opportunity to have this service and pray that this service will bless others. Amien)\n\nSong 1:\nSeperti Rusa Rindu Sungaimu\nS’perti rusa rindu sungai-Mu\nJiwaku rindu Engkau\nKaulah Tuhan hasrat hatiku\nKu rindu menyembah-Mu\n\nEngkau kekuatan dan perisaiku\nKepada-Mu rohku berserah\nKaulah Tuhan hasrat hatiku\nKu rindu menyembah-Mu\n\nYesus, Yesus, Kau berarti bagiku\nYesus, Yesus, Kau segalanya bagiku\n\n\nAs the deer panteth for the water\nSo my soul longs after You\nYou alone are my hearts desire\nAnd I long to worship You\n\t\nYou alone are my strength, my shield\nTo You alone may my spirit yield\nYou alone are my hearts desire\nAnd I long to worship You\n\nPrayer \n\nTuhan, kami berdoa saat ini merendahkan diri membawa setiap mereka  yang terkena dampak dari covid 19 dimana kehilangan pekerjaan and orang orang terkasih. Mereka yang mengalami penyakit, tekanan, kekhawatiran dan loneliness, biarlah belas kasih dan lawatan Tuhan atas mereka, supaya pemulohan dan kesembuhan terjadi dengan ajaib bagi mereka.\n\nTuhan kasihanlah kami\nDengarkanlah doa kami\n\n(Dear God, we humbly pray for the people who have been affected by covid 19 crisis as they have lost their jobs and the love ones. We also pray for the people who are ill, distress, anxious and loneliness may God’s mercy and bless be upon them, so it heals miraculously.)\n (God in your mercy)\n(Hear our prayer)\n\nYa Allah Bapa disurga, kami kami mau sepakat berdoa untuk bangsa Indonesia. Engkau memberikan hikmat bagi Bapak Jokowi dan pemerintahannya didalam dimasa masa yang penuh tantangan, khususnya di masa-masa sulit ini. Biarlah damaiMu dan anugerahMu tercurah atas Indonesia.\n\nTuhan kasihanlah kami\nDengarkanlah doa kami\n\n(Dear Father in Heaven, we would like to pray for our country Indonesia. Please pour Your wisdom to our President of Mr. Jokowi’s and his government at any circumstances. Let Your peace and mercy pouring upon Indonesia.)\n(God in your mercy)\n(Hear our prayer)\n\n\n\nKami berdoa untuk Australia. BerkatMu dan hikmatMu tercurahkan atas Australia. Berikan hikmat atas Perdana Menteri Scott Morison beserta pemerintahan. \nTuhan kasihanlah kami\nDengarkanlah doa kami\n\n(We pray for Australia that Your blessing and wisdom pour out upon Australia. Please pour Your wisdom to our Prime Minister Scott Morison his government at any circumstances.)\n(God in your mercy)\n(Hear our prayer)\n\nSong 2: Above All by solo\n\nSong 3: Ya Tuhan, Tiap Jam\n\nYa Tuhan, tiap jam 'ku memerlukanMu,\nEngkaulah yang memb'ri sejahtera penuh.\n\nReff:\nSetiap jam, ya Tuhan, Dikau kuperlukan;\n'ku datang, Jurus'lamat, berkatilah!\n\nLyrics\nI need thee ev’ry hour, Most gracious Lord.\nNo tender voice like thine Can peace afford.\n\nChorus\nI need thee, oh, I need thee;\nEv’ry hour I need thee!\nOh, bless me now, my Savior;\nI come to thee!\n\n I need thee ev’ry hour;\nStay thou nearby.\nTemptations lose their pow’r\nWhen thou art nigh.\n\nYa Tuhan, tiap jam dampingi hambaMu;\njikalau Kau dekat, enyah penggodaku.\n\nPrayer\n\nKami berdoa untuk gereja -gereja Anglican di seluruh Australia untuk persatuan dan program program pelayanan di Australian and seluruh dunia. Biarlah Firman Tuhan tinggal dalam kehidupan bangsa Australia \n\nTuhan kasihanlah kami \nDengarkanlah doa kami \n(We pray for Anglican churches in Australia for the unity and all the ministries throughout Australia. Let Your words will dwell in this nation.)\n(God in your mercy)\n(Hear our prayer)\n\nKami berdoa untuk komunitas Indonesia yang ada di Anglican dan Australia dimana keberadaannya menjadi berkat dan terang didalam tuntunan Roh Kudus.\n\nTuhan kasihanlah kami \nDengarkanlah doa kami \n\n(We pray for the Indonesian community in the Anglican and Australia. Let our presents as a light and blessing for others and be guided by Holy Spirit).\n\n(God in your mercy)\n(Hear our prayer)\n\nSong 4: Ku Berbahagia – KJ 392\n\n‘KU BERBAHAGIA YAKIN TEGUH\nYESUS ABADI KEPUNYAANKU\nAKU WARIS-NYA ‘KU DITEBUS\nCIPTAAN BARU ROHUL KUDUS\n\n Chorus\nAKU BERNYANYI BAHAGIA\nMEMUJI YESUS SELAMANYA\nAKU BERNYANYI BAHAGIA\nMEMUJI YESUS SELAMANYA\n\nBlessed assurance, Jesus is mine\nO what a foretaste of glory divine\nHeir of salvation, purchase of God\nBorn of His Spirit, washed in His blood\n\nChorus\nThis is my story, this is my song\nPraising my Savior all the day long\nThis is my story, this is my song\nPraising my Savior all the day long\n\nPASRAH SEMPURNA, NIKMAT PENUH\nSUKA SORGAWI MELIMPAHIKU\nLAGU MALAIKAT AMAT MERDU\nKASIH DAN RAHMAT BESERTAKU\n\n\nBible Reading: John 3:1-16\n\n3:1 Adalah seorang Farisi yang bernama Nikodemus, b  seorang pemimpin agama c  Yahudi. 3:2 Ia datang pada waktu malam kepada Yesus dan berkata: \"Rabi, d  kami tahu, e  bahwa Engkau datang sebagai guru yang diutus Allah; sebab tidak ada seorangpun yang dapat mengadakan tanda-tanda f  yang Engkau adakan itu, jika Allah tidak menyertainya. g \" 3:3 Yesus menjawab, kata-Nya: \"Aku berkata kepadamu, sesungguhnya jika seorang tidak dilahirkan kembali 1 , h  i  ia tidak dapat melihat Kerajaan Allah.\" 3:4 Kata Nikodemus kepada-Nya: \"Bagaimanakah mungkin seorang dilahirkan, kalau ia sudah tua? Dapatkah ia masuk kembali ke dalam rahim ibunya dan dilahirkan lagi?\" 3:5 Jawab Yesus: \"Aku berkata kepadamu, sesungguhnya jika seorang tidak dilahirkan dari air 2  dan Roh, j  k  ia tidak dapat masuk ke dalam Kerajaan Allah. 3:6 Apa yang dilahirkan dari daging, adalah daging, dan apa yang dilahirkan dari Roh, adalah roh. l  3:7 Janganlah engkau heran, karena Aku berkata kepadamu: Kamu harus dilahirkan kembali. 3:8 Angin bertiup ke mana ia mau, dan engkau mendengar bunyinya, tetapi engkau tidak tahu dari mana ia datang atau ke mana ia pergi. Demikianlah halnya dengan tiap-tiap orang yang lahir dari Roh 3 . m \" 3:9 Nikodemus menjawab, katanya: \"Bagaimanakah mungkin hal itu terjadi? n \" 3:10 Jawab Yesus: \"Engkau adalah pengajar o  Israel, dan engkau tidak mengerti hal-hal itu? 3:11 Aku berkata kepadamu, sesungguhnya kami berkata-kata tentang apa yang kami ketahui p  dan kami bersaksi tentang apa yang kami lihat, tetapi kamu tidak menerima kesaksian q  kami. 3:12 Kamu tidak percaya, waktu Aku berkata-kata dengan kamu tentang hal-hal duniawi, bagaimana kamu akan percaya, kalau Aku berkata-kata dengan kamu tentang hal-hal sorgawi? 3:13 Tidak ada seorangpun yang telah naik ke sorga, r  selain dari pada Dia yang telah turun dari sorga, s  yaitu Anak Manusia. t  3:14 Dan sama seperti Musa meninggikan ular di padang gurun, u  demikian juga Anak Manusia harus ditinggikan, v  3:15 supaya setiap orang yang percaya w  kepada-Nya beroleh hidup x  yang kekal. 3:16 Karena begitu besar kasih y  Allah akan dunia ini 4 , sehingga Ia telah mengaruniakan z  Anak-Nya a  yang tunggal, supaya setiap orang yang percaya b  kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal. c  3:17 Sebab Allah mengutus Anak-Nya ke dalam dunia d  bukan untuk menghakimi dunia, melainkan untuk menyelamatkannya oleh Dia. e  3:18 Barangsiapa percaya kepada-Nya, ia tidak akan dihukum; f  barangsiapa tidak percaya, ia telah berada di bawah hukuman, sebab ia tidak percaya dalam nama Anak g  Tunggal Allah. 3:19 Dan inilah hukuman itu: Terang h  telah datang ke dalam dunia, tetapi manusia lebih menyukai kegelapan dari pada terang 5 , sebab perbuatan-perbuatan mereka jahat. i  3:20 Sebab barangsiapa berbuat jahat, membenci terang dan tidak datang kepada terang itu, supaya perbuatan-perbuatannya yang jahat itu tidak nampak; j  3:21 tetapi barangsiapa melakukan yang benar, ia datang kepada terang, supaya menjadi nyata, bahwa perbuatan-perbuatannya dilakukan dalam Allah.\"\n\n(1Now there was a Pharisee named Nicodemus, a leader of the Jews. 2 He came to Jesus[a] by night and said to him, ‘Rabbi, we know that you are a teacher who has come from God; for no one can do these signs that you do apart from the presence of God.’ 3 Jesus answered him, ‘Very truly, I tell you, no one can see the kingdom of God without being born from above.’[b] 4 Nicodemus said to him, ‘How can anyone be born after having grown old? Can one enter a second time into the mother’s womb and be born?’ 5 Jesus answered, ‘Very truly, I tell you, no one can enter the kingdom of God without being born of water and Spirit. 6 What is born of the flesh is flesh, and what is born of the Spirit is spirit.[c] 7 Do not be astonished that I said to you, “You[d] must be born from above.”[e] 8 The wind[f] blows where it chooses, and you hear the sound of it, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit.’ 9 Nicodemus said to him, ‘How can these things be?’ 10 Jesus answered him, ‘Are you a teacher of Israel, and yet you do not understand these things?\n11 ‘Very truly, I tell you, we speak of what we know and testify to what we have seen; yet you[g] do not receive our testimony. 12 If I have told you about earthly things and you do not believe, how can you believe if I tell you about heavenly things? 13 No one has ascended into heaven except the one who descended from heaven, the Son of Man.[h] 14 And just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, 15 that whoever believes in him may have eternal life.[i]\n16 ‘For God so loved the world that he gave his only Son, so that everyone who believes in him may not perish but may have eternal life.\n17 ‘Indeed, God did not send the Son into the world to condemn the world, but in order that the world might be saved through him. 18 Those who believe in him are not condemned; but those who do not believe are condemned already, because they have not believed in the name of the only Son of God. 19 And this is the judgement, that the light has come into the world, and people loved darkness rather than light because their deeds were evil. 20 For all who do evil hate the light and do not come to the light, so that their deeds may not be exposed. 21 But those who do what is true come to the light, so that it may be clearly seen that their deeds have been done in God.’[j]\nThought of the day\n\nSong 5: What a beautiful name by solo\n\nDoa Bapa Kami\n\nBapa kami yang di sorga,\nDikuduskanlah nama-Mu,\ndatanglah Kerajaan-Mu,\njadilah kehendak-Mu\ndi bumi seperti di sorga.\nBerikanlah kami pada hari ini\nmakanan kami yang secukupnya\ndan ampunilah kami akan kesalahan\nkami, seperti kami juga mengampuni\norang yang bersalah kepada kami;\ndan janganlah membawa kami ke dalam pencobaan,\ntetapi lepaskanlah kami daripada yang jahat.\n\nKarena Engkaulah yang empunya\nKerajaan dan kuasa dan kemuliaan sampai selama-lamanya. Amin.\n\nOur Father in heaven,\nhallowed be your name,\nyour kingdom come,\nyour will be done,\non earth as in heaven.\nGive us today our daily bread.\nForgive us our sins\nas we forgive those who sin against us.\nLead us not into temptation\nbut deliver us from evil.\nFor the kingdom, the power,\nand the glory are yours\nnow and for ever.\nAmen.\n\nSong 6: Thy Word\n\n\nThy Word is a lamp unto my feet and a light unto my path.\nThy Word is a lamp unto my feet and a light unto my path.\n\nWhen I feel afraid, Think I've lost my way,\nStill you're there right beside me.\nAnd nothing will I fear As long as you are near.\nPlease be near me to the end.\n\nThy Word is a lamp unto my feet and a light unto my path.\nThy Word is a lamp unto my feet and a light unto my path.\n\n\nI will not forget Your love for me and yet\nMy heart forever is wandering Jesus be my guide,\nAnd hold me to your side, I will love you to the end.\n\nFirmanMu plita bagi kakiku Terang bagi jalanku\nFirmanmu Plita bagi kakiku Terang bagi jalanku\n\nWaktu ku bimbang, dan hilang jalanku Tetaplah Kau di sisiku\nDan tak'kan ku takut, asal Kau di dekatku\nBesertaku selamanya",
+            "type": "live",
+            "link": "https://vimeo.com/430604194",
+            "player_embed_url": "https://player.vimeo.com/video/430604194?h=f4f7ce5187",
+            "duration": 2373,
+            "width": 1920,
+            "language": null,
+            "height": 1080,
+            "embed": {
+                "html": "<iframe src=\"https://player.vimeo.com/video/430604194?h=f4f7ce5187&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=239169\" width=\"1920\" height=\"1080\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"Indonesian Prayer and Praise\"></iframe>",
+                "badges": {
+                    "hdr": false,
+                    "live": {
+                        "streaming": false,
+                        "archived": true
+                    },
+                    "staff_pick": {
+                        "normal": false,
+                        "best_of_the_month": false,
+                        "best_of_the_year": false,
+                        "premiere": false
+                    },
+                    "vod": false,
+                    "weekend_challenge": false
+                }
+            },
+            "created_time": "2020-06-19T04:58:01+00:00",
+            "modified_time": "2021-09-15T06:02:50+00:00",
+            "release_time": "2020-06-19T04:58:01+00:00",
+            "content_rating": [
+                "unrated"
+            ],
+            "content_rating_class": "unrated",
+            "rating_mod_locked": false,
+            "license": null,
+            "privacy": {
+                "view": "anybody",
+                "embed": "public",
+                "download": true,
+                "add": true,
+                "comments": "anybody"
+            },
+            "pictures": {
+                "uri": "/videos/430604194/pictures/915630645",
+                "active": true,
+                "type": "custom",
+                "base_link": "https://i.vimeocdn.com/video/915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d",
+                "sizes": [
+                    {
+                        "width": 100,
+                        "height": 75,
+                        "link": "https://i.vimeocdn.com/video/915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_100x75?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_100x75&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 200,
+                        "height": 150,
+                        "link": "https://i.vimeocdn.com/video/915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_200x150?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_200x150&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 295,
+                        "height": 166,
+                        "link": "https://i.vimeocdn.com/video/915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_295x166?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_295x166&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 640,
+                        "height": 360,
+                        "link": "https://i.vimeocdn.com/video/915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_640x360?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_640x360&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 960,
+                        "height": 540,
+                        "link": "https://i.vimeocdn.com/video/915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_960x540?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_960x540&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 1280,
+                        "height": 720,
+                        "link": "https://i.vimeocdn.com/video/915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_1280x720?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_1280x720&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "link": "https://i.vimeocdn.com/video/915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_1920x1080?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F915630645-b7c7582c8368dfe901b55c22d6d0351c13e07738c6674a5b6dfc5f5b3435ac3d-d_1920x1080&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    }
+                ],
+                "resource_key": "4b4860d229415887405aa2b3b8b026b3a4fea1fb",
+                "default_picture": false
+            },
+            "tags": [],
+            "stats": {
+                "plays": null
+            },
+            "categories": [],
+            "uploader": {
+                "pictures": {
+                    "uri": "/users/109990400/pictures/56588519",
+                    "active": true,
+                    "type": "custom",
+                    "base_link": "https://i.vimeocdn.com/portrait/56588519",
+                    "sizes": [
+                        {
+                            "width": 30,
+                            "height": 30,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_30x30"
+                        },
+                        {
+                            "width": 72,
+                            "height": 72,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_72x72"
+                        },
+                        {
+                            "width": 75,
+                            "height": 75,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_75x75"
+                        },
+                        {
+                            "width": 100,
+                            "height": 100,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_100x100"
+                        },
+                        {
+                            "width": 144,
+                            "height": 144,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_144x144"
+                        },
+                        {
+                            "width": 216,
+                            "height": 216,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_216x216"
+                        },
+                        {
+                            "width": 288,
+                            "height": 288,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_288x288"
+                        },
+                        {
+                            "width": 300,
+                            "height": 300,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_300x300"
+                        },
+                        {
+                            "width": 360,
+                            "height": 360,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_360x360"
+                        }
+                    ],
+                    "resource_key": "a6ccca3fb75fbc8b36d2aef93a35eeca4c7cbe56",
+                    "default_picture": false
+                }
+            },
+            "metadata": {
+                "connections": {
+                    "comments": {
+                        "uri": "/videos/430604194/comments",
+                        "options": [
+                            "GET"
+                        ],
+                        "total": 0
+                    },
+                    "credits": {
+                        "uri": "/videos/430604194/credits",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 0
+                    },
+                    "likes": {
+                        "uri": "/videos/430604194/likes",
+                        "options": [
+                            "GET"
+                        ],
+                        "total": 0
+                    },
+                    "pictures": {
+                        "uri": "/videos/430604194/pictures",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 1
+                    },
+                    "texttracks": {
+                        "uri": "/videos/430604194/texttracks",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 0
+                    },
+                    "related": {
+                        "uri": "/videos?client_id=4fb4f63fdde29900061514b3f809b6b951db7b54&client_secret=RhftNCV5BIuatbfPHxMN8aXbH8dfTrJ8GKj/ZcHVTtt6lk9nsQM9DCU pewtu9pXLIwFG 5OyfTTxj70PsygKIMRsRnhIUdES mMB2lnCsj9qXTwwf1lzqQjmyydxS/v&query=penyakit covid&offset=4",
+                        "options": [
+                            "GET"
+                        ]
+                    },
+                    "recommendations": {
+                        "uri": "/videos/430604194/recommendations",
+                        "options": [
+                            "GET"
+                        ]
+                    }
+                },
+                "interactions": {
+                    "report": {
+                        "uri": "/videos/430604194/report",
+                        "options": [
+                            "POST"
+                        ],
+                        "reason": [
+                            "pornographic",
+                            "harassment",
+                            "ripoff",
+                            "incorrect rating",
+                            "spam",
+                            "causes harm",
+                            "csam"
+                        ]
+                    }
+                },
+                "is_vimeo_create": false,
+                "is_screen_record": false
+            },
+            "user": {
+                "uri": "/users/109990400",
+                "name": "St John's Camberwell",
+                "link": "https://vimeo.com/user109990400",
+                "capabilities": {
+                    "hasLiveSubscription": true,
+                    "hasEnterpriseLihp": false,
+                    "hasSvvTimecodedComments": false
+                },
+                "location": "",
+                "gender": "m",
+                "bio": null,
+                "short_bio": null,
+                "created_time": "2020-03-19T08:27:23+00:00",
+                "pictures": {
+                    "uri": "/users/109990400/pictures/56588519",
+                    "active": true,
+                    "type": "custom",
+                    "base_link": "https://i.vimeocdn.com/portrait/56588519",
+                    "sizes": [
+                        {
+                            "width": 30,
+                            "height": 30,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_30x30"
+                        },
+                        {
+                            "width": 72,
+                            "height": 72,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_72x72"
+                        },
+                        {
+                            "width": 75,
+                            "height": 75,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_75x75"
+                        },
+                        {
+                            "width": 100,
+                            "height": 100,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_100x100"
+                        },
+                        {
+                            "width": 144,
+                            "height": 144,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_144x144"
+                        },
+                        {
+                            "width": 216,
+                            "height": 216,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_216x216"
+                        },
+                        {
+                            "width": 288,
+                            "height": 288,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_288x288"
+                        },
+                        {
+                            "width": 300,
+                            "height": 300,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_300x300"
+                        },
+                        {
+                            "width": 360,
+                            "height": 360,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_360x360"
+                        }
+                    ],
+                    "resource_key": "a6ccca3fb75fbc8b36d2aef93a35eeca4c7cbe56",
+                    "default_picture": false
+                },
+                "websites": [
+                    {
+                        "uri": "/users/109990400/links/7809886",
+                        "name": null,
+                        "link": "https://stjc.org.au",
+                        "type": "link",
+                        "description": null
+                    }
+                ],
+                "metadata": {
+                    "connections": {
+                        "albums": {
+                            "uri": "/users/109990400/albums",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 12
+                        },
+                        "appearances": {
+                            "uri": "/users/109990400/appearances",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "channels": {
+                            "uri": "/users/109990400/channels",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "feed": {
+                            "uri": "/users/109990400/feed",
+                            "options": [
+                                "GET"
+                            ]
+                        },
+                        "followers": {
+                            "uri": "/users/109990400/followers",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 69
+                        },
+                        "following": {
+                            "uri": "/users/109990400/following",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "groups": {
+                            "uri": "/users/109990400/groups",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "likes": {
+                            "uri": "/users/109990400/likes",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "membership": {
+                            "uri": "/users/109990400/membership/",
+                            "options": [
+                                "PATCH"
+                            ]
+                        },
+                        "moderated_channels": {
+                            "uri": "/users/109990400/channels?filter=moderated",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 2
+                        },
+                        "portfolios": {
+                            "uri": "/users/109990400/portfolios",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "videos": {
+                            "uri": "/users/109990400/videos",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 420
+                        },
+                        "shared": {
+                            "uri": "/users/109990400/shared/videos",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "pictures": {
+                            "uri": "/users/109990400/pictures",
+                            "options": [
+                                "GET",
+                                "POST"
+                            ],
+                            "total": 1
+                        },
+                        "folders_root": {
+                            "uri": "/users/109990400/folders/root",
+                            "options": [
+                                "GET"
+                            ]
+                        },
+                        "teams": {
+                            "uri": "/users/109990400/teams",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 1
+                        }
+                    }
+                },
+                "location_details": {
+                    "formatted_address": "",
+                    "latitude": null,
+                    "longitude": null,
+                    "city": null,
+                    "state": null,
+                    "neighborhood": null,
+                    "sub_locality": null,
+                    "state_iso_code": null,
+                    "country": null,
+                    "country_iso_code": null
+                },
+                "skills": [],
+                "available_for_hire": false,
+                "can_work_remotely": false,
+                "resource_key": "a59d226f7384f2966bd68648eb00563432fd865c",
+                "account": "live_premium"
+            },
+            "app": {
+                "name": "Vimeo Live",
+                "uri": "/apps/101940"
+            },
+            "status": "available",
+            "resource_key": "72f4976dc5fb652820f0c6745c761272f80c1246",
+            "upload": null,
+            "transcode": null,
+            "is_playable": true,
+            "has_audio": true
+        },
+        {
+            "uri": "/videos/433260951",
+            "name": "Indonesian Prayer and Praise",
+            "description": "Indonesian Service of Praise \nPrayer and Song in Bahasa Indonesia from members of St John’s Indonesian Congregation\n\nWelcome and Opening Prayer\nSelamat datang di acara Doa and Penyembahan bersama komunitas Indonesia di St. John Camberwell. Ini merupakan suatu keistimewaan bagi kami untuk bisa berdoa and menyembah Tuhan secara bersama. Sebelum acara dimulai mari kita berdoa:\n\nAllah Bapa di Sorga, Kami bersyukur untuk bisa berkumpul bersama untuk berdoa dan menyembah Engkau and biarlah doa and penyembahan ini bisa menjadi berkat bagi semua orang. Amien\n\n(Welcome to the Service of Prayer and Praise with Indonesians in St John Camberwell. It is a previllage for us to pray and praise together. Before we start, let us pray: Heavenly Father, we are grateful to have the opportunity to have this service and pray that this service will bless others. Amien)\n\nSong 1:\nSeperti Rusa Rindu Sungaimu\nS’perti rusa rindu sungai-Mu\nJiwaku rindu Engkau\nKaulah Tuhan hasrat hatiku\nKu rindu menyembah-Mu\n\nEngkau kekuatan dan perisaiku\nKepada-Mu rohku berserah\nKaulah Tuhan hasrat hatiku\nKu rindu menyembah-Mu\n\nYesus, Yesus, Kau berarti bagiku\nYesus, Yesus, Kau segalanya bagiku\n\n\nAs the deer panteth for the water\nSo my soul longs after You\nYou alone are my hearts desire\nAnd I long to worship You\n\t\nYou alone are my strength, my shield\nTo You alone may my spirit yield\nYou alone are my hearts desire\nAnd I long to worship You\n\nPrayer \n\nTuhan, kami berdoa saat ini merendahkan diri membawa setiap mereka  yang terkena dampak dari covid 19 dimana kehilangan pekerjaan and orang orang terkasih. Mereka yang mengalami penyakit, tekanan, kekhawatiran dan loneliness, biarlah belas kasih dan lawatan Tuhan atas mereka, supaya pemulohan dan kesembuhan terjadi dengan ajaib bagi mereka.\n\nTuhan kasihanlah kami\nDengarkanlah doa kami\n\n(Dear God, we humbly pray for the people who have been affected by covid 19 crisis as they have lost their jobs and the love ones. We also pray for the people who are ill, distress, anxious and loneliness may God’s mercy and bless be upon them, so it heals miraculously.)\n (God in your mercy)\n(Hear our prayer)\n\nYa Allah Bapa disurga, kami kami mau sepakat berdoa untuk bangsa Indonesia. Engkau memberikan hikmat bagi Bapak Jokowi dan pemerintahannya didalam dimasa masa yang penuh tantangan, khususnya di masa-masa sulit ini. Biarlah damaiMu dan anugerahMu tercurah atas Indonesia.\n\nTuhan kasihanlah kami\nDengarkanlah doa kami\n\n(Dear Father in Heaven, we would like to pray for our country Indonesia. Please pour Your wisdom to our President of Mr. Jokowi’s and his government at any circumstances. Let Your peace and mercy pouring upon Indonesia.)\n(God in your mercy)\n(Hear our prayer)\n\n\n\nKami berdoa untuk Australia. BerkatMu dan hikmatMu tercurahkan atas Australia. Berikan hikmat atas Perdana Menteri Scott Morison beserta pemerintahan. \nTuhan kasihanlah kami\nDengarkanlah doa kami\n\n(We pray for Australia that Your blessing and wisdom pour out upon Australia. Please pour Your wisdom to our Prime Minister Scott Morison his government at any circumstances.)\n(God in your mercy)\n(Hear our prayer)\n\nSong 2: Above All by solo\n\nSong 3: Ya Tuhan, Tiap Jam\n\nYa Tuhan, tiap jam 'ku memerlukanMu,\nEngkaulah yang memb'ri sejahtera penuh.\n\nReff:\nSetiap jam, ya Tuhan, Dikau kuperlukan;\n'ku datang, Jurus'lamat, berkatilah!\n\nLyrics\nI need thee ev’ry hour, Most gracious Lord.\nNo tender voice like thine Can peace afford.\n\nChorus\nI need thee, oh, I need thee;\nEv’ry hour I need thee!\nOh, bless me now, my Savior;\nI come to thee!\n\n I need thee ev’ry hour;\nStay thou nearby.\nTemptations lose their pow’r\nWhen thou art nigh.\n\nYa Tuhan, tiap jam dampingi hambaMu;\njikalau Kau dekat, enyah penggodaku.\n\nPrayer\n\nKami berdoa untuk gereja -gereja Anglican di seluruh Australia untuk persatuan dan program program pelayanan di Australian and seluruh dunia. Biarlah Firman Tuhan tinggal dalam kehidupan bangsa Australia \n\nTuhan kasihanlah kami \nDengarkanlah doa kami \n(We pray for Anglican churches in Australia for the unity and all the ministries throughout Australia. Let Your words will dwell in this nation.)\n(God in your mercy)\n(Hear our prayer)\n\nKami berdoa untuk komunitas Indonesia yang ada di Anglican dan Australia dimana keberadaannya menjadi berkat dan terang didalam tuntunan Roh Kudus.\n\nTuhan kasihanlah kami \nDengarkanlah doa kami \n\n(We pray for the Indonesian community in the Anglican and Australia. Let our presents as a light and blessing for others and be guided by Holy Spirit).\n\n(God in your mercy)\n(Hear our prayer)\n\nSong 4: Ku Berbahagia – KJ 392\n\n‘KU BERBAHAGIA YAKIN TEGUH\nYESUS ABADI KEPUNYAANKU\nAKU WARIS-NYA ‘KU DITEBUS\nCIPTAAN BARU ROHUL KUDUS\n\n Chorus\nAKU BERNYANYI BAHAGIA\nMEMUJI YESUS SELAMANYA\nAKU BERNYANYI BAHAGIA\nMEMUJI YESUS SELAMANYA\n\nBlessed assurance, Jesus is mine\nO what a foretaste of glory divine\nHeir of salvation, purchase of God\nBorn of His Spirit, washed in His blood\n\nChorus\nThis is my story, this is my song\nPraising my Savior all the day long\nThis is my story, this is my song\nPraising my Savior all the day long\n\nPASRAH SEMPURNA, NIKMAT PENUH\nSUKA SORGAWI MELIMPAHIKU\nLAGU MALAIKAT AMAT MERDU\nKASIH DAN RAHMAT BESERTAKU\n\n\nBible Reading: John 3:1-16\n\n3:1 Adalah seorang Farisi yang bernama Nikodemus, b  seorang pemimpin agama c  Yahudi. 3:2 Ia datang pada waktu malam kepada Yesus dan berkata: \"Rabi, d  kami tahu, e  bahwa Engkau datang sebagai guru yang diutus Allah; sebab tidak ada seorangpun yang dapat mengadakan tanda-tanda f  yang Engkau adakan itu, jika Allah tidak menyertainya. g \" 3:3 Yesus menjawab, kata-Nya: \"Aku berkata kepadamu, sesungguhnya jika seorang tidak dilahirkan kembali 1 , h  i  ia tidak dapat melihat Kerajaan Allah.\" 3:4 Kata Nikodemus kepada-Nya: \"Bagaimanakah mungkin seorang dilahirkan, kalau ia sudah tua? Dapatkah ia masuk kembali ke dalam rahim ibunya dan dilahirkan lagi?\" 3:5 Jawab Yesus: \"Aku berkata kepadamu, sesungguhnya jika seorang tidak dilahirkan dari air 2  dan Roh, j  k  ia tidak dapat masuk ke dalam Kerajaan Allah. 3:6 Apa yang dilahirkan dari daging, adalah daging, dan apa yang dilahirkan dari Roh, adalah roh. l  3:7 Janganlah engkau heran, karena Aku berkata kepadamu: Kamu harus dilahirkan kembali. 3:8 Angin bertiup ke mana ia mau, dan engkau mendengar bunyinya, tetapi engkau tidak tahu dari mana ia datang atau ke mana ia pergi. Demikianlah halnya dengan tiap-tiap orang yang lahir dari Roh 3 . m \" 3:9 Nikodemus menjawab, katanya: \"Bagaimanakah mungkin hal itu terjadi? n \" 3:10 Jawab Yesus: \"Engkau adalah pengajar o  Israel, dan engkau tidak mengerti hal-hal itu? 3:11 Aku berkata kepadamu, sesungguhnya kami berkata-kata tentang apa yang kami ketahui p  dan kami bersaksi tentang apa yang kami lihat, tetapi kamu tidak menerima kesaksian q  kami. 3:12 Kamu tidak percaya, waktu Aku berkata-kata dengan kamu tentang hal-hal duniawi, bagaimana kamu akan percaya, kalau Aku berkata-kata dengan kamu tentang hal-hal sorgawi? 3:13 Tidak ada seorangpun yang telah naik ke sorga, r  selain dari pada Dia yang telah turun dari sorga, s  yaitu Anak Manusia. t  3:14 Dan sama seperti Musa meninggikan ular di padang gurun, u  demikian juga Anak Manusia harus ditinggikan, v  3:15 supaya setiap orang yang percaya w  kepada-Nya beroleh hidup x  yang kekal. 3:16 Karena begitu besar kasih y  Allah akan dunia ini 4 , sehingga Ia telah mengaruniakan z  Anak-Nya a  yang tunggal, supaya setiap orang yang percaya b  kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal. c  3:17 Sebab Allah mengutus Anak-Nya ke dalam dunia d  bukan untuk menghakimi dunia, melainkan untuk menyelamatkannya oleh Dia. e  3:18 Barangsiapa percaya kepada-Nya, ia tidak akan dihukum; f  barangsiapa tidak percaya, ia telah berada di bawah hukuman, sebab ia tidak percaya dalam nama Anak g  Tunggal Allah. 3:19 Dan inilah hukuman itu: Terang h  telah datang ke dalam dunia, tetapi manusia lebih menyukai kegelapan dari pada terang 5 , sebab perbuatan-perbuatan mereka jahat. i  3:20 Sebab barangsiapa berbuat jahat, membenci terang dan tidak datang kepada terang itu, supaya perbuatan-perbuatannya yang jahat itu tidak nampak; j  3:21 tetapi barangsiapa melakukan yang benar, ia datang kepada terang, supaya menjadi nyata, bahwa perbuatan-perbuatannya dilakukan dalam Allah.\"\n\n(1Now there was a Pharisee named Nicodemus, a leader of the Jews. 2 He came to Jesus[a] by night and said to him, ‘Rabbi, we know that you are a teacher who has come from God; for no one can do these signs that you do apart from the presence of God.’ 3 Jesus answered him, ‘Very truly, I tell you, no one can see the kingdom of God without being born from above.’[b] 4 Nicodemus said to him, ‘How can anyone be born after having grown old? Can one enter a second time into the mother’s womb and be born?’ 5 Jesus answered, ‘Very truly, I tell you, no one can enter the kingdom of God without being born of water and Spirit. 6 What is born of the flesh is flesh, and what is born of the Spirit is spirit.[c] 7 Do not be astonished that I said to you, “You[d] must be born from above.”[e] 8 The wind[f] blows where it chooses, and you hear the sound of it, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit.’ 9 Nicodemus said to him, ‘How can these things be?’ 10 Jesus answered him, ‘Are you a teacher of Israel, and yet you do not understand these things?\n11 ‘Very truly, I tell you, we speak of what we know and testify to what we have seen; yet you[g] do not receive our testimony. 12 If I have told you about earthly things and you do not believe, how can you believe if I tell you about heavenly things? 13 No one has ascended into heaven except the one who descended from heaven, the Son of Man.[h] 14 And just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, 15 that whoever believes in him may have eternal life.[i]\n16 ‘For God so loved the world that he gave his only Son, so that everyone who believes in him may not perish but may have eternal life.\n17 ‘Indeed, God did not send the Son into the world to condemn the world, but in order that the world might be saved through him. 18 Those who believe in him are not condemned; but those who do not believe are condemned already, because they have not believed in the name of the only Son of God. 19 And this is the judgement, that the light has come into the world, and people loved darkness rather than light because their deeds were evil. 20 For all who do evil hate the light and do not come to the light, so that their deeds may not be exposed. 21 But those who do what is true come to the light, so that it may be clearly seen that their deeds have been done in God.’[j]\nThought of the day\n\nSong 5: What a beautiful name by solo\n\nDoa Bapa Kami\n\nBapa kami yang di sorga,\nDikuduskanlah nama-Mu,\ndatanglah Kerajaan-Mu,\njadilah kehendak-Mu\ndi bumi seperti di sorga.\nBerikanlah kami pada hari ini\nmakanan kami yang secukupnya\ndan ampunilah kami akan kesalahan\nkami, seperti kami juga mengampuni\norang yang bersalah kepada kami;\ndan janganlah membawa kami ke dalam pencobaan,\ntetapi lepaskanlah kami daripada yang jahat.\n\nKarena Engkaulah yang empunya\nKerajaan dan kuasa dan kemuliaan sampai selama-lamanya. Amin.\n\nOur Father in heaven,\nhallowed be your name,\nyour kingdom come,\nyour will be done,\non earth as in heaven.\nGive us today our daily bread.\nForgive us our sins\nas we forgive those who sin against us.\nLead us not into temptation\nbut deliver us from evil.\nFor the kingdom, the power,\nand the glory are yours\nnow and for ever.\nAmen.\n\nSong 6: Thy Word\n\n\nThy Word is a lamp unto my feet and a light unto my path.\nThy Word is a lamp unto my feet and a light unto my path.\n\nWhen I feel afraid, Think I've lost my way,\nStill you're there right beside me.\nAnd nothing will I fear As long as you are near.\nPlease be near me to the end.\n\nThy Word is a lamp unto my feet and a light unto my path.\nThy Word is a lamp unto my feet and a light unto my path.\n\n\nI will not forget Your love for me and yet\nMy heart forever is wandering Jesus be my guide,\nAnd hold me to your side, I will love you to the end.\n\nFirmanMu plita bagi kakiku Terang bagi jalanku\nFirmanmu Plita bagi kakiku Terang bagi jalanku\n\nWaktu ku bimbang, dan hilang jalanku Tetaplah Kau di sisiku\nDan tak'kan ku takut, asal Kau di dekatku\nBesertaku selamanya",
+            "type": "live",
+            "link": "https://vimeo.com/433260951",
+            "player_embed_url": "https://player.vimeo.com/video/433260951?h=459f4c71e8",
+            "duration": 0,
+            "width": 640,
+            "language": null,
+            "height": 360,
+            "embed": {
+                "html": "<iframe src=\"https://player.vimeo.com/video/433260951?h=459f4c71e8&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=239169\" width=\"640\" height=\"360\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen title=\"Indonesian Prayer and Praise\"></iframe>",
+                "badges": {
+                    "hdr": false,
+                    "live": {
+                        "streaming": false,
+                        "archived": false
+                    },
+                    "staff_pick": {
+                        "normal": false,
+                        "best_of_the_month": false,
+                        "best_of_the_year": false,
+                        "premiere": false
+                    },
+                    "vod": false,
+                    "weekend_challenge": false
+                }
+            },
+            "created_time": "2020-06-28T04:44:41+00:00",
+            "modified_time": "2020-07-02T06:11:56+00:00",
+            "release_time": "2020-06-28T04:44:41+00:00",
+            "content_rating": [
+                "unrated"
+            ],
+            "content_rating_class": "unrated",
+            "rating_mod_locked": false,
+            "license": null,
+            "privacy": {
+                "view": "anybody",
+                "embed": "public",
+                "download": true,
+                "add": true,
+                "comments": "anybody"
+            },
+            "pictures": {
+                "uri": null,
+                "active": false,
+                "type": "default",
+                "base_link": "https://i.vimeocdn.com/video/default-live",
+                "sizes": [
+                    {
+                        "width": 100,
+                        "height": 75,
+                        "link": "https://i.vimeocdn.com/video/default-live_100x75?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2Fdefault-live_100x75&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 200,
+                        "height": 150,
+                        "link": "https://i.vimeocdn.com/video/default-live_200x150?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2Fdefault-live_200x150&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 295,
+                        "height": 166,
+                        "link": "https://i.vimeocdn.com/video/default-live_295x166?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2Fdefault-live_295x166&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 640,
+                        "height": 360,
+                        "link": "https://i.vimeocdn.com/video/default-live_640x360?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2Fdefault-live_640x360&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 960,
+                        "height": 540,
+                        "link": "https://i.vimeocdn.com/video/default-live_960x540?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2Fdefault-live_960x540&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 1280,
+                        "height": 720,
+                        "link": "https://i.vimeocdn.com/video/default-live_1280x720?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2Fdefault-live_1280x720&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    },
+                    {
+                        "width": 1920,
+                        "height": 1080,
+                        "link": "https://i.vimeocdn.com/video/default-live_1920x1080?r=pad",
+                        "link_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2Fdefault-live_1920x1080&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png"
+                    }
+                ],
+                "resource_key": "7a491d0e8cad256a8ac2fd6d207e647c1b034bad",
+                "default_picture": true
+            },
+            "tags": [],
+            "stats": {
+                "plays": null
+            },
+            "categories": [],
+            "uploader": {
+                "pictures": {
+                    "uri": "/users/109990400/pictures/56588519",
+                    "active": true,
+                    "type": "custom",
+                    "base_link": "https://i.vimeocdn.com/portrait/56588519",
+                    "sizes": [
+                        {
+                            "width": 30,
+                            "height": 30,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_30x30"
+                        },
+                        {
+                            "width": 72,
+                            "height": 72,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_72x72"
+                        },
+                        {
+                            "width": 75,
+                            "height": 75,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_75x75"
+                        },
+                        {
+                            "width": 100,
+                            "height": 100,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_100x100"
+                        },
+                        {
+                            "width": 144,
+                            "height": 144,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_144x144"
+                        },
+                        {
+                            "width": 216,
+                            "height": 216,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_216x216"
+                        },
+                        {
+                            "width": 288,
+                            "height": 288,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_288x288"
+                        },
+                        {
+                            "width": 300,
+                            "height": 300,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_300x300"
+                        },
+                        {
+                            "width": 360,
+                            "height": 360,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_360x360"
+                        }
+                    ],
+                    "resource_key": "a6ccca3fb75fbc8b36d2aef93a35eeca4c7cbe56",
+                    "default_picture": false
+                }
+            },
+            "metadata": {
+                "connections": {
+                    "comments": {
+                        "uri": "/videos/433260951/comments",
+                        "options": [
+                            "GET"
+                        ],
+                        "total": 0
+                    },
+                    "credits": {
+                        "uri": "/videos/433260951/credits",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 0
+                    },
+                    "likes": {
+                        "uri": "/videos/433260951/likes",
+                        "options": [
+                            "GET"
+                        ],
+                        "total": 0
+                    },
+                    "pictures": {
+                        "uri": "/videos/433260951/pictures",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 0
+                    },
+                    "texttracks": {
+                        "uri": "/videos/433260951/texttracks",
+                        "options": [
+                            "GET",
+                            "POST"
+                        ],
+                        "total": 0
+                    },
+                    "related": null,
+                    "recommendations": {
+                        "uri": "/videos/433260951/recommendations",
+                        "options": [
+                            "GET"
+                        ]
+                    }
+                },
+                "interactions": {
+                    "report": {
+                        "uri": "/videos/433260951/report",
+                        "options": [
+                            "POST"
+                        ],
+                        "reason": [
+                            "pornographic",
+                            "harassment",
+                            "ripoff",
+                            "incorrect rating",
+                            "spam",
+                            "causes harm",
+                            "csam"
+                        ]
+                    }
+                },
+                "is_vimeo_create": false,
+                "is_screen_record": false
+            },
+            "user": {
+                "uri": "/users/109990400",
+                "name": "St John's Camberwell",
+                "link": "https://vimeo.com/user109990400",
+                "capabilities": {
+                    "hasLiveSubscription": true,
+                    "hasEnterpriseLihp": false,
+                    "hasSvvTimecodedComments": false
+                },
+                "location": "",
+                "gender": "m",
+                "bio": null,
+                "short_bio": null,
+                "created_time": "2020-03-19T08:27:23+00:00",
+                "pictures": {
+                    "uri": "/users/109990400/pictures/56588519",
+                    "active": true,
+                    "type": "custom",
+                    "base_link": "https://i.vimeocdn.com/portrait/56588519",
+                    "sizes": [
+                        {
+                            "width": 30,
+                            "height": 30,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_30x30"
+                        },
+                        {
+                            "width": 72,
+                            "height": 72,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_72x72"
+                        },
+                        {
+                            "width": 75,
+                            "height": 75,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_75x75"
+                        },
+                        {
+                            "width": 100,
+                            "height": 100,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_100x100"
+                        },
+                        {
+                            "width": 144,
+                            "height": 144,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_144x144"
+                        },
+                        {
+                            "width": 216,
+                            "height": 216,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_216x216"
+                        },
+                        {
+                            "width": 288,
+                            "height": 288,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_288x288"
+                        },
+                        {
+                            "width": 300,
+                            "height": 300,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_300x300"
+                        },
+                        {
+                            "width": 360,
+                            "height": 360,
+                            "link": "https://i.vimeocdn.com/portrait/56588519_360x360"
+                        }
+                    ],
+                    "resource_key": "a6ccca3fb75fbc8b36d2aef93a35eeca4c7cbe56",
+                    "default_picture": false
+                },
+                "websites": [
+                    {
+                        "uri": "/users/109990400/links/7809886",
+                        "name": null,
+                        "link": "https://stjc.org.au",
+                        "type": "link",
+                        "description": null
+                    }
+                ],
+                "metadata": {
+                    "connections": {
+                        "albums": {
+                            "uri": "/users/109990400/albums",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 12
+                        },
+                        "appearances": {
+                            "uri": "/users/109990400/appearances",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "channels": {
+                            "uri": "/users/109990400/channels",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "feed": {
+                            "uri": "/users/109990400/feed",
+                            "options": [
+                                "GET"
+                            ]
+                        },
+                        "followers": {
+                            "uri": "/users/109990400/followers",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 69
+                        },
+                        "following": {
+                            "uri": "/users/109990400/following",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "groups": {
+                            "uri": "/users/109990400/groups",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "likes": {
+                            "uri": "/users/109990400/likes",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "membership": {
+                            "uri": "/users/109990400/membership/",
+                            "options": [
+                                "PATCH"
+                            ]
+                        },
+                        "moderated_channels": {
+                            "uri": "/users/109990400/channels?filter=moderated",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 2
+                        },
+                        "portfolios": {
+                            "uri": "/users/109990400/portfolios",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "videos": {
+                            "uri": "/users/109990400/videos",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 420
+                        },
+                        "shared": {
+                            "uri": "/users/109990400/shared/videos",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 0
+                        },
+                        "pictures": {
+                            "uri": "/users/109990400/pictures",
+                            "options": [
+                                "GET",
+                                "POST"
+                            ],
+                            "total": 1
+                        },
+                        "folders_root": {
+                            "uri": "/users/109990400/folders/root",
+                            "options": [
+                                "GET"
+                            ]
+                        },
+                        "teams": {
+                            "uri": "/users/109990400/teams",
+                            "options": [
+                                "GET"
+                            ],
+                            "total": 1
+                        }
+                    }
+                },
+                "location_details": {
+                    "formatted_address": "",
+                    "latitude": null,
+                    "longitude": null,
+                    "city": null,
+                    "state": null,
+                    "neighborhood": null,
+                    "sub_locality": null,
+                    "state_iso_code": null,
+                    "country": null,
+                    "country_iso_code": null
+                },
+                "skills": [],
+                "available_for_hire": false,
+                "can_work_remotely": false,
+                "resource_key": "a59d226f7384f2966bd68648eb00563432fd865c",
+                "account": "live_premium"
+            },
+            "app": {
+                "name": "Vimeo Live",
+                "uri": "/apps/101940"
+            },
+            "status": "uploading_error",
+            "resource_key": "e7a541f7bd1248320d7a1110bfd5a43e1df8ceca",
+            "upload": null,
+            "transcode": null,
+            "is_playable": false,
+            "has_audio": false
+        }
+    ]
+}
