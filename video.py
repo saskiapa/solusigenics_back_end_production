@@ -10,10 +10,11 @@ from os.path import exists as is_file_exist
 
 
 class Video:
-    def __init__(self, id, title, thumbnail):
+    def __init__(self, id, title, thumbnail, description):
         self.id = id
         self.title = title
         self.thumbnail = thumbnail
+        self.description = description
 
     @staticmethod
     def get_yt_videos(q):
@@ -105,13 +106,13 @@ class Video:
 
 
 class YouTubeVideo(Video):
-    def __init__(self, id, title, thumbnail):
-        Video.__init__(self, id, title, thumbnail)
+    def __init__(self, id, title, thumbnail, description):
+        Video.__init__(self, id, title, thumbnail, description)
 
 
 class VimeoVideo(Video):
-    def __init__(self, id, title, thumbnail, play_url):
-        Video.__init__(self, id, title, thumbnail)
+    def __init__(self, id, title, thumbnail, play_url, description):
+        Video.__init__(self, id, title, thumbnail, description)
         self.play_url = play_url
 
 
@@ -119,9 +120,9 @@ def convert_video_dict_to_object(dicts):
     objects = []
     for dict in dicts:
         if dict["source"] == "YouTube":
-            objects.append(YouTubeVideo(dict["id"], dict["title"], dict["thumbnail"]))
+            objects.append(YouTubeVideo(dict["id"], dict["title"], dict["thumbnail"], dict["description"]))
         else:
-            objects.append(VimeoVideo(dict["id"], dict["title"], dict["thumbnail"], dict["embed"]))
+            objects.append(VimeoVideo(dict["id"], dict["title"], dict["thumbnail"], dict["embed"], dict["description"]))
     return objects
 
 
@@ -133,7 +134,8 @@ def convert_objects_to_dict(objects):
                 "id": o.id,
                 "title": o.title,
                 "thumbnail": o.thumbnail,
-                "source": "YouTube"
+                "source": "YouTube",
+                "description": o.description,
             })
         else:
             dicts.append({
@@ -141,7 +143,8 @@ def convert_objects_to_dict(objects):
                 "title": o.title,
                 "thumbnail": o.thumbnail,
                 "playurl": o.play_url,
-                "source": "Vimeo"
+                "source": "Vimeo",
+                "description": o.description,
             })
     return dicts
 
@@ -180,8 +183,8 @@ def search(disease, term):
 
     tf_idfs = []
     for i in range(0, len(df)):
-        title = df.iloc[i]["title"]
-        words = title.split(" ")
+        document = df.iloc[i]["document"]
+        words = document.split(" ")
         words = list(filter(lambda word: word != "", words))
         tf = words.count(term) / len(words)
         tf_idfs.append(tf * idf)
@@ -224,6 +227,19 @@ def get_play_url_by_id(id, source):
     return play_url
 
 
+def get_description_by_id(id, source):
+    videos = None
+    if source == "YouTube":
+        videos = Video.get_all_yt_videos()
+    else:
+        videos = Video.get_all_vm_videos()
+    videos = convert_objects_to_dict(videos)
+    videos = list(filter(lambda video: video["id"] == id, videos))
+    video = videos[0]
+    description = video["description"]
+    return description
+
+
 def get_disease_by_id(id, source):
     diseases = [
         "Tipes",
@@ -251,17 +267,19 @@ def get_disease_by_id(id, source):
 
 
 def get_videos_detail(videos):
-    df = pd.read_csv("./res/preprocessed_for_history_and_favorite/preprocessed_for_history_and_favorite_2.csv", sep="`")
+    df = pd.read_csv("./res/preprocessed_for_history_and_favorite/preprocessed_for_history_and_favorite_3.csv", sep="`")
 
     details = []
     for video in videos:
         row = df[(df.id == video["id"]) & (df.source == video["source"])].iloc[0]
+        document = row.title + " " + (row.description if str(row.description) != "nan" else "")
         detail = {
             "id": row.id,
             "title": row.title,
             "thumbnail": row.thumbnail,
             "source": row.source,
             "disease": row.disease,
+            "document": document
         }
         details.append(detail)
         # print("\n", detail)
@@ -273,41 +291,41 @@ def get_video_keyword():
     return keywords[0].tolist()
 
 
-def join_videos_title_and_process_for_video_recommendation(videos):
+def join_videos_document_and_process_for_video_recommendation(videos):
     keywords = get_video_keyword()
 
     punctuations = values.punctuations
     emoticons = values.emoticons
     special_characters = values.special_characters
 
-    titles = " "
+    documents = " "
     for video in videos:
-        titles = titles + " " + video["title"]
-    titles = titles.strip()
+        documents = documents + " " + video["document"]
+    documents = documents.strip()
 
     for punctuation in punctuations:
-        titles = titles.replace(punctuation, " ")
+        documents = documents.replace(punctuation, " ")
 
     for emot in emoticons:
-        titles = titles.replace(emot, " ")
+        documents = documents.replace(emot, " ")
 
     for i in range(0, 10):
-        titles = titles.replace(str(i), " ")
+        documents = documents.replace(str(i), " ")
 
-    title_words = titles.split(" ")
-    title_words = list(filter(lambda title: title not in special_characters, title_words))
+    document_word = documents.split(" ")
+    document_word = list(filter(lambda title: title not in special_characters, document_word))
 
     i = 0
-    while i < len(title_words):
-        title_words[i] = title_words[i].lower()
+    while i < len(document_word):
+        document_word[i] = document_word[i].lower()
         i = i + 1
 
-    title_words = list(filter(lambda word: word != '', title_words))
-    title_words = list(filter(lambda word: word != ' ', title_words))
+    document_word = list(filter(lambda word: word != '', document_word))
+    document_word = list(filter(lambda word: word != ' ', document_word))
 
-    title_words = list(filter(lambda word: word in keywords, title_words))
+    document_word = list(filter(lambda word: word in keywords, document_word))
 
-    return title_words
+    return document_word
 
 
 def get_video_recommendation_ids(videos):
@@ -322,14 +340,14 @@ def get_video_recommendation_ids(videos):
     dbd_videos = list(filter(lambda video: video["disease"] == 'Demam Berdarah', videos))
 
     # Mendapatkan keyword berdasarkan title video
-    tipes_keyword = join_videos_title_and_process_for_video_recommendation(tipes_videos)
-    covid_keyword = join_videos_title_and_process_for_video_recommendation(covid_videos)
-    diare_keyword = join_videos_title_and_process_for_video_recommendation(diare_videos)
-    ub_keyword = join_videos_title_and_process_for_video_recommendation(ub_videos)
-    diabetes_keyword = join_videos_title_and_process_for_video_recommendation(diabetes_videos)
-    tbc_keyword = join_videos_title_and_process_for_video_recommendation(tbc_videos)
-    hipertensi_keyword = join_videos_title_and_process_for_video_recommendation(hipertensi_videos)
-    dbd_keyword = join_videos_title_and_process_for_video_recommendation(dbd_videos)
+    tipes_keyword = join_videos_document_and_process_for_video_recommendation(tipes_videos)
+    covid_keyword = join_videos_document_and_process_for_video_recommendation(covid_videos)
+    diare_keyword = join_videos_document_and_process_for_video_recommendation(diare_videos)
+    ub_keyword = join_videos_document_and_process_for_video_recommendation(ub_videos)
+    diabetes_keyword = join_videos_document_and_process_for_video_recommendation(diabetes_videos)
+    tbc_keyword = join_videos_document_and_process_for_video_recommendation(tbc_videos)
+    hipertensi_keyword = join_videos_document_and_process_for_video_recommendation(hipertensi_videos)
+    dbd_keyword = join_videos_document_and_process_for_video_recommendation(dbd_videos)
 
     # Menghapus keyword yang duplikat
     tipes_keyword = list(set(tipes_keyword))

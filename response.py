@@ -20,11 +20,13 @@ class YouTubeResponse(Response):
             video_id = item["id"]["videoId"]
             thumbnail = item["snippet"]["thumbnails"]["high"]["url"]
             title = item["snippet"]["title"]
+            description = item["snippet"]["description"]
             video = {
                 "id": video_id,
                 "thumbnail": thumbnail,
                 "title": title,
-                "source": "YouTube"
+                "source": "YouTube",
+                "description": description,
             }
             self.items.append(video)
 
@@ -46,12 +48,14 @@ class VimeoResponse(Response):
             thumbnail = item["pictures"]["base_link"]
             title = item["name"]
             embed = item["embed"]["html"]
+            description = item["description"]
             video = {
                 "id": video_id,
                 "thumbnail": thumbnail,
                 "title": title,
                 "embed": embed,
-                "source": "Vimeo"
+                "source": "Vimeo",
+                "description": description,
             }
             self.items.append(video)
 
