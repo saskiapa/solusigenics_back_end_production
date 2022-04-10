@@ -200,6 +200,38 @@ def search(disease, term):
     return video_ids
 
 
+def search_multiple_term(disease, term, prev_video_id):
+    term = term.lower()
+    term = convert_kata_imbuhan_to_kata_dasar(term)
+    df = pd.read_csv("./res/preprocessed_for_tf_idf/"+disease+".csv", sep="`")
+    if (prev_video_id is not None) and (len(prev_video_id) != 0):
+        df = df[df["id"].isin(prev_video_id)]
+
+    idf = 0
+    if get_number_of_document_with_term(df, term) != 0:
+        idf = math.log10(get_number_of_document(df) / get_number_of_document_with_term(df, term))
+
+    tf_idfs = []
+    for i in range(0, len(df)):
+        document = df.iloc[i]["document"]
+        words = document.split(" ")
+        words = list(filter(lambda word: word != "", words))
+        tf = words.count(term) / len(words)
+        tf_idfs.append(tf * idf)
+
+    df["tf_idf"] = tf_idfs
+
+    df = df[df["tf_idf"] != 0.0]
+    df = df.sort_values(by='tf_idf', ascending=False)
+
+    video_ids = []
+    for i in range(0, len(df)):
+        video_ids.append(df.iloc[i]["id"])
+    if len(video_ids) == 0: # Jika tidak ada rekomendasi yang sesuai
+        return prev_video_id
+    return video_ids
+
+
 def get_video_detail_by_ids(disease, ids):
     videos = Video.get_video_by_disease(disease)
     videos = convert_objects_to_dict(videos)

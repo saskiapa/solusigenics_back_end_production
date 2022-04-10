@@ -10,7 +10,11 @@ def get_video_by_disease(query):
 
 
 def search(disease, query):
-    videos_id = video.search(disease, query)
+    videos_id = []
+    query = query.strip()
+    query = query.split(" ")
+    for word in query:
+        videos_id = video.search_multiple_term(disease, word, videos_id)
     videos_detail = video.get_video_detail_by_ids(disease, videos_id)
     return { "videos": videos_detail}
 
