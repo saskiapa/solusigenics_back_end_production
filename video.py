@@ -439,8 +439,123 @@ def get_video_recommendation_ids(videos):
     return video_recommendation_ids
 
 
+def get_cosine_similarity(text1, text2):
+    list_word_text_1 = text1.split(" ")
+    list_word_text_2 = text2.split(" ")
+
+    all_word = set(list_word_text_1).union(set(list_word_text_2))
+    all_word = list(all_word)
+
+    df = pd.DataFrame(columns= all_word)
+    for word in all_word:
+        column_value = []
+        column_value.append(list_word_text_1.count(word))
+        column_value.append(list_word_text_2.count(word))
+        df[word] = column_value
+
+    pembilang = 0
+    for word in all_word:
+        pembilang = pembilang + df.iat[0, df.columns.get_loc(word)] * df.iat[1, df.columns.get_loc(word)]
+
+    penyebut = math.sqrt(sum(map(lambda x:x*x,df.loc[0]))) * math.sqrt(sum(map(lambda x:x*x,df.loc[1])))
+    cosine_similarity = pembilang / penyebut
+    return cosine_similarity
+
+
+def get_similarity_per_disease(video_favorite, video_recommendation):
+    cols = ["id", "similarity"]
+    df = pd.DataFrame(columns=cols)
+
+    if len(video_favorite) != 0 and len(video_recommendation) != 0:
+        for v1 in video_favorite:
+            for v2 in video_recommendation:
+                df_append = pd.DataFrame([[v2["id"], get_cosine_similarity(v1["title"], v2["title"])]], columns=cols)
+                df = pd.concat([df, df_append])
+    return df
+
+
+def sort_by_similarity(
+    video_favorite_tipes,
+    video_favorite_covid,
+    video_favorite_diare,
+    video_favorite_ub,
+    video_favorite_diabetes,
+    video_favorite_tbc,
+    video_favorite_hipertensi,
+    video_favorite_dbd,
+    video_tipes,
+    video_covid,
+    video_diare,
+    video_ub,
+    video_diabetes,
+    video_tbc,
+    video_hipertensi,
+    video_dbd
+    ):
+    cols = ["id", "similarity"]
+    df = pd.DataFrame(columns=cols)
+
+    df_tipes = get_similarity_per_disease(video_favorite_tipes, video_tipes)
+    df = pd.concat([df, df_tipes], ignore_index=True)
+
+    df_covid = get_similarity_per_disease(video_favorite_covid, video_covid)
+    df = pd.concat([df, df_covid], ignore_index=True)
+
+    df_diare = get_similarity_per_disease(video_favorite_diare, video_diare)
+    df = pd.concat([df, df_diare], ignore_index=True)
+
+    df_ub = get_similarity_per_disease(video_favorite_ub, video_ub)
+    df = pd.concat([df, df_ub], ignore_index=True)
+
+    df_diabetes = get_similarity_per_disease(video_favorite_diabetes, video_diabetes)
+    df = pd.concat([df, df_diabetes], ignore_index=True)
+
+    df_tbc = get_similarity_per_disease(video_favorite_tbc, video_tbc)
+    df = pd.concat([df, df_tbc], ignore_index=True)
+
+    df_hipertensi = get_similarity_per_disease(video_favorite_hipertensi, video_hipertensi)
+    df = pd.concat([df, df_hipertensi], ignore_index=True)
+
+    df_dbd = get_similarity_per_disease(video_favorite_dbd, video_dbd)
+    df = pd.concat([df, df_dbd], ignore_index=True)
+
+    df = df.sort_values(by="similarity", ascending=False)
+    df = df.drop_duplicates(subset=['id'])
+    video_recommendation_ids = df["id"]
+    video_recommendation_ids = list(video_recommendation_ids)
+    return video_recommendation_ids
+
+
 def get_video_recommendation(videos):
     videos = get_videos_detail(videos)
+
+    video_favorite_tipes = []
+    video_favorite_covid = []
+    video_favorite_diare = []
+    video_favorite_ub = []
+    video_favorite_diabetes = []
+    video_favorite_tbc = []
+    video_favorite_hipertensi = []
+    video_favorite_dbd = []
+
+    for v in videos:
+        if v["disease"] == "Tipes":
+            video_favorite_tipes.append(v)
+        elif v["disease"] == "Covid":
+            video_favorite_covid.append(v)
+        elif v["disease"] == "Diare":
+            video_favorite_diare.append(v)
+        elif v["disease"] == "Usus Buntu":
+            video_favorite_ub.append(v)
+        elif v["disease"] == "Diabetes":
+            video_favorite_diabetes.append(v)
+        elif v["disease"] == "TBC":
+            video_favorite_tbc.append(v)
+        elif v["disease"] == "Hipertensi":
+            video_favorite_hipertensi.append(v)
+        elif v["disease"] == "Demam Berdarah":
+            video_favorite_dbd.append(v)
+
     curr_video_id = []
 
     for video in videos:
@@ -451,15 +566,69 @@ def get_video_recommendation(videos):
 
     video_recommendation_ids = get_video_recommendation_ids(videos)
     video_recommendation_ids = list(filter(lambda id: id not in curr_video_id, video_recommendation_ids))
-    video_recommendation_ids = random.sample(video_recommendation_ids, len(video_recommendation_ids))
     videos_detail = []
 
     for id in video_recommendation_ids:
+        video_disease = get_video_disease(id)
         video_detail = get_video_detail_by_ids(
-            get_video_disease(id),
+            video_disease,
             [id]
         )
+        video_detail[0]["disease"] = video_disease
         videos_detail.append(video_detail[0])
+    video_tipes = []
+    video_covid = []
+    video_diare = []
+    video_ub = []
+    video_diabetes = []
+    video_tbc = []
+    video_hipertensi = []
+    video_dbd = []
+    for vd in videos_detail:
+        if vd["disease"] == "Tipes":
+            video_tipes.append(vd)
+        elif vd["disease"] == "Covid":
+            video_covid.append(vd)
+        elif vd["disease"] == "Diare":
+            video_diare.append(vd)
+        elif vd["disease"] == "Usus Buntu":
+            video_ub.append(vd)
+        elif vd["disease"] == "Diabetes":
+            video_diabetes.append(vd)
+        elif vd["disease"] == "TBC":
+            video_tbc.append(vd)
+        elif vd["disease"] == "Hipertensi":
+            video_hipertensi.append(vd)
+        elif vd["disease"] == "Demam Berdarah":
+            video_dbd.append(vd)
+
+    video_recommendation_ids = sort_by_similarity(
+        video_favorite_tipes,
+        video_favorite_covid,
+        video_favorite_diare,
+        video_favorite_ub,
+        video_favorite_diabetes,
+        video_favorite_tbc,
+        video_favorite_hipertensi,
+        video_favorite_dbd,
+        video_tipes,
+        video_covid,
+        video_diare,
+        video_ub,
+        video_diabetes,
+        video_tbc,
+        video_hipertensi,
+        video_dbd
+    )
+    for id in video_recommendation_ids:
+        video_disease = get_video_disease(id)
+        video_detail = get_video_detail_by_ids(
+            video_disease,
+            [id]
+        )
+        video_detail[0]["disease"] = video_disease
+        videos_detail.append(video_detail[0])
+
     return videos_detail
 
 
